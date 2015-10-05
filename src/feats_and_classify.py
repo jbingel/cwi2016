@@ -4,7 +4,7 @@ from collections import Counter
 import networkx as nx
 from sklearn.feature_extraction import DictVectorizer
 from nltk.corpus import wordnet as wn
-
+from cwi_util import *
 
 class WordInContext:
     def __init__(self,sentence,word,index,label):
@@ -16,8 +16,10 @@ class WordInContext:
     def a_simple_feats(self): #
         D = {}
         D["a_form"] = self.word
+        # TODO D["a_lemma"] = lemmatize(self.word)
+        # TODO D["a_pos"] = get_pos(self.word)
+        # TODO D["a_ne"] = is_named_entity(self.word)  # uses proper NER (Stanford or the like)
         D["a_formlength"] = len(self.word)
-        D["a_relativeposition"] =  self.index / len(self.sentence)
         return D
 
 
@@ -25,6 +27,47 @@ class WordInContext:
         D = {}
         D["b_nsynsets"] = len(wn.synsets(self.word))
         return D
+
+    def c_positional_feats(self):
+        D = {}
+        D["c_relativeposition"] =  int(self.index / len(self.sentence))
+        D["c_preceding_commas"] = commas_before_after(self.sentence, self.index)[0]
+        D["c_following_commas"] = commas_before_after(self.sentence, self.index)[1]
+        # TODO D["c_preceding_verbs"] = verbs_before_after(self.sentence, self.index)[0]
+        # TODO D["c_following_verbs"] = verbs_before_after(self.sentence, self.index)[1]
+        return D
+        
+    def d_frequency_feats(self):
+        D = {}
+        # TODO D["d_freq_in_swp"] = freq(self.word, "swp")
+        # TODO D["d_freq_in_wp"] = freq(self.word, "wp")
+        # TODO D["d_freq_ratio_swp/wp"] = freq(self.word, "swp") / freq(self.word, "wp")
+        # TODO D["d_freqrank_distance_swp/wp"] = rank(self.word, "swp") - rank(self.word, "wp")  
+        # TODO D["d_distributional_distance_swp/wp"] = dist(dist_vector(self.word, "swp"), dist_vector(self.word, "wp"))  # get distributional vector from background corpora, use some dist measure
+        return D
+
+    def e_morphological_feats(self):
+        D = {}
+        # TODO D["e_foreign_root"] = has_foreign_root(self.word)  # check wiktionary
+        # TODO D["e_length_dist_lemma_form"] = len(self.word) - len(lemmatize(self.word))
+        # TODO D["e_length_dist_stem_form"] = len(self.word) - len(stem(self.word))
+        # TODO D["e_inflectional_morphemes_count"] = porterstemmer.reductions(self.word)  # implement interations counter in Porter Stemmer
+        return D
+
+    def f_prob_in_context_feats(self):
+        D = {}
+        # TODO D["f_P(w|w-1)"]    = seq_prob(self.word, [self.sentence[self.index-1]]) # prob() uses freq()
+        # TODO D["f_P(w|w-2w-1)"] = seq_prob(self.word, [self.sentence[self.index-2:self.index]]) # prob() uses freq()
+        # TODO D["f_P(w|w+1)"]    = seq_prob(self.word, [self.sentence[self.index+1]]) # prob() uses freq()
+        # TODO D["f_P(w|w+1w+2)"] = seq_prob(self.word, [self.sentence[self.index+1:self.index+3]]) # prob() uses freq()
+        return D
+    
+    def g_char_complexity_feats(self):
+        D = {}
+        # TODO D["g_char_unigram_prob"] = char_prob(self.word, 1)   # prob() uses freq()
+        # TODO D["g_char_bigram_prob"] = char_prob(self.word, 2)   # prob() uses freq()
+        D["g_vowels_ratio"] = float(count_vowels(self.word)) / len(self.word)
+        return D 
 
     def featurize(self):
         D = {}
