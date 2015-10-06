@@ -31,10 +31,12 @@ class WordInContext:
     def c_positional_feats(self):
         D = {}
         D["c_relativeposition"] =  int(self.index / len(self.sentence))
-        D["c_preceding_commas"] = commas_before_after(self.sentence, self.index)[0]
-        D["c_following_commas"] = commas_before_after(self.sentence, self.index)[1]
-        # TODO D["c_preceding_verbs"] = verbs_before_after(self.sentence, self.index)[0]
-        # TODO D["c_following_verbs"] = verbs_before_after(self.sentence, self.index)[1]
+        before, after = commas_before_after(self.sentence, self.index)
+        D["c_preceding_commas"] = before
+        D["c_following_commas"] = after
+        # TODO before, after = verbs_before_after(self.sentence, self.index)
+        # TODO D["c_preceding_verbs"] = before
+        # TODO D["c_following_verbs"] = after
         return D
         
     def d_frequency_feats(self):
