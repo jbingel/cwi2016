@@ -1,24 +1,39 @@
 import argparse
 from sklearn.linear_model.logistic import LogisticRegression
-from collections import Counter
+from collections import Counter, defaultdict
 import networkx as nx
 from sklearn.feature_extraction import DictVectorizer
 from nltk.corpus import wordnet as wn
 from cwi_util import *
 
 class WordInContext:
-    def __init__(self,sentence,word,index,label):
-        self.sentence = sentence.strip().split()
+    def __init__(self,sentence,index,word,lemma,pos,namedentity,label,heads,deprels):
+        self.sentence = sentence #sentence is a list of forms
         self.word = word
         self.index = int(index)
         self.label = int(label)
+        self.lemma = lemma
+        self.pos = pos
+        self.a_namedentity = namedentity
+        self._heads = [int(h) for h in heads] #"protected" property
+        self._deprels = deprels             #"protected" property
+        self.deptree = self._create_deptree() #remember to use self.index+1 to access self.deptree
+
+    def _create_deptree(self):
+        deptree = nx.DiGraph()
+        for idx_from_zero,head in enumerate(self._heads):
+            #deptree.add_node(idx_from_zero+1) # the Id of each node is its Conll index (i.e. from one)
+            deptree.add_edge(head, idx_from_zero+1, deprel=self._deprels[idx_from_zero]) #edge from head to dependent with one edge labeling called deprel
+        return deptree
+
+
 
     def a_simple_feats(self): #
         D = {}
         D["a_form"] = self.word
-        # TODO D["a_lemma"] = lemmatize(self.word)
-        # TODO D["a_pos"] = get_pos(self.word)
-        # TODO D["a_ne"] = is_named_entity(self.word)  # uses proper NER (Stanford or the like)
+        D["a_lemma"] = self.lemma
+        D["a_pos"] = self.pos
+        D["a_namedentity"] = self.a_namedentity
         D["a_formlength"] = len(self.word)
         return D
 
@@ -82,29 +97,56 @@ def prettyprintweights(linearmodel,vectorizer):
        print("\t".join([name,str(value)]))
 
 
+def readSentences(infile):
+    sent = defaultdict(list)
+    #0	In	in	IN	O	4	case	-
+
+    for line in open(infile).readlines():
+        line = line.strip()
+        if not line:
+            yield(sent)
+            sent = defaultdict(list)
+        elif line.startswith("#"):
+            pass
+        else:
+            idx,form,lemma,pos,ne,head,deprel,label = line.split("\t")
+            sent["idx"].append(int(idx))
+            sent["form"].append(form)
+            sent["lemma"].append(lemma)
+            sent["pos"].append(pos)
+            sent["ne"].append(ne)
+            sent["head"].append(head)
+            sent["deprel"].append(deprel)
+            sent["label"].append(label)
+
+    if sent["idx"]:
+        yield(sent)
+
+
+
+
+
 def main():
     parser = argparse.ArgumentParser(description="Skeleton for features and classifier for CWI-2016")
-    parser.add_argument('--train', help="first parse (prob. Malt)", default="../data/cwi_training/cwi_training.txt")
+    parser.add_argument('--train', help="parsed-and-label input format", default="../data/cwi_training/cwi_training.txt.lbl.conll")
     args = parser.parse_args()
 
-
-    parsedsentences = []
     labels = []
     featuredicts = []
 
-    for line in open(args.train).readlines():
-        sentence, word,idx, label =  line.strip().split("\t")
-        w = WordInContext(sentence, word,idx, label)
-        featuredicts.append(w.featurize())
-        labels.append(w.label)
-
+    for s in readSentences(args.train):
+        for l,i in zip(s["label"],s["idx"]):
+            if l != "-":
+                w = WordInContext(s["form"],i, s["form"][i],s["lemma"][i],s["pos"][i],s["ne"][i],l,s["head"],s["deprel"])
+                featuredicts.append(w.featurize())
+                labels.append(w.label)
 
     vec = DictVectorizer()
     features = vec.fit_transform(featuredicts).toarray()
 
     maxent = LogisticRegression()
     maxent.fit(features,labels)
-    prettyprintweights(maxent,vec)
+    #prettyprintweights(maxent,vec)
     coeffs = list(maxent.coef_[0])
     lowest = min(coeffs)
     highest = max(coeffs)
@@ -112,14 +154,6 @@ def main():
     print("lowest coeff:",lowest, vec.feature_names_[coeffs.index(lowest)])
     #print(lowest, vec.feature_names_[coeffs.index(lowest)])
     print("highest coeff",highest, vec.feature_names_[coeffs.index(highest)])
-
-
-
-
-    #
-    # features = []
-    # annotations = []
-    #
 
 
 
