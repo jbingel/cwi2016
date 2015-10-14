@@ -1,0 +1,1924 @@
+eng:wabbit --> sco:wabbit
+eng:wabbly --> eng:wabble
+eng:wacken --> enm:waken --> ang:wacan
+eng:wackily --> eng:wacky
+eng:wackyparse --> eng:parse --> enm:pars --> fro:pars --> lat:pars
+eng:Wacoan --> eng:Waco
+eng:wadable --> eng:wade
+eng:Waddingtonian --> eng:Waddington
+eng:waddlingly --> eng:waddling
+eng:wadeite --> eng:Wade
+eng:wadi --> ara:واد
+eng:wadsleyite --> eng:Wadsley
+eng:wafer --> xno:wafre
+eng:waferer --> eng:wafer --> xno:wafre
+eng:waferscale --> eng:scale --> enm:scale --> ang:scealu
+eng:waffled --> eng:waffle
+eng:waffly --> eng:waffle
+eng:wafter --> eng:waft
+eng:wafture --> eng:waft
+eng:wafty --> eng:waft
+eng:wag --> enm:waggen
+eng:wage --> enm:wagen
+eng:wagelessness --> eng:wageless
+eng:wageman --> eng:man --> enm:man --> ang:mann
+eng:wager --> xno:wageure
+eng:wagerable --> eng:wager --> xno:wageure
+eng:wagger --> eng:wag --> enm:waggen
+eng:waggingly --> eng:wagging
+eng:waggish --> eng:wag --> enm:waggen
+eng:waggler --> eng:waggle
+eng:waggon --> nld:wagen --> dum:wagen --> odt:wagan
+eng:Wagner --> deu:Wagner
+eng:Wagnerism --> eng:Wagner --> deu:Wagner
+eng:wagnerite --> eng:Wagner --> deu:Wagner
+eng:wagon --> nld:wagen --> dum:wagen --> odt:wagan
+eng:wagonage --> eng:wagon --> nld:wagen --> dum:wagen --> odt:wagan
+eng:wagonbuilder --> eng:builder
+eng:wagonbuilding --> eng:building
+eng:wagonful --> eng:wagon --> nld:wagen --> dum:wagen --> odt:wagan
+eng:wagonless --> eng:wagon --> nld:wagen --> dum:wagen --> odt:wagan
+eng:wagonlike --> eng:wagon --> nld:wagen --> dum:wagen --> odt:wagan
+eng:wagonload --> eng:load --> enm:lode
+eng:wagonmaker --> eng:maker --> eng:make --> enm:make --> non:makr
+eng:wagonmaking --> eng:making --> eng:make --> enm:make --> non:makr
+eng:wagonry --> eng:wagon --> nld:wagen --> dum:wagen --> odt:wagan
+eng:wagonworks --> eng:wagon --> nld:wagen --> dum:wagen --> odt:wagan
+eng:wagonwright --> eng:wagon --> nld:wagen --> dum:wagen --> odt:wagan
+eng:wagtail --> eng:tail --> enm:tail
+eng:wagyu --> jpn:和牛
+eng:Wahhabi --> ara:وهابي
+eng:wahine --> mri:wahine
+eng:wahy --> ara:وحي
+eng:wai --> eng:why
+eng:waifish --> eng:waif
+eng:waifishness --> eng:waifish --> eng:waif
+eng:waiflike --> eng:waif
+eng:waileress --> eng:wailer
+eng:wailful --> eng:wail
+eng:wailing --> eng:wail
+eng:wailingly --> eng:wailing --> eng:wail
+eng:wain --> ang:wægn
+eng:wainscot --> gml:wagenschot
+eng:waistbanded --> eng:waistband
+eng:waistbelt --> eng:belt
+eng:waistcloth --> eng:cloth --> enm:cloth
+eng:waistcoated --> eng:waistcoat
+eng:waistcoateer --> eng:waistcoat
+eng:waistcoating --> eng:waistcoat
+eng:waister --> eng:waist
+eng:waistless --> eng:waist
+eng:waistlong --> eng:long --> enm:long
+eng:wait --> enm:waiten
+eng:waitable --> eng:wait --> enm:waiten
+eng:waitee --> eng:wait --> enm:waiten
+eng:waiterless --> eng:waiter
+eng:waiterlike --> eng:waiter
+eng:waitest --> eng:wait --> enm:waiten
+eng:waithood --> eng:wait --> enm:waiten
+eng:waitingly --> eng:waiting
+eng:waitress --> eng:waiter
+eng:waitressy --> eng:waitress --> eng:waiter
+eng:waive --> enm:weyven --> non:veifa
+eng:waiver --> xno:weyver
+eng:waiverer --> eng:waiver --> xno:weyver
+eng:wakashu --> jpn:若衆
+eng:wake --> ang:wacu
+eng:wakeboard --> eng:board --> enm:bord
+eng:wakefully --> eng:wakeful
+eng:wakefulness --> eng:wakeful
+eng:wakeless --> eng:wake --> ang:wacu
+eng:waken --> ang:wæcnan
+eng:wakener --> eng:waken --> ang:wæcnan
+eng:wakenest --> eng:waken --> ang:wæcnan
+eng:wakeover --> eng:over --> ang:ofer
+eng:waker --> eng:wake --> ang:wacu
+eng:wakerobin --> eng:robin
+eng:waketime --> eng:time --> enm:time
+eng:wakey --> eng:wake --> ang:wacu
+eng:wakingly --> eng:waking
+eng:wakizashi --> jpn:脇差
+eng:wald --> enm:wald --> enm:weald
+eng:Waldensian --> eng:Waldenses
+eng:waldmeister --> deu:Waldmeister
+eng:wale --> ang:walu
+eng:walfordite --> eng:Walford
+eng:wali --> ara:والي
+eng:walk --> enm:walken --> ang:wealcan
+eng:walkability --> eng:walkable --> eng:walk --> enm:walken --> ang:wealcan
+eng:walkable --> eng:walk --> enm:walken --> ang:wealcan
+eng:walkabout --> rop:wokabat
+eng:walkaway --> eng:away --> ang:onweg
+eng:walker --> enm:walkere --> ang:wealcere
+eng:Walkerian --> eng:Walker
+eng:Walkerism --> eng:Walker
+eng:walketh --> eng:walk --> enm:walken --> ang:wealcan
+eng:walkless --> eng:walk --> enm:walken --> ang:wealcan
+eng:walkup --> eng:up --> ang:upp
+eng:wall --> enm:wall --> ang:weall
+eng:Wallacean --> eng:Wallace
+eng:wallbird --> eng:bird --> enm:brid --> ang:bridd
+eng:wallboard --> eng:board --> enm:bord
+eng:wallchart --> eng:chart --> frm:charte --> lat:charta --> grc:χάρτης --> grc:χαράσσω
+eng:wallcovering --> eng:covering
+eng:wallcrawl --> eng:crawl --> enm:crawlen --> non:krafla
+eng:wallcrawler --> eng:crawler --> eng:crawl --> enm:crawlen --> non:krafla
+eng:wall crawler --> eng:crawler --> eng:crawl --> enm:crawlen --> non:krafla
+eng:wall-crawler --> eng:crawler --> eng:crawl --> enm:crawlen --> non:krafla
+eng:wallet --> enm:walet
+eng:walleteer --> eng:wallet --> enm:walet
+eng:walletless --> eng:wallet --> enm:walet
+eng:walletlike --> eng:wallet --> enm:walet
+eng:walleye --> eng:eye
+eng:wallhack --> eng:hack --> ang:tohaccian
+eng:wallless --> eng:wall --> enm:wall --> ang:weall
+eng:walllike --> eng:wall --> enm:wall --> ang:weall
+eng:Walloon --> fra:wallon --> goh:ᚹᚨᛚᚺᚨ
+eng:wallop --> enm:wallopen
+eng:walloper --> eng:wallop --> enm:wallopen
+eng:wallow --> ang:wealwian
+eng:wallower --> eng:wallow --> ang:wealwian
+eng:wallpaperer --> eng:wallpaper
+eng:wallpaperlike --> eng:wallpaper
+eng:wallwort --> eng:wall --> enm:wall --> ang:weall
+eng:walnut --> ang:walhhnutu
+eng:walnutty --> eng:walnut --> ang:walhhnutu
+eng:Walpolean --> eng:Walpole
+eng:Walpurgisnacht --> deu:Walpurgisnacht --> deu:Nacht --> gmh:nacht --> goh:naht
+eng:walrus --> dan:hvalros
+eng:walruslike --> eng:walrus --> dan:hvalros
+eng:waltsome --> enm:wlatsome --> enm:wlate --> ang:wlætta
+eng:waltz --> deu:Walzer --> dan:walzen
+eng:waltzer --> eng:waltz --> deu:Walzer --> dan:walzen
+eng:wamblingly --> eng:wambling
+eng:wambulance --> eng:ambulance --> fra:ambulance
+eng:Wampanoag --> wam:Wôpanâak
+eng:wampee --> cmn:黃皮
+eng:wananga --> mri:wānanga
+eng:wanbelief --> enm:wanbeleve
+eng:wanbeliever --> eng:believer --> eng:believe --> enm:beleven --> ang:belæfan
+eng:wanchance --> eng:chance --> fro:cheance --> lat:cadentia --> lat:cadens
+eng:wanchancy --> eng:chancy
+eng:wand --> non:vöndr
+eng:Wanda --> pol:Wanda
+eng:wander --> enm:wandren
+eng:wandering --> eng:wander --> enm:wandren
+eng:wanderingly --> eng:wandering --> eng:wander --> enm:wandren
+eng:wandering star --> eng:star --> enm:sterre --> ang:steorra
+eng:wanderlusty --> eng:wanderlust
+eng:wanderstar --> eng:star --> enm:sterre --> ang:steorra
+eng:wandlike --> eng:wand --> non:vöndr
+eng:wandmaker --> eng:maker --> eng:make --> enm:make --> non:makr
+eng:wandwork --> eng:wand --> non:vöndr
+eng:wandy --> eng:wand --> non:vöndr
+eng:wane --> enm:wone --> ang:wuna
+eng:wanfortune --> eng:fortune --> lat:fortuna --> lat:fors
+eng:wang --> enm:wange --> ang:wange
+eng:wangan --> abe:waniigan
+eng:wanger --> enm:wangere --> ang:wangere
+eng:wangle --> eng:dangle
+eng:waniand --> enm:waniand
+eng:wanker --> eng:wank
+eng:wankerdom --> eng:wanker --> eng:wank
+eng:wankerish --> eng:wanker --> eng:wank
+eng:wankery --> eng:wank
+eng:wankfest --> eng:wank
+eng:wankle --> enm:wankel --> ang:wancol
+eng:wankless --> eng:wank
+eng:wankstain --> eng:stain --> enm:steinen
+eng:wanky --> eng:wank
+eng:wanly --> eng:wan
+eng:wannigan --> abe:waniigan
+eng:wannish --> eng:wan
+eng:wanrestful --> eng:restful --> eng:rest --> enm:rest --> ang:rest
+eng:wanse --> enm:wansen --> ang:wansian
+eng:wanspeed --> enm:wanspede --> ang:wansped
+eng:want --> enm:wanten --> non:vanta
+eng:wanted --> eng:want --> enm:wanten --> non:vanta
+eng:wanter --> eng:want --> enm:wanten --> non:vanta
+eng:wanteth --> eng:want --> enm:wanten --> non:vanta
+eng:wantful --> eng:want --> enm:wanten --> non:vanta
+eng:wanthriven --> eng:thriven
+eng:wantingly --> eng:wanting
+eng:wantish --> eng:want --> enm:wanten --> non:vanta
+eng:wantless --> eng:want --> enm:wanten --> non:vanta
+eng:wantok --> tpi:wantok
+eng:wantokism --> eng:wantok --> tpi:wantok
+eng:wantonhead --> enm:wantounhede
+eng:wantonness --> eng:wanton
+eng:wantsome --> enm:wantsum
+eng:wantwit --> eng:want --> enm:wanten --> non:vanta
+eng:wanty --> eng:want --> enm:wanten --> non:vanta
+eng:wanweird --> eng:weird --> enm:werde
+eng:wany --> eng:wane --> enm:wone --> ang:wuna
+eng:wapanese --> eng:Japanese --> eng:Japan
+eng:wapentake --> ang:wæpengetæc --> non:vápnatak
+eng:war --> enm:werre
+eng:warble --> enm:werble
+eng:warblingly --> eng:warbling
+eng:warbly --> eng:warble --> enm:werble
+eng:Warburtonian --> eng:Warburton
+eng:warchalk --> eng:chalk --> ang:cealc
+eng:warclub --> eng:club --> enm:clubbe --> non:klubba
+eng:ward --> ang:weard
+eng:wardcorps --> eng:corps --> fra:corps --> lat:corpus
+eng:warden --> enm:wardein
+eng:wardenless --> eng:warden --> enm:wardein
+eng:wardenry --> eng:warden --> enm:wardein
+eng:wardenship --> eng:warden --> enm:wardein
+eng:wardmote --> eng:mote --> enm:mot --> ang:mot
+eng:wardress --> eng:warder
+eng:wardrive --> eng:drive --> enm:driven --> ang:drifan
+eng:wardriving --> eng:driving
+eng:wardrobelike --> eng:wardrobe
+eng:wardship --> eng:ward --> ang:weard
+eng:ware --> ang:warian
+eng:warefulness --> eng:wareful
+eng:warehousable --> eng:warehouse
+eng:warehouseful --> eng:warehouse
+eng:warehouselike --> eng:warehouse
+eng:warehouseman --> eng:warehouse
+eng:warehousewoman --> eng:warehouse
+eng:wareless --> eng:ware --> ang:warian
+eng:warely --> ang:wærlice
+eng:warence --> fro:warance
+eng:warfarer --> eng:warfare
+eng:wargamer --> eng:gamer
+eng:wargaming --> eng:gaming
+eng:warheaded --> eng:warhead
+eng:Warholesque --> eng:Warhol
+eng:Warholian --> eng:Warhol
+eng:warhorse --> eng:horse --> enm:horse
+eng:waridashi --> jpn:''[[upper]]-[[arm]] [[force]] [[out]]''
+eng:warily --> eng:wary
+eng:wariness --> eng:wary
+eng:warison --> fro:warison
+eng:wark --> enm:werk
+eng:warless --> eng:war --> enm:werre
+eng:warlessness --> eng:warless --> eng:war --> enm:werre
+eng:warlike --> eng:war --> enm:werre
+eng:warlikeness --> eng:warlike --> eng:war --> enm:werre
+eng:warling --> eng:war --> enm:werre
+eng:warlock --> ang:wærloga
+eng:warlockry --> eng:warlock --> ang:wærloga
+eng:warlordism --> eng:warlord
+eng:warm --> ang:wearm
+eng:warmable --> eng:warm --> ang:wearm
+eng:warmblood --> deu:Warmblut
+eng:warmful --> eng:warm --> ang:wearm
+eng:warm-heartedly --> eng:warm-hearted
+eng:warmly --> eng:warm --> ang:wearm
+eng:warmonger --> eng:war --> enm:werre
+eng:warmouth --> eng:mouth --> enm:mouth --> ang:muþ
+eng:warmthless --> eng:warmth
+eng:warmware --> eng:warm --> ang:wearm
+eng:warn --> ang:warnian
+eng:warner --> eng:warn --> ang:warnian
+eng:warnest --> eng:warn --> ang:warnian
+eng:warneth --> eng:warn --> ang:warnian
+eng:warningless --> eng:warning
+eng:warningly --> eng:warning
+eng:warp --> enm:warp
+eng:warpage --> eng:warp --> enm:warp
+eng:warpedness --> eng:warped
+eng:warplane --> eng:plane --> fro:plane --> lat:platanus --> grc:πλάτανος --> grc:πλατύς
+eng:warpwise --> eng:warp --> enm:warp
+eng:warrantable --> eng:warrant
+eng:warrantably --> eng:warrantable --> eng:warrant
+eng:warrantedness --> eng:warranted
+eng:warrantee --> eng:warrant
+eng:warranter --> eng:warrant
+eng:warrantless --> eng:warrant
+eng:warrantor --> eng:warrant
+eng:warranty --> xno:warantie
+eng:warrantying --> eng:warranty --> xno:warantie
+eng:warray --> fro:werreier
+eng:warrener --> eng:warren
+eng:warrenlike --> eng:warren
+eng:war-ridden --> eng:war --> enm:werre
+eng:warriorhood --> eng:warrior
+eng:warship --> eng:ship --> enm:ship
+eng:wart --> ang:wearte
+eng:warted --> eng:wart --> ang:wearte
+eng:wartiness --> eng:warty --> eng:wart --> ang:wearte
+eng:wartless --> eng:wart --> ang:wearte
+eng:wartlike --> eng:wart --> ang:wearte
+eng:wartweed --> eng:wart --> ang:wearte
+eng:wartwort --> eng:wart --> ang:wearte
+eng:warty --> eng:wart --> ang:wearte
+eng:warwalking --> eng:walking
+eng:Warwick --> ang:Wæringwic
+eng:warwickite --> eng:Warwick --> ang:Wæringwic
+eng:warwood --> eng:war --> enm:werre
+eng:warworn --> eng:war --> enm:werre
+eng:war zone --> eng:war --> enm:werre
+eng:was --> ang:wæs
+eng:wasabi --> jpn:山葵
+eng:wasband --> eng:husband --> enm:husbonde --> ang:husbonda --> ang:bonda
+eng:wasbian --> eng:lesbian --> lat:Lesbiana
+eng:wase --> enm:wase
+eng:wash --> enm:washen
+eng:washability --> eng:wash --> enm:washen
+eng:washable --> eng:wash --> enm:washen
+eng:washday --> eng:day --> enm:day --> ang:dæg
+eng:washdish --> eng:dish --> ang:disc --> lat:discus --> grc:δίσκος --> grc:δικείν
+eng:wash down --> eng:down --> ang:dune
+eng:washen --> enm:washen
+eng:washer --> eng:wash --> enm:washen
+eng:washerless --> eng:washer --> eng:wash --> enm:washen
+eng:washerlike --> eng:washer --> eng:wash --> enm:washen
+eng:washerman --> eng:man --> enm:man --> ang:mann
+eng:washest --> eng:wash --> enm:washen
+eng:washeteria --> eng:cafeteria
+eng:washeth --> eng:wash --> enm:washen
+eng:washily --> eng:washy
+eng:washiness --> eng:washy
+eng:Washingtonian --> eng:Washington
+eng:washload --> eng:load --> enm:lode
+eng:washover --> eng:over --> ang:ofer
+eng:washwoman --> eng:wash --> enm:washen
+eng:wasite --> eng:wasium --> eng:Wasa
+eng:wasium --> eng:Wasa
+eng:wasnae --> eng:nae
+eng:waspdom --> eng:wasp
+eng:wasphood --> eng:wasp
+eng:waspie --> eng:wasp
+eng:waspish --> eng:wasp
+eng:waspishly --> eng:waspish --> eng:wasp
+eng:waspless --> eng:wasp
+eng:wasplike --> eng:wasp
+eng:waspy --> eng:wasp
+eng:wassail --> non:ves heill
+eng:wasserman --> deu:Wasserman
+eng:wasta --> ara:وسيط
+eng:waste --> enm:waste
+eng:wastebin --> eng:bin --> ara:بن
+eng:wasteful --> eng:waste --> enm:waste
+eng:wastefully --> eng:wasteful --> eng:waste --> enm:waste
+eng:wastegate --> eng:gate --> ang:geat
+eng:wastel --> fro:wastel
+eng:wasteland --> eng:land --> enm:land
+eng:wasteless --> eng:waste --> enm:waste
+eng:wastelessness --> eng:wasteless --> eng:waste --> enm:waste
+eng:wasteness --> eng:waste --> enm:waste
+eng:waste-ridden --> eng:waste --> enm:waste
+eng:wastewater --> eng:waste --> enm:waste
+eng:wastingly --> eng:wasting
+eng:wastoid --> eng:waste --> enm:waste
+eng:wastry --> eng:waste --> enm:waste
+eng:wat --> tha:วัด --> san:वाट
+eng:Watanabe --> jpn:渡辺
+eng:watap --> oji:wadab
+eng:watashikomi --> jpn:''[[thigh]] [[grabbing]] [[push]] [[down]]''
+eng:watchable --> eng:watch
+eng:watchband --> eng:band --> enm:band --> ang:beand
+eng:watchchain --> eng:chain --> enm:chaine --> fro:chaine
+eng:watcher --> eng:watch
+eng:watchest --> eng:watch
+eng:watchfully --> eng:watchful
+eng:watchhouse --> eng:house --> enm:hous
+eng:watchingly --> eng:watching
+eng:watchkeeping --> eng:keeping
+eng:watchless --> eng:watch
+eng:watchlike --> eng:watch
+eng:watchlist --> eng:list --> ang:lystan
+eng:watchmaker --> eng:maker --> eng:make --> enm:make --> non:makr
+eng:watchphone --> eng:phone
+eng:watchpocket --> eng:pocket --> enm:pocket --> xno:poket
+eng:watchpoint --> eng:point --> enm:point --> fro:point --> lat:punctum
+eng:watchstanding --> eng:standing
+eng:watcht --> eng:watch
+eng:watchtower --> eng:tower --> ang:torr --> lat:turris --> grc:τύρρις
+eng:watchwoman --> eng:watch
+eng:watchword --> enm:waccheword
+eng:water --> enm:water --> ang:wæter
+eng:waterable --> eng:water --> enm:water --> ang:wæter
+eng:waterage --> eng:water --> enm:water --> ang:wæter
+eng:waterbased --> eng:based
+eng:waterbird --> eng:bird --> enm:brid --> ang:bridd
+eng:waterboard --> eng:board --> enm:bord
+eng:waterbok --> afr:waterbok
+eng:waterbomb --> eng:bomb --> fra:bombe --> ita:bomba --> lat:bombus --> grc:βόμβος
+eng:waterbomber --> eng:waterbomb --> eng:bomb --> fra:bombe --> ita:bomba --> lat:bombus --> grc:βόμβος
+eng:waterbus --> eng:bus
+eng:watercise --> eng:exercise --> lat:exercitium --> lat:exerceo
+eng:waterclock --> eng:clock
+eng:watercoaster --> eng:rollercoaster
+eng:watercock --> eng:cock --> enm:cock
+eng:watercolorist --> eng:watercolor
+eng:watercolourist --> eng:watercolour
+eng:water cooler --> eng:cooler
+eng:waterdog --> eng:dog --> enm:dogge --> ang:docga
+eng:waterfall --> enm:waterfal
+eng:waterfowl --> eng:fowl --> enm:foul
+eng:waterfree --> eng:water --> enm:water --> ang:wæter
+eng:waterful --> eng:water --> enm:water --> ang:wæter
+eng:waterhorse --> eng:horse --> enm:horse
+eng:waterily --> eng:watery --> eng:water --> enm:water --> ang:wæter
+eng:waterish --> eng:water --> enm:water --> ang:wæter
+eng:waterishness --> eng:waterish --> eng:water --> enm:water --> ang:wæter
+eng:waterjug --> eng:jug
+eng:waterkeeper --> eng:keeper --> eng:keep --> enm:kepen --> ang:cepan
+eng:Waterlander --> eng:Waterland
+eng:Waterlandian --> eng:Waterland
+eng:waterleaf --> eng:leaf --> enm:leef --> ang:leaf
+eng:waterless --> eng:water --> enm:water --> ang:wæter
+eng:waterlessness --> eng:waterless --> eng:water --> enm:water --> ang:wæter
+eng:waterlike --> eng:water --> enm:water --> ang:wæter
+eng:waterline --> eng:line --> ang:lin
+eng:waterly --> enm:waterli --> ang:wæterlic
+eng:watermaker --> eng:maker --> eng:make --> enm:make --> non:makr
+eng:waterman --> eng:man --> enm:man --> ang:mann
+eng:watermanship --> eng:water --> enm:water --> ang:wæter
+eng:watermaster --> eng:master --> ang:mægester --> lat:magister
+eng:watermelon --> eng:melon --> fro:melon --> lat:melonem --> lat:melopeponem --> grc:μηλοπέπων
+eng:watermilfoil --> eng:milfoil
+eng:waterness --> eng:water --> enm:water --> ang:wæter
+eng:waterplay --> eng:play --> enm:playen
+eng:waterpot --> eng:pot --> enm:pot
+eng:waterproof --> eng:water --> enm:water --> ang:wæter
+eng:waterproofer --> eng:waterproof --> eng:water --> enm:water --> ang:wæter
+eng:waterproofness --> eng:waterproof --> eng:water --> enm:water --> ang:wæter
+eng:waterscape --> eng:water --> enm:water --> ang:wæter
+eng:watershed --> eng:shed --> ang:scead
+eng:watersheep --> eng:sheep --> ang:sceap
+eng:watershoot --> eng:shoot
+eng:watersoaked --> eng:soaked
+eng:Waterson --> eng:Walter
+eng:waterstained --> eng:stained
+eng:waterstuff --> eng:stuff
+eng:waterthrush --> eng:thrush
+eng:watertight --> eng:tight --> enm:thight --> non:þéttr
+eng:watertightness --> eng:watertight --> eng:tight --> enm:thight --> non:þéttr
+eng:waterward --> eng:water --> enm:water --> ang:wæter
+eng:waterwards --> eng:water --> enm:water --> ang:wæter
+eng:waterwork --> eng:water --> enm:water --> ang:wæter
+eng:waterworn --> eng:water --> enm:water --> ang:wæter
+eng:waterwort --> eng:water --> enm:water --> ang:wæter
+eng:watery --> eng:water --> enm:water --> ang:wæter
+eng:waterzooi --> nld:waterzooi --> nld:water
+eng:wathe --> enm:wathe
+eng:Watkinson --> eng:Watkin
+eng:watkinsonite --> eng:Watkinson --> eng:Watkin
+eng:Watson --> eng:Wat
+eng:wattmeter --> eng:watt
+eng:Wattsian --> eng:Watts
+eng:Waughesque --> eng:Waugh
+eng:Waughian --> eng:Waugh
+eng:wave --> enm:waven --> ang:wafian
+eng:waveform --> eng:form --> enm:forme --> fro:forme --> lat:forma --> grc:μόρφα
+eng:wavefunction --> eng:function --> frm:function --> fra:fonction --> lat:functio --> lat:fungor
+eng:waveguide --> eng:guide
+eng:wavelength --> eng:length --> ang:lengþu
+eng:waveless --> eng:wave --> enm:waven --> ang:wafian
+eng:wavelike --> eng:wave --> enm:waven --> ang:wafian
+eng:wavellite --> eng:Wavell
+eng:waver --> non:vafra
+eng:waverer --> eng:waver --> non:vafra
+eng:waveringly --> eng:wavering
+eng:waveringness --> eng:wavering
+eng:wavery --> eng:waver --> non:vafra
+eng:waveshape --> eng:shape --> enm:shap
+eng:waveshaper --> eng:shaper
+eng:waveshaping --> eng:shaping
+eng:wavetable --> eng:table --> enm:table
+eng:wavicle --> eng:particle --> frm:particule
+eng:wavily --> eng:wavy --> eng:wave --> enm:waven --> ang:wafian
+eng:Wavoid --> eng:wave --> enm:waven --> ang:wafian
+eng:wavy --> eng:wave --> enm:waven --> ang:wafian
+eng:waw --> ara:واو
+eng:wax --> ang:weaxan
+eng:waxable --> eng:wax --> ang:weaxan
+eng:waxberry --> eng:berry --> enm:bery
+eng:waxbill --> eng:bill --> ang:bil
+eng:waxbird --> eng:bird --> enm:brid --> ang:bridd
+eng:waxcap --> eng:cap --> enm:cappe --> ang:cæppe --> lat:cappa
+eng:waxen --> enm:waxen --> ang:weaxen
+eng:waxflower --> eng:flower --> enm:flour --> xno:flur --> fro:flor --> lat:florem
+eng:waxily --> eng:waxy --> eng:wax --> ang:weaxan
+eng:waxless --> eng:wax --> ang:weaxan
+eng:waxlike --> eng:wax --> ang:weaxan
+eng:waxplant --> eng:plant --> enm:planten --> ang:plantian --> lat:plantare
+eng:waxpod --> eng:pod
+eng:waxwing --> eng:wax --> ang:weaxan
+eng:wax wode --> enm:waxen wode
+eng:waxworker --> eng:wax --> ang:weaxan
+eng:waxy --> eng:wax --> ang:weaxan
+eng:way --> ang:weg
+eng:wayed --> eng:way --> ang:weg
+eng:wayfare --> enm:weyfaren
+eng:waygate --> eng:gate --> ang:geat
+eng:waylay --> eng:lay --> enm:laie
+eng:waylaying --> eng:waylay --> eng:lay --> enm:laie
+eng:wayless --> eng:way --> ang:weg
+eng:waymaker --> eng:maker --> eng:make --> enm:make --> non:makr
+eng:waymarked --> eng:waymark
+eng:waymarker --> eng:marker
+eng:waymarking --> eng:waymark
+eng:wayment --> enm:waymenten
+eng:waypoint --> eng:point --> enm:point --> fro:point --> lat:punctum
+eng:wayupthere --> eng:there --> enm:there
+eng:wayward --> eng:way --> ang:weg
+eng:waywarden --> eng:warden --> enm:wardein
+eng:waywardly --> eng:wayward --> eng:way --> ang:weg
+eng:way-wise --> eng:way --> ang:weg
+eng:waywitty --> enm:weiwitti
+eng:wayworn --> eng:way --> ang:weg
+eng:Wazir --> pus:وزير
+eng:weak --> enm:weike --> non:veikr
+eng:weakenest --> eng:weaken
+eng:weakeneth --> eng:weaken
+eng:weakfish --> eng:fish --> ang:fiscian
+eng:weakhearted --> eng:hearted
+eng:weakheartedly --> eng:weakhearted --> eng:hearted
+eng:weakheartedness --> eng:weakhearted --> eng:hearted
+eng:weakiness --> eng:weaky
+eng:weakish --> eng:weak --> enm:weike --> non:veikr
+eng:weakishness --> eng:weakish --> eng:weak --> enm:weike --> non:veikr
+eng:weakly --> eng:weak --> enm:weike --> non:veikr
+eng:weakness --> eng:weak --> enm:weike --> non:veikr
+eng:weaksauce --> eng:sauce --> fro:sauce --> lat:salsa
+eng:weakside --> eng:side --> ang:side --> p_gem:sithon
+eng:weal --> ang:wela
+eng:weald --> ang:weald
+eng:wealdish --> eng:weald --> ang:weald
+eng:wealful --> enm:welful
+eng:wealsman --> eng:man --> enm:man --> ang:mann
+eng:wealth --> enm:welth
+eng:wealthful --> eng:wealth --> enm:welth
+eng:wealthily --> eng:wealthy --> eng:wealth --> enm:welth
+eng:wealthiness --> eng:wealthy --> eng:wealth --> enm:welth
+eng:wealthless --> eng:wealth --> enm:welth
+eng:wealthy --> eng:wealth --> enm:welth
+eng:wean --> ang:wenian
+eng:weapon --> enm:wepen --> ang:wepan
+eng:weaponed --> eng:weapon --> enm:wepen --> ang:wepan
+eng:weaponeer --> eng:weapon --> enm:wepen --> ang:wepan
+eng:weaponizable --> eng:weaponize
+eng:weaponlike --> eng:weapon --> enm:wepen --> ang:wepan
+eng:weaponous --> eng:weapon --> enm:wepen --> ang:wepan
+eng:weaponsmith --> eng:smith --> ang:smiþ
+eng:wear --> enm:weren
+eng:wearability --> eng:wear --> enm:weren
+eng:wearable --> eng:wear --> enm:weren
+eng:weariable --> eng:weary --> ang:werig
+eng:weariedness --> eng:wearied
+eng:wearifully --> eng:weariful
+eng:weariless --> eng:weary --> ang:werig
+eng:wearily --> eng:weary --> ang:werig
+eng:wearisomely --> eng:wearisome
+eng:wearisomeness --> eng:wearisome
+eng:weary --> ang:werig
+eng:wearying --> eng:weary --> ang:werig
+eng:weasand --> enm:wesand
+eng:weasel --> enm:wesele --> ang:weosule
+eng:weasellike --> eng:weasel --> enm:wesele --> ang:weosule
+eng:weaselly --> eng:weasel --> enm:wesele --> ang:weosule
+eng:weasely --> eng:weasel --> enm:wesele --> ang:weosule
+eng:weasiness --> eng:weasy
+eng:weather --> ang:weder
+eng:weatherfish --> eng:fish --> ang:fiscian
+eng:weathergirl --> eng:girl
+eng:weathering --> enm:wederyng
+eng:weatherless --> eng:weather --> ang:weder
+eng:weatherlike --> eng:weather --> ang:weder
+eng:weatherliness --> eng:weatherly --> eng:weather --> ang:weder
+eng:weatherly --> eng:weather --> ang:weder
+eng:weathermost --> eng:weather --> ang:weder
+eng:weatherproof --> eng:weather --> ang:weder
+eng:weatherwise --> eng:weather --> ang:weder
+eng:weatherwoman --> eng:weather --> ang:weder
+eng:weatherworn --> eng:weather --> ang:weder
+eng:weave --> ang:wefan
+eng:weaver --> eng:weave --> ang:wefan
+eng:Weaverian --> eng:Weaver
+eng:weavingly --> eng:weaving
+eng:weazeny --> eng:weazen
+eng:web --> ang:webb
+eng:webathon --> eng:Web
+eng:webber --> eng:web --> ang:webb
+eng:webby --> eng:web --> ang:webb
+eng:webcamera --> eng:camera --> lat:camera obscura
+eng:webcammer --> eng:webcam
+eng:webcap --> eng:cap --> enm:cappe --> ang:cæppe --> lat:cappa
+eng:webcartoonist --> eng:cartoonist --> eng:cartoon
+eng:webcast --> eng:broadcast
+eng:webchat --> eng:chat
+eng:webcomic --> eng:comic --> lat:comicus --> grc:κωμικός --> grc:κῶμος
+eng:Weber --> deu:Weber
+eng:Weberian --> eng:Weber --> deu:Weber
+eng:weberite --> eng:Weber --> deu:Weber
+eng:webfoot --> eng:foot
+eng:webform --> eng:form --> enm:forme --> fro:forme --> lat:forma --> grc:μόρφα
+eng:webhead --> eng:Web
+eng:webify --> eng:web --> ang:webb
+eng:webinar --> eng:seminar --> deu:Seminar --> lat:seminarium --> lat:semen
+eng:webisode --> eng:Web
+eng:webize --> eng:Web
+eng:weblebrity --> eng:celebrity
+eng:webless --> eng:web --> ang:webb
+eng:weblink --> eng:Web
+eng:webmail --> eng:mail --> enm:maille --> fro:maille --> lat:macula
+eng:webphone --> eng:Web
+eng:webscale --> eng:Web
+eng:web site --> eng:Web
+eng:webspace --> eng:space --> xno:space
+eng:webspam --> eng:Web
+eng:websquatting --> eng:Web
+eng:Websterian --> eng:Webster
+eng:Websterism --> eng:Webster
+eng:websurf --> eng:surf
+eng:websurfer --> eng:websurf --> eng:surf
+eng:webtop --> eng:desktop --> eng:desk --> lat:desca --> lat:discus --> grc:δίσκος --> grc:δικείν
+eng:webumentary --> eng:documentary
+eng:webutation --> eng:reputation
+eng:webwork --> eng:web --> ang:webb
+eng:webworm --> eng:web --> ang:webb
+eng:wed --> ang:weddian
+eng:wedbreak --> enm:wedbrek
+eng:wedcast --> eng:webcast --> eng:broadcast
+eng:weddellite --> eng:Weddell
+eng:wedding --> eng:wed --> ang:weddian
+eng:weddingless --> eng:wedding --> eng:wed --> ang:weddian
+eng:weddinglike --> eng:wedding --> eng:wed --> ang:weddian
+eng:weddingmoon --> eng:honeymoon
+eng:weddingy --> eng:wedding --> eng:wed --> ang:weddian
+eng:weddingzilla --> eng:wedding --> eng:wed --> ang:weddian
+eng:wedge --> enm:wegge --> ang:wecg
+eng:wedgelike --> eng:wedge --> enm:wegge --> ang:wecg
+eng:wedgewise --> eng:wedge --> enm:wegge --> ang:wecg
+eng:wedgie --> eng:wedge --> enm:wegge --> ang:wecg
+eng:wedgy --> eng:wedge --> enm:wegge --> ang:wecg
+eng:wedlock --> enm:wedlok
+eng:wedmin --> eng:admin
+eng:Wednesday --> enm:Wednesdai
+eng:wedsite --> eng:website
+eng:wee --> enm:we --> ang:wæge
+eng:weebill --> eng:bill --> ang:bil
+eng:weed --> ang:weod
+eng:weedeater --> eng:eater
+eng:weedery --> eng:weed --> ang:weod
+eng:weedhead --> eng:weed --> ang:weod
+eng:weedicide --> eng:weed --> ang:weod
+eng:weedily --> eng:weedy
+eng:weedlike --> eng:weed --> ang:weod
+eng:weedling --> eng:weed --> ang:weod
+eng:weeds --> ang:wæd
+eng:wee juggler --> wrh:wijagala
+eng:week --> enm:weke --> ang:wice
+eng:weekdaily --> eng:weekday
+eng:weekender --> eng:weekend
+eng:weeker --> eng:week --> enm:weke --> ang:wice
+eng:weeklong --> eng:week --> enm:weke --> ang:wice
+eng:weekly --> eng:week --> enm:weke --> ang:wice
+eng:weekold --> eng:old --> enm:old
+eng:ween --> enm:wene --> ang:wen
+eng:weeny --> deu:wiener
+eng:weep --> ang:wepan
+eng:weepful --> eng:weep --> ang:wepan
+eng:weepingly --> eng:weeping
+eng:weepy --> eng:weep --> ang:wepan
+eng:weest --> eng:wee --> enm:we --> ang:wæge
+eng:weetingly --> eng:weeting
+eng:weetless --> eng:weet
+eng:weevil --> enm:wevel
+eng:weeviled --> eng:weevil --> enm:wevel
+eng:weft --> ang:wefan
+eng:weftage --> eng:weft --> ang:wefan
+eng:weftwise --> eng:weft --> ang:wefan
+eng:Wegenerian --> eng:Wegener
+eng:wegotism --> eng:egotism
+eng:Wehrmacht --> deu:Wehrmacht
+eng:weigh --> ang:wegan
+eng:weighage --> eng:weigh --> ang:wegan
+eng:weighbeam --> eng:beam --> enm:beem --> ang:beam
+eng:weighhouse --> eng:house --> enm:hous
+eng:weighlock --> eng:lock --> ang:locc
+eng:weight --> ang:wiht
+eng:weightily --> eng:weighty --> eng:weight --> ang:wiht
+eng:weightism --> eng:weight --> ang:wiht
+eng:weightless --> eng:weight --> ang:wiht
+eng:weightlessness --> eng:weightless --> eng:weight --> ang:wiht
+eng:weightlike --> eng:weight --> ang:wiht
+eng:weightwise --> eng:weight --> ang:wiht
+eng:weighty --> eng:weight --> ang:wiht
+eng:weir --> ang:wer
+eng:weird --> enm:werde
+eng:weird-ass --> eng:weird --> enm:werde
+eng:weirdly --> eng:weird --> enm:werde
+eng:weirdness --> eng:weird --> enm:werde
+eng:weirdo --> eng:weird --> enm:werde
+eng:weirdy --> eng:weird --> enm:werde
+eng:weirlike --> eng:weir --> ang:wer
+eng:weism --> eng:we
+eng:weissbier --> deu:Weißbier --> deu:Bier --> gmh:bier --> goh:bior
+eng:weissite --> eng:Weiss
+eng:weisswurst --> deu:Weisswurst
+eng:weisure --> eng:leisure --> enm:leisir --> xno:leisir
+eng:welcher --> eng:welch
+eng:welcome --> enm:welcome
+eng:welcomingly --> eng:welcoming
+eng:welcomingness --> eng:welcoming
+eng:weld --> enm:welde
+eng:weldmesh --> eng:mesh --> enm:mesche
+eng:welfariat --> eng:proletariat --> fra:prolétariat --> fra:prolétaire
+eng:welfarism --> eng:welfare
+eng:welfarist --> eng:welfare
+eng:welkin --> enm:welkne
+eng:well --> ang:weallan
+eng:wellaway --> ang:weg la weg
+eng:wellborn --> eng:born
+eng:well-built --> eng:built
+eng:wellderly --> eng:elderly --> eng:elder --> ang:eldra
+eng:welldoer --> eng:doer --> eng:do --> enm:don --> ang:don
+eng:welldoing --> eng:doing
+eng:weller --> eng:well --> ang:weallan
+eng:Wellesian --> eng:Welles
+eng:Wellesleyan --> eng:Wellesley
+eng:wellhole --> eng:hole
+eng:Wellingtonian --> eng:Wellington
+eng:Wellsian --> eng:Wells
+eng:wellspring --> enm:wellespring --> ang:wiellspring
+eng:Welsh --> enm:Welische --> ang:wilisc
+eng:welshite --> eng:Welsh --> enm:Welische --> ang:wilisc
+eng:Welshland --> eng:Welsh --> enm:Welische --> ang:wilisc
+eng:Welshman --> eng:Welsh --> enm:Welische --> ang:wilisc
+eng:welsome --> enm:welsum
+eng:weltanschauung --> deu:Weltanschauung --> deu:Anschauung --> deu:anschauen --> deu:schauen --> goh:scouwon
+eng:weltansicht --> deu:''[[world]] [[sight]] or [[view]]''
+eng:wem --> enm:wem
+eng:wemless --> eng:wem --> enm:wem
+eng:wen --> ang:wenn
+eng:wench --> enm:wenche
+eng:wenchless --> eng:wench --> enm:wenche
+eng:wend --> enm:wenden --> ang:wendan
+eng:Wendish --> eng:Wend
+eng:Wenglish --> eng:English
+eng:wennish --> eng:wen --> ang:wenn
+eng:wentest --> eng:went
+eng:wer --> enm:wer --> ang:wer
+eng:were --> ang:wer
+eng:werebear --> eng:bear --> enm:bere --> ang:beor
+eng:werecat --> eng:cat --> enm:cat
+eng:werecreature --> eng:creature
+eng:weredog --> eng:dog --> enm:dogge --> ang:docga
+eng:werefox --> eng:fox --> enm:fox --> ang:fox
+eng:werehyena --> eng:hyena --> fro:hiene --> lat:hyaena --> grc:ὕαινα
+eng:wereleopard --> eng:leopard --> fro:lepart
+eng:werelion --> eng:lion --> fro:lion --> lat:leo --> grc:λέων
+eng:werenae --> eng:nae
+eng:wererat --> eng:rat --> enm:rat
+eng:weretiger --> eng:tiger --> enm:tygre
+eng:werewolfdom --> eng:werewolf
+eng:werewolfish --> eng:werewolf
+eng:wergeld --> enm:wergeld --> ang:wergeld
+eng:Wernerian --> eng:Werner
+eng:Wesleyan --> eng:Wesley
+eng:Wessexian --> eng:Wessex
+eng:west --> ang:west
+eng:westbound --> eng:bound --> enm:bounde --> fro:bunne --> lat:bodina
+eng:Westcottian --> eng:Westcott
+eng:westering --> eng:wester
+eng:westerliness --> eng:westerly
+eng:western diamondback rattlesnake --> eng:diamondback --> eng:back --> enm:bak --> ang:bæc
+eng:westernly --> eng:western
+eng:Westernness --> eng:Western
+eng:Westie --> eng:west --> ang:west
+eng:westling --> eng:west --> ang:west
+eng:westmost --> eng:west --> ang:west
+eng:westness --> eng:west --> ang:west
+eng:westside --> eng:side --> ang:side --> p_gem:sithon
+eng:West Virginian --> eng:West Virginia
+eng:westward --> ang:westweard
+eng:westwardly --> eng:westward --> ang:westweard
+eng:westy --> enm:westi
+eng:wet --> enm:wett
+eng:weta --> mri:wētā
+eng:wetbird --> eng:bird --> enm:brid --> ang:bridd
+eng:wetness --> enm:wetnes
+eng:wetproof --> eng:wet --> enm:wett
+eng:wettable --> eng:wet --> enm:wett
+eng:wetten --> eng:wet --> enm:wett
+eng:wettish --> eng:wet --> enm:wett
+eng:wetware --> eng:wet --> enm:wett
+eng:wetwork --> eng:wet --> enm:wett
+eng:we'ven't --> eng:we've
+eng:whackage --> eng:whack
+eng:whaddayaknow --> eng:know --> enm:knowen --> ang:cnawan
+eng:whaddayamean --> eng:mean --> enm:meene --> fro:meien
+eng:whaddayasay --> eng:say --> eng:saie --> eng:saga --> non:saga
+eng:whaddayathink --> eng:think --> enm:thinken
+eng:whaddayawant --> eng:want --> enm:wanten --> non:vanta
+eng:whaleboned --> eng:whalebone
+eng:whaleburger --> eng:whale
+eng:whalecraft --> eng:whale
+eng:whalefall --> eng:fall --> enm:fallen --> ang:feallan
+eng:whalelike --> eng:whale
+eng:whaleman --> eng:man --> enm:man --> ang:mann
+eng:whalemeat --> eng:meat --> ang:mete
+eng:whale-path --> eng:path --> ang:pæþ
+eng:whale-road --> eng:road --> ang:rad
+eng:whaleship --> eng:ship --> enm:ship
+eng:whalesong --> eng:song --> ang:sang
+eng:whalesucker --> eng:sucker
+eng:whanau --> mri:whānau
+eng:whare wānanga --> mri:whare wānanga
+eng:wharfage --> eng:wharf
+eng:wharfie --> eng:wharf
+eng:wharfing --> eng:wharf
+eng:wharflike --> eng:wharf
+eng:wharfman --> eng:wharf
+eng:wharfside --> eng:side --> ang:side --> p_gem:sithon
+eng:Whartonian --> eng:Wharton
+eng:whataboutery --> eng:what about
+eng:whatchoo --> eng:what
+eng:whateverism --> eng:whatever
+eng:whateverist --> eng:whatever
+eng:whatevs --> eng:whatever
+eng:whath --> eng:what
+eng:what-iffery --> eng:what-if
+eng:whatness --> eng:what
+eng:whatnot --> eng:not --> enm:not
+eng:whatnottery --> eng:what not
+eng:whatth --> eng:what
+eng:wheat --> enm:whete --> ang:hwæte
+eng:wheatback --> eng:back --> enm:bak --> ang:bæc
+eng:wheatberry --> eng:berry --> enm:bery
+eng:wheatbird --> eng:bird --> enm:brid --> ang:bridd
+eng:wheatboard --> eng:board --> enm:bord
+eng:wheatear --> eng:ear --> enm:er
+eng:wheaten --> enm:wheten --> ang:hwæten
+eng:wheatfield --> eng:field --> enm:field
+eng:wheatgrass --> eng:grass --> enm:gras
+eng:wheatless --> eng:wheat --> enm:whete --> ang:hwæte
+eng:wheatlike --> eng:wheat --> enm:whete --> ang:hwæte
+eng:wheatstack --> eng:stack
+eng:wheatstalk --> eng:stalk --> enm:stalke
+eng:wheatworm --> eng:wheat --> enm:whete --> ang:hwæte
+eng:wheaty --> eng:wheat --> enm:whete --> ang:hwæte
+eng:Whedonverse --> eng:Whedon
+eng:wheedlingly --> eng:wheedling
+eng:wheel --> enm:whele --> ang:hweogol
+eng:wheelband --> eng:band --> enm:band --> ang:beand
+eng:wheelbarrowing --> eng:wheelbarrow
+eng:wheelbarrowlike --> eng:wheelbarrow
+eng:wheelbird --> eng:bird --> enm:brid --> ang:bridd
+eng:wheelchair --> eng:chair
+eng:wheelchairbound --> eng:bound --> enm:bounde --> fro:bunne --> lat:bodina
+eng:wheelchaired --> eng:wheelchair --> eng:chair
+eng:wheelful --> eng:wheel --> enm:whele --> ang:hweogol
+eng:wheelhorse --> eng:horse --> enm:horse
+eng:wheelhouse --> eng:house --> enm:hous
+eng:wheelie --> eng:wheel --> enm:whele --> ang:hweogol
+eng:wheelie bin --> eng:wheelie --> eng:wheel --> enm:whele --> ang:hweogol
+eng:wheellike --> eng:wheel --> enm:whele --> ang:hweogol
+eng:wheelrim --> eng:rim --> ang:rima
+eng:wheelspin --> eng:spin --> ang:spinnan
+eng:wheelsucker --> eng:sucker
+eng:wheelswarf --> eng:swarf
+eng:wheelwork --> eng:wheel --> enm:whele --> ang:hweogol
+eng:wheely --> eng:wheel --> enm:whele --> ang:hweogol
+eng:wheeze --> enm:whesen
+eng:wheezer --> eng:wheeze --> enm:whesen
+eng:wheezily --> eng:wheezy
+eng:wheezingly --> eng:wheezing
+eng:whelk --> ang:weoloc
+eng:whelked --> eng:whelk --> ang:weoloc
+eng:whelky --> eng:whelk --> ang:weoloc
+eng:whelm --> enm:whelmen
+eng:whelpling --> eng:whelp
+eng:when --> enm:when
+eng:whenceafter --> eng:after --> enm:after --> ang:æfter
+eng:whenceforth --> eng:forth --> ang:forþ
+eng:whencesoever --> eng:soever
+eng:whencever --> eng:ever --> enm:evere --> ang:æfre
+eng:whenness --> eng:when --> enm:when
+eng:whenwe --> eng:we
+eng:where --> enm:wher
+eng:whereabout --> eng:about --> enm:about
+eng:whereabouts --> eng:whereabout --> eng:about --> enm:about
+eng:whereagainst --> eng:against
+eng:wherealong --> eng:along
+eng:wherefore --> enm:wherfor
+eng:wherefrom --> eng:from --> enm:from --> ang:from
+eng:wherein --> eng:in --> ang:inne
+eng:whereinto --> eng:into --> ang:into
+eng:whereness --> eng:where --> enm:wher
+eng:whereout --> eng:out
+eng:whereover --> eng:over --> ang:ofer
+eng:whereso --> eng:so --> enm:so
+eng:wherethan --> eng:than --> enm:than
+eng:wherethrough --> eng:through --> ang:þruh
+eng:whereto --> eng:to --> enm:to --> ang:ta
+eng:whereuntil --> eng:until
+eng:whereunto --> eng:unto
+eng:wherewith --> eng:where --> enm:wher
+eng:wherewithin --> eng:within --> ang:wiþinnan
+eng:whet --> enm:whetten --> ang:hwettan
+eng:whether --> ang:hwæþer
+eng:whetten --> eng:whet --> enm:whetten --> ang:hwettan
+eng:whetter --> eng:whet --> enm:whetten --> ang:hwettan
+eng:Whewellian --> eng:Whewell
+eng:whewellite --> eng:Whewell
+eng:whey --> enm:wheye
+eng:wheyey --> eng:whey --> enm:wheye
+eng:wheyface --> eng:face
+eng:wheyish --> eng:whey --> enm:wheye
+eng:wheylike --> eng:whey --> enm:wheye
+eng:which --> ang:hwilc
+eng:which've --> eng:which --> ang:hwilc
+eng:whiffet --> eng:whiff
+eng:whiffiness --> eng:whiffy
+eng:whiffler --> eng:whiffle
+eng:whigger --> eng:nigger --> lat:niger
+eng:whiggish --> eng:Whig
+eng:whiggishly --> eng:whiggish --> eng:Whig
+eng:whiggism --> eng:Whig
+eng:Whigling --> eng:Whig
+eng:whigship --> eng:whig
+eng:while --> ang:hwil
+eng:whilemeal --> enm:whilmele
+eng:whilend --> enm:whilende --> ang:hwilende
+eng:whilere --> eng:ere
+eng:whilst --> eng:whiles
+eng:whimling --> eng:whim
+eng:whimmy --> eng:whim
+eng:whimperative --> eng:imperative --> lat:imperativus --> lat:impero
+eng:whimperer --> eng:whimper
+eng:whimsical --> eng:whimsy
+eng:whimsicalness --> eng:whimsical --> eng:whimsy
+eng:whin --> enm:whynne --> non:hvein
+eng:whine --> enm:hwinen
+eng:whinge --> enm:whinsen --> ang:hwinsian
+eng:whinily --> eng:whiny
+eng:whininess --> eng:whiny
+eng:whiningly --> eng:whining
+eng:whinnock --> eng:whine --> enm:hwinen
+eng:whinnyingly --> eng:whinnying
+eng:whiplash --> eng:lash --> fro:lasche
+eng:whipless --> eng:whip
+eng:whiplike --> eng:whip
+eng:whipmaker --> eng:maker --> eng:make --> enm:make --> non:makr
+eng:whipmaking --> eng:making --> eng:make --> enm:make --> non:makr
+eng:whippable --> eng:whip
+eng:whippador --> eng:Labrador
+eng:whippee --> eng:whip
+eng:whipper --> eng:whip
+eng:whippest --> eng:whip
+eng:whippeth --> eng:whip
+eng:whippily --> eng:whippy --> eng:whip
+eng:whippiness --> eng:whippy --> eng:whip
+eng:whippingly --> eng:whipping
+eng:whippy --> eng:whip
+eng:whipstaff --> eng:staff --> ang:stæf
+eng:whipstall --> eng:stall --> ang:steall
+eng:whipstick --> eng:stick --> enm:stiken --> ang:stician
+eng:whipt --> eng:whip
+eng:whiptail --> eng:tail --> enm:tail
+eng:whipworthy --> eng:whip
+eng:whirlabout --> eng:about --> enm:about
+eng:whirlblast --> eng:blast --> enm:blast --> ang:blæst
+eng:whirligig --> enm:whirlegigge
+eng:whirlingly --> eng:whirling
+eng:whirly --> eng:whirl
+eng:whiskeriness --> eng:whiskery --> eng:whisker
+eng:whiskering --> eng:whisker
+eng:whiskerless --> eng:whisker
+eng:whiskerlike --> eng:whisker
+eng:whiskery --> eng:whisker
+eng:whiskey --> gle:uisce beatha
+eng:whiskeyed --> eng:whiskey --> gle:uisce beatha
+eng:whiskeylike --> eng:whiskey --> gle:uisce beatha
+eng:whisper --> ang:hwisprian
+eng:whisperest --> eng:whisper --> ang:hwisprian
+eng:whispereth --> eng:whisper --> ang:hwisprian
+eng:whisperingly --> eng:whispering
+eng:whisperously --> eng:whisperous
+eng:whispery --> eng:whisper --> ang:hwisprian
+eng:whist --> enm:whist
+eng:whistful --> eng:whist --> enm:whist
+eng:whistlefish --> eng:fish --> ang:fiscian
+eng:whistlelike --> eng:whistle
+eng:whistlewing --> eng:whistle
+eng:whistlewood --> eng:whistle
+eng:whistly --> eng:whist --> enm:whist
+eng:Whitbian --> eng:Whitby
+eng:white --> enm:whit --> ang:hwit
+eng:Whitean --> eng:White
+eng:white-ant --> eng:white ant
+eng:whiteass --> eng:white --> enm:whit --> ang:hwit
+eng:whiteback --> eng:back --> enm:bak --> ang:bæc
+eng:whitebark --> eng:bark --> enm:bark --> non:bǫrkr
+eng:whitebeam --> eng:beam --> enm:beem --> ang:beam
+eng:whitebeard --> eng:beard --> enm:berd --> ang:beard
+eng:whitebill --> eng:bill --> ang:bil
+eng:whiteboarding --> eng:whiteboard
+eng:whiteboy --> eng:boy --> enm:boy
+eng:Whiteboyism --> eng:Whiteboy
+eng:white-bread --> eng:white bread
+eng:whitecapped --> eng:capped
+eng:whitecoat --> eng:coat --> enm:coate
+eng:white-crowned plover --> eng:crowned
+eng:whiteface --> eng:face
+eng:whitefish --> eng:fish --> ang:fiscian
+eng:whitehead --> eng:head --> enm:hed
+eng:Whitehead --> eng:head --> enm:hed
+eng:whiteite --> eng:White
+eng:whitelike --> eng:white --> enm:whit --> ang:hwit
+eng:whitelip --> eng:lip --> enm:lippe --> ang:lippa
+eng:whitelist --> eng:list --> ang:lystan
+eng:whitely --> eng:white --> enm:whit --> ang:hwit
+eng:whitemail --> eng:mail --> enm:maille --> fro:maille --> lat:macula
+eng:whiten --> enm:whitenen
+eng:whiteness --> eng:white --> enm:whit --> ang:hwit
+eng:whiteout --> eng:out
+eng:whitepox --> eng:pox --> enm:pokkes
+eng:whiteprint --> eng:print --> fro:preinte
+eng:whiteprinting --> eng:printing
+eng:whiterump --> eng:rump --> enm:rumpe --> non:rumpr --> gml:rump
+eng:white-rumped hawk --> eng:hawk --> enm:hauk --> ang:hafoc
+eng:whiteside --> eng:side --> ang:side --> p_gem:sithon
+eng:whitester --> eng:white --> enm:whit --> ang:hwit
+eng:white-tailed hawk --> eng:hawk --> enm:hauk --> ang:hafoc
+eng:whitethorn --> eng:thorn
+eng:white-throated hawk --> eng:hawk --> enm:hauk --> ang:hafoc
+eng:whitetip --> eng:tip
+eng:whitetop --> eng:top --> ang:top
+eng:whiteware --> eng:white --> enm:whit --> ang:hwit
+eng:whitewasher --> eng:whitewash
+eng:Whitewatergate --> eng:Watergate
+eng:whiteweed --> eng:weed --> ang:weod
+eng:whitewing --> eng:white --> enm:whit --> ang:hwit
+eng:whitewort --> eng:white --> enm:whit --> ang:hwit
+eng:whitey --> eng:white --> enm:whit --> ang:hwit
+eng:whither --> ang:hwæder
+eng:whitherever --> eng:ever --> enm:evere --> ang:æfre
+eng:whithersoever --> eng:soever
+eng:whitherward --> eng:whither --> ang:hwæder
+eng:whitish --> eng:white --> enm:whit --> ang:hwit
+eng:whitleather --> eng:leather --> ang:leþer
+eng:whitling --> eng:white --> enm:whit --> ang:hwit
+eng:whitlockite --> eng:Whitlock
+eng:whitneyite --> eng:Whitney
+eng:Whitsuntide --> eng:Whitsun
+eng:whittle --> enm:whittel
+eng:whity --> eng:white --> enm:whit --> ang:hwit
+eng:whizziness --> eng:whizzy --> eng:whizz
+eng:whizzingly --> eng:whizzing
+eng:whizzy --> eng:whizz
+eng:who --> ang:hwa
+eng:whole --> enm:hool --> ang:hal
+eng:whole cloth --> eng:cloth --> enm:cloth
+eng:wholeheartedly --> eng:wholehearted
+eng:wholesome --> eng:whole --> enm:hool --> ang:hal
+eng:wholetail --> eng:retail
+eng:wholphin --> eng:dolphin --> enm:dolfin --> fra:daulphin
+eng:whom --> ang:hwam
+eng:whomever --> eng:ever --> enm:evere --> ang:æfre
+eng:whompage --> eng:whomp
+eng:whoop --> enm:whopen
+eng:whooper --> eng:whoop --> enm:whopen
+eng:whoopingly --> eng:whooping
+eng:whoopsy --> eng:whoops
+eng:whop --> enm:whappen
+eng:whopper --> eng:whop --> enm:whappen
+eng:whore --> ang:hore
+eng:whorelike --> eng:whore --> ang:hore
+eng:whoremasterly --> eng:whoremaster
+eng:whoremonger --> eng:monger
+eng:whoremongering --> eng:whoremonger --> eng:monger
+eng:whoreshit --> eng:shit --> ang:scite
+eng:whorish --> eng:whore --> ang:hore
+eng:whorly --> eng:whorl
+eng:whortleberry --> eng:berry --> enm:bery
+eng:whyever --> eng:ever --> enm:evere --> ang:æfre
+eng:whyness --> eng:why
+eng:whyn't --> eng:why
+eng:Wicca --> ang:wicca
+eng:Wiccan --> eng:Wicca --> ang:wicca
+eng:wiccaning --> eng:wiccan
+eng:Wichitan --> eng:Wichita
+eng:wick --> eng:vik
+eng:wickedly --> eng:wicked
+eng:wickedness --> eng:wicked
+eng:wicker --> enm:wiker
+eng:wickered --> eng:wicker --> enm:wiker
+eng:wickerlike --> eng:wicker --> enm:wiker
+eng:wickerwork --> eng:wicker --> enm:wiker
+eng:wicketkeeping --> eng:keeping
+eng:wicketless --> eng:wicket
+eng:wickless --> eng:wick --> eng:vik
+eng:wicklike --> eng:wick --> eng:vik
+eng:wickmaker --> eng:maker --> eng:make --> enm:make --> non:makr
+eng:widdershins --> gml:weddersins
+eng:wide --> enm:wid
+eng:wideawake --> eng:awake --> enm:awaken --> ang:awacan
+eng:widefield --> eng:field --> enm:field
+eng:wideness --> eng:wide --> enm:wid
+eng:widespreadness --> eng:widespread
+eng:widewhere --> eng:where --> enm:wher
+eng:widish --> eng:wide --> enm:wid
+eng:widow --> ang:widewe
+eng:widowered --> eng:widower
+eng:widowerhood --> eng:widower
+eng:widowhead --> eng:widow --> ang:widewe
+eng:widowhood --> enm:wydowhood
+eng:widowlike --> eng:widow --> ang:widewe
+eng:widowly --> eng:widow --> ang:widewe
+eng:width --> eng:wide --> enm:wid
+eng:widthless --> eng:width --> eng:wide --> enm:wid
+eng:widthwise --> eng:width --> eng:wide --> enm:wid
+eng:wield --> ang:wieldan
+eng:wieldable --> eng:wield --> ang:wieldan
+eng:wieldless --> eng:wield --> ang:wieldan
+eng:wiener --> deu:Wienerwurst --> deu:Wurst --> goh:wurst
+eng:wienerwurst --> deu:Wienerwurst --> deu:Wurst --> goh:wurst
+eng:wife --> enm:wif --> ang:wīf
+eng:wifebeater --> eng:beater --> eng:beat --> enm:beten --> ang:beatan
+eng:wifehood --> eng:wife --> enm:wif --> ang:wīf
+eng:wifeless --> eng:wife --> enm:wif --> ang:wīf
+eng:wifelike --> eng:wife --> enm:wif --> ang:wīf
+eng:wifestyle --> eng:lifestyle
+eng:WiFier --> eng:Wi-Fi
+eng:wifish --> eng:wife --> enm:wif --> ang:wīf
+eng:wigger --> eng:nigger --> lat:niger
+eng:wiggery --> eng:wig
+eng:wiggle --> enm:wiglen
+eng:wiggy --> eng:wig
+eng:wigless --> eng:wig
+eng:wiglet --> eng:wig
+eng:wiglike --> eng:wig
+eng:wigwamlike --> eng:wigwam
+eng:wiki --> haw:wikiwiki
+eng:wikiality --> eng:Wikipedia --> eng:encyclopedia --> lat:encyclopaedia --> grc:ἐγκύκλιος παιδεία --> grc:ἐγκύκλιος
+eng:wikify --> eng:wiki --> haw:wikiwiki
+eng:wikiholic --> eng:wiki --> haw:wikiwiki
+eng:wikilike --> eng:wiki --> haw:wikiwiki
+eng:wikilink --> eng:link
+eng:wikinomics --> eng:economics --> eng:economy --> lat:oeconomia --> grc:οἰκονομία
+eng:Wikipedia --> eng:encyclopedia --> lat:encyclopaedia --> grc:ἐγκύκλιος παιδεία --> grc:ἐγκύκλιος
+eng:Wikipedian --> eng:Wikipedia --> eng:encyclopedia --> lat:encyclopaedia --> grc:ἐγκύκλιος παιδεία --> grc:ἐγκύκλιος
+eng:wikitext --> eng:text --> fro:texte --> lat:textus --> lat:texere
+eng:Wiktionary --> eng:dictionary --> lat:dictionarium --> lat:dictionarius --> lat:dictio --> lat:dictus
+eng:wild --> ang:wilde
+eng:wild-ass --> eng:wild --> ang:wilde
+eng:wildcarded --> eng:wildcard
+eng:wildcarding --> eng:wildcard
+eng:wildcraft --> eng:craft
+eng:wildcrafter --> eng:wildcraft --> eng:craft
+eng:Wildean --> eng:Wilde
+eng:wildfowl --> eng:fowl --> enm:foul
+eng:wilding --> eng:wild --> ang:wilde
+eng:wildish --> eng:wild --> ang:wilde
+eng:wildland --> eng:land --> enm:land
+eng:wildling --> eng:wild --> ang:wilde
+eng:wildly --> eng:wild --> ang:wilde
+eng:wildstyle --> eng:style --> fra:estile --> lat:stilus
+eng:wildwood --> eng:wild --> ang:wilde
+eng:wile --> enm:wile --> ang:wil
+eng:Wile --> enm:wile --> ang:wil
+eng:wileful --> eng:wile --> enm:wile --> ang:wil
+eng:wilfully --> ang:wilfullice
+eng:wilfulness --> eng:wilful
+eng:Wilhelmine --> eng:Wilhelm
+eng:Wilkerson --> eng:Wilkin --> enm:Wilkin
+eng:Wilkin --> enm:Wilkin
+eng:Wilkins --> enm:Wilkin
+eng:Wilkinson --> eng:Wilkin --> enm:Wilkin
+eng:wilkinsonite --> eng:Wilkinson --> eng:Wilkin --> enm:Wilkin
+eng:will --> enm:wille --> ang:willa
+eng:willful --> eng:will --> enm:wille --> ang:willa
+eng:William --> xno:Willame
+eng:Williamite --> eng:William --> xno:Willame
+eng:Williamson --> eng:William --> xno:Willame
+eng:willingly --> eng:willing
+eng:willless --> eng:will --> enm:wille --> ang:willa
+eng:willnae --> eng:nae
+eng:willn't --> eng:will --> enm:wille --> ang:willa
+eng:willow --> enm:wilwe
+eng:willowed --> eng:willow --> enm:wilwe
+eng:willowherb --> eng:herb
+eng:willowish --> eng:willow --> enm:wilwe
+eng:willowlike --> eng:willow --> enm:wilwe
+eng:willowware --> eng:willow --> enm:wilwe
+eng:will've --> eng:'ve
+eng:willy --> enm:wilie --> ang:wilige
+eng:willying --> eng:willy --> enm:wilie --> ang:wilige
+eng:wiln --> enm:wilnen
+eng:wilsome --> enm:wilsom
+eng:Wilsonian --> eng:Wilson
+eng:Wilsonianism --> eng:Wilsonian --> eng:Wilson
+eng:wiltable --> eng:wilt
+eng:wilting --> eng:wilt
+eng:Wimbleware --> eng:Edgware
+eng:wimpily --> eng:wimpy
+eng:wimpishly --> eng:wimpish
+eng:wimpishness --> eng:wimpish
+eng:wimple --> ang:wimpel
+eng:wimpled --> eng:wimple --> ang:wimpel
+eng:wimplike --> eng:wimp
+eng:win --> enm:winn
+eng:Winblows --> eng:Windows
+eng:wincer --> eng:wince
+eng:winceyette --> eng:wincey
+eng:wincingly --> eng:wincing
+eng:wind --> ang:windan
+eng:windable --> eng:wind --> ang:windan
+eng:windage --> eng:wind --> ang:windan
+eng:windbag --> eng:bag --> enm:bagge --> non:baggi
+eng:windbaggery --> eng:windbag --> eng:bag --> enm:bagge --> non:baggi
+eng:windbore --> eng:bore --> ang:borian
+eng:windbreaking --> eng:breaking
+eng:windburn --> eng:burn --> enm:bernen
+eng:windfall --> eng:fall --> enm:fallen --> ang:feallan
+eng:windfallen --> eng:fallen
+eng:windfarming --> eng:farming
+eng:windflower --> eng:flower --> enm:flour --> xno:flur --> fro:flor --> lat:florem
+eng:windfucker --> eng:fucker --> eng:fuck
+eng:windhover --> eng:hover --> ang:hoveren
+eng:Windies --> eng:Indies --> lat:India --> grc:Ἰνδία --> grc:Ἰνδός --> peo:𐏃𐎡𐎯𐎢𐏁 --> san:सिन्धु
+eng:windigo --> oji:wiindigoo
+eng:windily --> eng:windy
+eng:winding --> eng:wind --> ang:windan
+eng:windingly --> eng:winding --> eng:wind --> ang:windan
+eng:windless --> eng:wind --> ang:windan
+eng:windlessness --> eng:windless --> eng:wind --> ang:windan
+eng:windlike --> eng:wind --> ang:windan
+eng:windmill --> enm:windmille
+eng:windoid --> eng:window --> enm:windowe
+eng:window --> enm:windowe
+eng:windowed --> eng:window --> enm:windowe
+eng:windowful --> eng:window --> enm:windowe
+eng:windowless --> eng:window --> enm:windowe
+eng:windowlike --> eng:window --> enm:windowe
+eng:windowmaking --> eng:making --> eng:make --> enm:make --> non:makr
+eng:windowscreen --> eng:screen --> enm:screne --> xno:escren
+eng:windowsill --> eng:sill --> enm:sille
+eng:windowy --> eng:window --> enm:windowe
+eng:Windoze --> eng:Windows
+eng:windpants --> eng:pants
+eng:windproof --> eng:wind --> ang:windan
+eng:windpuff --> eng:puff --> ang:pyffian
+eng:Windross --> eng:Windows
+eng:windscreen --> eng:screen --> enm:screne --> xno:escren
+eng:windsled --> eng:sled --> enm:sledde
+eng:windstrewn --> eng:strewn
+eng:windsurf --> eng:surf
+eng:windthrown --> eng:thrown
+eng:windward --> eng:wind --> ang:windan
+eng:wine --> enm:win --> ang:win
+eng:wine and dine --> eng:and --> enm:and
+eng:winebag --> eng:bag --> enm:bagge --> non:baggi
+eng:winebibber --> eng:bibber
+eng:winebox --> eng:box --> ang:box
+eng:winecup --> eng:cup --> ang:cuppe --> lat:cuppa --> lat:cupa
+eng:winegrowing --> eng:growing
+eng:wineless --> eng:wine --> enm:win --> ang:win
+eng:winelike --> eng:wine --> enm:win --> ang:win
+eng:wineshop --> eng:shop --> enm:shoppe --> ang:sceoppa
+eng:wineskin --> eng:skin --> enm:skinn --> non:skinn
+eng:winetaster --> eng:taster
+eng:winetasting --> eng:tasting
+eng:wing --> non:vængr
+eng:wingcase --> eng:case --> enm:cas --> ang:cas --> fro:cas --> lat:casus
+eng:winged --> eng:wing --> non:vængr
+eng:wingfish --> eng:fish --> ang:fiscian
+eng:winghead --> eng:head --> enm:hed
+eng:winglessly --> eng:wingless
+eng:winglessness --> eng:wingless
+eng:winglet --> eng:wing --> non:vængr
+eng:wingnut --> eng:nut --> enm:nute
+eng:wingspot --> eng:spot
+eng:wingsuit --> eng:suit --> fro:sieute
+eng:wingy --> eng:wing --> non:vængr
+eng:winily --> eng:winy
+eng:wininess --> eng:winy
+eng:winkfest --> eng:wink
+eng:winly --> enm:winly
+eng:winnability --> eng:win --> enm:winn
+eng:winnable --> eng:win --> enm:winn
+eng:Winnebago --> oji:Wiinibiigoo --> oji:wiinibiig --> oji:wiini'
+eng:winnest --> eng:win --> enm:winn
+eng:Winnicottian --> eng:Winnicott
+eng:winninger --> eng:winning
+eng:winningly --> eng:winning
+eng:winningness --> eng:winning
+eng:Winnipegger --> eng:Winnipeg
+eng:Winnipegish --> eng:Winnipeg
+eng:winnow --> enm:winewen
+eng:wino --> eng:wine --> enm:win --> ang:win
+eng:winsomely --> eng:winsome
+eng:wintard --> eng:Windows
+eng:Wintel --> eng:Intel
+eng:wintercreeper --> eng:creeper
+eng:winterkill --> eng:kill --> enm:killen
+eng:winterless --> eng:winter
+eng:winterlike --> eng:winter
+eng:winterlong --> eng:winter
+eng:winterover --> eng:over --> ang:ofer
+eng:Winterpeg --> eng:Winnipeg
+eng:winterproof --> eng:winter
+eng:winters --> eng:winter
+eng:wintersports --> eng:sports
+eng:wintersweet --> eng:sweet
+eng:wintertide --> eng:tide --> enm:tide --> ang:tid
+eng:wintertime --> eng:time --> enm:time
+eng:Winterval --> eng:festival --> lat:festivalis --> lat:festivus --> lat:festus
+eng:winterwear --> eng:winter
+eng:winterweed --> eng:weed --> ang:weod
+eng:wintriness --> eng:wintry
+eng:Wintu --> wit:wintʰu·h
+eng:Wintun --> wit:wintʰu·n
+eng:wipe --> enm:wipen --> ang:wipian
+eng:wipeable --> eng:wipe --> enm:wipen --> ang:wipian
+eng:wipeout --> eng:out
+eng:wire --> ang:wīr
+eng:wiredraw --> eng:draw --> enm:drawen
+eng:wireframe --> eng:frame --> enm:framen
+eng:wire fu --> eng:kung fu
+eng:wiregrass --> eng:grass --> enm:gras
+eng:wirehaired --> eng:haired
+eng:wirehead --> eng:wire --> ang:wīr
+eng:wireless --> eng:wire --> ang:wīr
+eng:wirelike --> eng:wire --> ang:wīr
+eng:wireline --> eng:line --> ang:lin
+eng:wiremaker --> eng:maker --> eng:make --> enm:make --> non:makr
+eng:wiremaking --> eng:making --> eng:make --> enm:make --> non:makr
+eng:wire speed --> eng:speed --> enm:spede --> ang:sped
+eng:wiretap --> eng:tap --> ang:tæppa
+eng:wirewalker --> eng:walker --> enm:walkere --> ang:wealcere
+eng:wirewalking --> eng:walking
+eng:wireweed --> eng:weed --> ang:weod
+eng:wirework --> eng:wire --> ang:wīr
+eng:wireworker --> eng:wire --> ang:wīr
+eng:wireworm --> eng:wire --> ang:wīr
+eng:wirily --> eng:wiry
+eng:wirra --> gle:''[[a]] [[Muire]]''
+eng:Wirralian --> eng:Wirral
+eng:wis --> enm:wis
+eng:Wisconsinite --> eng:Wisconsin
+eng:wisdom --> enm:wisdom --> ang:wisdom
+eng:wisdomless --> eng:wisdom --> enm:wisdom --> ang:wisdom
+eng:wise --> ang:wis
+eng:wise-hearted --> eng:hearted
+eng:wiseling --> eng:wise --> ang:wis
+eng:wisely --> enm:wisliche
+eng:wiseness --> enm:wisnesse --> ang:wisnes
+eng:wisent --> deu:Wisent
+eng:wish --> ang:wyscan
+eng:wisha --> gle:mhuise
+eng:wishable --> eng:wish --> ang:wyscan
+eng:wishbone --> eng:bone --> enm:bon --> ang:ban
+eng:wishbook --> eng:book --> enm:book --> ang:boc
+eng:wishedly --> eng:wished
+eng:wishest --> eng:wish --> ang:wyscan
+eng:wishfully --> eng:wishful
+eng:wishfulness --> eng:wishful
+eng:wishly --> eng:wish --> ang:wyscan
+eng:wishy-washily --> eng:wishy-washy
+eng:wishy-washiness --> eng:wishy-washy
+eng:wisly --> enm:wisly
+eng:wispen --> eng:wisp
+eng:wispily --> eng:wispy
+eng:wispiness --> eng:wispy
+eng:wisplike --> eng:wisp
+eng:wisse --> enm:wissen
+eng:wistfully --> eng:wistful
+eng:wistfulness --> eng:wistful
+eng:wit --> ang:witan --> ang:wite
+eng:witan --> ang:witan --> ang:wite
+eng:witchcraft --> ang:wiccecræft --> ang:wicce
+eng:witchfinder --> eng:finder
+eng:witchily --> eng:witchy --> eng:witch
+eng:witchiness --> eng:witchy --> eng:witch
+eng:witchingly --> eng:witching
+eng:witchless --> eng:witch
+eng:witchlike --> eng:witch
+eng:witchling --> eng:witch
+eng:witchy --> eng:witch
+eng:witcraft --> eng:wit --> ang:witan --> ang:wite
+eng:wite --> ang:witan --> ang:wite
+eng:witenagemot --> ang:witena gemot
+eng:witful --> eng:wit --> ang:witan --> ang:wite
+eng:with --> enm:with --> ang:wiþ
+eng:with-
+eng:withamite --> eng:Witham
+eng:withbear --> enm:withberen
+eng:withcall --> enm:withcallen
+eng:with-child --> eng:child
+eng:withdraw --> enm:withdrawen
+eng:withdrawable --> eng:withdraw --> enm:withdrawen
+eng:withdrawal --> eng:withdraw --> enm:withdrawen
+eng:withdrawer --> eng:withdraw --> enm:withdrawen
+eng:withdrawingly --> eng:withdrawing
+eng:withdrawment --> eng:withdraw --> enm:withdrawen
+eng:withdrawnness --> eng:withdrawn
+eng:withdrive --> enm:withdriven --> ang:wiþdrifan
+eng:withe --> ang:wiþþe
+eng:wither --> enm:widren
+eng:witheredness --> eng:withered
+eng:withereth --> eng:wither --> enm:widren
+eng:witherling --> eng:wither --> enm:widren
+eng:withersake --> enm:withersake --> ang:wiþersaca --> ang:saca
+eng:withershins --> eng:shins
+eng:witherweight --> eng:weight --> ang:wiht
+eng:witherwin --> enm:witherwinne --> ang:wiþerwinna
+eng:withgo --> enm:withgon --> ang:wiþgan
+eng:withhold --> eng:hold --> enm:hold --> ang:hold
+eng:withholdest --> eng:withhold --> eng:hold --> enm:hold --> ang:hold
+eng:withholdment --> eng:withhold --> eng:hold --> enm:hold --> ang:hold
+eng:within --> ang:wiþinnan
+eng:withinforth --> eng:forth --> ang:forþ
+eng:withjoin --> eng:join --> fro:joindre --> lat:iungo
+eng:withnay --> enm:withnayen
+eng:withsafe --> eng:safe --> enm:safe
+eng:withsake --> enm:withsaken --> ang:wiþsacan
+eng:withsave --> eng:save
+eng:withsaw --> enm:withsawe
+eng:withsay --> enm:withseyen
+eng:withsayer --> enm:withseier
+eng:withset --> enm:withsetten --> ang:wiþsettan
+eng:withsit --> enm:withsitten
+eng:withspeak --> enm:withspeken --> ang:wiþsprecan
+eng:withstand --> ang:wiðstandan
+eng:withstandable --> eng:withstand --> ang:wiðstandan
+eng:withstay --> eng:stay --> enm:steyen
+eng:withstrain --> enm:withstreynen
+eng:withtake --> enm:withtaken
+eng:withturn --> enm:withturnen
+eng:witless --> eng:wit --> ang:witan --> ang:wite
+eng:witness --> enm:witnesse --> ang:witnes
+eng:witnessable --> eng:witness --> enm:witnesse --> ang:witnes
+eng:witnessless --> eng:witness --> enm:witnesse --> ang:witnes
+eng:witsec --> eng:security --> enm:securite
+eng:witter --> enm:witter
+eng:Wittgensteinian --> eng:Wittgenstein
+eng:witticism --> eng:wit --> ang:witan --> ang:wite
+eng:wittified --> eng:witty --> ang:wittig
+eng:wittily --> eng:witty --> ang:wittig
+eng:wittolly --> eng:wittol
+eng:witty --> ang:wittig
+eng:witwanton --> eng:wanton
+eng:witworm --> eng:wit --> ang:witan --> ang:wite
+eng:wizardcraft --> eng:wizard
+eng:wizardess --> eng:wizard
+eng:wizarding --> eng:wizard
+eng:wizardlike --> eng:wizard
+eng:wizardling --> eng:wizard
+eng:wizen --> enm:wisenen --> ang:wisnian
+eng:wlat --> enm:wlath
+eng:wlate --> enm:wlaten
+eng:wlatsome --> enm:wlatsum
+eng:woad --> enm:wode --> ang:wad
+eng:woaded --> eng:woad --> enm:wode --> ang:wad
+eng:woaden --> eng:woad --> enm:wode --> ang:wad
+eng:wobbler --> eng:wobble
+eng:wobblily --> eng:wobbly
+eng:wobblingly --> eng:wobbling
+eng:wobulator --> eng:oscillator
+eng:Wodehousean --> eng:Wodehouse
+eng:Wodehousian --> eng:Wodehouse
+eng:Woden --> ang:Woden
+eng:wodginite --> eng:Wodgina
+eng:woe --> enm:wo
+eng:woebegonely --> eng:woebegone
+eng:woebegoneness --> eng:woebegone
+eng:woeful --> eng:woe --> enm:wo
+eng:woeless --> eng:woe --> enm:wo
+eng:woesome --> eng:woe --> enm:wo
+eng:wogball --> eng:ball --> enm:bal
+eng:woggish --> eng:wog
+eng:wohlfahrtiosis --> eng:Wohlfartia
+eng:wok --> yue:鑊
+eng:wokou --> cmn:倭寇
+eng:wold --> enm:wald --> enm:weald
+eng:wolf --> enm:wolf --> ang:wulf
+eng:wolfberry --> eng:berry --> enm:bery
+eng:wolfcoat --> eng:coat --> enm:coate
+eng:wolfdom --> eng:wolf --> enm:wolf --> ang:wulf
+eng:Wolfean --> eng:Wolfe
+eng:Wolfeana --> eng:Wolfe
+eng:Wolffian --> eng:Wolff
+eng:wolfhood --> eng:wolf --> enm:wolf --> ang:wulf
+eng:wolf hook --> eng:hook --> enm:hoke --> ang:hoc
+eng:wolfishness --> eng:wolfish
+eng:wolfkin --> eng:wolf --> enm:wolf --> ang:wulf
+eng:wolfkind --> eng:wolf --> enm:wolf --> ang:wulf
+eng:wolfless --> eng:wolf --> enm:wolf --> ang:wulf
+eng:wolfly --> eng:wolf --> enm:wolf --> ang:wulf
+eng:wolfram --> deu:Wolfram
+eng:wolframic --> eng:wolfram --> deu:Wolfram
+eng:wolframite --> deu:Wolframit
+eng:wolfsangel --> deu:Wolfsangel
+eng:wolfskin --> eng:skin --> enm:skinn --> non:skinn
+eng:wollastonite --> eng:Wollaston
+eng:wolpertinger --> deu:Wolpertinger
+eng:wolven --> eng:wolf --> enm:wolf --> ang:wulf
+eng:woman --> enm:woman
+eng:womanhead --> eng:woman --> enm:woman
+eng:womanhood --> eng:woman --> enm:woman
+eng:womanhunt --> eng:hunt --> enm:hunten --> ang:huntian
+eng:womanish --> eng:woman --> enm:woman
+eng:womanishly --> eng:womanish --> eng:woman --> enm:woman
+eng:womanishness --> eng:womanish --> eng:woman --> enm:woman
+eng:womanism --> eng:woman --> enm:woman
+eng:womanist --> eng:woman --> enm:woman
+eng:womanize --> eng:woman --> enm:woman
+eng:womanizer --> eng:womanize --> eng:woman --> enm:woman
+eng:womankind --> eng:woman --> enm:woman
+eng:womanless --> eng:woman --> enm:woman
+eng:womanlike --> eng:woman --> enm:woman
+eng:womanliness --> eng:womanly --> eng:woman --> enm:woman
+eng:womanly --> eng:woman --> enm:woman
+eng:womanthrope --> eng:misanthrope
+eng:womb --> ang:wamb
+eng:wombgate --> eng:gate --> ang:geat
+eng:wombless --> eng:womb --> ang:wamb
+eng:womblike --> eng:womb --> ang:wamb
+eng:wombmate --> eng:mate
+eng:womby --> eng:womb --> ang:wamb
+eng:women --> ang:wifmenn
+eng:womenkind --> eng:women --> ang:wifmenn
+eng:womenless --> eng:women --> ang:wifmenn
+eng:womenswear --> eng:women --> ang:wifmenn
+eng:won --> ang:wunian
+eng:wonder --> ang:wundrian
+eng:wonderberry --> eng:berry --> enm:bery
+eng:wonderboy --> eng:boy --> enm:boy
+eng:wonderchild --> eng:child
+eng:wonderdrug --> eng:drug --> enm:drogge --> frm:drogue --> dum:droge
+eng:wonderer --> eng:wonder --> ang:wundrian
+eng:wonderest --> eng:wonder --> ang:wundrian
+eng:wondereth --> eng:wonder --> ang:wundrian
+eng:wonderfuller --> eng:wonderful
+eng:wonderfully --> eng:wonderful
+eng:wonderless --> eng:wonder --> ang:wundrian
+eng:wonderly --> ang:wonderlice
+eng:wonderment --> eng:wonder --> ang:wundrian
+eng:wonderous --> eng:wonder --> ang:wundrian
+eng:Wonderword --> eng:wonder --> ang:wundrian
+eng:wonderworld --> eng:wonder --> ang:wundrian
+eng:wondrousness --> eng:wondrous
+eng:wone --> enm:wone --> ang:wuna
+eng:woning --> eng:wone --> enm:wone --> ang:wuna
+eng:wonkdom --> eng:wonk
+eng:wonkery --> eng:wonk
+eng:wonkfest --> eng:wonk
+eng:wonkily --> eng:wonky
+eng:wonkiness --> eng:wonky
+eng:wonkish --> eng:wonk
+eng:wont --> ang:gewunod
+eng:wontcha --> eng:won't
+eng:wonted --> enm:woonted --> enm:wont
+eng:wontedly --> eng:wonted --> enm:woonted --> enm:wont
+eng:wontedness --> eng:wonted --> enm:woonted --> enm:wont
+eng:wontish --> eng:wont --> ang:gewunod
+eng:wontless --> eng:wont --> ang:gewunod
+eng:wontly --> eng:wont --> ang:gewunod
+eng:woo --> enm:wowen
+eng:wood --> ang:wudu
+eng:woodbin --> eng:bin --> ara:بن
+eng:woodboring --> eng:boring
+eng:woodburning --> eng:burning
+eng:woodcare --> eng:care --> enm:care --> ang:caru
+eng:woodchipped --> eng:woodchip
+eng:woodchipper --> eng:chipper
+eng:woodcraft --> eng:wood --> ang:wudu
+eng:woodedness --> eng:wooded
+eng:wooden --> eng:wood --> ang:wudu
+eng:woodenheaded --> eng:headed --> eng:head --> enm:hed
+eng:woodenly --> eng:wooden --> eng:wood --> ang:wudu
+eng:woodenness --> eng:wooden --> eng:wood --> ang:wudu
+eng:woodenware --> eng:wooden --> eng:wood --> ang:wudu
+eng:woodgrain --> eng:grain --> fro:grain --> lat:granum
+eng:woodhole --> eng:hole
+eng:woodhouse --> eng:house --> enm:hous
+eng:woodish --> eng:wood --> ang:wudu
+eng:woodland --> eng:land --> enm:land
+eng:woodlander --> eng:woodland --> eng:land --> enm:land
+eng:woodlark --> eng:lark --> enm:larke
+eng:woodless --> eng:wood --> ang:wudu
+eng:woodlessness --> eng:woodless --> eng:wood --> ang:wudu
+eng:woodlike --> eng:wood --> ang:wudu
+eng:woodlore --> eng:lore --> ang:lār
+eng:woodly --> eng:wood --> ang:wudu
+eng:woodmonger --> eng:wood --> ang:wudu
+eng:woodmouse --> eng:mouse --> enm:mous --> ang:mus
+eng:woodness --> ang:wodnes
+eng:woodpecker --> eng:pecker
+eng:woodpeckerlike --> eng:woodpecker --> eng:pecker
+eng:woodpigeon --> eng:pigeon --> fro:pyjon --> lat:pipionem
+eng:woodpile --> eng:pile --> ang:pil --> lat:pilum
+eng:woodpusher --> eng:pusher
+eng:woodrat --> eng:rat --> enm:rat
+eng:woodrock --> eng:rock --> dum:rocke
+eng:woodrush --> eng:rush --> enm:rusch
+eng:woodsball --> eng:ball --> enm:bal
+eng:woodshaving --> eng:shaving
+eng:woodshop --> eng:shop --> enm:shoppe --> ang:sceoppa
+eng:woodside --> eng:side --> ang:side --> p_gem:sithon
+eng:woodsmanship --> eng:woodsman
+eng:woodsorrel --> eng:sorrel
+eng:woodstone --> eng:stone --> enm:stan --> ang:stan
+eng:woodstove --> eng:stove
+eng:woodward --> eng:ward --> ang:weard
+eng:Woodwardian --> eng:Woodward
+eng:woodware --> eng:wood --> ang:wudu
+eng:woodwasp --> eng:wasp
+eng:woodwork --> eng:wood --> ang:wudu
+eng:woody --> eng:wood --> ang:wudu
+eng:wooer --> enm:wowere --> ang:wōgere
+eng:woof --> enm:oof
+eng:woofer --> eng:woof --> enm:oof
+eng:wooferless --> eng:woofer --> eng:woof --> enm:oof
+eng:wooingly --> eng:wooing
+eng:wool --> enm:wolle --> ang:wull
+eng:woold --> nld:woelde
+eng:woolder --> eng:er
+eng:wooled --> eng:wool --> enm:wolle --> ang:wull
+eng:woolfell --> eng:felll
+eng:Woolfian --> eng:Woolf
+eng:woolgatherer --> eng:woolgather
+eng:woolgrower --> eng:grower
+eng:woolhall --> eng:hall
+eng:woolhat --> eng:hat
+eng:woolily --> eng:wooly --> eng:wool --> enm:wolle --> ang:wull
+eng:woolish --> eng:wool --> enm:wolle --> ang:wull
+eng:woolless --> eng:wool --> enm:wolle --> ang:wull
+eng:woollike --> eng:wool --> enm:wolle --> ang:wull
+eng:woolly --> eng:wool --> enm:wolle --> ang:wull
+eng:woolman --> eng:man --> enm:man --> ang:mann
+eng:woolpack --> eng:pack --> enm:pak
+eng:woolsack --> eng:sack --> enm:sak
+eng:woolshed --> eng:shed --> ang:scead
+eng:woolsorter --> eng:sorter --> eng:sort#Noun
+eng:woolstock --> eng:stock --> ang:stocc
+eng:woolward --> eng:wool --> enm:wolle --> ang:wull
+eng:woolwork --> eng:wool --> enm:wolle --> ang:wull
+eng:wooly --> eng:wool --> enm:wolle --> ang:wull
+eng:woo-monger --> eng:woo --> enm:wowen
+eng:woonerf --> nld:woonerf --> nld:erf
+eng:wop --> nap:guappo
+eng:worcesterberry --> eng:Worcester
+eng:word --> enm:word --> ang:word
+eng:wordage --> eng:word --> enm:word --> ang:word
+eng:wordaholic --> eng:word --> enm:word --> ang:word
+eng:wordbuilding --> eng:building
+eng:wordcraft --> eng:craft
+eng:worder --> eng:word --> enm:word --> ang:word
+eng:wordfest --> eng:word --> enm:word --> ang:word
+eng:wordfinal --> eng:final
+eng:wordflow --> eng:flow --> ang:flowan
+eng:wordhood --> eng:word --> enm:word --> ang:word
+eng:wordie --> eng:word --> enm:word --> ang:word
+eng:wordinitial --> eng:initial
+eng:wordish --> eng:word --> enm:word --> ang:word
+eng:wordishness --> eng:wordish --> eng:word --> enm:word --> ang:word
+eng:wordless --> eng:word --> enm:word --> ang:word
+eng:wordlessness --> eng:wordless --> eng:word --> enm:word --> ang:word
+eng:wordlike --> eng:word --> enm:word --> ang:word
+eng:wordlore --> eng:lore --> ang:lār
+eng:wordmark --> eng:mark --> ang:mearc
+eng:wordmonger --> eng:word --> enm:word --> ang:word
+eng:wordness --> eng:word --> enm:word --> ang:word
+eng:wordnet --> eng:net --> ang:net
+eng:WordNet --> eng:net --> ang:net
+eng:wordprocess --> eng:process --> fro:procés --> lat:processus
+eng:wordshaping --> eng:shaping
+eng:wordsmith --> eng:smith --> ang:smiþ
+eng:wordstock --> eng:stock --> ang:stocc
+eng:Wordsworthian --> eng:Wordsworth
+eng:wordwise --> eng:word --> enm:word --> ang:word
+eng:wordy --> enm:woordy --> ang:wordig
+eng:work --> ang:weorc
+eng:workable --> eng:work --> ang:weorc
+eng:workaholic --> eng:work --> ang:weorc
+eng:workaholicism --> eng:workaholic --> eng:work --> ang:weorc
+eng:workbag --> eng:bag --> enm:bagge --> non:baggi
+eng:workboat --> eng:boat --> ang:bat
+eng:workboot --> eng:boot --> enm:boote
+eng:workbox --> eng:box --> ang:box
+eng:workcamp --> eng:camp --> enm:camp --> ang:camp --> lat:campus
+eng:workcation --> eng:vacation --> fra:vacation --> lat:vacatio
+eng:workerism --> eng:worker
+eng:workerlike --> eng:worker
+eng:workest --> eng:work --> ang:weorc
+eng:worketh --> eng:work --> ang:weorc
+eng:workfellow --> eng:fellow --> non:fēlagi
+eng:workfolk --> eng:folk
+eng:workfree --> eng:work --> ang:weorc
+eng:workful --> enm:workvol --> ang:weorcful
+eng:workgroup --> eng:group --> fra:groupe --> ita:gruppo
+eng:workhorse --> eng:horse --> enm:horse
+eng:work-intensive --> eng:intensive
+eng:worklessness --> eng:workless
+eng:worklike --> eng:work --> ang:weorc
+eng:worklist --> eng:list --> ang:lystan
+eng:workload --> eng:load --> enm:lode
+eng:workloom --> enm:workloom
+eng:workly --> eng:work --> ang:weorc
+eng:workman --> enm:werkman --> ang:weorcmann
+eng:workmanlike --> eng:workman --> enm:werkman --> ang:weorcmann
+eng:workmanly --> eng:workman --> enm:werkman --> ang:weorcmann
+eng:workmanship --> eng:workman --> enm:werkman --> ang:weorcmann
+eng:workmaster --> eng:master --> ang:mægester --> lat:magister
+eng:worknight --> eng:night --> enm:night
+eng:workover --> eng:over --> ang:ofer
+eng:workprint --> eng:print --> fro:preinte
+eng:worksheet --> eng:sheet
+eng:workship --> eng:work --> ang:weorc
+eng:workshirt --> eng:shirt --> ang:scyrte
+eng:workshoe --> eng:shoe --> enm:shoo --> ang:scoh
+eng:workshy --> eng:shy --> enm:shy --> ang:sceoh
+eng:workshyness --> eng:workshy --> eng:shy --> enm:shy --> ang:sceoh
+eng:worksite --> eng:site
+eng:worksome --> eng:work --> ang:weorc
+eng:worksomeness --> eng:worksome --> eng:work --> ang:weorc
+eng:workstead --> eng:stead --> enm:sted --> ang:stede
+eng:worktext --> eng:text --> fro:texte --> lat:textus --> lat:texere
+eng:workwear --> eng:work --> ang:weorc
+eng:workword --> eng:word --> enm:word --> ang:word
+eng:worky --> eng:work --> ang:weorc
+eng:world --> enm:world --> ang:woruld
+eng:worldbeat --> eng:beat --> enm:beten --> ang:beatan
+eng:worldbuilder --> eng:builder
+eng:worldbuilding --> eng:building
+eng:worldhood --> eng:world --> enm:world --> ang:woruld
+eng:worldkin --> eng:world --> enm:world --> ang:woruld
+eng:worldless --> eng:world --> enm:world --> ang:woruld
+eng:worldlessly --> eng:worldless --> eng:world --> enm:world --> ang:woruld
+eng:worldlessness --> eng:worldless --> eng:world --> enm:world --> ang:woruld
+eng:worldlike --> eng:world --> enm:world --> ang:woruld
+eng:worldliness --> eng:worldly
+eng:worldling --> eng:world --> enm:world --> ang:woruld
+eng:worldlywise --> eng:wise --> ang:wis
+eng:worldmaking --> eng:making --> eng:make --> enm:make --> non:makr
+eng:worldsheet --> eng:sheet
+eng:worldvolume --> eng:volume --> fro:volume --> lat:volumen --> lat:volvo
+eng:worldwide --> eng:world --> enm:world --> ang:woruld
+eng:worldwise --> enm:worldwis --> ang:woruldwis
+eng:worldy --> eng:world --> enm:world --> ang:woruld
+eng:worm --> enm:worm
+eng:wormer --> eng:worm --> enm:worm
+eng:wormery --> eng:worm --> enm:worm
+eng:wormfish --> eng:fish --> ang:fiscian
+eng:wormfood --> eng:food --> enm:fode
+eng:wormgrass --> eng:grass --> enm:gras
+eng:wormhole --> eng:hole
+eng:Wormian --> eng:Worm
+eng:worminess --> eng:wormy
+eng:wormish --> eng:worm --> enm:worm
+eng:wormless --> eng:worm --> enm:worm
+eng:wormling --> eng:worm --> enm:worm
+eng:wormproof --> eng:worm --> enm:worm
+eng:wormskin --> eng:skin --> enm:skinn --> non:skinn
+eng:wormwood --> enm:wormwode
+eng:worn --> ang:geworen
+eng:wornness --> eng:worn --> ang:geworen
+eng:worrier --> eng:worry --> ang:wyrġan
+eng:worrily --> eng:worry --> ang:wyrġan
+eng:worriment --> eng:worry --> ang:wyrġan
+eng:worry --> ang:wyrġan
+eng:worrying --> eng:worry --> ang:wyrġan
+eng:wors --> afr:boerewors --> deu:wurst
+eng:worse --> ang:wyrsa
+eng:worseness --> eng:worse --> ang:wyrsa
+eng:worser --> eng:worse --> ang:wyrsa
+eng:worship --> ang:weorþscipe
+eng:worshipability --> eng:worship --> ang:weorþscipe
+eng:worshipfulness --> eng:worshipful
+eng:worshipless --> eng:worship --> ang:weorþscipe
+eng:worshipworthy --> eng:worship --> ang:weorþscipe
+eng:worstest --> eng:worst
+eng:worstly --> eng:worst
+eng:wort --> enm:wort
+eng:wortcraft --> eng:wort --> enm:wort
+eng:worth --> ang:weorþan
+eng:worthen --> eng:worth --> ang:weorþan
+eng:worthful --> eng:worth --> ang:weorþan
+eng:worthiness --> eng:worthy --> enm:worthien
+eng:worthliness --> eng:worthly --> enm:worthely
+eng:worthly --> enm:worthely
+eng:worthwhile --> eng:while --> ang:hwil
+eng:worthwhileness --> eng:worthwhile --> eng:while --> ang:hwil
+eng:worthy --> enm:worthien
+eng:wortlore --> eng:lore --> ang:lār
+eng:woteth --> eng:wot
+eng:wotteth --> eng:wot
+eng:Wottonian --> eng:Wotton
+eng:wou'dn't --> eng:wou’d
+eng:woulding --> eng:would
+eng:wouldnae --> eng:nae
+eng:wouldn't --> eng:would
+eng:woundable --> eng:wound
+eng:woundedly --> eng:wounded
+eng:woundedness --> eng:wounded
+eng:woundily --> eng:woundy
+eng:woundingly --> eng:wounding
+eng:woundless --> eng:wound
+eng:woundlike --> eng:wound
+eng:woundwort --> eng:wort --> enm:wort
+eng:woylie --> nys:walyu
+eng:wrack --> ang:wræc
+eng:wrackful --> eng:wrack --> ang:wræc
+eng:wraithlike --> eng:wraith
+eng:wrake --> ang:ƿracu
+eng:wranglesome --> eng:wrangle
+eng:wrap --> enm:wrappen
+eng:wrappable --> eng:wrap --> enm:wrappen
+eng:wrappage --> eng:wrap --> enm:wrappen
+eng:wrapperless --> eng:wrapper
+eng:wraprascal --> eng:rascal
+eng:wrath --> enm:wraththe
+eng:wrathfulness --> eng:wrathful
+eng:wrathily --> eng:wrathy --> eng:wrath --> enm:wraththe
+eng:wrathless --> eng:wrath --> enm:wraththe
+eng:wrathy --> eng:wrath --> enm:wraththe
+eng:wrawness --> eng:wraw
+eng:wray --> enm:wreien --> ang:wregan
+eng:wreak --> ang:wrecan
+eng:wreaker --> eng:wreak --> ang:wrecan
+eng:wreakless --> eng:wreak --> ang:wrecan
+eng:wreathen --> eng:wreath
+eng:wreathless --> eng:wreath
+eng:wreathlike --> eng:wreath
+eng:wreathy --> eng:wreath
+eng:wreck --> enm:wrek --> xno:wrec
+eng:wreckable --> eng:wreck --> enm:wrek --> xno:wrec
+eng:wreckfish --> eng:fish --> ang:fiscian
+eng:wreckful --> eng:wreck --> enm:wrek --> xno:wrec
+eng:wreckless --> eng:wreck --> enm:wrek --> xno:wrec
+eng:wreckmaster --> eng:master --> ang:mægester --> lat:magister
+eng:wreckreation --> eng:recreation --> fra:récréation --> lat:recreatio
+eng:wrench --> ang:wrencan
+eng:wrencher --> eng:wrench --> ang:wrencan
+eng:wrenchingly --> eng:wrenching
+eng:wrenchlike --> eng:wrench --> ang:wrencan
+eng:wrength --> enm:wrength
+eng:wrenlike --> eng:wren
+eng:wrest --> ang:wræstan
+eng:wrester --> eng:wrest --> ang:wræstan
+eng:wretch --> ang:wrecca
+eng:wretchedhead --> enm:wrecchedhede
+eng:wretchedly --> eng:wretched
+eng:wretchedness --> eng:wretched
+eng:wretchock --> eng:wretch --> ang:wrecca
+eng:wrigglingly --> eng:wriggling
+eng:wright --> ang:wyrhta
+eng:wrightine --> eng:Wrightia
+eng:Wrighty --> eng:Wright
+eng:wring --> ang:wringan
+eng:wringable --> eng:wring --> ang:wringan
+eng:wringer --> eng:wring --> ang:wringan
+eng:wrinkleless --> eng:wrinkle
+eng:wrinkler --> eng:wrinkle
+eng:wrinkly --> eng:wrinkle
+eng:wrister --> eng:wrist
+eng:wristless --> eng:wrist
+eng:wristpad --> eng:pad
+eng:wristphone --> eng:phone
+eng:wriststrap --> eng:strap
+eng:wristwatch --> eng:watch
+eng:writability --> eng:write --> enm:writen --> ang:writan
+eng:writable --> eng:write --> enm:writen --> ang:writan
+eng:write --> enm:writen --> ang:writan
+eng:writeback --> eng:back --> enm:bak --> ang:bæc
+eng:writeress --> eng:writer
+eng:writerless --> eng:writer
+eng:writerly --> eng:writer
+eng:writhe --> enm:writhen --> ang:wriþan
+eng:writhingly --> eng:writhing
+eng:wrixle --> enm:wrixlen --> ang:wrixlan
+eng:wrong --> enm:wrong --> ang:wrang --> non:rangr
+eng:wrongdoing --> eng:doing
+eng:wronger --> eng:wrong --> enm:wrong --> ang:wrang --> non:rangr
+eng:wrongful --> eng:wrong --> enm:wrong --> ang:wrang --> non:rangr
+eng:wrongfully --> eng:wrongful --> eng:wrong --> enm:wrong --> ang:wrang --> non:rangr
+eng:wrongfulness --> eng:wrongful --> eng:wrong --> enm:wrong --> ang:wrang --> non:rangr
+eng:wrongheaded --> eng:headed --> eng:head --> enm:hed
+eng:wrongheadedly --> eng:wrongheaded --> eng:headed --> eng:head --> enm:hed
+eng:wrongish --> eng:wrong --> enm:wrong --> ang:wrang --> non:rangr
+eng:wrongless --> eng:wrong --> enm:wrong --> ang:wrang --> non:rangr
+eng:wrongness --> enm:wrongnesse
+eng:wrongous --> enm:wrongous
+eng:wroth --> enm:wroth --> ang:wraþ
+eng:wry --> enm:wrien --> ang:wrigian
+eng:wryly --> eng:wry --> enm:wrien --> ang:wrigian
+eng:wrymouth --> eng:mouth --> enm:mouth --> ang:muþ
+eng:wryneck --> eng:neck --> enm:nekke
+eng:wrynecked --> eng:necked
+eng:wtfpwn --> eng:WTF
+eng:wuchereriasis --> eng:Wuchereria
+eng:Wuhanese --> eng:Wuhan
+eng:wulfenite --> eng:Wulfen
+eng:Wunderkammer --> deu:Wunderkammer
+eng:wunderkind --> deu:Wunderkind
+eng:wussette --> eng:wuss
+eng:wussiness --> eng:wussy
+eng:wyartite --> eng:wyart
+eng:Wycliffite --> eng:Wycliffe
+eng:wye --> ang:wiga
+eng:wynn --> ang:wynn
+eng:Wyomingite --> eng:Wyoming
+eng:wyrd --> ang:wyrd
+eng:Wythoffian --> eng:Wythoff

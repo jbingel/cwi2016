@@ -1,0 +1,534 @@
+eng:qabalist --> eng:qabal
+eng:qabalistically --> eng:qabalistic
+eng:Qadarite --> eng:Qadariyya
+eng:qadi --> ara:قاضي --> ara:قض
+eng:qafiz --> ara:قفيز‎
+eng:qargi --> ipk:qargi
+eng:qasida --> ara:قصيدة
+eng:Q-ball --> eng:Q
+eng:QEF --> lat:quod erat faciendum --> grc:ὅπερ ἔδει ποιῆσαι
+eng:qibla --> ara:قبلة
+eng:qilin --> cmn:麒麟
+eng:qipao --> cmn:旗袍
+eng:qiviut --> ike:ᕿᕕᐅᖅ
+eng:Qomolangma --> bod:ཇོ་མོ་གླང་རི་
+eng:qua --> lat:qua
+eng:quacker --> eng:quack
+eng:quackhood --> eng:quack
+eng:quackish --> eng:quack
+eng:quackishly --> eng:quackish --> eng:quack
+eng:quackishness --> eng:quackish --> eng:quack
+eng:quacklike --> eng:quack
+eng:quadband --> eng:band --> enm:band --> ang:beand
+eng:quadbit --> eng:bit
+eng:quadcore --> eng:core --> enm:core
+eng:quaddie --> eng:quadrella
+eng:quadfurcated --> eng:furcated
+eng:quadfurcation --> eng:furcation --> eng:furcate --> lat:furcatus --> lat:furca
+eng:quadlet
+eng:quadlike --> eng:quad
+eng:quadplex
+eng:quadpod
+eng:quadpot --> eng:jackpot
+eng:quadragenarious --> lat:quadragenarius
+eng:Quadragesima --> lat:quadragesima --> lat:quadragesimus --> lat:quadraginta
+eng:quadragesimal --> eng:Quadragesima --> lat:quadragesima --> lat:quadragesimus --> lat:quadraginta
+eng:quadral --> lat:quadralis
+eng:quadrangle --> fro:quadrangle --> lat:quadrangulum
+eng:quadrangularly --> eng:quadrangular
+eng:quadrans --> lat:quadrans --> lat:quattuor
+eng:quadrant --> lat:quadrantem
+eng:quadrat --> lat:quadratum --> lat:quadratus
+eng:quadrate --> fro:quadrat --> lat:quadratus
+eng:quadratically --> eng:quadratic
+eng:quadrature --> lat:quadratura --> lat:quadro --> lat:quadrus --> lat:quattuor
+eng:quadrennial --> lat:quadriennial
+eng:quadri- --> lat:quattuor
+eng:quadriarticulate --> eng:articulate --> lat:articulatus
+eng:quadriaxial --> eng:axial
+eng:quadribasic --> eng:basic --> eng:base --> fro:bas --> lat:bassus
+eng:quadricapsular --> eng:capsular
+eng:quadricellular --> eng:cellular
+eng:quadriceps --> lat:quattuor
+eng:quadricorn --> eng:corn --> ang:corn
+eng:quadricornous --> eng:cornous
+eng:quadricostate --> eng:costate
+eng:quadricuspid --> eng:cuspid
+eng:quadricycle --> eng:cycle --> lat:cyclus --> grc:κύκλος
+eng:quadridavyne --> eng:davyne
+eng:quadridentate --> eng:dentate
+eng:quadridigitate --> eng:digitate --> lat:digitatus --> lat:digitus
+eng:quadrifid --> lat:quadrifidus
+eng:quadrifoliate --> eng:foliate
+eng:quadrifurcated --> eng:furcated
+eng:quadriga --> lat:quadrigae
+eng:quadrigal --> lat:quadrigalis --> lat:quadrigae
+eng:quadrigatus --> lat:quadrigatus --> lat:quadrigae
+eng:quadrijugate --> eng:jugate
+eng:quadrilingual
+eng:quadrille --> fra:quadrillé
+eng:quadrillion --> fra:quadrillion
+eng:quadrillionfold --> eng:quadrillion --> fra:quadrillion
+eng:quadrilocular --> eng:locular
+eng:quadrilogy
+eng:quadrimodal --> eng:modal --> lat:modalis
+eng:quadrimodality --> eng:modality
+eng:quadrinodal --> eng:nodal
+eng:quadriparesis --> eng:paresis
+eng:quadripartite --> lat:quadripartitus
+eng:quadripartitely --> eng:quadripartite --> lat:quadripartitus
+eng:quadripartition --> lat:quadripartitio --> lat:quadripartitum
+eng:quadripaschal --> eng:paschal
+eng:quadripedal --> eng:pedal --> fra:pédale
+eng:quadripennate --> eng:pennate --> lat:pennatus
+eng:quadriphyllous
+eng:quadripolar --> eng:polar
+eng:quadrisulcate --> eng:sulcate
+eng:quadrisyllabic --> eng:syllabic --> lat:syllabicus --> grc:συλλαβικός --> grc:συλλαβή --> grc:συλλαμβάνω
+eng:quadrisyllable --> eng:syllable
+eng:quadritubercular --> eng:tubercular
+eng:quadrivalve --> eng:valve --> lat:valva
+eng:quadrivalvular --> eng:valvular --> lat:valvularum
+eng:quadrivium --> lat:quadrivium
+eng:quadrominium --> eng:condominium --> lat:condominium
+eng:quadroxide --> eng:oxide
+eng:quadrumane --> fra:quadrumane --> lat:quadrumanus
+eng:quadruped --> fra:quadrupède
+eng:quadrupleness --> eng:quadruple
+eng:quadruplex --> lat:quadruplex
+eng:quadtree --> eng:tree --> enm:tree
+eng:quadword --> eng:word --> enm:word --> ang:word
+eng:quae erant demonstranda --> lat:quae erant demonstranda
+eng:quaere --> lat:quaere
+eng:quaeritater --> eng:quaeritate
+eng:quaestio --> lat:quaestio --> lat:quaestus --> lat:quaesitus --> lat:quaero
+eng:quæstionable --> eng:quæstion
+eng:quæstioned --> eng:quæstion
+eng:quæstioning --> eng:quæstion
+eng:quaestor --> lat:quaestor
+eng:quaffability --> eng:quaffable
+eng:quaffer --> eng:quaff
+eng:quagga --> nld:quagga
+eng:quaggy --> eng:quag
+eng:quail --> enm:quaille --> xno:quaille
+eng:quailest --> eng:quail --> enm:quaille --> xno:quaille
+eng:quaileth --> eng:quail --> enm:quaille --> xno:quaille
+eng:quaint --> xno:cointe
+eng:quaintly --> eng:quaint --> xno:cointe
+eng:quaintness --> eng:quaint --> xno:cointe
+eng:quake --> enm:quaken --> ang:cwacian
+eng:quakeproof --> eng:quake --> enm:quaken --> ang:cwacian
+eng:Quakerish --> eng:Quaker
+eng:Quakerism --> eng:Quaker
+eng:Quakerly --> eng:Quaker
+eng:quakey --> eng:quake --> enm:quaken --> ang:cwacian
+eng:quakiness --> eng:quaky
+eng:qualifiable --> eng:qualify
+eng:qualifiedly --> eng:qualified
+eng:qualifiedness --> eng:qualified
+eng:qualitatively --> eng:qualitative
+eng:qualitativeness --> eng:qualitative
+eng:qualitied --> eng:quality
+eng:qualityness --> eng:quality
+eng:qualitywise --> eng:quality
+eng:qualm --> enm:qualm
+eng:qualmish --> eng:qualm --> enm:qualm
+eng:qualmishly --> eng:qualmish --> eng:qualm --> enm:qualm
+eng:qualmishness --> eng:qualmish --> eng:qualm --> enm:qualm
+eng:qualmy --> eng:qualm --> enm:qualm
+eng:quangocracy --> eng:quango
+eng:quangocrat --> eng:quango
+eng:quantic --> lat:quantus --> lat:quam
+eng:quantifiableness --> eng:quantifiable
+eng:quantifiably --> eng:quantifiable
+eng:quantifier --> eng:quantify --> lat:quantificare
+eng:quantify --> lat:quantificare
+eng:quantitatively --> eng:quantitative
+eng:quantitativeness --> eng:quantitative
+eng:quantity --> lat:quantitas --> lat:quantus --> lat:quam
+eng:quantitywise --> eng:quantity --> lat:quantitas --> lat:quantus --> lat:quam
+eng:quantization --> eng:quantize
+eng:quantized --> eng:quantize
+eng:quantum --> lat:quantum
+eng:quantumlike --> eng:quantum --> lat:quantum
+eng:quantumly --> eng:quantum --> lat:quantum
+eng:quantumness --> eng:quantum --> lat:quantum
+eng:quaquaversally --> eng:quaquaversal
+eng:quarantine --> ita:quarantina --> ita:quarantina giorni
+eng:quark --> deu:Quark
+eng:quarkless --> eng:quark --> deu:Quark
+eng:quarkyonic --> eng:baryonic --> eng:baryon
+eng:quarl --> deu:Qualle
+eng:quarrel --> fro:querele --> lat:querella --> lat:queror
+eng:quarrelous --> eng:quarrel --> fro:querele --> lat:querella --> lat:queror
+eng:quarrelsome --> eng:quarrel --> fro:querele --> lat:querella --> lat:queror
+eng:quarriable --> eng:quarry --> lat:quarreria
+eng:quarrion --> wrh:guwarrayiŋ
+eng:quarry --> lat:quarreria
+eng:quarrylike --> eng:quarry --> lat:quarreria
+eng:quarryman --> eng:quarry --> lat:quarreria
+eng:quart --> fra:quart --> lat:quartus --> lat:quattuor
+eng:quartan --> xno:quartaine
+eng:quartane --> lat:quartus --> lat:quattuor
+eng:quartation --> lat:quartus --> lat:quattuor
+eng:quartene --> eng:ethylene
+eng:quartenylic --> eng:quartene --> eng:ethylene
+eng:quartenylic acid --> eng:quartene --> eng:ethylene
+eng:quarter --> fra:cartayer
+eng:quarterboy --> eng:boy --> enm:boy
+eng:quarter-century --> eng:century --> lat:centuria --> lat:centum
+eng:quarter-day --> eng:day --> enm:day --> ang:dæg
+eng:quarter-finalist --> eng:finalist --> eng:final
+eng:quarterless --> eng:quarter --> fra:cartayer
+eng:quarterly --> eng:quarter --> fra:cartayer
+eng:quartermistress --> eng:mistress
+eng:quarterpace --> eng:pace --> lat:pace
+eng:quarter-phase --> eng:phase --> lat:phase
+eng:quarter-pipe --> eng:pipe --> ang:pipe
+eng:quarter-pounder --> eng:pounder --> eng:pound
+eng:quartersaw --> eng:quarter --> fra:cartayer
+eng:quarterstaff --> eng:quarter --> fra:cartayer
+eng:quarter-witted --> eng:witted
+eng:quartet --> ita:quartetto
+eng:quartine --> lat:quartus --> lat:quattuor
+eng:quarto --> lat:quartus --> lat:quattuor
+eng:Quartodecimanism --> eng:Quartodeciman
+eng:quartz --> deu:Quarz --> gmh:twarc
+eng:quartziferous --> eng:quartz --> deu:Quarz --> gmh:twarc
+eng:quartzless --> eng:quartz --> deu:Quarz --> gmh:twarc
+eng:quartzlike --> eng:quartz --> deu:Quarz --> gmh:twarc
+eng:quartzoid --> eng:quartz --> deu:Quarz --> gmh:twarc
+eng:quartzy --> eng:quartz --> deu:Quarz --> gmh:twarc
+eng:quasarlike --> eng:quasar
+eng:quash --> fro:quasser --> lat:quassare
+eng:quasher --> eng:quash --> fro:quasser --> lat:quassare
+eng:quasi --> lat:quasi
+eng:quasi- --> lat:quasi
+eng:quasiarchaeological --> eng:archaeological --> eng:archaeology --> grc:ἀρχαιολογία
+eng:quasiboson --> eng:boson
+eng:quasibound --> eng:bound --> enm:bounde --> fro:bunne --> lat:bodina
+eng:quasichemical --> eng:chemical --> eng:chemic --> lat:chemicus
+eng:quasicircular --> eng:circular
+eng:quasiclassic --> eng:classic --> fra:classique --> lat:classicus --> lat:classis
+eng:quasiclassical --> eng:classical
+eng:quasiconformal --> eng:conformal
+eng:quasiconformally --> eng:conformally
+eng:quasicontinuous --> eng:continuous
+eng:quasicontinuum --> eng:continuum --> lat:continuum
+eng:quasicritical --> eng:critical
+eng:quasicycle --> eng:cycle --> lat:cyclus --> grc:κύκλος
+eng:quasideterminant --> eng:determinant
+eng:quasidisorder --> eng:disorder --> eng:order --> enm:ordre --> fro:ordre
+eng:quasidocumentary --> eng:documentary
+eng:quasidominance --> eng:dominance
+eng:quasidominant --> eng:dominant --> frm:dominant
+eng:quasidynamical --> eng:dynamical
+eng:quasienantiomeric --> eng:enantiomeric --> eng:enantiomer
+eng:quasienergy --> eng:energy --> grc:ἐνέργεια
+eng:quasiexperimental --> eng:experimental
+eng:quasiferromagnet --> eng:ferromagnet
+eng:quasifission --> eng:fission --> lat:fissionem
+eng:quasifree --> eng:free --> enm:fre --> ang:freo
+eng:quasigeostrophic --> eng:geostrophic
+eng:quasigluon --> eng:gluon
+eng:quasigovernment --> eng:government --> enm:governement --> fro:governement --> lat:gubernatio --> grc:κυβερνισμός
+eng:quasigovernmental --> eng:governmental --> eng:government --> enm:governement --> fro:governement --> lat:gubernatio --> grc:κυβερνισμός
+eng:quasiharmonic --> eng:harmonic
+eng:quasihole --> eng:hole
+eng:quasihomogeneous --> eng:homogeneous --> lat:homogeneus --> grc:ὁμογενής
+eng:quasilinguistic --> eng:linguistic
+eng:quasilocal --> eng:local
+eng:quasimathematical --> eng:mathematical
+eng:quasimeromorphic --> eng:meromorphic
+eng:quasimode --> eng:mode --> fra:mode --> lat:modus
+eng:quasimolecular --> eng:molecular
+eng:quasimomentum --> eng:momentum --> lat:momentum --> lat:moveo
+eng:quasimonochromatic --> eng:monochromatic --> eng:chromatic --> grc:χρῶμα
+eng:quasimusical --> eng:musical
+eng:quasineutral --> eng:neutral
+eng:quasinormal --> eng:normal --> lat:normalis --> lat:norma
+eng:quasinumerical --> eng:numerical
+eng:quasiparental --> eng:parental --> lat:parentalis --> lat:parens
+eng:quasiperfect --> eng:perfect --> enm:perfit --> fro:parfit --> lat:perfectus
+eng:quasiperiodic --> eng:periodic --> eng:iodic
+eng:quasipolynomial --> eng:polynomial
+eng:quasipositive --> eng:positive
+eng:quasipotential --> eng:potential --> lat:potentialis --> lat:potentia --> lat:potens
+eng:quasi-probability --> eng:probability --> lat:probabilitas
+eng:quasiproton --> eng:proton --> grc:πρῶτον
+eng:quasipsychotic --> eng:psychotic
+eng:quasirandom --> eng:random --> enm:raundon --> fro:randon --> fro:randir
+eng:quasirandomised --> eng:randomised
+eng:quasirape --> eng:rape --> enm:rape --> fro:raper
+eng:quasiregular --> eng:regular --> xno:reguler
+eng:quasirelativistic --> eng:relativistic
+eng:quasireligious --> eng:religious --> xno:relegius
+eng:quasireversibility --> eng:reversibility
+eng:quasiscientific --> eng:scientific
+eng:quasisemantic --> eng:semantic
+eng:quasisexual --> eng:sexual --> lat:sexualis
+eng:quasispherical --> eng:spherical --> lat:sphericus
+eng:quasistar --> eng:star --> enm:sterre --> ang:steorra
+eng:quasistationarity --> eng:stationarity
+eng:quasithermodynamic --> eng:thermodynamic
+eng:quasitoric --> eng:toric
+eng:quasitriangular --> eng:triangular
+eng:quasivacuum --> eng:vacuum --> lat:vacuum
+eng:quasivariety --> eng:variety --> fra:varieté --> lat:varietas --> lat:varius
+eng:quaternarist --> eng:Quaternary
+eng:quaternion --> enm:quaternioun --> lat:quaterniō
+eng:quaternity --> lat:quaternitas
+eng:quattuordecangle --> eng:angle --> enm:anglelen --> enm:angel --> ang:angel
+eng:quattuordecillion --> lat:quattuordecim
+eng:quave --> enm:quaven
+eng:quaver --> enm:quaveren
+eng:quaverer --> eng:quaver --> enm:quaveren
+eng:quay --> fro:cai --> fro:chai
+eng:quayage --> eng:quay --> fro:cai --> fro:chai
+eng:quaylike --> eng:quay --> fro:cai --> fro:chai
+eng:quayman --> eng:quay --> fro:cai --> fro:chai
+eng:quayside --> eng:quay --> fro:cai --> fro:chai
+eng:qubit --> eng:bit
+eng:qubyte --> eng:byte
+eng:queachy --> eng:queach
+eng:queal --> enm:quelen --> ang:cwelan
+eng:quean --> enm:quene --> ang:cwene
+eng:queasy --> enm:coysy
+eng:queazen --> eng:queasy --> enm:coysy
+eng:Quebec --> alq:kepék
+eng:Quebecer --> eng:Quebec --> alq:kepék
+eng:Québécois --> fra:québécois --> fra:Québec
+eng:quebecol --> eng:Quebec --> alq:kepék
+eng:quebracho --> spa:quebracho
+eng:qued --> enm:qued
+eng:quede --> ang:cwæþ
+eng:quedship --> enm:quedschipe
+eng:queen --> enm:queen
+eng:queencraft --> eng:queen --> enm:queen
+eng:queendom --> eng:queen --> enm:queen
+eng:queenfish --> eng:fish --> ang:fiscian
+eng:queenhood --> eng:queen --> enm:queen
+eng:queenie --> eng:queen --> enm:queen
+eng:Queenie --> eng:queen --> enm:queen
+eng:queenish --> eng:queen --> enm:queen
+eng:queenless --> eng:queen --> enm:queen
+eng:queenlike --> eng:queen --> enm:queen
+eng:queenlily --> eng:queenly --> eng:queen --> enm:queen
+eng:queenliness --> eng:queenly --> eng:queen --> enm:queen
+eng:queenly --> eng:queen --> enm:queen
+eng:queenship --> eng:queen --> enm:queen
+eng:Queenslander --> eng:Queensland
+eng:queeny --> eng:queen --> enm:queen
+eng:queerbait --> eng:bait --> enm:bait
+eng:queercore --> eng:queer
+eng:queerdo --> eng:queer
+eng:queerious --> eng:curious
+eng:queerish --> eng:queer
+eng:queerishly --> eng:queerish --> eng:queer
+eng:queerly --> eng:queer
+eng:queermo --> eng:homo
+eng:queerness --> eng:queer
+eng:quell --> ang:cwellan
+eng:quellio --> spa:cuello --> lat:collum
+eng:queme --> enm:queme --> ang:cweme
+eng:quench --> ang:acwencan
+eng:quenchable --> eng:quench --> ang:acwencan
+eng:quenchest --> eng:quench --> ang:acwencan
+eng:quenching --> eng:quench --> ang:acwencan
+eng:quenchingly --> eng:quenching --> eng:quench --> ang:acwencan
+eng:quenouille training --> fra:quenouille --> lat:conucula
+eng:quercite --> lat:quercus
+eng:querencia --> spa:querencia
+eng:querent --> lat:querens
+eng:querier --> eng:query
+eng:querimonious --> lat:querimonia
+eng:querimoniousness --> eng:querimonious --> lat:querimonia
+eng:querimony --> lat:querimonia
+eng:querk --> enm:querken
+eng:querken --> enm:querkenen
+eng:quern --> enm:quern
+eng:querpo --> spa:cuerpo --> lat:corpus
+eng:querulant --> lat:querulans
+eng:querulousness --> eng:querulous
+eng:queryable --> eng:query
+eng:queryingly --> eng:querying
+eng:questingly --> eng:questing
+eng:question --> enm:question --> xno:questiun --> fro:question --> lat:quaestionem
+eng:questionable --> eng:question --> enm:question --> xno:questiun --> fro:question --> lat:quaestionem
+eng:questionableness --> eng:questionable --> eng:question --> enm:question --> xno:questiun --> fro:question --> lat:quaestionem
+eng:questioningly --> eng:questioning
+eng:questionist --> eng:question --> enm:question --> xno:questiun --> fro:question --> lat:quaestionem
+eng:questionless --> eng:question --> enm:question --> xno:questiun --> fro:question --> lat:quaestionem
+eng:questionnaire --> fra:questionnaire --> lat:quaestionarius
+eng:questlike --> eng:quest
+eng:questman --> eng:man --> enm:man --> ang:mann
+eng:questmonger --> eng:quest
+eng:quethe --> ang:cweþan
+eng:quetzal --> spa:quetzal --> nci:quetzalli --> nci:quetza
+eng:Quetzalcoatl --> nci:Quetzalcoatl --> nci:coatl
+eng:quetzalcoatlite --> eng:Quetzalcoatl --> nci:Quetzalcoatl --> nci:coatl
+eng:queue --> xno:queue
+eng:queueless --> eng:queue --> xno:queue
+eng:queuer --> eng:queue --> xno:queue
+eng:qugate --> eng:gate --> ang:geat
+eng:quibblingly --> eng:quibbling
+eng:quibbly --> eng:quibble
+eng:quichelike --> eng:quiche
+eng:quicken --> eng:quick
+eng:quickener --> eng:quicken --> eng:quick
+eng:quickenest --> eng:quicken --> eng:quick
+eng:quickly --> eng:quick
+eng:quickness --> eng:quick
+eng:quicksand --> enm:quyksande --> ang:cwecesand
+eng:quicksandlike --> eng:quicksand --> enm:quyksande --> ang:cwecesand
+eng:quicksandy --> eng:quicksand --> enm:quyksande --> ang:cwecesand
+eng:quicksave --> eng:quick
+eng:quicksilver --> enm:quyksilver --> ang:cwicseolfor
+eng:quicksmart --> eng:quick
+eng:quicksort --> eng:quick
+eng:quickstart --> eng:quick
+eng:quickstep --> eng:quick
+eng:quickwitted --> eng:quick
+eng:quickwittedly --> eng:quickwitted --> eng:quick
+eng:quick-wittedly --> eng:quick-witted
+eng:quickwittedness --> eng:quickwitted --> eng:quick
+eng:quickwork --> eng:quick
+eng:quid --> lat:quid
+eng:quiddany --> lat:cydoneum
+eng:quiddity --> frm:quiddité
+eng:quiddler --> eng:quiddle
+eng:quidlet --> eng:quid --> lat:quid
+eng:quidnuncery --> eng:quidnunc
+eng:quiescency --> lat:quiescentia
+eng:quiescent --> lat:quiescens
+eng:quietener --> eng:quieten
+eng:quietish --> eng:quiet
+eng:quietism --> eng:quiet
+eng:quietist --> eng:quiet
+eng:quietistic --> eng:quietism --> eng:quiet
+eng:quietly --> eng:quiet
+eng:quietness --> eng:quiet
+eng:quietude --> lat:quietudo --> lat:quietus
+eng:quietus --> lat:quietus
+eng:quillback --> eng:back --> enm:bak --> ang:bæc
+eng:quilled --> eng:quill
+eng:quiller --> eng:quill
+eng:quillow --> eng:pillow --> enm:pilwe --> ang:pylwe
+eng:quillwork --> eng:quill
+eng:quilly --> eng:quill
+eng:quilombo --> por:quilombo
+eng:quiltlike --> eng:quilt
+eng:quiltmaker --> eng:maker --> eng:make --> enm:make --> non:makr
+eng:quiltmaking --> eng:making --> eng:make --> enm:make --> non:makr
+eng:quim --> sco:queem
+eng:quince --> fro:cooin --> lat:cotoneum --> grc:κυδώνιον
+eng:quinceañera --> spa:quinceañera
+eng:quincelike --> eng:quince --> fro:cooin --> lat:cotoneum --> grc:κυδώνιον
+eng:quincuncial --> lat:quincuncialis
+eng:Quinean --> eng:Quine
+eng:Quinian --> eng:Quine
+eng:quinible --> lat:quini --> lat:quinque
+eng:quinine --> spa:quina --> que:kina
+eng:quininism --> eng:quinine --> spa:quina --> que:kina
+eng:quininize --> eng:quinine --> spa:quina --> que:kina
+eng:quinism --> eng:quinine --> spa:quina --> que:kina
+eng:Quinny --> eng:Quinn
+eng:quinoa --> spa:quinua --> que:kinwa
+eng:quinogen --> eng:quinine --> spa:quina --> que:kina
+eng:quinquagenarian --> lat:quinquagenarius --> lat:quinquegeni
+eng:quinquangular --> eng:angular --> lat:angularis
+eng:quinque- --> lat:quinque
+eng:quinquedigitate --> eng:digitate --> lat:digitatus --> lat:digitus
+eng:quinquefarious --> lat:quinque
+eng:quinquefoliated --> eng:foliated
+eng:quinqueliteral --> eng:literal --> fro:literal --> lat:litteralis
+eng:quinquelocular --> eng:locular
+eng:quinquenerved --> eng:nerved --> eng:nerve
+eng:quinquennially --> eng:quinquennial
+eng:quinquennium --> lat:quinquennium
+eng:quinquepartite --> eng:partite
+eng:quinquereme --> lat:quinqueremis
+eng:quinquesyllabic --> eng:syllabic --> lat:syllabicus --> grc:συλλαβικός --> grc:συλλαβή --> grc:συλλαμβάνω
+eng:quinquesyllable --> eng:syllable
+eng:quinquetubercular --> eng:tubercular
+eng:quinquevalent
+eng:quinquevalve --> eng:valve --> lat:valva
+eng:quinquevalvular --> eng:valvular --> lat:valvularum
+eng:quinsied --> eng:quinsy --> fro:quinencie --> lat:quinancia --> grc:κυνάγχη
+eng:quinsy --> fro:quinencie --> lat:quinancia --> grc:κυνάγχη
+eng:quinsyberry --> eng:berry --> enm:bery
+eng:quinsywort --> eng:quinsy --> fro:quinencie --> lat:quinancia --> grc:κυνάγχη
+eng:quintain --> xno:quintine
+eng:quintal --> xno:quintal
+eng:quintation --> eng:quintate
+eng:quinternion
+eng:quintet --> ita:quintetto
+eng:quintillion
+eng:quintillionfold --> eng:quintillion
+eng:quintine --> lat:quintus --> lat:quinque
+eng:quintinite --> eng:Quintin
+eng:quintole --> ita:quinto --> lat:quintus --> lat:quinque
+eng:quintuple --> frm:quintuple
+eng:quintuplet --> frm:quintuple
+eng:quinze --> fra:quinze
+eng:quipper --> eng:quip
+eng:quippery --> eng:quip
+eng:quippingly --> eng:quipping
+eng:quippy --> eng:quip
+eng:quiritation --> lat:quiritatio --> lat:quiritare
+eng:quirked --> eng:quirk
+eng:Quirkian --> eng:Quirk
+eng:quirkiness --> eng:quirky
+eng:quirkish --> eng:quirk
+eng:quirpele --> tam:kirippillai
+eng:quisset --> fro:quisse
+eng:quit --> xno:quiter
+eng:quitch --> ang:cwice --> gml:kweke
+eng:quitchgrass --> eng:grass --> enm:gras
+eng:quitclaim --> eng:claim --> enm:claimen --> fro:claimer
+eng:quite --> spa:quite
+eng:quitrent --> eng:quit --> xno:quiter
+eng:quittable --> eng:quit --> xno:quiter
+eng:quittal --> eng:quit --> xno:quiter
+eng:quitter --> eng:quit --> xno:quiter
+eng:quittor --> enm:quiter
+eng:quiver --> enm:cwiver
+eng:quiverful --> eng:quiver --> enm:cwiver
+eng:Quiverfull --> eng:full --> ang:full
+eng:quiveringly --> eng:quivering
+eng:quivertip --> eng:quiver --> enm:cwiver
+eng:quixotry --> eng:Quixote
+eng:quizbook --> eng:book --> enm:book --> ang:boc
+eng:quizlike --> eng:quiz
+eng:quizmistress --> eng:mistress
+eng:quizzery --> eng:quiz
+eng:quizzicality --> eng:quizzical
+eng:quizzically --> eng:quizzical
+eng:quizzicalness --> eng:quizzical
+eng:quizzism --> eng:quiz
+eng:quizzy --> eng:quiz
+eng:qulliq --> ike:ᖁᓪᓕᖅ
+eng:quod erat demonstrandum --> lat:quod erat demonstrandum
+eng:quoit --> enm:coyte --> fro:coite --> lat:culcita
+eng:quoll --> kky:dhigul
+eng:quomodo --> lat:quomodo
+eng:quondam --> lat:quondam
+eng:quorum --> lat:quorum
+eng:quota --> lat:quota --> lat:quota pars
+eng:quotably --> eng:quotable
+eng:quotaless --> eng:quota --> lat:quota --> lat:quota pars
+eng:quotalike --> eng:quota --> lat:quota --> lat:quota pars
+eng:quotebook --> eng:book --> enm:book --> ang:boc
+eng:quotee --> eng:quote
+eng:quoter --> eng:quote
+eng:quotest --> eng:quote
+eng:quoteth --> eng:quote
+eng:quoteworthy --> eng:quote
+eng:quoth --> ang:cwæþ
+eng:quotidian --> xno:cotidian
+eng:quotidianly --> eng:quotidian --> xno:cotidian
+eng:quotient --> lat:quotiens --> lat:quoties
+eng:quotiety --> lat:quotus
+eng:Qur'an --> ara:القرآن
+eng:Quranically --> eng:qur'anic
+eng:Quranist --> eng:Quran

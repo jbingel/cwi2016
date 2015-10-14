@@ -1,0 +1,1207 @@
+eng:v. --> lat:versus
+eng:vaagmer --> isl:vagmeri
+eng:vacancy --> eng:vacant
+eng:vacantly --> eng:vacant
+eng:vacantness --> eng:vacant
+eng:vacation --> fra:vacation --> lat:vacatio
+eng:vacationer --> eng:vacation --> fra:vacation --> lat:vacatio
+eng:vacationland --> eng:land --> enm:land
+eng:vacationship --> eng:relationship --> eng:relation --> xno:relacioun --> fro:relacion --> lat:relationem
+eng:vaccenic --> lat:vacca
+eng:vaccinable --> eng:vaccine --> lat:vaccinus --> lat:vacca
+eng:vaccination --> lat:vacca
+eng:vaccinationlike --> eng:vaccination --> lat:vacca
+eng:vaccine --> lat:vaccinus --> lat:vacca
+eng:vaccinee --> eng:vaccine --> lat:vaccinus --> lat:vacca
+eng:vaccinist --> eng:vaccine --> lat:vaccinus --> lat:vacca
+eng:vacherin --> fra:vacherin
+eng:vachery --> fra:vacherie --> fra:vache
+eng:vacillate --> lat:vacillatum
+eng:vacillatingly --> eng:vacillating
+eng:vacuity --> lat:vacuitas
+eng:vacuole --> lat:vacuolum
+eng:vacuolic --> eng:vacuole --> lat:vacuolum
+eng:vacuous --> lat:vacuus --> lat:vaco
+eng:vacuously --> eng:vacuous --> lat:vacuus --> lat:vaco
+eng:vacutainer --> eng:container
+eng:vacuum --> lat:vacuum
+eng:vacuüm --> nld:vacuüm --> lat:vacuum
+eng:vacuumable --> eng:vacuum --> lat:vacuum
+eng:vacuumlike --> eng:vacuum --> lat:vacuum
+eng:vadimony --> lat:vadimonium
+eng:vadose --> lat:vadosus
+eng:vaesite --> eng:Vaes
+eng:vafrous --> lat:vafer
+eng:vagabond --> lat:vagabundus
+eng:vagabondage --> eng:vagabond --> lat:vagabundus
+eng:vagabonding --> eng:vagabond --> lat:vagabundus
+eng:vagabondish --> eng:vagabond --> lat:vagabundus
+eng:vagabondize --> eng:vagabond --> lat:vagabundus
+eng:vagabondry --> eng:vagabond --> lat:vagabundus
+eng:vagancy --> lat:vagans
+eng:vagarity --> eng:vagary --> lat:vagus
+eng:vagary --> lat:vagus
+eng:vagile --> deu:vagil --> lat:vagus
+eng:vagina --> lat:vagina
+eng:vaginæ --> lat:vaginae
+eng:vaginal --> eng:vagina --> lat:vagina
+eng:vaginaless --> eng:vagina --> lat:vagina
+eng:vaginalike --> eng:vagina --> lat:vagina
+eng:vaginally --> eng:vaginal --> eng:vagina --> lat:vagina
+eng:vaginolabial --> eng:labial
+eng:vaginoperineal --> eng:perineal
+eng:vaginoplasty
+eng:vaginorectal --> eng:rectal
+eng:vaginovesical --> eng:vesical
+eng:vagitus --> lat:vagitus --> lat:vagio
+eng:vagitus uterinus --> lat:''[[crying]] in the [[womb]]''
+eng:vagous --> lat:vagus
+eng:vagrant --> enm:vagraunt --> xno:wakerant
+eng:vagrantly --> eng:vagrant --> enm:vagraunt --> xno:wakerant
+eng:vagrantness --> eng:vagrant --> enm:vagraunt --> xno:wakerant
+eng:vague --> frm:vague --> lat:vagus
+eng:vagueish --> eng:vague --> frm:vague --> lat:vagus
+eng:vaguely --> eng:vague --> frm:vague --> lat:vagus
+eng:vaguery --> eng:vague --> frm:vague --> lat:vagus
+eng:vaguish --> eng:vague --> frm:vague --> lat:vagus
+eng:vagus --> lat:vagus
+eng:Vahagn --> hye:Վահագն
+eng:vailer --> eng:vail
+eng:vaingloriously --> eng:vainglorious
+eng:vainglory --> enm:waynglori --> fro:vaine glorie --> lat:vana gloria
+eng:vainly --> eng:vain
+eng:vair --> fro:vair
+eng:Vaisakha --> san:वैशाख
+eng:Vaishya --> san:वैश्य
+eng:Vaisnavara --> san:वैश्वानर
+eng:vajazzle --> eng:bedazzle
+eng:vajra --> san:वज्र
+eng:Vajrayana --> san:वज्रयान
+eng:vakil --> urd:وكيل
+eng:valancelike --> eng:valance
+eng:vale --> lat:vale
+eng:valenced --> eng:valence
+eng:valenki --> rus:валенки
+eng:valentine --> eng:Saint Valentine's Day
+eng:Valentine --> lat:Valentinus --> lat:valeo
+eng:valentineless --> eng:valentine --> eng:Saint Valentine's Day
+eng:Valentinian --> eng:Valentinus
+eng:valerianaceous --> eng:Valeriana
+eng:valerianic --> eng:valerian
+eng:valerin --> eng:glycerin --> fra:glycérine --> grc:γλυκερός
+eng:Valerius --> lat:Valerius
+eng:valerone --> eng:valeric
+eng:valetudinarian --> lat:valetudinarius --> lat:valetudo --> lat:valeo
+eng:Valhalla --> non:Valhǫll --> non:valr
+eng:Valhallan --> eng:Valhalla --> non:Valhǫll --> non:valr
+eng:vali --> tur:vali --> ara:والي
+eng:valiant --> fro:vailant --> lat:valens
+eng:valid --> frm:valide
+eng:validatable --> eng:validate
+eng:validify --> eng:valid --> frm:valide
+eng:validly --> eng:valid --> frm:valide
+eng:valiselike --> eng:valise
+eng:Valkyrian --> eng:Valkyrie
+eng:valkyrie --> non:valkyrja
+eng:valkyrielike --> eng:valkyrie --> non:valkyrja
+eng:vallation --> lat:vallatio
+eng:valley --> fra:vallée
+eng:valorous --> fro:valeureux
+eng:valour --> xno:valour
+eng:valourisation --> eng:valour --> xno:valour
+eng:valourise --> eng:valour --> xno:valour
+eng:valourization --> eng:valour --> xno:valour
+eng:valourize --> eng:valour --> xno:valour
+eng:valourous --> eng:valour --> xno:valour
+eng:valourously --> eng:valourous --> eng:valour --> xno:valour
+eng:Valsalvian --> eng:Valsalva
+eng:valuable --> eng:value
+eng:valuably --> eng:valuable --> eng:value
+eng:valueless --> eng:value
+eng:valuelessly --> eng:valueless --> eng:value
+eng:valueness --> eng:value
+eng:valve --> lat:valva
+eng:valveless --> eng:valve --> lat:valva
+eng:valvelet --> eng:valve --> lat:valva
+eng:valvelike --> eng:valve --> lat:valva
+eng:valvetrain --> eng:train --> xno:trayne
+eng:valvotomy --> eng:valve --> lat:valva
+eng:valvula --> lat:valvula
+eng:valvular --> lat:valvularum
+eng:valvulotomy --> eng:valvule
+eng:vamper --> eng:vamp
+eng:vampily --> eng:vampy --> eng:vamp
+eng:vampiness --> eng:vampy --> eng:vamp
+eng:vampiredom --> eng:vampire
+eng:vampireless --> eng:vampire
+eng:vampirelike --> eng:vampire
+eng:vampiresque --> eng:vampire
+eng:vampiress --> eng:vampire
+eng:vampirette --> eng:vampire
+eng:vampirically --> eng:vampiric
+eng:vampirise --> eng:vampire
+eng:vampirish --> eng:vampire
+eng:vampirization --> eng:vampirize --> eng:vampire
+eng:vampirize --> eng:vampire
+eng:vampishness --> eng:vampish
+eng:vamplate --> fra:avant
+eng:vampy --> eng:vamp
+eng:vanadiferous --> eng:vanadium
+eng:vanaspati --> san:वनस्पति
+eng:Vanaspati --> san:वनस्पति
+eng:Vancian magic --> eng:Vance
+eng:vancomycin
+eng:van-courier --> fra:avant-courrier
+eng:Vancouverish --> eng:Vancouver
+eng:Vancouverite --> eng:Vancouver
+eng:vandalic --> eng:vandal
+eng:Vandalic --> eng:Vandal
+eng:vandalise --> eng:vandal
+eng:vandalist --> eng:vandal
+eng:vandalistic --> eng:vandalism
+eng:vandalize --> eng:vandal
+eng:vandalous --> eng:vandal
+eng:vane --> ang:fana
+eng:vaned --> eng:vane --> ang:fana
+eng:vanette --> eng:van
+eng:vanful --> eng:van
+eng:vang --> enm:vangen
+eng:vanguard --> frm:avangarde
+eng:Vani --> san:वाणि
+eng:vanilla --> spa:vainilla
+eng:vanillin --> eng:vanilla --> spa:vainilla
+eng:vanillism --> eng:vanilla --> spa:vainilla
+eng:vaniloquence --> lat:vanus
+eng:vaniloquent --> lat:vaniloquens
+eng:vanishingly --> eng:vanishing
+eng:vanishment --> eng:vanish
+eng:vanitas --> lat:vanitas --> lat:vanus
+eng:vanity --> enm:vanite --> fro:vanité --> lat:vanitas --> lat:vanus
+eng:vanlike --> eng:van
+eng:vanquish --> enm:vaynquisshen --> fro:vanquir --> lat:vincere
+eng:vanquishable --> eng:vanquish --> enm:vaynquisshen --> fro:vanquir --> lat:vincere
+eng:vantage --> enm:vantage
+eng:vantasselite --> eng:Van Tassel
+eng:Vanuatu --> bis:Vanuatu
+eng:vanward --> eng:van
+eng:vaper --> eng:vape
+eng:vapid --> lat:vapidus --> lat:vapor
+eng:vapidity --> eng:vapid --> lat:vapidus --> lat:vapor
+eng:vapidly --> eng:vapid --> lat:vapidus --> lat:vapor
+eng:vapidness --> eng:vapid --> lat:vapidus --> lat:vapor
+eng:vapor --> lat:vapor
+eng:vaporisation --> eng:vapor --> lat:vapor
+eng:vaporise --> eng:vapor --> lat:vapor
+eng:vaporising --> eng:vaporise --> eng:vapor --> lat:vapor
+eng:vaporizable --> eng:vaporize
+eng:vaporization --> eng:vapor --> lat:vapor
+eng:vapory --> eng:vapor --> lat:vapor
+eng:vapouringly --> eng:vapouring
+eng:vapourisable --> eng:vapourise
+eng:vapourisation --> eng:vapour
+eng:vapouriser --> eng:vapourise
+eng:vapourish --> eng:vapour
+eng:vapourizable --> eng:vapourize --> eng:vapour
+eng:vapourization --> eng:vapour
+eng:vapourize --> eng:vapour
+eng:vapourous --> eng:vapour
+eng:vapourously --> eng:vapourous --> eng:vapour
+eng:vapourousness --> eng:vapourous --> eng:vapour
+eng:vaquita --> spa:vaquita
+eng:varactor --> eng:reactor
+eng:vareniki --> rus:вареники
+eng:varenyky --> ukr:вареники
+eng:Varese --> ita:Varese
+eng:variable --> fra:variable --> lat:variabilis
+eng:variableness --> eng:variable --> fra:variable --> lat:variabilis
+eng:variably --> eng:variable --> fra:variable --> lat:variabilis
+eng:variadic --> eng:variable --> fra:variable --> lat:variabilis
+eng:variance --> fro:variance
+eng:variation --> lat:variatio
+eng:variationally --> eng:variational
+eng:varicocele
+eng:varicosely --> eng:varicose
+eng:varicosity --> eng:varicose
+eng:variedly --> eng:varied
+eng:variegate --> lat:variegare
+eng:variety --> fra:varieté --> lat:varietas --> lat:varius
+eng:variolization --> eng:variola
+eng:variolous --> lat:variolosus
+eng:variorum --> lat:variorum
+eng:various --> frm:varieux --> lat:varius
+eng:variously --> eng:various --> frm:varieux --> lat:varius
+eng:varlet --> fro:varlet
+eng:varmeter --> eng:var
+eng:varna --> san:वर्ण
+eng:varnish --> fra:vernis
+eng:varnishable --> eng:varnish --> fra:vernis
+eng:varnishless --> eng:varnish --> fra:vernis
+eng:varnishlike --> eng:varnish --> fra:vernis
+eng:Varuna --> san:वरुण
+eng:Varuzhan --> hye:Վարուժան --> hye:վարուժան
+eng:varvelled --> eng:varvel
+eng:vary --> enm:varien --> fro:varier --> lat:vario --> lat:varius
+eng:varyingly --> eng:varying
+eng:vas --> lat:vas
+eng:Vasconic --> eng:Vascon
+eng:Vasconist --> eng:Vascon
+eng:vascularity --> eng:vascular
+eng:vase --> frm:vase --> lat:vas
+eng:vasectomy --> eng:vas --> lat:vas
+eng:vaseful --> eng:vase --> frm:vase --> lat:vas
+eng:vaselike --> eng:vase --> frm:vase --> lat:vas
+eng:vasiform
+eng:vasilite --> eng:vasil
+eng:vasodentine --> eng:dentine
+eng:vasodilatation --> eng:dilatation
+eng:vasoendothelial --> eng:endothelial
+eng:vasoinhibitor --> eng:inhibitor
+eng:vasoinhibitory --> eng:inhibitory
+eng:vasopressin --> eng:vasopressor
+eng:vasopressinergic --> eng:vasopressin --> eng:vasopressor
+eng:vasoprotection --> eng:protection
+eng:vasoprotective --> eng:protective
+eng:vasoregulation --> eng:regulation
+eng:vasospasm --> eng:spasm --> fro:spasme --> lat:spasmus --> grc:σπασμός
+eng:vasovagal --> eng:vagal
+eng:vassalage --> fro:vassalage
+eng:vassaless --> eng:vassal
+eng:vassalry --> eng:vassal
+eng:vast --> lat:vastus
+eng:vastly --> eng:vast --> lat:vastus
+eng:Vasu --> san:वसु
+eng:vatable --> eng:VAT
+eng:vates --> lat:vates
+eng:vatful --> eng:vat
+eng:Vatican City --> ita:Città del Vaticano --> lat:Civitas Vaticana
+eng:Vaticanian --> eng:Vatican
+eng:Vaticanism --> eng:Vatican
+eng:Vaticanist --> eng:Vatican
+eng:vaticinate --> lat:vaticinatus
+eng:vaticination --> eng:vaticinate --> lat:vaticinatus
+eng:Vatinian --> lat:Vatinianus
+eng:vatman --> eng:vat
+eng:VATman --> eng:VAT
+eng:vatrushka --> rus:ватрушка
+eng:vaudevillelike --> eng:vaudeville
+eng:Vaughan --> cym:Vychan --> cym:bychan
+eng:vault --> eng:volte --> eng:volvita
+eng:vaultage --> eng:vault --> eng:volte --> eng:volvita
+eng:vaultful --> eng:vault --> eng:volte --> eng:volvita
+eng:vaultingly --> eng:vaulting
+eng:vaultlike --> eng:vault --> eng:volte --> eng:volvita
+eng:vaulty --> eng:vault --> eng:volte --> eng:volvita
+eng:vaunt --> xno:vaunter
+eng:vauntful --> eng:vaunt --> xno:vaunter
+eng:vauntingly --> eng:vaunting
+eng:vauntmure --> fra:avant-mur
+eng:vauxite --> eng:Vaux
+eng:vav --> heb:וי״ו
+eng:vavasory --> fra:vavassorie
+eng:vavasour --> fra:vavasour --> lat:vavassor
+eng:Vayk --> xcl:Վայք
+eng:Vayots Dzor --> xcl:Վայոց Ձոր
+eng:Vayu --> san:वायु
+eng:vealburger --> eng:burger
+eng:veatchite --> eng:Veatch
+eng:vection --> lat:vectio
+eng:Vectis --> lat:Vectis
+eng:Vectisian --> eng:Vectis --> lat:Vectis
+eng:vector --> lat:vector --> lat:veho
+eng:vector-borne --> eng:borne
+eng:vectorcardiogram --> eng:cardiogram
+eng:vectorcardiography --> eng:cardiography
+eng:vectorially --> eng:vectorial
+eng:vectorizability --> eng:vectorizable --> eng:vectorize --> eng:vector --> lat:vector --> lat:veho
+eng:vectorizable --> eng:vectorize --> eng:vector --> lat:vector --> lat:veho
+eng:vectorization --> eng:vectorize --> eng:vector --> lat:vector --> lat:veho
+eng:vectorize --> eng:vector --> lat:vector --> lat:veho
+eng:vectorizer --> eng:vectorize --> eng:vector --> lat:vector --> lat:veho
+eng:vectorscope --> eng:vector --> lat:vector --> lat:veho
+eng:vectorwise --> eng:vector --> lat:vector --> lat:veho
+eng:Veda --> san:वेद
+eng:Vedantic --> eng:Vedanta
+eng:Vedantist --> eng:Vedanta
+eng:vedette --> fra:vedette --> ita:vedetta
+eng:Vedic --> eng:Veda --> san:वेद
+eng:vedro --> rus:ведро --> orv:вѣдро
+eng:veejay --> eng:deejay --> eng:dee
+eng:Veepstakes --> eng:sweepstakes
+eng:veeringly --> eng:veering
+eng:veganaise --> eng:mayonnaise --> fra:mayonnaise
+eng:vegangelical --> eng:evangelical --> eng:evangel
+eng:veganism --> eng:vegan
+eng:vegaroni --> eng:pepperoni --> ita:peperone --> lat:piper --> grc:πέπερι
+eng:vegeburger --> eng:burger
+eng:vegelate --> eng:chocolate --> spa:chocolate
+eng:vegetarian --> eng:vegetable
+eng:vegetarianism --> eng:vegetarian --> eng:vegetable
+eng:vegetate --> lat:vegetatum
+eng:vegetation --> frm:végétation
+eng:vegetatively --> eng:vegetative
+eng:vegetous --> lat:vegetus
+eng:veggieburger --> eng:burger
+eng:veggiedog --> eng:dog --> enm:dogge --> ang:docga
+eng:veggo --> eng:vegetarian --> eng:vegetable
+eng:vehemency --> lat:vehementia
+eng:vehement --> lat:vehemens
+eng:vehicle --> fra:véhicule --> lat:vehiculum --> lat:vehere
+eng:vehicled --> eng:vehicle --> fra:véhicule --> lat:vehiculum --> lat:vehere
+eng:vehiclelike --> eng:vehicle --> fra:véhicule --> lat:vehiculum --> lat:vehere
+eng:vehicularly --> eng:vehicular
+eng:veilless --> eng:veil
+eng:veillike --> eng:veil
+eng:veinal --> eng:vein
+eng:veinlike --> eng:vein
+eng:veinstone --> eng:stone --> enm:stan --> ang:stan
+eng:veiny --> eng:vein
+eng:velamentous --> lat:velamentum
+eng:velar --> lat:velaris
+eng:velarise --> eng:velar --> lat:velaris
+eng:velarize --> eng:velar --> lat:velaris
+eng:velcroid --> eng:Velcro
+eng:velleity --> lat:velleitas --> lat:velle
+eng:vellication --> eng:vellicate
+eng:vellum --> fro:velin
+eng:vellumlike --> eng:vellum --> fro:velin
+eng:vellumy --> eng:vellum --> fro:velin
+eng:velocardiofacial --> eng:facial
+eng:velocipedist --> eng:velocipede
+eng:velocity --> lat:velocitas --> lat:velox
+eng:velodrome --> fra:vélodrome --> fra:vélo
+eng:velopharyngeal --> eng:velopharynx
+eng:velotaxi --> eng:taxi
+eng:velour --> fra:velours --> fro:velous --> lat:villosus --> lat:villus
+eng:velum --> lat:velum
+eng:velvet --> fro:veluotte --> lat:villus
+eng:velvetbreast --> eng:breast --> enm:brest --> ang:breost
+eng:velvetlike --> eng:velvet --> fro:veluotte --> lat:villus
+eng:velvety --> eng:velvet --> fro:veluotte --> lat:villus
+eng:venal --> fra:vénal --> lat:venalis --> lat:venum
+eng:venally --> eng:venal --> fra:vénal --> lat:venalis --> lat:venum
+eng:venary --> lat:venarius --> lat:venari
+eng:venatic --> lat:venaticus
+eng:venatorial --> lat:venatorius
+eng:vend --> fro:vendre --> lat:vendere
+eng:vendange --> fra:vendange --> lat:vindemia
+eng:vendee --> eng:vend --> fro:vendre --> lat:vendere
+eng:Vendémiaire --> lat:vindemia
+eng:vendetta --> ita:vendetta --> lat:vindicta --> lat:vindico --> lat:vindex --> lat:dico
+eng:vendible --> lat:vendibilis
+eng:Vendidad --> ave:𐬬𐬍𐬛𐬀𐬉𐬬𐬋𐬛𐬁𐬙𐬀
+eng:venditation --> lat:venditatio
+eng:veneer --> deu:Furnier --> deu:furnieren --> fra:fournir --> frm:fornir --> fro:fornir
+eng:venefic --> lat:veneficus
+eng:venefical --> lat:veneficus
+eng:venerably --> eng:venerable
+eng:venerate --> lat:venerātus
+eng:veneratest --> eng:venerate --> lat:venerātus
+eng:venerateth --> eng:venerate --> lat:venerātus
+eng:venereous --> lat:venereus
+eng:venery --> enm:venerie --> fro:venerie
+eng:Venetian --> eng:Venetia
+eng:Venetic --> lat:Veneticus
+eng:venge --> enm:vengen --> fro:venger --> lat:vindicare
+eng:vengeable --> xno:vengable
+eng:vengeance --> fro:venger --> lat:vindicare
+eng:vengeancely --> eng:vengeance --> fro:venger --> lat:vindicare
+eng:vengeful --> eng:venge --> enm:vengen --> fro:venger --> lat:vindicare
+eng:vengement --> fro:vengement --> fro:vengier
+eng:veniable --> lat:veniabilis
+eng:venial --> fro:venial --> lat:venialis --> lat:venia
+eng:veniality --> eng:venial --> fro:venial --> lat:venialis --> lat:venia
+eng:venially --> eng:venial --> fro:venial --> lat:venialis --> lat:venia
+eng:venialness --> eng:venial --> fro:venial --> lat:venialis --> lat:venia
+eng:venison --> fro:venison --> lat:venatio --> lat:venor
+eng:venisonburger --> eng:burger
+eng:Venkateswara --> san:वेङ्कटेश्वर
+eng:venography
+eng:venomless --> eng:venom
+eng:venomlike --> eng:venom
+eng:venter --> lat:venter
+eng:ventilatable --> eng:ventilate
+eng:Ventôse --> lat:ventosus --> lat:ventus
+eng:ventral --> lat:ventralis --> lat:venter
+eng:ventralization --> eng:ventralize --> eng:ventral --> lat:ventralis --> lat:venter
+eng:ventralize --> eng:ventral --> lat:ventralis --> lat:venter
+eng:ventricle --> fra:ventricule --> lat:ventriculus
+eng:ventripotent --> fra:ventripotent
+eng:ventrodorsal --> eng:dorsal --> lat:dorsalis --> lat:dorsum
+eng:ventro-inguinal --> eng:inguinal --> lat:inguinalis --> lat:inguen
+eng:ventrolateral --> eng:lateral --> lat:lateralis --> lat:latus
+eng:ventromedial --> eng:medial --> lat:medialis --> lat:medius
+eng:venture capitalist --> eng:venture capital
+eng:venturer --> eng:venture
+eng:venturesome --> eng:venture
+eng:venturesomely --> eng:venturesome --> eng:venture
+eng:venturingly --> eng:venturing
+eng:venturousness --> eng:venturous
+eng:venula --> lat:venula
+eng:venus --> lat:Venus
+eng:Venus --> lat:Venus
+eng:Venuslike --> eng:Venus --> lat:Venus
+eng:venust --> lat:venustus --> lat:Venus
+eng:veracity --> fro:veracitie --> lat:veracitas --> lat:verax
+eng:veraison --> fra:véraison
+eng:verandahless --> eng:verandah
+eng:veratrol --> eng:veratric
+eng:verb --> fro:verbe --> lat:verbum
+eng:verbality --> eng:verbal
+eng:verbalization --> eng:verbalize
+eng:verbalizer --> eng:verbalize
+eng:verbdom --> eng:verb --> fro:verbe --> lat:verbum
+eng:verbenalike --> eng:verbena
+eng:verbhood --> eng:verb --> fro:verbe --> lat:verbum
+eng:verbiage --> fra:verbiage --> frm:verbier
+eng:verbize --> eng:verb --> fro:verbe --> lat:verbum
+eng:verbless --> eng:verb --> fro:verbe --> lat:verbum
+eng:verblessly --> eng:verbless --> eng:verb --> fro:verbe --> lat:verbum
+eng:verblike --> eng:verb --> fro:verbe --> lat:verbum
+eng:verbose --> lat:verbosus
+eng:verboten --> deu:verboten
+eng:verdant --> frm:verdoyant
+eng:Verderer --> fra:verdier
+eng:verdictive --> eng:verdict
+eng:verdictless --> eng:verdict
+eng:verdine --> fra:verd
+eng:verditer --> fra:vert-de-terre
+eng:verdure --> fro:verdure
+eng:verdured --> eng:verdure --> fro:verdure
+eng:verdureless --> eng:verdure --> fro:verdure
+eng:Verfremdungseffekt --> deu:Verfremdungseffekt
+eng:verge --> frm:verge
+eng:vergeboard --> eng:board --> enm:bord
+eng:vergeress --> eng:verger
+eng:vergeth --> eng:verge --> frm:verge
+eng:veridical --> lat:veridicus
+eng:verifiable --> eng:verify --> fro:verifier --> lat:verificare
+eng:verifiably --> eng:verifiable --> eng:verify --> fro:verifier --> lat:verificare
+eng:verification --> eng:verify --> fro:verifier --> lat:verificare
+eng:verificationism --> eng:verification --> eng:verify --> fro:verifier --> lat:verificare
+eng:verificationist --> eng:verificationism --> eng:verification --> eng:verify --> fro:verifier --> lat:verificare
+eng:verify --> fro:verifier --> lat:verificare
+eng:verily --> enm:verraily
+eng:verisimilar --> lat:verisimilis
+eng:verisimilarly --> eng:verisimilar --> lat:verisimilis
+eng:verisimilitude --> lat:verisimilitudo
+eng:veritable --> fra:véritable --> lat:veritabilis
+eng:veritably --> eng:veritable --> fra:véritable --> lat:veritabilis
+eng:veritas --> lat:veritas
+eng:verity --> xno:verité --> lat:veritas
+eng:verjuice --> fra:verjus --> fra:jus --> lat:ius
+eng:Verlainesque --> eng:Verlaine
+eng:Verlainian --> eng:Verlaine
+eng:verlan --> fra:verlan
+eng:vermeil --> fra:vermeil --> lat:vermiculus --> lat:vermis
+eng:vermian
+eng:vermicidal --> eng:vermicide
+eng:vermicide
+eng:vermicious --> lat:vermis
+eng:vermicompost --> eng:compost
+eng:vermicomposter --> eng:vermicompost --> eng:compost
+eng:vermiculate --> lat:vermiculatus
+eng:vermiculite --> lat:vermiculus --> lat:vermis
+eng:vermiculture --> eng:culture --> lat:cultura --> lat:cultus --> lat:colo --> lat:colum
+eng:vermilion --> fra:vermeil --> lat:vermiculus --> lat:vermis
+eng:vermilionectomy --> eng:vermilion --> fra:vermeil --> lat:vermiculus --> lat:vermis
+eng:verminly --> eng:vermin
+eng:verminous --> eng:vermin
+eng:verminously --> eng:verminous --> eng:vermin
+eng:vermis --> lat:vermis
+eng:Vermonter --> eng:Vermont
+eng:vermouth --> fra:vermout --> deu:Wermut
+eng:vernacular --> lat:vernaculus --> lat:verna
+eng:vernacularism --> eng:vernacular --> lat:vernaculus --> lat:verna
+eng:vernacularly --> eng:vernacular --> lat:vernaculus --> lat:verna
+eng:vernaculous --> lat:vernaculus --> lat:verna
+eng:vernage --> ita:Vernaccia
+eng:vernal --> lat:vernalis --> lat:vernus --> lat:ver
+eng:vernalization --> eng:vernal --> lat:vernalis --> lat:vernus --> lat:ver
+eng:vernant --> lat:vernans
+eng:Verner alternation --> eng:Verner's law
+eng:vernility --> lat:vernilitas
+eng:vernine --> eng:vernal --> lat:vernalis --> lat:vernus --> lat:ver
+eng:vernissage --> fra:vernissage --> fra:vernir
+eng:vernix --> lat:vernix
+eng:vernonin --> eng:Vernonia
+eng:verrayment --> fro:veraiement --> fro:veraie
+eng:verruca --> lat:verruca
+eng:verrucose --> lat:verruca
+eng:versant --> fra:versant
+eng:versatile --> lat:versatilis --> lat:versare
+eng:versatility --> eng:versatile --> lat:versatilis --> lat:versare
+eng:versemaker --> eng:maker --> eng:make --> enm:make --> non:makr
+eng:versemaking --> eng:making --> eng:make --> enm:make --> non:makr
+eng:verseman --> eng:verse
+eng:versemonger --> eng:verse
+eng:versicolour --> lat:versicolor
+eng:versifier --> eng:versify --> fro:versifier
+eng:versify --> fro:versifier
+eng:version --> frm:version --> lat:versio --> lat:verto
+eng:versional --> eng:version --> frm:version --> lat:versio --> lat:verto
+eng:versioned --> eng:version --> frm:version --> lat:versio --> lat:verto
+eng:versioning --> eng:version --> frm:version --> lat:versio --> lat:verto
+eng:versionist --> eng:version --> frm:version --> lat:versio --> lat:verto
+eng:versionitis --> eng:version --> frm:version --> lat:versio --> lat:verto
+eng:verst --> rus:верста
+eng:versus --> lat:versus
+eng:vert --> fro:vert --> lat:viridis --> lat:virere
+eng:vertebra --> lat:vertebra --> lat:verto
+eng:vertebrally --> eng:vertebral
+eng:vertebre --> fra:vertebre --> lat:vertebra --> lat:verto
+eng:vertex --> lat:vertex --> lat:vertere
+eng:vertexless --> eng:vertex --> lat:vertex --> lat:vertere
+eng:verticalism --> eng:vertical
+eng:verticalize --> eng:vertical
+eng:vertically --> eng:vertical
+eng:verticil --> lat:verticillum
+eng:vertiginousness --> eng:vertiginous
+eng:vertigo --> lat:vertigo --> lat:verto
+eng:vertilinear --> eng:linear
+eng:vertuously --> eng:vertuous
+eng:vervain --> lat:verveine --> lat:verbena
+eng:verve --> fra:verve
+eng:very --> enm:verray --> fro:verai --> lat:verus
+eng:vesania --> lat:vesania --> lat:vesanus
+eng:vesica --> lat:vesica
+eng:vesicoanal --> eng:anal
+eng:vesicoprostatic --> eng:prostatic
+eng:vesicorectal --> eng:rectal
+eng:vesicouterine --> eng:uterine
+eng:vesicovaginorectal --> eng:vaginorectal --> eng:rectal
+eng:vesicularity --> eng:vesicular
+eng:vesiculitis --> eng:vesicle
+eng:Vespasian --> lat:Vespasianus
+eng:vespasienne --> fra:vespasienne
+eng:vespertine --> lat:vespertīnus
+eng:vessel --> fro:vaissel --> lat:vascellum
+eng:vesselful --> eng:vessel --> fro:vaissel --> lat:vascellum
+eng:vest --> fra:veste --> ita:veste
+eng:vestiary --> fro:vestiarie --> lat:vestiarium
+eng:vestibulitis --> eng:vestibule
+eng:vestibulocochlear --> eng:cochlear
+eng:vestigially --> eng:vestigial
+eng:vestiment --> fro:vestement --> lat:vestimentum
+eng:vestimentary --> eng:vestiment --> fro:vestement --> lat:vestimentum
+eng:vestiture --> lat:vestitura --> lat:vestire
+eng:vestless --> eng:vest --> fra:veste --> ita:veste
+eng:vestlet --> eng:vest --> fra:veste --> ita:veste
+eng:vestlike --> eng:vest --> fra:veste --> ita:veste
+eng:vestment --> lat:vestimentum
+eng:vesuvianite --> eng:Vesuvian
+eng:vetch --> fro:veche --> lat:vicia
+eng:vetchy --> eng:vetch --> fro:veche --> lat:vicia
+eng:veteran --> lat:veteranus --> lat:vetus
+eng:veteranize --> eng:veteran --> lat:veteranus --> lat:vetus
+eng:veteration --> lat:vetero --> lat:vetus
+eng:veterinarian --> lat:veterinarius --> lat:veterinum --> lat:vehiterinum --> lat:veho
+eng:vetiver --> fra:vétyver
+eng:vetoable --> eng:veto
+eng:vetoist --> eng:veto
+eng:vetoproof --> eng:veto
+eng:vettable --> eng:vet
+eng:vetter --> eng:vet
+eng:vettura --> ita:vettura --> lat:vectura
+eng:vex --> enm:vexen --> fro:vexer --> lat:vexare
+eng:vexatiously --> eng:vexatious
+eng:vexedly --> eng:vexed
+eng:vexedness --> eng:vexed
+eng:vexest --> eng:vex --> enm:vexen --> fro:vexer --> lat:vexare
+eng:vexeth --> eng:vex --> enm:vexen --> fro:vexer --> lat:vexare
+eng:vexillation --> lat:vexillatio
+eng:vexillologic --> eng:vexillology
+eng:vexillological --> eng:vexillology
+eng:via --> lat:via
+eng:viâ --> lat:via
+eng:vial --> enm:viole
+eng:viander --> eng:viand
+eng:viary --> lat:viarius
+eng:viatic --> lat:viaticus --> lat:via
+eng:viaticum --> lat:viaticum --> lat:via
+eng:vibrancy --> lat:vibrans
+eng:vibrant --> fra:vibrant --> lat:vibrans
+eng:vibrantly --> eng:vibrant --> fra:vibrant --> lat:vibrans
+eng:vibraphone --> eng:vibrato
+eng:vibrate --> lat:vibratus
+eng:vibratingly --> eng:vibrating
+eng:vibration --> fra:vibration --> lat:vibratio --> lat:vibro
+eng:vibratoless --> eng:vibrato
+eng:vibrator --> lat:vibrator
+eng:vibrioid --> eng:Vibrio
+eng:viburnum --> lat:viburnum
+eng:vicarless --> eng:vicar
+eng:vicarly --> eng:vicar
+eng:vicarship --> eng:vicar
+eng:vicary --> lat:vicarius --> lat:vicis
+eng:vice --> fra:vis --> fro:vis --> lat:visus --> lat:video
+eng:vice-chancellor --> eng:chancellor --> enm:chaunceler --> fro:chancelier --> lat:cancellarius --> lat:cancelli --> lat:cancer --> grc:καρκίνος
+eng:viced --> eng:vice --> fra:vis --> fro:vis --> lat:visus --> lat:video
+eng:vicegerent --> lat:vicegerens
+eng:vicelet --> lat:vicelet
+eng:vicelike --> eng:vice --> fra:vis --> fro:vis --> lat:visus --> lat:video
+eng:viceman --> eng:man --> enm:man --> ang:mann
+eng:vicenarian --> lat:vicenarius
+eng:vicenary --> lat:vicenarius
+eng:Vicenza --> ita:Vicenza --> lat:Vincentia
+eng:Vice-President --> eng:President
+eng:viceroy --> frm:vice-roy
+eng:vicinage --> fro:visenage
+eng:vicinal --> lat:vicinalis --> lat:vicinus --> lat:vicus
+eng:vicious --> xno:vicious
+eng:viciously --> eng:vicious --> xno:vicious
+eng:vicissitude --> lat:vicissitudo --> lat:vicissim --> lat:vicis
+eng:vicissitudinary --> lat:vicissitudo --> lat:vicissim --> lat:vicis
+eng:vicissitudinously --> eng:vicissitudinous
+eng:victimhood --> eng:victim
+eng:victimize --> eng:victim
+eng:victimless --> eng:victim
+eng:victimlike --> eng:victim
+eng:victimship --> eng:victim
+eng:victimy --> eng:victim
+eng:victoress --> eng:victor
+eng:Victoria --> lat:Victoria --> lat:victoria --> lat:victor
+eng:Victoriana --> eng:Victorian
+eng:victoriously --> eng:victorious
+eng:victoriousness --> eng:victorious
+eng:victory --> enm:victory --> fro:victorie --> lat:victoria --> lat:victor
+eng:victual --> enm:vitaille --> lat:victualia --> lat:victus --> lat:vivo
+eng:victualage --> eng:victual --> enm:vitaille --> lat:victualia --> lat:victus --> lat:vivo
+eng:vicuna --> spa:vicuña --> que:wikúña
+eng:vicus --> lat:vicus
+eng:Vidar --> non:Víðarr
+eng:vidding --> eng:vid
+eng:viddy --> eng:video --> lat:video
+eng:vide --> lat:vide
+eng:video --> lat:video
+eng:videoblog --> eng:blog
+eng:videoboard --> eng:board --> enm:bord
+eng:videocall --> eng:call --> enm:callen
+eng:videocassette --> eng:cassette --> fra:cassette
+eng:videocentric
+eng:videoconference --> eng:conference
+eng:videocracy --> eng:video --> lat:video
+eng:videoframe --> eng:frame --> enm:framen
+eng:videogaming --> eng:gaming
+eng:videogenic --> eng:video --> lat:video
+eng:videography --> eng:video --> lat:video
+eng:videoholic --> eng:video --> lat:video
+eng:videoless --> eng:video --> lat:video
+eng:videolike --> eng:video --> lat:video
+eng:videomaker --> eng:maker --> eng:make --> enm:make --> non:makr
+eng:videomaking --> eng:making --> eng:make --> enm:make --> non:makr
+eng:videomicroscopy --> eng:microscopy
+eng:videophile --> eng:video --> lat:video
+eng:videophilia --> eng:video --> lat:video
+eng:videophone --> eng:phone
+eng:videoscreen --> eng:screen --> enm:screne --> xno:escren
+eng:videotaper --> eng:videotape
+eng:videotelephony --> eng:telephony --> eng:telephone
+eng:videoterminal --> eng:terminal --> fra:terminal --> lat:terminalis
+eng:videozine --> eng:video --> lat:video
+eng:videte --> lat:videte
+eng:vidiot --> eng:idiot
+eng:vidual --> lat:vidualis
+eng:vie --> fra:envier --> fra:envie --> lat:invidia --> lat:invidere
+eng:vielle --> fro:viele
+eng:Viennese --> eng:Vienna
+eng:Vientiane --> fra:Vientiane --> lao:ວຽງຈັນ
+eng:Vietnamese --> eng:Vietnam
+eng:Vietraq --> eng:Iraq
+eng:view --> xno:vewe --> fro:veue
+eng:viewability --> eng:viewable --> eng:view --> xno:vewe --> fro:veue
+eng:viewable --> eng:view --> xno:vewe --> fro:veue
+eng:viewdata --> eng:data --> lat:data --> lat:datus
+eng:viewer --> eng:view --> xno:vewe --> fro:veue
+eng:viewership --> eng:viewer --> eng:view --> xno:vewe --> fro:veue
+eng:viewiness --> eng:viewy
+eng:viewless --> eng:view --> xno:vewe --> fro:veue
+eng:viewpointless --> eng:viewpoint
+eng:viewport --> eng:port --> ang:port --> lat:portus
+eng:viewspaper --> eng:newspaper --> eng:news
+eng:vigesimal --> lat:vicesimus
+eng:vigia --> spa:vigía --> por:vigia
+eng:vigil --> enm:vigile --> fro:vigile --> lat:vigilia --> lat:vigil
+eng:vigilancy --> lat:vigilantia
+eng:vigilante --> spa:vigilante --> lat:vigilans
+eng:vigilantelike --> eng:vigilante --> spa:vigilante --> lat:vigilans
+eng:vigilantism --> eng:vigilante --> spa:vigilante --> lat:vigilans
+eng:vigilantly --> eng:vigilant
+eng:vigily --> lat:vigilia --> lat:vigil
+eng:viginti- --> lat:viginti
+eng:vigintillion --> eng:million
+eng:vigintivirate --> lat:vigintiviratus
+eng:vigorously --> eng:vigorous
+eng:vigorousness --> eng:vigorous
+eng:vigoured --> eng:vigour
+eng:vigourously --> eng:vigourous
+eng:vigourousness --> eng:vigourous
+eng:vihara --> san:विहार
+eng:viitaniemiite --> eng:Viitaniemi
+eng:Vijaya --> san:विजय
+eng:Vijayadashami --> san:विजय
+eng:vila --> hbs:vila --> lat:villa
+eng:vilayet --> tur:vilayet --> ara:ولاية
+eng:vile --> lat:vilis
+eng:vilely --> eng:vile --> lat:vilis
+eng:vilify --> lat:vilificare
+eng:vilipend --> enm:vilipenden --> fro:vilipender --> lat:vilipendere
+eng:vill --> xno:vill --> fro:vile --> lat:villa
+eng:villa --> ita:villa --> lat:villa
+eng:villadom --> eng:villa --> ita:villa --> lat:villa
+eng:village --> fra:village --> ita:villaggio
+eng:villagehood --> eng:village --> fra:village --> ita:villaggio
+eng:villagelike --> eng:village --> fra:village --> ita:villaggio
+eng:villager --> eng:village --> fra:village --> ita:villaggio
+eng:villagery --> eng:village --> fra:village --> ita:villaggio
+eng:villagey --> eng:village --> fra:village --> ita:villaggio
+eng:villagize --> eng:village --> fra:village --> ita:villaggio
+eng:villainess --> eng:villain
+eng:villainize --> eng:villain
+eng:villainousness --> eng:villainous
+eng:villainry --> eng:villain
+eng:villakin --> eng:villa --> ita:villa --> lat:villa
+eng:villalike --> eng:villa --> ita:villa --> lat:villa
+eng:villein --> xno:villein
+eng:villeinage --> eng:villein --> xno:villein
+eng:villi --> lat:villus
+eng:vimineous --> lat:vimineus
+eng:vimless --> eng:vim
+eng:vinatico --> por:vinhatico
+eng:vincetoxin --> eng:Vincetoxicum
+eng:vincible --> lat:vincibilis --> lat:vincere
+eng:vincibleness --> eng:vincible --> lat:vincibilis --> lat:vincere
+eng:vinciennite --> eng:Vincienne
+eng:vinculin --> eng:vinculum --> lat:vinculum --> lat:vincio
+eng:vinculum --> lat:vinculum --> lat:vincio
+eng:vindemial --> lat:vindemialis
+eng:vindemiation --> lat:vindemiatio
+eng:vindicable --> lat:vindicabilis
+eng:vindicate --> lat:vindicatus
+eng:vindicatorily --> eng:vindicatory --> eng:vindicate --> lat:vindicatus
+eng:vindicatory --> eng:vindicate --> lat:vindicatus
+eng:vindictive --> lat:vindicta --> lat:vindico --> lat:vindex --> lat:dico
+eng:vindictively --> eng:vindictive --> lat:vindicta --> lat:vindico --> lat:vindex --> lat:dico
+eng:vine --> fro:vigne --> lat:vinea --> lat:vinum
+eng:vineal --> lat:vinealis
+eng:vined --> eng:vine --> fro:vigne --> lat:vinea --> lat:vinum
+eng:vinegarish --> eng:vinegar
+eng:vinegarishly --> eng:vinegarish --> eng:vinegar
+eng:vinegarishness --> eng:vinegarish --> eng:vinegar
+eng:vinegarless --> eng:vinegar
+eng:vinegarlike --> eng:vinegar
+eng:vinegary --> eng:vinegar
+eng:vineless --> eng:vine --> fro:vigne --> lat:vinea --> lat:vinum
+eng:vinelike --> eng:vine --> fro:vigne --> lat:vinea --> lat:vinum
+eng:vinewood --> eng:vine --> fro:vigne --> lat:vinea --> lat:vinum
+eng:vineyard --> eng:vine --> fro:vigne --> lat:vinea --> lat:vinum
+eng:vingle --> eng:single --> enm:sengle --> fro:sengle --> lat:singulus --> lat:simplex
+eng:vingtaine --> fra:vingtaine
+eng:vinify --> eng:vine --> fro:vigne --> lat:vinea --> lat:vinum
+eng:vinnewed --> enm:vinnewed
+eng:Vinny --> eng:Vincent
+eng:Vinnytsia --> ukr:Вінниця
+eng:vinolency --> lat:vinolentina
+eng:vinolent --> lat:vinolentus
+eng:vinous --> lat:vinosus
+eng:vintager --> eng:vintage
+eng:vintagey --> eng:vintage
+eng:vintry --> enm:viniterie --> fro:vinotier
+eng:violable --> lat:violabilis
+eng:violably --> eng:violable --> lat:violabilis
+eng:viola da gamba --> ita:viola da gamba
+eng:violaquercitrin --> eng:Viola
+eng:violate --> lat:violatus
+eng:violation --> fra:violation --> lat:violatio --> lat:violo --> lat:vis --> lat:volo
+eng:violence-ridden --> eng:violence
+eng:violent --> fro:violent --> lat:violentus --> lat:vis --> lat:volo
+eng:violently --> eng:violent --> fro:violent --> lat:violentus --> lat:vis --> lat:volo
+eng:violentness --> eng:violent --> fro:violent --> lat:violentus --> lat:vis --> lat:volo
+eng:violet --> fro:violette --> lat:viola
+eng:violetlike --> eng:violet --> fro:violette --> lat:viola
+eng:violetness --> eng:violet --> fro:violette --> lat:viola
+eng:violin --> ita:violino --> ita:viola --> lat:viola
+eng:violinist --> eng:violin --> ita:violino --> ita:viola --> lat:viola
+eng:violinistic --> eng:violinist --> eng:violin --> ita:violino --> ita:viola --> lat:viola
+eng:violinlike --> eng:violin --> ita:violino --> ita:viola --> lat:viola
+eng:violinmaker --> eng:maker --> eng:make --> enm:make --> non:makr
+eng:violinmaking --> eng:making --> eng:make --> enm:make --> non:makr
+eng:violoncellist --> eng:violoncello
+eng:viper --> lat:vipera
+eng:viperfish --> eng:fish --> ang:fiscian
+eng:viperish --> eng:viper --> lat:vipera
+eng:viperishly --> eng:viperish --> eng:viper --> lat:vipera
+eng:viperishness --> eng:viperish --> eng:viper --> lat:vipera
+eng:viperlike --> eng:viper --> lat:vipera
+eng:VIPoma --> eng:VIP
+eng:viraemia --> lat:virus
+eng:viraginous --> eng:virago --> lat:virago --> lat:vir
+eng:virago --> lat:virago --> lat:vir
+eng:virality --> eng:viral
+eng:virally --> eng:viral
+eng:vire --> fro:vire
+eng:virelai --> fro:virelai
+eng:virga --> lat:virga
+eng:virgate --> lat:virgātus
+eng:Virgil --> lat:Virgilius
+eng:Virgilian --> eng:Virgil --> lat:Virgilius
+eng:virgin --> fro:virgine --> lat:virginem
+eng:virginal --> lat:virginalis --> lat:virgo
+eng:virginally --> eng:virginal --> lat:virginalis --> lat:virgo
+eng:virginhood --> eng:virgin --> fro:virgine --> lat:virginem
+eng:Virginia --> lat:Virginia --> lat:virgo
+eng:Virginian --> eng:Virginia --> lat:Virginia --> lat:virgo
+eng:virginium --> eng:Virginia --> lat:Virginia --> lat:virgo
+eng:virginly --> eng:virgin --> fro:virgine --> lat:virginem
+eng:Virgo --> lat:virgo
+eng:virgo intacta --> lat:virgo
+eng:virgular --> lat:virgula
+eng:virgule --> lat:virgula
+eng:viridness --> eng:virid
+eng:virile --> lat:virilis
+eng:virilely --> eng:virile --> lat:virilis
+eng:virility --> lat:virīlitās
+eng:virilize --> eng:virile --> lat:virilis
+eng:virionic --> eng:virion
+eng:virogenesis --> eng:virus --> lat:virus
+eng:viroled --> eng:virole
+eng:virose --> lat:virosus
+eng:virosis --> eng:virus --> lat:virus
+eng:virostatic --> eng:static
+eng:virtopsy --> eng:autopsy --> lat:autopsia --> grc:αὐτοψία
+eng:virtual --> lat:virtualis --> lat:virtus --> lat:vir
+eng:virtualism --> eng:virtual --> lat:virtualis --> lat:virtus --> lat:vir
+eng:virtualist --> eng:virtual --> lat:virtualis --> lat:virtus --> lat:vir
+eng:virtuality --> eng:virtual --> lat:virtualis --> lat:virtus --> lat:vir
+eng:virtualizable --> eng:virtualize --> eng:virtual --> lat:virtualis --> lat:virtus --> lat:vir
+eng:virtualize --> eng:virtual --> lat:virtualis --> lat:virtus --> lat:vir
+eng:virtually --> eng:virtual --> lat:virtualis --> lat:virtus --> lat:vir
+eng:virtualness --> eng:virtual --> lat:virtualis --> lat:virtus --> lat:vir
+eng:virtue --> enm:vertu --> xno:vertu --> lat:virtus --> lat:vir
+eng:virtuecrat --> eng:virtue --> enm:vertu --> xno:vertu --> lat:virtus --> lat:vir
+eng:virtueless --> eng:virtue --> enm:vertu --> xno:vertu --> lat:virtus --> lat:vir
+eng:virtuosic --> eng:virtuoso
+eng:virtuosically --> eng:virtuosic --> eng:virtuoso
+eng:virtuosity --> eng:virtuoso
+eng:virtuosoship --> eng:virtuoso
+eng:virtuously --> eng:virtuous
+eng:virulent --> lat:virus
+eng:virulented --> eng:virulent --> lat:virus
+eng:virulently --> eng:virulent --> lat:virus
+eng:virulentness --> eng:virulent --> lat:virus
+eng:virus --> lat:virus
+eng:viruslike --> eng:virus --> lat:virus
+eng:virusoid --> eng:virus --> lat:virus
+eng:virussy --> eng:virus --> lat:virus
+eng:vis --> lat:vis --> lat:volo
+eng:visaless --> eng:visa
+eng:vis-à-vis --> fra:vis-à-vis --> fra:vis --> fro:vis --> lat:visus --> lat:video
+eng:visceral --> lat:viscera
+eng:viscid --> lat:viscidus
+eng:viscidly --> eng:viscid --> lat:viscidus
+eng:viscidness --> eng:viscid --> lat:viscidus
+eng:viscoelastic --> eng:elastic --> lat:elasticus
+eng:viscoelasticity --> eng:elasticity
+eng:viscometer --> eng:meter --> fra:mètre --> grc:μέτρον
+eng:viscoplastic --> eng:plastic --> lat:plasticus --> grc:πλαστικός --> grc:πλάσσειν
+eng:viscoplasticity --> eng:plasticity
+eng:viscoresistive --> eng:resistive --> eng:resist --> xno:resistre
+eng:viscose --> lat:viscosus --> lat:viscum
+eng:viscountship --> eng:viscount
+eng:viscousless --> eng:viscous
+eng:viscously --> eng:viscous
+eng:viscousness --> eng:viscous
+eng:vise --> fra:vis --> fro:vis --> lat:visus --> lat:video
+eng:viselike --> eng:vise --> fra:vis --> fro:vis --> lat:visus --> lat:video
+eng:vishap --> hye:վիշապ
+eng:vishing --> eng:phishing
+eng:vishnevite --> eng:Vishnev
+eng:Vishnu --> san:विष्णु
+eng:visibleness --> eng:visible
+eng:visibly --> eng:visible
+eng:Visigothic --> eng:Visigoth
+eng:visilizumab
+eng:vision --> lat:visio
+eng:visionarily --> eng:visionary
+eng:visionariness --> eng:visionary
+eng:visionless --> eng:vision --> lat:visio
+eng:visionwise --> eng:vision --> lat:visio
+eng:visit --> lat:visito
+eng:visitable --> eng:visit --> lat:visito
+eng:visitant --> fra:visitant
+eng:visitorship --> eng:visitor
+eng:visne --> fro:visné
+eng:visnomy --> enm:fisnomye
+eng:visor --> xno:viser --> fro:visiere
+eng:visored --> eng:visor --> xno:viser --> fro:visiere
+eng:visorless --> eng:visor --> xno:viser --> fro:visiere
+eng:vista --> ita:vista --> ita:visto
+eng:visuality --> eng:visual
+eng:visualizer --> eng:visualize
+eng:visual kei --> jpn:ヴィジュアル系
+eng:visually --> eng:visual
+eng:visualness --> eng:visual
+eng:visuopractical --> eng:practical --> eng:practic
+eng:visuospatial --> eng:spatial
+eng:visuospatially --> eng:visuospatial --> eng:spatial
+eng:vitalise --> eng:vital
+eng:vitalism --> eng:vital
+eng:vitalist --> eng:vital
+eng:vitalistically --> eng:vitalistic
+eng:vitality --> fra:vitalité --> lat:vitalitas --> lat:vitalis --> lat:vita --> lat:vivo
+eng:vitalize --> eng:vital
+eng:vitally --> eng:vital
+eng:vitamer --> eng:vitamin
+eng:vitaminic --> eng:vitamin
+eng:vitaminise --> eng:vitamin
+eng:vitaminize --> eng:vitamin
+eng:vitaminless --> eng:vitamin
+eng:vitaminlike --> eng:vitamin
+eng:vitiate --> lat:vitiatus
+eng:vitiation --> lat:vitiare
+eng:vitiosity --> lat:vitiositas --> lat:vitiosus --> lat:vitium
+eng:vitreoretinal --> eng:retinal
+eng:vitreous --> lat:vitreus --> lat:vitrum
+eng:vitreousness --> eng:vitreous --> lat:vitreus --> lat:vitrum
+eng:vitrification --> lat:vitrum
+eng:vitrine --> fra:vitrine --> fra:vitre --> lat:vitrum
+eng:vitrinitic --> eng:vitrinite
+eng:vitriol --> lat:vitriolum --> lat:vitrum
+eng:vitriolically --> eng:vitriolic
+eng:Vitruvian --> eng:Vitruvius
+eng:vituline --> lat:vitulinus
+eng:vituperate --> lat:vituperatum
+eng:vituperation --> lat:vituperatio
+eng:vituperativeness --> eng:vituperative
+eng:vituperator --> lat:vituperator
+eng:vituperous --> fra:vitupéreux --> lat:vituperosus --> lat:vituperare
+eng:vivacious --> lat:vivax --> lat:vivo
+eng:vivaciously --> eng:vivacious --> lat:vivax --> lat:vivo
+eng:vivacity --> lat:vivacitas --> lat:vivax --> lat:vivo
+eng:vivarium --> lat:vivarium
+eng:vivat --> lat:vivat
+eng:vivency --> lat:vivens
+eng:viverrid --> eng:Viverridae
+eng:viverrine --> lat:viverra
+eng:vivers --> fra:vivres
+eng:vives --> fro:vives
+eng:viveur --> fra:viveur --> fra:vive
+eng:vivid --> lat:vividus
+eng:vividness --> eng:vivid --> lat:vividus
+eng:vivification --> lat:''vivificare''
+eng:viviparous --> lat:viviparus
+eng:viviparously --> eng:viviparous --> lat:viviparus
+eng:vivisector --> eng:vivisect
+eng:vixen --> ang:fixen
+eng:vixenishly --> eng:vixenish
+eng:vixenishness --> eng:vixenish
+eng:vixenlike --> eng:vixen --> ang:fixen
+eng:viz. --> lat:videlicet
+eng:Vizenorian --> eng:Vizenor
+eng:vizier --> tur:vezir --> ara:وزير
+eng:vizirial --> eng:vizir
+eng:vizorless --> eng:vizor
+eng:Vizsla --> hun:vizsla
+eng:Vladika --> hbs:vladika
+eng:Vladikavkaz --> rus:Владикавказ
+eng:Vladimir --> rus:Владимир
+eng:vlogger --> eng:vlog
+eng:voacangine --> eng:Voacanga
+eng:vocal --> fro:vocal --> lat:vocalis
+eng:vocalese --> eng:vocal --> fro:vocal --> lat:vocalis
+eng:vocalise --> eng:vocal --> fro:vocal --> lat:vocalis
+eng:vocalist --> eng:vocal --> fro:vocal --> lat:vocalis
+eng:vocality --> eng:vocal --> fro:vocal --> lat:vocalis
+eng:vocalizational --> eng:vocalization
+eng:vocalize --> eng:vocal --> fro:vocal --> lat:vocalis
+eng:vocalizer --> eng:vocalize --> eng:vocal --> fro:vocal --> lat:vocalis
+eng:vocally --> eng:vocal --> fro:vocal --> lat:vocalis
+eng:vocalness --> eng:vocal --> fro:vocal --> lat:vocalis
+eng:vocation --> fro:vocation --> lat:vocatio
+eng:vocational --> eng:vocation --> fro:vocation --> lat:vocatio
+eng:vocatively --> eng:vocative
+eng:vociferance --> lat:vociferor
+eng:vociferant --> lat:vociferans
+eng:vociferate --> lat:vociferatus
+eng:vociferation --> lat:vociferatio --> lat:vociferor
+eng:vociferous --> lat:vociferari
+eng:vociferously --> eng:vociferous --> lat:vociferari
+eng:vocoderlike --> eng:vocoder
+eng:vocule --> lat:vocula
+eng:voddy --> eng:vodka
+eng:vodkaless --> eng:vodka
+eng:vodkalike --> eng:vodka
+eng:vodyanoy --> rus:водяной
+eng:Voegelinian --> eng:Voegelin
+eng:voël --> afr:voël
+eng:voetsek --> afr:voetsek
+eng:vog --> eng:smog --> eng:fog
+eng:voggy --> eng:vog --> eng:smog --> eng:fog
+eng:voguer --> eng:vogue
+eng:voguing --> eng:vogue
+eng:voguish --> eng:vogue
+eng:voguishly --> eng:voguish --> eng:vogue
+eng:voguishness --> eng:voguish --> eng:vogue
+eng:voice --> enm:vois --> xno:voiz
+eng:voiceband --> eng:band --> enm:band --> ang:beand
+eng:voiceful --> eng:voice --> enm:vois --> xno:voiz
+eng:voiceless --> eng:voice --> enm:vois --> xno:voiz
+eng:voicelessly --> eng:voiceless --> eng:voice --> enm:vois --> xno:voiz
+eng:voicelike --> eng:voice --> enm:vois --> xno:voiz
+eng:voicemailbox --> eng:mailbox --> eng:box --> ang:box
+eng:voiceprint --> eng:print --> fro:preinte
+eng:voicework --> eng:voice --> enm:vois --> xno:voiz
+eng:voicism --> eng:voice --> enm:vois --> xno:voiz
+eng:voicist --> eng:voice --> enm:vois --> xno:voiz
+eng:void --> fro:vuit
+eng:voidness --> eng:void --> fro:vuit
+eng:Voigt --> deu:Voigt
+eng:voila --> fra:voilà --> fra:vois
+eng:voile --> xno:veil
+eng:voken --> eng:token --> enm:token
+eng:volage --> fro:volage --> lat:volaticus --> lat:volo
+eng:volant --> frm:volant
+eng:Volapük --> vol:Volapük --> vol:pük
+eng:Volapükist --> eng:Volapük --> vol:Volapük --> vol:pük
+eng:volar --> lat:vola
+eng:volatile --> lat:volatilis --> lat:volo
+eng:volatilely --> eng:volatile --> lat:volatilis --> lat:volo
+eng:volatileness --> eng:volatile --> lat:volatilis --> lat:volo
+eng:volcanic --> fra:volcanique --> fra:volcan --> lat:Vulcanus
+eng:volcanically --> eng:volcanic --> fra:volcanique --> fra:volcan --> lat:Vulcanus
+eng:volcano --> ita:vulcano
+eng:volcanogenic --> eng:volcano --> ita:vulcano
+eng:volcanologist --> eng:volcanology
+eng:volcano rabbit --> eng:rabbit --> enm:rabet
+eng:volelike --> eng:vole
+eng:Volga --> rus:Волга
+eng:Volgograd --> rus:Волгоград
+eng:volitant --> lat:volitans
+eng:volitation --> lat:volitatio --> lat:volitare
+eng:volition --> fra:volition --> lat:volitio --> lat:volo
+eng:volitional --> lat:volitio --> lat:volo
+eng:volitionally --> eng:volitional --> lat:volitio --> lat:volo
+eng:volitive --> lat:volitivus
+eng:Völkerwanderung --> deu:Völkerwanderung --> deu:Volk --> goh:folc
+eng:volley --> frm:volee --> lat:volta --> lat:volatus
+eng:volleyballer --> eng:volleyball
+eng:volleyer --> eng:volley --> frm:volee --> lat:volta --> lat:volatus
+eng:volow --> lat:volo
+eng:voltage --> eng:volt
+eng:voltagelike --> eng:voltage --> eng:volt
+eng:voltaic --> eng:Volta
+eng:Voltairean --> eng:Voltaire
+eng:Voltairism --> eng:Voltaire
+eng:volte --> eng:volvita
+eng:voltzite --> eng:Voltz
+eng:voluble --> lat:volubilis --> lat:volvo
+eng:volubly --> eng:voluble --> lat:volubilis --> lat:volvo
+eng:volume --> fro:volume --> lat:volumen --> lat:volvo
+eng:volumed --> eng:volume --> fro:volume --> lat:volumen --> lat:volvo
+eng:volumeless --> eng:volume --> fro:volume --> lat:volumen --> lat:volvo
+eng:volumescope --> eng:volume --> fro:volume --> lat:volumen --> lat:volvo
+eng:voluminously --> eng:voluminous
+eng:volumist --> eng:volume --> fro:volume --> lat:volumen --> lat:volvo
+eng:volumize --> eng:volume --> fro:volume --> lat:volumen --> lat:volvo
+eng:volumizer --> eng:volumize --> eng:volume --> fro:volume --> lat:volumen --> lat:volvo
+eng:volumometer --> eng:volume --> fro:volume --> lat:volumen --> lat:volvo
+eng:voluntarily --> eng:voluntary
+eng:voluntarism --> eng:voluntary
+eng:voluntaristic --> eng:voluntarist
+eng:volunteer --> frm:voluntaire --> lat:voluntarius --> lat:volo
+eng:voluntell --> eng:tell --> ara:تل
+eng:voluntourism --> eng:tourism --> eng:tour --> fro:tor --> lat:turris --> grc:τύρρις
+eng:voluptuous --> lat:voluptuosus --> lat:voluptas --> lat:volup
+eng:voluptuously --> eng:voluptuous --> lat:voluptuosus --> lat:voluptas --> lat:volup
+eng:volutation --> lat:volutatio
+eng:voluted --> eng:volute
+eng:volva --> lat:volva
+eng:völva --> non:vǫlva --> non:vǫlr
+eng:Volvo --> lat:volvo
+eng:Volyn --> ukr:Волинь
+eng:vomerine --> eng:vomer
+eng:vomicine --> eng:vomica
+eng:vomit --> enm:vomiten --> lat:vomitare
+eng:vomiter --> eng:vomit --> enm:vomiten --> lat:vomitare
+eng:vomitive --> lat:vomitivus
+eng:vomitlike --> eng:vomit --> enm:vomiten --> lat:vomitare
+eng:vomitorium --> lat:vomitorium
+eng:vomitory --> lat:vomitorium
+eng:vomitously --> eng:vomitous
+eng:vomity --> eng:vomit --> enm:vomiten --> lat:vomitare
+eng:Vonnegutian --> eng:Vonnegut
+eng:voodooish --> eng:voodoo
+eng:voodooist --> eng:voodoo
+eng:voodoolike --> eng:voodoo
+eng:voorleser --> nld:voorleser
+eng:voracious --> lat:vorax --> lat:voro
+eng:voraciously --> eng:voracious --> lat:vorax --> lat:voro
+eng:voraginous --> lat:voraginosus --> lat:vorago --> lat:voro
+eng:vortexed --> eng:vortex
+eng:vortexlike --> eng:vortex
+eng:vortically --> eng:vortical
+eng:vorticity --> eng:vortex
+eng:votable --> eng:vote --> lat:votum --> lat:voveo
+eng:votaress --> eng:votary
+eng:vote --> lat:votum --> lat:voveo
+eng:voteless --> eng:vote --> lat:votum --> lat:voveo
+eng:voter --> eng:vote --> lat:votum --> lat:voveo
+eng:votesheet --> eng:sheet
+eng:votive --> lat:votivus --> lat:votum --> lat:voveo
+eng:votress --> eng:voter --> eng:vote --> lat:votum --> lat:voveo
+eng:vouch --> fro:voucher --> lat:vocare
+eng:vouchee --> eng:vouch --> fro:voucher --> lat:vocare
+eng:voucherless --> eng:voucher
+eng:vouchment --> eng:vouch --> fro:voucher --> lat:vocare
+eng:vouchsafement --> eng:vouchsafe
+eng:vouchsafer --> eng:vouchsafe
+eng:voussoired --> eng:voussoir
+eng:vowel --> fro:vouel --> lat:vocalis
+eng:vowelish --> eng:vowel --> fro:vouel --> lat:vocalis
+eng:vowelism --> eng:vowel --> fro:vouel --> lat:vocalis
+eng:vowelize --> eng:vowel --> fro:vouel --> lat:vocalis
+eng:vower --> eng:vow
+eng:vowless --> eng:vow
+eng:voxel --> eng:pixel
+eng:voxelwise --> eng:voxel --> eng:pixel
+eng:vox populi --> lat:vox populi
+eng:voyage --> enm:viage --> fro:voiage --> lat:viaticum --> lat:via
+eng:voyeur --> fra:voyeur --> fra:voir --> fro:veoir --> lat:video
+eng:voyeurism --> eng:voyeur --> fra:voyeur --> fra:voir --> fro:veoir --> lat:video
+eng:Voynichese --> eng:Voynich
+eng:vozhd --> rus:вождь
+eng:vraka --> ell:βράκα --> lat:bracae
+eng:vrddhi --> san:वृद्धि
+eng:vrddhied --> eng:vrddhi --> san:वृद्धि
+eng:Vritra --> san:वृत्र
+eng:vrot --> afr:vrot
+eng:vrouw --> nld:vrouw --> dum:vrouwe --> odt:frouwa
+eng:v.s. --> eng:vide supra
+eng:vuggy --> eng:vug
+eng:Vulcan --> lat:Vulcanus
+eng:vulcanologist --> lat:Vulcan
+eng:vulcanology --> lat:Vulcan
+eng:vulgarian --> eng:vulgar
+eng:Vulgate --> lat:versio vulgata
+eng:vulnerable --> lat:vulnerabilis --> lat:vulnero --> lat:vulnus
+eng:vulnerary --> lat:vulnerarius --> lat:vulnus
+eng:vulneration --> lat:vulneratio
+eng:vulnific --> lat:vulnus
+eng:vulpine --> lat:vulpinus
+eng:vulture --> lat:vultur
+eng:vulture capitalist --> eng:venture capitalist --> eng:venture capital
+eng:vulturelike --> eng:vulture --> lat:vultur
+eng:vulturish --> eng:vulture --> lat:vultur
+eng:vulturism --> eng:vulture --> lat:vultur
+eng:vulva --> lat:vulva
+eng:vulval --> eng:vulva --> lat:vulva
+eng:vulvalike --> eng:vulva --> lat:vulva
+eng:vulvodynia
+eng:vulvo-uterine --> eng:uterine
+eng:vulvovaginal --> eng:vaginal --> eng:vagina --> lat:vagina
+eng:vulvovaginitis --> eng:vaginitis
+eng:vurp --> eng:burp
+eng:vushka --> ukr:вушка
+eng:vuvuzela --> zul:vuvuzela
+eng:vuvuzelist --> eng:vuvuzela --> zul:vuvuzela
+eng:vyingly --> eng:vying
+eng:vyuntspakhkite --> eng:Vyuntspakh

@@ -1,0 +1,3372 @@
+eng:fab --> eng:fabulous
+eng:Fab --> eng:fab --> eng:fabulous
+eng:fabaceous --> lat:fabaceus
+eng:fabbo --> eng:fab --> eng:fabulous
+eng:fabby --> eng:fab --> eng:fabulous
+eng:Fabian --> lat:Fabianus
+eng:Fabius --> lat:Fabius
+eng:fablelike --> eng:fable
+eng:fabliau --> fro:fabliau
+eng:fabric --> fra:fabrique --> lat:fabrica --> lat:faber
+eng:fabricate --> lat:fabricatus
+eng:fabricless --> eng:fabric --> fra:fabrique --> lat:fabrica --> lat:faber
+eng:fabriclike --> eng:fabric --> fra:fabrique --> lat:fabrica --> lat:faber
+eng:fabrile --> lat:fabrilis
+eng:fabulate --> lat:fabulatus
+eng:fabulosity --> lat:fabulositas
+eng:fabulously --> eng:fabulous
+eng:fabulousness --> eng:fabulous
+eng:facade --> fra:façade --> ita:facciata
+eng:façade --> fra:façade --> ita:facciata
+eng:facadectomy --> eng:facade --> fra:façade --> ita:facciata
+eng:facebook --> eng:book --> enm:book --> ang:boc
+eng:Facebook --> eng:facebook --> eng:book --> enm:book --> ang:boc
+eng:Facebook official --> eng:Facebook --> eng:facebook --> eng:book --> enm:book --> ang:boc
+eng:facebuster --> eng:buster
+eng:facecare --> eng:care --> enm:care --> ang:caru
+eng:facecloth --> eng:cloth --> enm:cloth
+eng:faced --> eng:face
+eng:facefirst --> eng:face
+eng:face fucking --> eng:face
+eng:faceful --> eng:face
+eng:faceguard --> eng:face
+eng:faceism --> eng:face
+eng:faceless --> eng:face
+eng:facelessly --> eng:faceless --> eng:face
+eng:facelessness --> eng:faceless --> eng:face
+eng:facelift --> eng:face
+eng:facelike --> eng:face
+eng:facemail --> eng:face
+eng:facemask --> eng:face
+eng:facepaint --> eng:face
+eng:facepiece --> eng:face
+eng:faceplant --> eng:face
+eng:faceplate --> eng:face
+eng:facesitter --> eng:face
+eng:facetious --> fra:facétieux --> lat:facetia --> lat:facetus
+eng:facetiously --> eng:facetious --> fra:facétieux --> lat:facetia --> lat:facetus
+eng:facetiousness --> eng:facetious --> fra:facétieux --> lat:facetia --> lat:facetus
+eng:facetlike --> eng:facet
+eng:faceup --> eng:face
+eng:faceward --> eng:face
+eng:facewards --> eng:face
+eng:facework --> eng:face
+eng:facey --> eng:face
+eng:facialist --> eng:facial
+eng:faciendum --> lat:faciendum
+eng:facile --> frm:facile --> lat:facilis --> lat:facere
+eng:facility --> frm:facilité
+eng:facingly --> eng:facing
+eng:facinorous --> lat:facinorosus --> lat:facinus
+eng:façon de parler --> fra:façon de parler
+eng:façonné --> fra:fashioned
+eng:facound --> fra:faconde
+eng:fact --> lat:factum
+eng:factbook --> eng:book --> enm:book --> ang:boc
+eng:factiness --> eng:facty --> eng:fact --> lat:factum
+eng:faction --> eng:fact --> lat:factum
+eng:factional --> eng:faction --> eng:fact --> lat:factum
+eng:factionalise --> eng:factional --> eng:faction --> eng:fact --> lat:factum
+eng:factionalism --> eng:factional --> eng:faction --> eng:fact --> lat:factum
+eng:factionalize --> eng:factional --> eng:faction --> eng:fact --> lat:factum
+eng:factionalizer --> eng:factionalize --> eng:factional --> eng:faction --> eng:fact --> lat:factum
+eng:factioneer --> eng:faction --> eng:fact --> lat:factum
+eng:factioner --> eng:faction --> eng:fact --> lat:factum
+eng:factionist --> eng:faction --> eng:fact --> lat:factum
+eng:factiveness --> eng:factive
+eng:factivity --> eng:factive
+eng:factless --> eng:fact --> lat:factum
+eng:factoid --> eng:fact --> lat:factum
+eng:factor --> lat:factor --> lat:facio
+eng:factoress --> eng:factor --> lat:factor --> lat:facio
+eng:factorisation --> eng:factorise
+eng:factorization --> eng:factorize
+eng:factorship --> eng:factor --> lat:factor --> lat:facio
+eng:factory --> lat:factoria --> lat:factor --> lat:facio
+eng:factorylike --> eng:factory --> lat:factoria --> lat:factor --> lat:facio
+eng:factoryscape --> eng:factory --> lat:factoria --> lat:factor --> lat:facio
+eng:factorywise --> eng:factory --> lat:factoria --> lat:factor --> lat:facio
+eng:factoryworker --> eng:factory --> lat:factoria --> lat:factor --> lat:facio
+eng:factuality --> eng:factual
+eng:factualness --> eng:factual
+eng:factum --> lat:factum
+eng:facty --> eng:fact --> lat:factum
+eng:facular --> eng:facula
+eng:faculty --> enm:faculte --> fro:faculte
+eng:facundious --> lat:facundiosus
+eng:facundity --> lat:facunditas
+eng:faddishness --> eng:faddish
+eng:faddism --> eng:fad
+eng:faddist --> eng:fad
+eng:faddy --> eng:fad
+eng:fade --> fro:fader
+eng:fadeaway --> eng:away --> ang:onweg
+eng:fadedly --> eng:faded
+eng:fadedness --> eng:faded
+eng:fadeless --> eng:fade --> fro:fader
+eng:fadeout --> eng:fade --> fro:fader
+eng:fadeproof --> eng:fade --> fro:fader
+eng:fader --> eng:fade --> fro:fader
+eng:fadeth --> eng:fade --> fro:fader
+eng:fadish --> eng:fad
+eng:fadista --> por:fadista
+eng:fadlike --> eng:fad
+eng:fado --> por:fado --> lat:fatum --> lat:fatus
+eng:faecally --> eng:faecal
+eng:fæcally --> eng:fæcal
+eng:faerylike --> eng:faery
+eng:fætal --> eng:fætus
+eng:fagboy --> eng:boy --> enm:boy
+eng:fagface --> eng:face
+eng:faggotry --> eng:faggot
+eng:faggoty --> eng:faggot
+eng:Faginesque --> eng:Fagin
+eng:faglet --> eng:fag
+eng:fagmaster --> eng:fag
+eng:fagmosexual --> eng:fag
+eng:fagopyrism --> eng:Fagopyrum
+eng:fagtard --> eng:fag
+eng:fahlunite --> eng:Fahlun
+eng:faience --> fra:faïence --> ita:Faenza
+eng:failance --> fro:faillance
+eng:failback --> eng:back --> enm:bak --> ang:bæc
+eng:failer --> eng:fail
+eng:failest --> eng:fail
+eng:failingly --> eng:failing
+eng:failover --> eng:fail
+eng:failproof --> eng:fail
+eng:failure --> xno:failer --> fro:faillir --> lat:fallire --> lat:fallere
+eng:failureproof --> eng:failure --> xno:failer --> fro:faillir --> lat:fallire --> lat:fallere
+eng:faineant --> fro:fay neant
+eng:fainteth --> eng:faint
+eng:faintheartedly --> eng:fainthearted
+eng:faintheartedness --> eng:fainthearted
+eng:faintingly --> eng:fainting
+eng:faintish --> eng:faint
+eng:faintly --> eng:faint
+eng:faintness --> eng:faint
+eng:fainty --> eng:faint
+eng:fair --> ang:fæger
+eng:fairdom --> eng:fair --> ang:fæger
+eng:Fairfaxian --> eng:Fairfax
+eng:fairgoer --> eng:fair --> ang:fæger
+eng:fairgrounds --> eng:fair --> ang:fæger
+eng:fairheaded --> eng:fair --> ang:fæger
+eng:fairhood --> eng:fair --> ang:fæger
+eng:fairily --> eng:fairy --> enm:fairie --> fro:faerie
+eng:fairlead --> eng:fair --> ang:fæger
+eng:fairlike --> eng:fair --> ang:fæger
+eng:fairly --> eng:fair --> ang:fæger
+eng:fairness --> eng:fair --> ang:fæger
+eng:fairy --> enm:fairie --> fro:faerie
+eng:fairybook --> eng:book --> enm:book --> ang:boc
+eng:fairylike --> eng:fairy --> enm:fairie --> fro:faerie
+eng:fairytalelike --> eng:fairytale
+eng:fait accompli --> fra:fait accompli
+eng:faithbreach --> eng:breach --> enm:breche --> ang:brice
+eng:faithed --> eng:faith
+eng:faitheist --> eng:atheist --> fra:athéiste --> lat:atheos --> grc:ἄθεος
+eng:faithful --> eng:faith
+eng:faithfully --> eng:faithful --> eng:faith
+eng:faithless --> eng:faith
+eng:faithy --> eng:faith
+eng:faitour --> xno:faitour --> lat:factorem
+eng:fajr --> ara:فجر
+eng:fakeaway --> eng:fake
+eng:fakelaki --> ell:φακελάκι --> ell:φάκελος
+eng:fakelore --> eng:fake
+eng:fakester --> eng:fake
+eng:fakey --> eng:fake
+eng:fakir --> ara:فقير
+eng:fakon --> eng:bacon --> enm:bacon --> xno:bacon
+eng:falafel --> ara:فلافل --> ara:فلفل
+eng:falcated --> lat:falcatus
+eng:falcer --> lat:falx
+eng:falchion --> enm:fauchoun --> fro:fauchon
+eng:Falcidian --> lat:Falcidius
+eng:falciformity --> eng:falciform
+eng:falcon --> enm:falcon
+eng:falconer --> fro:faulconnier
+eng:faldage --> lat:faldagium
+eng:faldistory --> lat:faldistorium
+eng:Falklander --> eng:Falkland
+eng:Falkland Islander --> eng:Falkland Islands
+eng:fall --> enm:fallen --> ang:feallan
+eng:fallboard --> eng:board --> enm:bord
+eng:fallency --> lat:fallentia
+eng:falleth --> eng:fall --> enm:fallen --> ang:feallan
+eng:fallibilism --> eng:fallible --> lat:fallibilis --> lat:fallere
+eng:fallibilist --> eng:fallible --> lat:fallibilis --> lat:fallere
+eng:fallibility --> eng:fallible --> lat:fallibilis --> lat:fallere
+eng:fallible --> lat:fallibilis --> lat:fallere
+eng:fallingly --> eng:falling
+eng:fallow --> enm:falow
+eng:fallowist --> eng:fallow --> enm:falow
+eng:fallowness --> eng:fallow --> enm:falow
+eng:fallstreak --> eng:fall --> enm:fallen --> ang:feallan
+eng:fallway --> eng:fall --> enm:fallen --> ang:feallan
+eng:falsary --> lat:falsarius
+eng:false --> enm:false --> ang:fals --> lat:falsus --> lat:fallere
+eng:falsecard --> eng:card --> enm:carde --> fro:carte --> lat:charta --> grc:χάρτης --> grc:χαράσσω
+eng:falseface --> eng:face
+eng:falseheartedly --> eng:falsehearted
+eng:falseheartedness --> eng:falsehearted
+eng:falsehood --> enm:falshede --> enm:false --> ang:fals --> lat:falsus --> lat:fallere
+eng:falsely --> eng:false --> enm:false --> ang:fals --> lat:falsus --> lat:fallere
+eng:falseness --> eng:false --> enm:false --> ang:fals --> lat:falsus --> lat:fallere
+eng:falsetto --> ita:falso --> lat:falsus --> lat:fallere
+eng:falsettoed --> eng:falsetto --> ita:falso --> lat:falsus --> lat:fallere
+eng:falsework --> eng:false --> enm:false --> ang:fals --> lat:falsus --> lat:fallere
+eng:falsidical --> lat:falsidicus
+eng:falsie --> eng:false --> enm:false --> ang:fals --> lat:falsus --> lat:fallere
+eng:falsifiable --> eng:falsify --> fra:falsifier --> lat:falsificare
+eng:falsification --> eng:false --> enm:false --> ang:fals --> lat:falsus --> lat:fallere
+eng:falsificationism --> eng:falsification --> eng:false --> enm:false --> ang:fals --> lat:falsus --> lat:fallere
+eng:falsifier --> eng:falsify --> fra:falsifier --> lat:falsificare
+eng:falsify --> fra:falsifier --> lat:falsificare
+eng:falsism --> eng:false --> enm:false --> ang:fals --> lat:falsus --> lat:fallere
+eng:falsity --> eng:false --> enm:false --> ang:fals --> lat:falsus --> lat:fallere
+eng:falter --> enm:falteren
+eng:fameless --> eng:fame
+eng:familiality --> eng:familial
+eng:familially --> eng:familial
+eng:familiarise --> eng:familiar
+eng:familiarity --> frm:familiarité --> lat:familiaritatem
+eng:familiarizer --> eng:familiarize
+eng:familiarly --> eng:familiar
+eng:familiary --> lat:familiaris --> lat:familia --> lat:famula
+eng:familistery --> fra:familistère
+eng:familistically --> eng:familistical
+eng:family --> lat:familia --> lat:famula
+eng:familyish --> eng:family --> lat:familia --> lat:famula
+eng:familyless --> eng:family --> lat:familia --> lat:famula
+eng:familylessness --> eng:familyless --> eng:family --> lat:familia --> lat:famula
+eng:familylike --> eng:family --> lat:familia --> lat:famula
+eng:familymoon --> eng:family --> lat:familia --> lat:famula
+eng:familywise --> eng:family --> lat:familia --> lat:famula
+eng:famine --> fra:famine
+eng:faminelike --> eng:famine --> fra:famine
+eng:famishedly --> eng:famished
+eng:famishment --> eng:famish
+eng:famous --> xno:famous --> fro:fameus
+eng:famoused --> eng:famous --> xno:famous --> fro:fameus
+eng:famously --> eng:famous --> xno:famous --> fro:fameus
+eng:famulate --> lat:famulatus
+eng:famulus --> lat:famulus
+eng:fanac --> eng:activity --> frm:activité --> lat:activitas
+eng:fanart --> eng:art
+eng:fanatically --> eng:fanatical
+eng:fanaticism --> eng:fanatic
+eng:fanboyism --> eng:fanboy
+eng:fanciful --> eng:fancy
+eng:fancifully --> eng:fanciful --> eng:fancy
+eng:fancifulness --> eng:fanciful --> eng:fancy
+eng:fanciless --> eng:fancy
+eng:fancymonger --> eng:fancy
+eng:fancypants --> eng:fancy
+eng:fand --> enm:fanden
+eng:fandango --> spa:fandango
+eng:fanding --> eng:fand --> enm:fanden
+eng:fandom --> eng:fan
+eng:fandub --> eng:dub
+eng:fandubber --> eng:fandub --> eng:dub
+eng:fandubbing --> eng:fandub --> eng:dub
+eng:fane --> lat:fanum
+eng:fanfarelike --> eng:fanfare
+eng:fanfest --> eng:fan
+eng:fanfold --> eng:fan
+eng:fanfoot --> eng:fan
+eng:fang --> enm:fang
+eng:fangame --> eng:fan
+eng:fanger --> enm:fanger
+eng:fangirlism --> eng:fangirl
+eng:fangle --> enm:fangelen --> enm:fangel
+eng:fangleness --> eng:fangle --> enm:fangelen --> enm:fangel
+eng:fangless --> eng:fang --> enm:fang
+eng:fanglike --> eng:fang --> enm:fang
+eng:fango --> ita:fango --> cat:fang
+eng:fangy --> eng:fang --> enm:fang
+eng:fankled --> eng:fankle
+eng:fanless --> eng:fan
+eng:fanlike --> eng:fan
+eng:fanlisting --> eng:fan
+eng:fanmade --> eng:fan
+eng:fanner --> eng:fan
+eng:fanon --> eng:canon --> lat:canon --> grc:κανών
+eng:fanservice --> eng:fan
+eng:fanship --> eng:fan
+eng:fansite --> eng:fan
+eng:fanskate --> eng:fan
+eng:fanslation --> eng:fan
+eng:fanslator --> eng:fan
+eng:fanspeak --> eng:fan
+eng:fanstuff --> eng:fan
+eng:fansub --> eng:fan
+eng:fansubber --> eng:fansub --> eng:fan
+eng:fantabulous --> eng:fabulous
+eng:fantabulously --> eng:fantabulous --> eng:fabulous
+eng:fantard --> eng:fan
+eng:fantasiser --> eng:fantasise
+eng:fantasizer --> eng:fantasize
+eng:fantastic --> eng:fantasy --> fro:fantasie --> lat:phantasia --> grc:φαντασία --> grc:φαντάζω --> grc:φαίνω
+eng:fantastical --> eng:fantastic --> eng:fantasy --> fro:fantasie --> lat:phantasia --> grc:φαντασία --> grc:φαντάζω --> grc:φαίνω
+eng:fantastically --> eng:fantastical --> eng:fantastic --> eng:fantasy --> fro:fantasie --> lat:phantasia --> grc:φαντασία --> grc:φαντάζω --> grc:φαίνω
+eng:fantasticalness --> eng:fantastical --> eng:fantastic --> eng:fantasy --> fro:fantasie --> lat:phantasia --> grc:φαντασία --> grc:φαντάζω --> grc:φαίνω
+eng:fantasticism --> eng:fantastic --> eng:fantasy --> fro:fantasie --> lat:phantasia --> grc:φαντασία --> grc:φαντάζω --> grc:φαίνω
+eng:fantasticness --> eng:fantastic --> eng:fantasy --> fro:fantasie --> lat:phantasia --> grc:φαντασία --> grc:φαντάζω --> grc:φαίνω
+eng:fantastico --> ita:fantastico
+eng:fantasy --> fro:fantasie --> lat:phantasia --> grc:φαντασία --> grc:φαντάζω --> grc:φαίνω
+eng:fantasylike --> eng:fantasy --> fro:fantasie --> lat:phantasia --> grc:φαντασία --> grc:φαντάζω --> grc:φαίνω
+eng:fanvid --> eng:fan
+eng:fanwank --> eng:fan
+eng:fanware --> eng:fan
+eng:fanwear --> eng:fan
+eng:fanwise --> eng:fan
+eng:fanziner --> eng:fanzine
+eng:fappable --> eng:fap
+eng:fapworthy --> eng:fap
+eng:faqih --> ara:فقيه
+eng:far --> ang:feor
+eng:faradism --> eng:Farad
+eng:farandole --> fra:farandole --> oci:farandoulo
+eng:faravahar --> fas:فروهر
+eng:farblondjet --> yid:פֿאַרבלאָנדזשעט
+eng:farby --> eng:farb
+eng:farce --> enm:farcen --> fro:farsir
+eng:farcelike --> eng:farce --> enm:farcen --> fro:farsir
+eng:farcicalness --> eng:farcical
+eng:fardel --> enm:fardel --> fro:fardel --> spa:fardel
+eng:fare --> ang:faran
+eng:farebox --> eng:box --> ang:box
+eng:farer --> eng:fare --> ang:faran
+eng:farest --> eng:fare --> ang:faran
+eng:fareth --> eng:fare --> ang:faran
+eng:farewell --> enm:farewel
+eng:farfet --> eng:far --> ang:feor
+eng:farfetch --> eng:far --> ang:feor
+eng:far-flung --> eng:far --> ang:feor
+eng:farforth --> eng:far --> ang:feor
+eng:Farhud --> ara:الفرهود‎
+eng:farina --> lat:farina --> lat:far
+eng:fark --> eng:fuck
+eng:farkakteh --> yid:פֿאַרקאַקטע --> deu:verkackte
+eng:farm --> enm:ferme --> fro:ferme --> lat:ferma
+eng:farmable --> eng:farm --> enm:ferme --> fro:ferme --> lat:ferma
+eng:farmboy --> eng:boy --> enm:boy
+eng:farmeress --> eng:farmer
+eng:farmerlike --> eng:farmer
+eng:farmerly --> eng:farmer
+eng:farmership --> eng:farmer
+eng:farmette --> eng:farm --> enm:ferme --> fro:ferme --> lat:ferma
+eng:farmgate --> eng:farm --> enm:ferme --> fro:ferme --> lat:ferma
+eng:farmgirl --> eng:farm --> enm:ferme --> fro:ferme --> lat:ferma
+eng:farmland --> eng:farm --> enm:ferme --> fro:ferme --> lat:ferma
+eng:farmlike --> eng:farm --> enm:ferme --> fro:ferme --> lat:ferma
+eng:farmost --> eng:far --> ang:feor
+eng:farmscape --> eng:farm --> enm:ferme --> fro:ferme --> lat:ferma
+eng:farmstand --> eng:farm --> enm:ferme --> fro:ferme --> lat:ferma
+eng:farmwear --> eng:farm --> enm:ferme --> fro:ferme --> lat:ferma
+eng:farmwork --> eng:farm --> enm:ferme --> fro:ferme --> lat:ferma
+eng:farness --> enm:fernesse --> ang:feornes
+eng:farnesyl --> eng:farnesol
+eng:farnesylate --> eng:farnesyl --> eng:farnesol
+eng:farnesylation --> eng:farnesylate --> eng:farnesyl --> eng:farnesol
+eng:farnesylpyrophosphate --> eng:farnesyl --> eng:farnesol
+eng:farnesyltransferase --> eng:farnesyl --> eng:farnesol
+eng:Faro --> por:Faro
+eng:Faroese --> eng:Faroe
+eng:Faroish --> eng:Faroe
+eng:farrago --> lat:farrago --> lat:far
+eng:farreaching --> eng:far --> ang:feor
+eng:farrier --> fro:ferrier --> lat:ferrarius --> lat:ferrum
+eng:Farsala --> lat:Pharsalus
+eng:farsang --> fas:فرسنگ --> pal:𐭯𐭫𐭮𐭭𐭢
+eng:farsee --> eng:far --> ang:feor
+eng:farseer --> eng:farsee --> eng:far --> ang:feor
+eng:farsight --> eng:far --> ang:feor
+eng:farsightedly --> eng:farsighted
+eng:farsightedness --> eng:farsighted
+eng:farspeak --> eng:far --> ang:feor
+eng:farspeaker --> eng:farspeak --> eng:far --> ang:feor
+eng:farstretched --> eng:far --> ang:feor
+eng:fart --> enm:ferten
+eng:farthead --> eng:fart --> enm:ferten
+eng:farthing --> ang:feorðing --> ang:feorða
+eng:farthingale --> frm:verdugale --> spa:verdugado
+eng:farthingless --> eng:farthing --> ang:feorðing --> ang:feorða
+eng:fartlike --> eng:fart --> enm:ferten
+eng:fasces --> lat:fasces
+eng:fascia --> lat:fascia
+eng:fascialike --> eng:fascia --> lat:fascia
+eng:fasciation --> fra:fasciation
+eng:fascicle --> lat:fasciculus
+eng:fascicled --> eng:fascicle --> lat:fasciculus
+eng:fascicularly --> eng:fascicular
+eng:fascicule --> fra:fascicule --> lat:fasciculus
+eng:fascinate --> lat:fascinatus
+eng:fascinator --> eng:fascinate --> lat:fascinatus
+eng:fascism --> ita:fascismo --> ita:fascio --> lat:fasces
+eng:fascist --> ita:w:Partito Nazionale Fascista --> ita:fascio --> lat:fasces
+eng:fascistically --> eng:fascistic
+eng:fashion --> enm:facioun
+eng:fashionability --> eng:fashionable
+eng:fashionableness --> eng:fashionable
+eng:fashionably --> eng:fashionable
+eng:fashionedness --> eng:fashioned
+eng:fashionese --> eng:fashion --> enm:facioun
+eng:fashionest --> eng:fashion --> enm:facioun
+eng:fashionist --> eng:fashion --> enm:facioun
+eng:fashionless --> eng:fashion --> enm:facioun
+eng:fashionmonger --> eng:fashion --> enm:facioun
+eng:fashionwise --> eng:fashion --> enm:facioun
+eng:fashiony --> eng:fashion --> enm:facioun
+eng:fassaite --> eng:Fassa
+eng:fast --> ang:fæst
+eng:fastballer --> eng:fastball
+eng:fasten --> ang:fæstnian
+eng:fasteth --> eng:fast --> ang:fæst
+eng:fastgrowing --> eng:fast --> ang:fæst
+eng:fastidious --> lat:fastidiosus --> lat:fastidium
+eng:fastigiate --> lat:fastigiatus --> lat:fastigium
+eng:fastish --> eng:fast --> ang:fæst
+eng:fastuous --> lat:fastuosus
+eng:Fatah --> ara:فتح
+eng:fatal --> lat:fatalis
+eng:fatally --> eng:fatal --> lat:fatalis
+eng:fatalness --> eng:fatal --> lat:fatalis
+eng:fatassed --> eng:assed
+eng:fatback --> eng:back --> enm:bak --> ang:bæc
+eng:fate --> lat:fata --> lat:fatum --> lat:fatus
+eng:fatedness --> eng:fated
+eng:fateful --> eng:fate --> lat:fata --> lat:fatum --> lat:fatus
+eng:fateless --> eng:fate --> lat:fata --> lat:fatum --> lat:fatus
+eng:fatelike --> eng:fate --> lat:fata --> lat:fatum --> lat:fatus
+eng:fatfuck --> eng:fat
+eng:fatha --> ara:فتحة‎‎
+eng:fatHa --> ara:فتحة‎‎
+eng:fatḥa --> ara:فتحة‎‎
+eng:fatheadedness --> eng:fatheaded
+eng:father --> enm:fader --> ang:fæder
+eng:fatherdom --> eng:father --> enm:fader --> ang:fæder
+eng:fathered --> eng:father --> enm:fader --> ang:fæder
+eng:fatherless --> eng:father --> enm:fader --> ang:fæder
+eng:fatherlessness --> eng:fatherless --> eng:father --> enm:fader --> ang:fæder
+eng:fathership --> eng:father --> enm:fader --> ang:fæder
+eng:fathom --> enm:fathome
+eng:fathomable --> eng:fathom --> enm:fathome
+eng:fathomer --> eng:fathom --> enm:fathome
+eng:fathometer --> eng:fathom --> enm:fathome
+eng:fathomlessly --> eng:fathomless
+eng:fathomlessness --> eng:fathomless
+eng:fatidic --> lat:fatidicus
+eng:fatigue --> fra:fatiguer --> lat:fatigare
+eng:fatiguingly --> eng:fatiguing
+eng:fatiloquent --> lat:fatiloquus
+eng:fatless --> eng:fat
+eng:fatlike --> eng:fat
+eng:fatling --> eng:fat
+eng:fatshionista --> eng:fashionista
+eng:fatshit --> eng:fat
+eng:fatten --> eng:fat
+eng:fatteningly --> eng:fattening
+eng:fattish --> eng:fat
+eng:fatty --> eng:fat
+eng:fatuous --> lat:fatuus
+eng:fatuously --> eng:fatuous --> lat:fatuus
+eng:fatwa --> ara:فتوى
+eng:fatware --> eng:fat
+eng:fatwood --> eng:fat
+eng:faubourg --> fra:faubourg --> fro:fors bourg
+eng:faucet --> enm:faucet --> fro:fausset
+eng:faucetless --> eng:faucet --> enm:faucet --> fro:fausset
+eng:faucetlike --> eng:faucet --> enm:faucet --> fro:fausset
+eng:faujasite --> eng:Faujas
+eng:Faulknerian --> eng:Faulkner
+eng:fault --> fro:faute --> enm:faulte --> xno:faute
+eng:faultable --> eng:fault --> fro:faute --> enm:faulte --> xno:faute
+eng:faulter --> eng:fault --> fro:faute --> enm:faulte --> xno:faute
+eng:faultful --> eng:fault --> fro:faute --> enm:faulte --> xno:faute
+eng:faultiness --> eng:faulty --> eng:fault --> fro:faute --> enm:faulte --> xno:faute
+eng:faultless --> eng:fault --> fro:faute --> enm:faulte --> xno:faute
+eng:faulty --> eng:fault --> fro:faute --> enm:faulte --> xno:faute
+eng:faun --> lat:Faunus
+eng:faunal --> eng:fauna
+eng:faunist --> eng:fauna
+eng:faunivore --> eng:fauna
+eng:faunlike --> eng:faun --> lat:Faunus
+eng:Faunus --> lat:Faunus
+eng:faussebraye --> fra:fausse-braie
+eng:fauvism --> fra:fauvisme --> fra:fauve
+eng:faux --> fra:faux --> fro:fauz
+eng:faux ami --> fra:faux-ami
+eng:fauxhawk --> eng:Mohawk
+eng:fauxmosexual --> eng:faux --> fra:faux --> fro:fauz
+eng:fauxtatoes --> eng:faux --> fra:faux --> fro:fauz
+eng:fauxtograph --> eng:faux --> fra:faux --> fro:fauz
+eng:favel --> fro:favele
+eng:favela --> por:favela
+eng:favelet --> eng:fave
+eng:favonian --> lat:favonianus
+eng:favor --> xno:favour
+eng:favorability --> eng:favorable
+eng:favoredness --> eng:favored
+eng:favorer --> eng:favor --> xno:favour
+eng:favoringly --> eng:favoring
+eng:favorous --> frm:faverous
+eng:favourableness --> eng:favourable
+eng:favourably --> eng:favourable
+eng:favouredly --> eng:favoured
+eng:favourest --> eng:favour
+eng:favouringly --> eng:favouring
+eng:favourless --> eng:favour
+eng:favourous --> eng:favour
+eng:favus --> lat:favus
+eng:fawn --> ang:fahnian
+eng:fawningly --> eng:feigning
+eng:fawnlike --> eng:fawn --> ang:fahnian
+eng:fax --> eng:facsimile
+eng:faxable --> eng:fax --> eng:facsimile
+eng:faxed --> eng:fax --> eng:facsimile
+eng:faxed star --> eng:faxed --> eng:fax --> eng:facsimile
+eng:faxlore --> eng:fax --> eng:facsimile
+eng:fay --> enm:faie
+eng:fayalite --> eng:fayal
+eng:faydom --> eng:fay --> enm:faie
+eng:Fayum --> ara:الفيوم‎
+eng:fazzolet --> ita:fazzoletto
+eng:f-bomb --> eng:bomb --> fra:bombe --> ita:bomba --> lat:bombus --> grc:βόμβος
+eng:feague --> nld:vegen --> dum:veghen
+eng:feal --> enm:fele
+eng:fealty --> xno:fealté --> lat:fidelitas --> lat:fidelis --> lat:fides --> grc:σφίδη
+eng:fear --> enm:feer
+eng:fearer --> eng:fear --> enm:feer
+eng:feareth --> eng:fear --> enm:feer
+eng:fearful --> eng:fear --> enm:feer
+eng:fearfully --> eng:fearful --> eng:fear --> enm:feer
+eng:fearless --> eng:fear --> enm:feer
+eng:fearlessness --> eng:fearless --> eng:fear --> enm:feer
+eng:fearlike --> eng:fear --> enm:feer
+eng:fearnaught --> eng:fear --> enm:feer
+eng:fearsomely --> eng:fearsome
+eng:fearsomeness --> eng:fearsome
+eng:feasibility --> enm:faisible --> xno:faisable
+eng:feasible --> fro:faisable
+eng:feast --> enm:feest
+eng:feastest --> eng:feast --> enm:feest
+eng:feasteth --> eng:feast --> enm:feest
+eng:feastful --> eng:feast --> enm:feest
+eng:feastless --> eng:feast --> enm:feest
+eng:feastlike --> eng:feast --> enm:feest
+eng:feastly --> enm:festlich
+eng:feather --> enm:fether --> ang:feþer
+eng:featherdown --> eng:down --> ang:dune
+eng:featheredness --> eng:feathered
+eng:featherfoil --> eng:feather --> enm:fether --> ang:feþer
+eng:featherfoot --> eng:feather --> enm:fether --> ang:feþer
+eng:featheriness --> eng:feathery --> eng:feather --> enm:fether --> ang:feþer
+eng:featherlessness --> eng:featherless
+eng:featherlight --> eng:feather --> enm:fether --> ang:feþer
+eng:feathermaker --> eng:feather --> enm:fether --> ang:feþer
+eng:featherstitch --> eng:feather --> enm:fether --> ang:feþer
+eng:featherwood --> eng:feather --> enm:fether --> ang:feþer
+eng:featherwork --> eng:feather --> enm:fether --> ang:feþer
+eng:feathery --> eng:feather --> enm:fether --> ang:feþer
+eng:featly --> enm:fetly
+eng:featness --> eng:feat
+eng:featural --> eng:feature --> xno:feture --> fro:faiture --> lat:factura --> lat:facio
+eng:feature --> xno:feture --> fro:faiture --> lat:factura --> lat:facio
+eng:featureful --> eng:feature --> xno:feture --> fro:faiture --> lat:factura --> lat:facio
+eng:featurelessness --> eng:featureless
+eng:featurely --> eng:feature --> xno:feture --> fro:faiture --> lat:factura --> lat:facio
+eng:featurephone --> eng:feature --> xno:feture --> fro:faiture --> lat:factura --> lat:facio
+eng:featurette --> eng:feature --> xno:feture --> fro:faiture --> lat:factura --> lat:facio
+eng:featurewise --> eng:feature --> xno:feture --> fro:faiture --> lat:factura --> lat:facio
+eng:featurism --> eng:feature --> xno:feture --> fro:faiture --> lat:factura --> lat:facio
+eng:featuritis --> eng:feature --> xno:feture --> fro:faiture --> lat:factura --> lat:facio
+eng:febricitant --> lat:febricitantem
+eng:febrifuge --> fra:fébrifuge
+eng:febrile --> lat:febrilis --> lat:febris
+eng:February --> enm:feoverel --> fro:feverier --> lat:februarius --> lat:februum
+eng:februation --> lat:februatio
+eng:fecally --> eng:fecal
+eng:fecaloid --> eng:fecal
+eng:feces --> lat:faeces
+eng:fecklessness --> eng:feckless
+eng:fecula --> lat:faecula
+eng:feculent --> lat:faeculentus
+eng:fecund --> lat:fecundus
+eng:fecundify --> eng:fecund --> lat:fecundus
+eng:fecundist --> eng:fecund --> lat:fecundus
+eng:fecundity --> lat:fecunditas --> lat:fecundus
+eng:fecundly --> eng:fecund --> lat:fecundus
+eng:fedayee --> ara:فدائيون‎
+eng:federal --> fra:fédéral
+eng:federalism --> eng:federal --> fra:fédéral
+eng:federalist --> eng:federal --> fra:fédéral
+eng:federast --> eng:federalist --> eng:federal --> fra:fédéral
+eng:federation --> fra:fédération --> lat:foederatio --> lat:foederare
+eng:FedEx --> eng:express --> fra:exprès --> lat:expressus
+eng:fedifragous --> lat:foedifragus
+eng:fedity --> lat:foeditas --> lat:foedus
+eng:Fedspeak --> eng:Fed
+eng:Fedzilla --> eng:Godzilla
+eng:fee --> enm:fee
+eng:feebate --> eng:fee --> enm:fee
+eng:feeble --> enm:feble --> fro:feble
+eng:feed --> enm:feden --> ang:fedan
+eng:feedable --> eng:feed --> enm:feden --> ang:fedan
+eng:feedback --> eng:back --> enm:bak --> ang:bæc
+eng:feedbacker --> eng:feedback --> eng:back --> enm:bak --> ang:bæc
+eng:feedee --> eng:feed --> enm:feden --> ang:fedan
+eng:feederism --> eng:feeder
+eng:feedeth --> eng:feed --> enm:feden --> ang:fedan
+eng:feedforward --> eng:feed --> enm:feden --> ang:fedan
+eng:feedreader --> eng:feed --> enm:feden --> ang:fedan
+eng:feedstore --> eng:feed --> enm:feden --> ang:fedan
+eng:feedstuff --> eng:feed --> enm:feden --> ang:fedan
+eng:feel --> enm:feele
+eng:feelable --> eng:feel --> enm:feele
+eng:feelefold --> enm:felefold --> ang:felefeald
+eng:feelest --> eng:feel --> enm:feele
+eng:feeleth --> eng:feel --> enm:feele
+eng:feelie --> eng:feel --> enm:feele
+eng:feeling --> eng:feel --> enm:feele
+eng:feelingless --> eng:feeling --> eng:feel --> enm:feele
+eng:feelth --> eng:feel --> enm:feele
+eng:feepayer --> eng:fee --> enm:fee
+eng:feepaying --> eng:fee --> enm:fee
+eng:feer --> enm:fere --> ang:fere
+eng:féerie --> fra:féerie --> fra:fée --> fro:fae --> lat:Fata
+eng:feetless --> eng:feet
+eng:feeze --> ang:fesian
+eng:feign --> fro:feindre --> lat:fingere
+eng:feigningly --> eng:feigning
+eng:feijoada --> por:feijoada --> por:feijão --> lat:phaseolus --> grc:φάσηλος
+eng:feint --> fra:feint --> fro:feindre --> lat:fingere
+eng:feire --> lat:feriae
+eng:feis --> gle:feis --> sga:feiss
+eng:feistily --> eng:feisty
+eng:feistiness --> eng:feisty
+eng:feldsparlike --> eng:feldspar
+eng:fele --> enm:feele
+eng:felefold --> enm:felefold --> ang:felefeald
+eng:félibre --> fra:félibre --> oci:felibre
+eng:felicide --> eng:felis
+eng:felicitous --> lat:felicitas --> lat:felix
+eng:felicitousness --> eng:felicitous --> lat:felicitas --> lat:felix
+eng:felicity --> lat:felicitas --> lat:felix
+eng:feline --> lat:felinus --> lat:feles
+eng:felineness --> eng:feline --> lat:felinus --> lat:feles
+eng:Felix --> lat:Felix --> lat:felix
+eng:felix culpa --> lat:felix culpa
+eng:fell --> enm:fel
+eng:fella --> eng:fellow --> non:fēlagi
+eng:fellable --> eng:fell --> enm:fel
+eng:fellate --> lat:fellatus
+eng:fellatio --> lat:fellatio --> lat:fellatus
+eng:fellatrix --> eng:fellatio --> lat:fellatio --> lat:fellatus
+eng:fellinic --> lat:fel
+eng:fellness --> eng:fell --> enm:fel
+eng:felloe --> enm:felwe
+eng:fellow --> non:fēlagi
+eng:fellowless --> eng:fellow --> non:fēlagi
+eng:fellowlike --> eng:fellow --> non:fēlagi
+eng:fellowly --> enm:felawlich
+eng:fellowred --> enm:felawrede
+eng:fellowship --> eng:fellow --> non:fēlagi
+eng:felly --> eng:fell --> enm:fel
+eng:felo-de-se --> lat:felo
+eng:felon --> enm:felun
+eng:felonious --> eng:felony --> fro:felonie --> fro:felon
+eng:feloniously --> eng:felonious --> eng:felony --> fro:felonie --> fro:felon
+eng:felonwort --> eng:felon --> enm:felun
+eng:felony --> fro:felonie --> fro:felon
+eng:felsic --> eng:feldspar
+eng:felsitic --> eng:felsite
+eng:felstone --> deu:Feldstein
+eng:felt --> ang:feled
+eng:feltlike --> eng:felt --> ang:feled
+eng:feltness --> eng:felt --> ang:feled
+eng:feltry --> fro:feltre
+eng:feltwork --> eng:felt --> ang:feled
+eng:felucca --> ita:feluca --> ara:فلوكة
+eng:female --> fro:femele --> lat:femella
+eng:femalehood --> eng:female --> fro:femele --> lat:femella
+eng:femaleless --> eng:female --> fro:femele --> lat:femella
+eng:femalelike --> eng:female --> fro:femele --> lat:femella
+eng:femalist --> eng:female --> fro:femele --> lat:femella
+eng:femalize --> eng:female --> fro:femele --> lat:femella
+eng:femanon --> eng:anon --> ang:anoon
+eng:femifascist --> eng:fascist --> ita:w:Partito Nazionale Fascista --> ita:fascio --> lat:fasces
+eng:feminazi --> eng:Nazi --> deu:Nazi
+eng:feminine --> lat:féminin --> lat:femininus --> lat:femina
+eng:feminineness --> eng:feminine --> lat:féminin --> lat:femininus --> lat:femina
+eng:femininity --> lat:femina
+eng:feminity --> fro:feminité
+eng:feminizable --> eng:feminize
+eng:feminoid --> eng:feminine --> lat:féminin --> lat:femininus --> lat:femina
+eng:feminye --> fro:femenie
+eng:femocrat --> eng:bureaucrat --> fra:bureaucrate --> fra:bureaucratie --> fra:bureau --> fra:bure
+eng:femoroabdominal --> eng:abdominal
+eng:femslash --> eng:fem
+eng:femto- --> dan:femten --> dan:fimmtán
+eng:femtobecquerel --> eng:becquerel
+eng:femtobel --> eng:bel
+eng:femtocandela --> eng:candela
+eng:femtocell --> eng:cell
+eng:femtocoulomb --> eng:coulomb
+eng:femtofarad --> eng:farad
+eng:femtojoule --> eng:joule
+eng:femtolensing --> eng:lensing
+eng:femtomachine --> eng:machine --> frm:machine --> lat:machina --> grc:μαχανά
+eng:femtometer --> eng:meter --> fra:mètre --> grc:μέτρον
+eng:femtometre --> eng:metre --> fra:mètre --> grc:μέτρον
+eng:femtomolar --> eng:molar
+eng:femtomole --> eng:mole
+eng:femur --> lat:femur
+eng:fen --> ang:fenn
+eng:fenberry --> eng:berry --> enm:bery
+eng:fenceless --> eng:fence
+eng:fencelessness --> eng:fenceless --> eng:fence
+eng:fencelike --> eng:fence
+eng:fenceline --> eng:fence
+eng:fend --> enm:fenden
+eng:fender --> eng:fend --> enm:fenden
+eng:fenderhead --> eng:fender --> eng:fend --> enm:fenden
+eng:fenderless --> eng:fender --> eng:fend --> enm:fenden
+eng:fendy --> sco:fendie
+eng:fenerate --> lat:feneratus
+eng:feneration --> lat:faenerationem
+eng:fenestrate --> lat:fenestro --> lat:fenestra
+eng:fenestrated --> lat:fenestro --> lat:fenestra
+eng:fenestration --> lat:fenestratio
+eng:feng shui --> cmn:風水
+eng:Fenianism --> eng:Fenian
+eng:fenlike --> eng:fen --> ang:fenn
+eng:fenne --> enm:fende
+eng:fennec --> ara:فنك
+eng:Fennicization --> eng:Fennicize
+eng:fennish --> eng:fen --> ang:fenn
+eng:fenny --> ang:fennig
+eng:fenowed --> enm:fenowed
+eng:feoffment --> fro:feoffement
+eng:feorm-fultum --> ang:feormfultum
+eng:feracious --> lat:ferax
+eng:feracity --> lat:feracitas
+eng:feral --> lat:ferus
+eng:ferally --> eng:feral --> lat:ferus
+eng:ferd --> enm:ferde
+eng:ferdness --> eng:ferd --> enm:ferde
+eng:ferede --> enm:ferrede
+eng:Ferenczian --> eng:Ferenczi
+eng:ferforthly --> eng:ferforth
+eng:Ferguson --> eng:Fergus
+eng:fergusonite --> eng:Ferguson --> eng:Fergus
+eng:ferie --> fro:ferie
+eng:ferine --> lat:ferinus
+eng:ferity --> lat:feritatem
+eng:ferly --> enm:ferli
+eng:fermata --> ita:fermata
+eng:ferment --> lat:fermentare --> lat:fermentum --> lat:ferveo
+eng:fermerere --> fro:enfermerier
+eng:fermionically --> eng:fermionic
+eng:fern --> ang:fearn
+eng:fernery --> eng:fern --> ang:fearn
+eng:ferning --> eng:fern --> ang:fearn
+eng:fernlike --> eng:fern --> ang:fearn
+eng:ferocious --> lat:ferox
+eng:ferociousness --> eng:ferocious --> lat:ferox
+eng:ferocity --> lat:ferox
+eng:ferous --> lat:ferus
+eng:Ferrarese --> ita:ferrarese
+eng:ferret --> enm:furet
+eng:ferretlike --> eng:ferret --> enm:furet
+eng:ferretto --> ita:ferretto di Spagna
+eng:ferrety --> eng:ferret --> enm:furet
+eng:ferriable --> eng:ferry --> enm:ferien --> ang:ferian
+eng:ferric --> lat:ferricus --> lat:ferrum
+eng:ferriferous
+eng:ferriprussic --> eng:prussic
+eng:ferro- --> lat:ferrum
+eng:ferrocalcite --> eng:calcite
+eng:ferrocenylphosphine --> eng:ferrocenyl
+eng:ferrochelatase --> eng:chelate --> eng:chela --> lat:chele --> grc:χηλή
+eng:ferrochrome --> eng:chrome --> eng:chromium
+eng:ferrocyanate --> eng:ferrocyanic
+eng:ferrofluid --> eng:fluid --> lat:fluidus --> lat:fluere
+eng:ferrokinesis
+eng:ferrokinetic --> eng:kinetic --> grc:κινητικός --> grc:κινέω
+eng:ferrokinoshitalite --> eng:kinoshitalite --> eng:Kinoshita
+eng:ferrometal --> eng:metal
+eng:ferroniobium --> eng:niobium --> eng:Niobe
+eng:ferroprussiate --> eng:prussiate
+eng:ferroprussic --> eng:prussic
+eng:ferrotantalite --> eng:tantalite
+eng:ferrous --> lat:ferrum
+eng:ferruginous duck --> eng:duck --> ang:duce
+eng:ferruginous hawk --> eng:ferruginous
+eng:ferruminate --> lat:ferruminatus
+eng:ferry --> enm:ferien --> ang:ferian
+eng:ferryboat --> eng:boat --> ang:bat
+eng:ferryboatman --> eng:ferryboat --> eng:boat --> ang:bat
+eng:ferryman --> eng:ferry --> enm:ferien --> ang:ferian
+eng:ferrywoman --> eng:ferry --> enm:ferien --> ang:ferian
+eng:fertilely --> eng:fertile
+eng:fertileness --> eng:fertile
+eng:fertilisable --> eng:fertilise
+eng:fertilisation --> eng:fertilise
+eng:fertilizable --> eng:fertilize --> eng:fertile
+eng:fertilization --> eng:fertilize --> eng:fertile
+eng:fertilize --> eng:fertile
+eng:ferulaceous --> lat:ferulaceus
+eng:feruloyl --> eng:ferulic
+eng:fervently --> eng:fervent
+eng:fervid --> lat:fervidus --> lat:ferveo
+eng:fervorous --> eng:fervor
+eng:fervourous --> eng:fervour
+eng:fescennine --> lat:Fescenninus
+eng:fess --> fro:fesse
+eng:fesswise --> eng:fess --> fro:fesse
+eng:fest --> deu:Festival
+eng:fester --> fra:festre --> lat:fistula --> lat:findo
+eng:festeringly --> eng:festering
+eng:festinate --> lat:festinatus
+eng:festinately --> eng:festinate --> lat:festinatus
+eng:festival --> lat:festivalis --> lat:festivus --> lat:festus
+eng:festivalgoer --> eng:festival --> lat:festivalis --> lat:festivus --> lat:festus
+eng:festively --> eng:festive
+eng:festoon --> fra:feston --> ita:festone --> ita:festa --> lat:festa --> lat:festum
+eng:festoonery --> eng:festoon --> fra:feston --> ita:festone --> ita:festa --> lat:festa --> lat:festum
+eng:festoony --> eng:festoon --> fra:feston --> ita:festone --> ita:festa --> lat:festa --> lat:festum
+eng:festy --> eng:festival --> lat:festivalis --> lat:festivus --> lat:festus
+eng:fet --> ang:fetian
+eng:fetal --> eng:fetus --> lat:fetus
+eng:fetally --> eng:fetal --> eng:fetus --> lat:fetus
+eng:fetch --> enm:fecchen --> ang:feccan
+eng:fetchable --> eng:fetch --> enm:fecchen --> ang:feccan
+eng:fete --> fra:fête
+eng:fetidly --> eng:fetid
+eng:fetis --> fro:fetis
+eng:fetish --> fra:fétiche --> por:feitiço --> lat:facticius
+eng:fetishise --> eng:fetish --> fra:fétiche --> por:feitiço --> lat:facticius
+eng:fetishistically --> eng:fetishistic
+eng:fetishizable --> eng:fetishize --> eng:fetish --> fra:fétiche --> por:feitiço --> lat:facticius
+eng:fetishize --> eng:fetish --> fra:fétiche --> por:feitiço --> lat:facticius
+eng:fetishizer --> eng:fetishize --> eng:fetish --> fra:fétiche --> por:feitiço --> lat:facticius
+eng:fetishlike --> eng:fetish --> fra:fétiche --> por:feitiço --> lat:facticius
+eng:fetishwear --> eng:fetish --> fra:fétiche --> por:feitiço --> lat:facticius
+eng:fetoprotein --> eng:protein
+eng:fetter --> ang:feter
+eng:fetterer --> eng:fetter --> ang:feter
+eng:fetterless --> eng:fetter --> ang:feter
+eng:fettle --> ang:fetel
+eng:fetus --> lat:fetus
+eng:feuar --> eng:feu
+eng:feud --> enm:fede
+eng:feudal --> lat:feudalis --> lat:feudum
+eng:feudalisation --> eng:feudalise
+eng:feudalism --> eng:feudal --> lat:feudalis --> lat:feudum
+eng:feudally --> eng:feudal --> lat:feudalis --> lat:feudum
+eng:feuder --> eng:feud --> enm:fede
+eng:feudist --> eng:feud --> enm:fede
+eng:Feuerbachian --> eng:Feuerbach
+eng:feuillemorte --> fra:feuille-morte
+eng:feuilletonist --> fra:feuilletoniste
+eng:feveret --> eng:fever
+eng:fevereth --> eng:fever
+eng:feverish --> eng:fever
+eng:feverishly --> eng:feverish --> eng:fever
+eng:feverishness --> eng:feverish --> eng:fever
+eng:feverless --> eng:fever
+eng:feverwort --> eng:fever
+eng:fevery --> eng:fever
+eng:few --> enm:fewe --> ang:feaw
+eng:fewly --> eng:few --> enm:fewe --> ang:feaw
+eng:fey --> enm:fey --> ang:fæge
+eng:Feyerabendian --> eng:Feyerabend
+eng:feygele --> yid:פֿייגעלע
+eng:feyly --> eng:fey --> enm:fey --> ang:fæge
+eng:fez --> tur:fes
+eng:fezlike --> eng:fez --> tur:fes
+eng:fiacre --> fra:fiacre
+eng:fiancé --> fra:fiancé
+eng:fiasco --> ita:fiasco --> lat:flasca
+eng:fiat --> lat:fiat
+eng:fibbery --> eng:fib
+eng:fiber --> fra:fibre --> fro:fibre --> lat:fibra
+eng:fiberize --> eng:fiber --> fra:fibre --> fro:fibre --> lat:fibra
+eng:fiberless --> eng:fiber --> fra:fibre --> fro:fibre --> lat:fibra
+eng:fiberlike --> eng:fiber --> fra:fibre --> fro:fibre --> lat:fibra
+eng:fiberwise --> eng:fiber --> fra:fibre --> fro:fibre --> lat:fibra
+eng:fibery --> eng:fiber --> fra:fibre --> fro:fibre --> lat:fibra
+eng:Fibonaccian --> eng:Fibonacci
+eng:fibre --> fra:fibre --> fro:fibre --> lat:fibra
+eng:fibreless --> eng:fibre --> fra:fibre --> fro:fibre --> lat:fibra
+eng:fibrelike --> eng:fibre --> fra:fibre --> fro:fibre --> lat:fibra
+eng:fibriform
+eng:fibrillary --> eng:fibril
+eng:fibrillation --> lat:fibrilla
+eng:fibrin --> eng:fibre --> fra:fibre --> fro:fibre --> lat:fibra
+eng:fibrinogenic --> eng:fibrin --> eng:fibre --> fra:fibre --> fro:fibre --> lat:fibra
+eng:fibrinoid --> eng:fibrin --> eng:fibre --> fra:fibre --> fro:fibre --> lat:fibra
+eng:fibrinous --> eng:fibrin --> eng:fibre --> fra:fibre --> fro:fibre --> lat:fibra
+eng:fibroblast
+eng:fibrocyte
+eng:fibrodysplasia --> eng:dysplasia
+eng:fibroepithelioma --> eng:epithelioma
+eng:fibroleiomyoma --> eng:leiomyoma
+eng:fibromodulin --> eng:modulin
+eng:fibromyalgia --> eng:myalgia
+eng:fibrosarcoma --> eng:sarcoma
+eng:fibrothorax --> eng:thorax --> grc:θώραξ
+eng:fibrotic --> eng:fibrosis
+eng:fibrousness --> eng:fibrous
+eng:fibula --> lat:fibula
+eng:fichu --> fra:fichu
+eng:fickle --> enm:fikelen
+eng:fickly --> eng:fickle --> enm:fikelen
+eng:ficlet --> eng:fic
+eng:fictile --> lat:fictilus
+eng:fiction --> lat:fictionem
+eng:fictional --> eng:fiction --> lat:fictionem
+eng:fictionalise --> eng:fictional --> eng:fiction --> lat:fictionem
+eng:fictionaliser --> eng:fictionalise --> eng:fictional --> eng:fiction --> lat:fictionem
+eng:fictionalism --> eng:fictional --> eng:fiction --> lat:fictionem
+eng:fictionalist --> eng:fictional --> eng:fiction --> lat:fictionem
+eng:fictionalization --> eng:fictionalize --> eng:fictional --> eng:fiction --> lat:fictionem
+eng:fictionalize --> eng:fictional --> eng:fiction --> lat:fictionem
+eng:fictionalizer --> eng:fictionalize --> eng:fictional --> eng:fiction --> lat:fictionem
+eng:fictionally --> eng:fictional --> eng:fiction --> lat:fictionem
+eng:fictioneer --> eng:fiction --> lat:fictionem
+eng:fictioneering --> eng:fictioneer --> eng:fiction --> lat:fictionem
+eng:fictionise --> eng:fiction --> lat:fictionem
+eng:fictionize --> eng:fiction --> lat:fictionem
+eng:fictionmaking --> eng:fiction --> lat:fictionem
+eng:fictiously --> eng:fictious
+eng:fictitiousness --> eng:fictitious
+eng:fictively --> eng:fictive
+eng:fictiveness --> eng:fictive
+eng:fictomercial --> eng:commercial --> eng:commerce --> fra:commerce --> frm:commerce --> lat:commercium
+eng:ficus --> lat:ficus
+eng:fiddle --> enm:fithele --> ang:fiðele
+eng:fiddlefuck --> eng:fiddle --> enm:fithele --> ang:fiðele
+eng:fiddlehead --> eng:fiddle --> enm:fithele --> ang:fiðele
+eng:fiddleleaf --> eng:fiddle --> enm:fithele --> ang:fiðele
+eng:fiddlestring --> eng:fiddle --> enm:fithele --> ang:fiðele
+eng:fiddliness --> eng:fiddly
+eng:fideism --> lat:fides --> grc:σφίδη
+eng:fideistically --> eng:fideistic
+eng:fidejussion --> lat:fidejussio
+eng:fidelitous --> eng:fidelity
+eng:fidgetily --> eng:fidgety
+eng:fidgetiness --> eng:fidgety
+eng:fidgetingly --> eng:fidgeting
+eng:fidicinal --> lat:fidicinus
+eng:fiducial --> lat:fiducialis --> lat:fiducia --> lat:fido
+eng:fiducially --> eng:fiducial --> lat:fiducialis --> lat:fiducia --> lat:fido
+eng:fiduciary --> lat:fiduciarius --> lat:fiducia --> lat:fido
+eng:fie --> lat:fi
+eng:fief --> fro:fief
+eng:field --> enm:field
+eng:fieldball --> eng:ball --> enm:bal
+eng:fieldboot --> eng:boot --> enm:boote
+eng:fieldcraft --> eng:craft
+eng:fielden --> eng:field --> enm:field
+eng:fieldhand --> eng:field --> enm:field
+eng:fieldhouse --> eng:field --> enm:field
+eng:fieldless --> eng:field --> enm:field
+eng:fieldlike --> eng:field --> enm:field
+eng:fieldman --> eng:field --> enm:field
+eng:fieldpiece --> eng:field --> enm:field
+eng:fieldscale --> eng:field --> enm:field
+eng:fieldset --> eng:field --> enm:field
+eng:fieldside --> eng:field --> enm:field
+eng:fieldy --> eng:field --> enm:field
+eng:fiend --> enm:feend --> ang:feond
+eng:fiendful --> eng:fiend --> enm:feend --> ang:feond
+eng:fiendishness --> eng:fiendish
+eng:fiendlike --> eng:fiend --> enm:feend --> ang:feond
+eng:fiendly --> ang:feondlic
+eng:fiercely --> eng:fierce
+eng:fierceness --> eng:fierce
+eng:fiery --> enm:firi --> enm:fir
+eng:fiesta --> spa:fiesta --> lat:festa --> lat:festum
+eng:fifteener --> eng:fifteen
+eng:fifteenfold --> eng:fifteen
+eng:fifteenish --> eng:fifteen
+eng:fifteenness --> eng:fifteen
+eng:fifteenpence --> eng:fifteen
+eng:fifteenpenny --> eng:fifteen
+eng:fifteenthly --> eng:fifteenth
+eng:fifth --> enm:fifthe
+eng:fifth columnist --> eng:fifth column
+eng:fifthly --> eng:fifth --> enm:fifthe
+eng:fifthness --> eng:fifth --> enm:fifthe
+eng:fiftiethly --> eng:fiftieth
+eng:fifty --> ang:fiftig
+eng:fiftyfold --> eng:fifty --> ang:fiftig
+eng:fiftyish --> eng:fifty --> ang:fiftig
+eng:fig --> enm:fige
+eng:figeater --> eng:eater
+eng:fight --> ang:feoht
+eng:fightable --> eng:fight --> ang:feoht
+eng:fightback --> eng:back --> enm:bak --> ang:bæc
+eng:fighter --> eng:fight --> ang:feoht
+eng:fightingly --> eng:fighting
+eng:fightwite --> eng:fight --> ang:feoht
+eng:fightworthy --> eng:fight --> ang:feoht
+eng:figleaf --> eng:fig --> enm:fige
+eng:figless --> eng:fig --> enm:fige
+eng:figment --> lat:figmentum
+eng:figpecker --> eng:fig --> enm:fige
+eng:figulate --> lat:figulatus
+eng:figurable --> eng:figure --> enm:figure --> fro:figure
+eng:figural --> fro:figural
+eng:figuratively --> eng:figurative
+eng:figure --> enm:figure --> fro:figure
+eng:figured --> eng:figure --> enm:figure --> fro:figure
+eng:figureless --> eng:figure --> enm:figure --> fro:figure
+eng:figurial --> eng:figure --> enm:figure --> fro:figure
+eng:figwort --> eng:fig --> enm:fige
+eng:fike --> enm:fike --> ang:fic
+eng:filament --> lat:filamentum --> lat:filare --> lat:filum
+eng:filamentless --> eng:filament --> lat:filamentum --> lat:filare --> lat:filum
+eng:filamentlike --> eng:filament --> lat:filamentum --> lat:filare --> lat:filum
+eng:filamentoid --> eng:filament --> lat:filamentum --> lat:filare --> lat:filum
+eng:filanders --> fra:filandres
+eng:filarial --> eng:filaria
+eng:filch --> enm:filchen
+eng:filcher --> eng:filch --> enm:filchen
+eng:filchingly --> eng:filching
+eng:file --> ang:feol
+eng:file card --> eng:card --> enm:carde --> fro:carte --> lat:charta --> grc:χάρτης --> grc:χαράσσω
+eng:file-card --> eng:card --> enm:carde --> fro:carte --> lat:charta --> grc:χάρτης --> grc:χαράσσω
+eng:filefish --> eng:file --> ang:feol
+eng:filemask --> eng:file --> ang:feol
+eng:filename --> eng:file --> ang:feol
+eng:fileserver --> eng:file --> ang:feol
+eng:filestore --> eng:file --> ang:feol
+eng:filetail --> eng:file --> ang:feol
+eng:filetype --> eng:file --> ang:feol
+eng:filial --> enm:filial --> lat:filialis --> lat:filius
+eng:filibuster --> spa:filibustero --> fra:flibustier --> nld:vrijbuiter --> nld:buit
+eng:filibusterism --> eng:filibuster --> spa:filibustero --> fra:flibustier --> nld:vrijbuiter --> nld:buit
+eng:filical --> eng:Filices
+eng:filicic --> lat:filix
+eng:filiciform --> lat:filix
+eng:filiety --> lat:filietatem --> lat:filius
+eng:filioque --> lat:filioque
+eng:filker --> eng:filk
+eng:fill --> ang:fyllu
+eng:fillable --> eng:fill --> ang:fyllu
+eng:fillest --> eng:fill --> ang:fyllu
+eng:fillet --> frm:filet
+eng:filletable --> eng:fillet --> frm:filet
+eng:filleter --> eng:fillet --> frm:filet
+eng:fillingness --> eng:filling
+eng:fillip --> enm:philippe
+eng:fillock --> eng:filly --> non:fylja
+eng:fillrate --> eng:fill --> ang:fyllu
+eng:fillup --> eng:fill --> ang:fyllu
+eng:filly --> non:fylja
+eng:film --> enm:filme --> ang:filmen
+eng:filmable --> eng:film --> enm:filme --> ang:filmen
+eng:filmanthropy --> eng:film --> enm:filme --> ang:filmen
+eng:filmgoing --> eng:film --> enm:filme --> ang:filmen
+eng:filmic --> eng:film --> enm:filme --> ang:filmen
+eng:filmically --> eng:filmic --> eng:film --> enm:filme --> ang:filmen
+eng:filmily --> eng:filmy
+eng:filmize --> eng:film --> enm:filme --> ang:filmen
+eng:filmless --> eng:film --> enm:filme --> ang:filmen
+eng:filmlike --> eng:film --> enm:filme --> ang:filmen
+eng:filmography --> eng:film --> enm:filme --> ang:filmen
+eng:filmstrip --> eng:film --> enm:filme --> ang:filmen
+eng:filmwise --> eng:film --> enm:filme --> ang:filmen
+eng:filmworthy --> eng:film --> enm:filme --> ang:filmen
+eng:filmzine --> eng:film --> enm:filme --> ang:filmen
+eng:filopodial --> eng:filopodium
+eng:fils --> fra:fils --> lat:filius
+eng:filst --> enm:filsten
+eng:filsten --> enm:filstnen
+eng:filterlike --> eng:filter
+eng:filth --> enm:filth --> ang:fylþ
+eng:filthiness --> eng:filthy --> eng:filth --> enm:filth --> ang:fylþ
+eng:filthy --> eng:filth --> enm:filth --> ang:fylþ
+eng:filum --> lat:filum
+eng:fin --> enm:fin --> ang:finn
+eng:finable --> eng:fine --> enm:fin --> ang:finn
+eng:finale --> ita:finale --> lat:finalis --> lat:finis
+eng:finalist --> eng:final
+eng:finalizer --> eng:finalize
+eng:finally --> eng:final
+eng:finance --> enm:finaunce
+eng:financeable --> eng:finance --> enm:finaunce
+eng:financer --> eng:finance --> enm:finaunce
+eng:financescape --> eng:finance --> enm:finaunce
+eng:financial --> eng:finance --> enm:finaunce
+eng:financialist --> eng:financial --> eng:finance --> enm:finaunce
+eng:financially --> eng:financial --> eng:finance --> enm:finaunce
+eng:financier --> fra:financier --> fra:finance --> lat:financius
+eng:finback --> eng:back --> enm:bak --> ang:bæc
+eng:finch --> ang:finċ
+eng:finchlike --> eng:finch --> ang:finċ
+eng:find --> ang:findan
+eng:findable --> eng:find --> ang:findan
+eng:finderlist --> eng:finder
+eng:findeth --> eng:find --> ang:findan
+eng:findfault --> eng:fault --> fro:faute --> enm:faulte --> xno:faute
+eng:findspot --> eng:find --> ang:findan
+eng:fine --> enm:fin --> ang:finn
+eng:fineable --> eng:fine --> enm:fin --> ang:finn
+eng:finedraw --> eng:draw --> enm:drawen
+eng:finedrawn --> eng:drawn
+eng:fineless --> eng:fine --> enm:fin --> ang:finn
+eng:finely --> eng:fine --> enm:fin --> ang:finn
+eng:fineness --> eng:fine --> enm:fin --> ang:finn
+eng:finew --> enm:finew --> ang:fyne
+eng:finfolk --> eng:fin --> enm:fin --> ang:finn
+eng:finfoot --> eng:fin --> enm:fin --> ang:finn
+eng:Fingal --> gla:Fionnghall
+eng:Fingalian --> eng:Fingal --> gla:Fionnghall
+eng:finger --> ang:finger
+eng:fingerfuck --> eng:finger --> ang:finger
+eng:fingerfucker --> eng:fingerfuck --> eng:finger --> ang:finger
+eng:fingerguard --> eng:finger --> ang:finger
+eng:fingerless --> eng:finger --> ang:finger
+eng:fingerlike --> eng:finger --> ang:finger
+eng:fingerling --> eng:finger --> ang:finger
+eng:fingernail --> eng:finger --> ang:finger
+eng:fingernailed --> eng:fingernail --> eng:finger --> ang:finger
+eng:fingerpick --> eng:finger --> ang:finger
+eng:fingerplay --> eng:finger --> ang:finger
+eng:fingerpost --> eng:finger --> ang:finger
+eng:fingerprick --> eng:finger --> ang:finger
+eng:fingerprinter --> eng:fingerprint
+eng:fingertip --> eng:finger --> ang:finger
+eng:fingerwise --> eng:finger --> ang:finger
+eng:fingery --> eng:finger --> ang:finger
+eng:Finglish --> eng:English
+eng:finically --> eng:finical
+eng:finify --> eng:fine --> enm:fin --> ang:finn
+eng:finisht --> eng:finish
+eng:finiteless --> eng:finite
+eng:finiteness --> eng:finite
+eng:finitism --> eng:finite
+eng:finitist --> eng:finite
+eng:finito --> ita:finito
+eng:finitude --> eng:finite
+eng:Finlander --> eng:Finland
+eng:finlet --> eng:fin --> enm:fin --> ang:finn
+eng:finlike --> eng:fin --> enm:fin --> ang:finn
+eng:Finnglish --> eng:English
+eng:Finnhorse --> eng:Finn
+eng:Finnicization --> eng:Finnicize
+eng:Finnishness --> eng:Finnish
+eng:Finnophone
+eng:fino --> spa:fino
+eng:Finola --> gle:Fionnghuala
+eng:finook --> ita:finocchio --> lat:fenuculum
+eng:fiord --> nor:fjord --> non:fjǫrðr
+eng:fiorite --> eng:Fiora
+eng:fioritura --> ita:fioritura
+eng:fir --> enm:firre
+eng:firbound --> eng:bound --> enm:bounde --> fro:bunne --> lat:bodina
+eng:fire --> enm:fier --> ang:fyr
+eng:firearm --> eng:arm --> enm:arm --> ang:earm
+eng:fireball --> eng:ball --> enm:bal
+eng:fireballer --> eng:fireball --> eng:ball --> enm:bal
+eng:fireballing --> eng:fireball --> eng:ball --> enm:bal
+eng:firebase --> eng:base --> fro:bas --> lat:bassus
+eng:fireblast --> eng:blast --> enm:blast --> ang:blæst
+eng:fireboard --> eng:board --> enm:bord
+eng:firebomb --> eng:bomb --> fra:bombe --> ita:bomba --> lat:bombus --> grc:βόμβος
+eng:firebote --> eng:bote --> ang:bot
+eng:firebreak --> eng:break --> enm:breken --> ang:brecan
+eng:firebreather --> eng:breather
+eng:firecall --> eng:call --> enm:callen
+eng:firedamp --> eng:damp
+eng:firedrake --> ang:fyrdraca
+eng:firee --> eng:fire --> enm:fier --> ang:fyr
+eng:fireeater --> eng:eater
+eng:firefighter --> eng:fighter --> eng:fight --> ang:feoht
+eng:firefish --> eng:fire --> enm:fier --> ang:fyr
+eng:firefly --> eng:fire --> enm:fier --> ang:fyr
+eng:firefox --> cmn:火狐
+eng:firefront --> eng:fire --> enm:fier --> ang:fyr
+eng:firehouse --> eng:fire --> enm:fier --> ang:fyr
+eng:fireless --> eng:fire --> enm:fier --> ang:fyr
+eng:firelessness --> eng:fireless --> eng:fire --> enm:fier --> ang:fyr
+eng:firelike --> eng:fire --> enm:fier --> ang:fyr
+eng:firelit --> eng:fire --> enm:fier --> ang:fyr
+eng:fireman --> eng:fire --> enm:fier --> ang:fyr
+eng:fireplay --> eng:fire --> enm:fier --> ang:fyr
+eng:fireplug --> eng:fire --> enm:fier --> ang:fyr
+eng:firepole --> eng:fire --> enm:fier --> ang:fyr
+eng:fireproof --> eng:fire --> enm:fier --> ang:fyr
+eng:fire sale --> eng:fire --> enm:fier --> ang:fyr
+eng:fireset --> eng:fire --> enm:fier --> ang:fyr
+eng:firesetter --> eng:fire --> enm:fier --> ang:fyr
+eng:firesetting --> eng:fire --> enm:fier --> ang:fyr
+eng:fireside --> eng:fire --> enm:fier --> ang:fyr
+eng:firest --> eng:fire --> enm:fier --> ang:fyr
+eng:firestone --> eng:fire --> enm:fier --> ang:fyr
+eng:firestop --> eng:fire --> enm:fier --> ang:fyr
+eng:firestorm --> eng:fire --> enm:fier --> ang:fyr
+eng:firestriker --> eng:fire --> enm:fier --> ang:fyr
+eng:firesuit --> eng:fire --> enm:fier --> ang:fyr
+eng:firetail --> eng:fire --> enm:fier --> ang:fyr
+eng:firewagon --> eng:fire --> enm:fier --> ang:fyr
+eng:firewall --> eng:fire --> enm:fier --> ang:fyr
+eng:firewarden --> eng:fire --> enm:fier --> ang:fyr
+eng:firewater --> eng:fire --> enm:fier --> ang:fyr
+eng:fireweed --> eng:fire --> enm:fier --> ang:fyr
+eng:firewoman --> eng:fire --> enm:fier --> ang:fyr
+eng:firewood --> eng:fire --> enm:fier --> ang:fyr
+eng:fireworklike --> eng:firework
+eng:fireworky --> eng:firework
+eng:firk --> enm:firken
+eng:firless --> eng:fir --> enm:firre
+eng:firlike --> eng:fir --> enm:firre
+eng:firm --> deu:Firma --> ita:firma --> ita:firmare --> lat:firmare --> lat:firmus
+eng:firmamental --> eng:firmament
+eng:firman --> tur:ferman
+eng:firmish --> eng:firm --> deu:Firma --> ita:firma --> ita:firmare --> lat:firmare --> lat:firmus
+eng:firmitude --> lat:firmitudo --> lat:firmus
+eng:firmity --> lat:firmitas --> lat:firmus
+eng:firmless --> eng:firm --> deu:Firma --> ita:firma --> ita:firmare --> lat:firmare --> lat:firmus
+eng:firmly --> eng:firm --> deu:Firma --> ita:firma --> ita:firmare --> lat:firmare --> lat:firmus
+eng:firmwide --> eng:firm --> deu:Firma --> ita:firma --> ita:firmare --> lat:firmare --> lat:firmus
+eng:firren --> eng:fir --> enm:firre
+eng:firry --> eng:fir --> enm:firre
+eng:first --> enm:first
+eng:firstcomer --> eng:comer
+eng:firsthand --> eng:first --> enm:first
+eng:firstie --> eng:first --> enm:first
+eng:firstness --> eng:first --> enm:first
+eng:fiscalamity --> eng:calamity
+eng:fise --> enm:fise
+eng:fish --> ang:fiscian
+eng:fishable --> eng:fish --> ang:fiscian
+eng:fishbait --> eng:bait --> enm:bait
+eng:fishburger --> eng:burger
+eng:fisher --> eng:fish --> ang:fiscian
+eng:fisherboy --> eng:boy --> enm:boy
+eng:fisherman --> eng:fisher --> eng:fish --> ang:fiscian
+eng:fishetarian --> eng:fish --> ang:fiscian
+eng:fisheye --> eng:eye
+eng:fishfinding --> eng:finding
+eng:fishful --> eng:fish --> ang:fiscian
+eng:fishhead --> eng:fish --> ang:fiscian
+eng:fishhood --> eng:fish --> ang:fiscian
+eng:fishhook --> enm:fisch-hook
+eng:fishify --> eng:fish --> ang:fiscian
+eng:fishiness --> eng:fishy
+eng:fishish --> eng:fish --> ang:fiscian
+eng:fishkeeper --> eng:fish --> ang:fiscian
+eng:fishkeeping --> eng:fish --> ang:fiscian
+eng:fishless --> eng:fish --> ang:fiscian
+eng:fishlessness --> eng:fishless --> eng:fish --> ang:fiscian
+eng:fishlife --> eng:fish --> ang:fiscian
+eng:fishling --> eng:fish --> ang:fiscian
+eng:fishlore --> eng:fish --> ang:fiscian
+eng:fishly --> eng:fish --> ang:fiscian
+eng:fishmarket --> eng:fish --> ang:fiscian
+eng:fishmeal --> eng:fish --> ang:fiscian
+eng:fishmonger --> eng:fish --> ang:fiscian
+eng:fishmongeress --> eng:fishmonger --> eng:fish --> ang:fiscian
+eng:fishnetted --> eng:fishnet
+eng:fisho --> eng:fish --> ang:fiscian
+eng:fishpool --> enm:fischpol --> ang:fiscpol
+eng:fishseller --> eng:fish --> ang:fiscian
+eng:fishskin --> eng:fish --> ang:fiscian
+eng:fishtail --> eng:fish --> ang:fiscian
+eng:fishwich --> eng:fish --> ang:fiscian
+eng:fishwoman --> eng:fish --> ang:fiscian
+eng:fission --> lat:fissionem
+eng:fissional --> eng:fission --> lat:fissionem
+eng:fissionless --> eng:fission --> lat:fissionem
+eng:fissionlike --> eng:fission --> lat:fissionem
+eng:fissiparously --> eng:fissiparous
+eng:fissural --> eng:fissure
+eng:fissureless --> eng:fissure
+eng:fissurelike --> eng:fissure
+eng:fist --> enm:fist --> ang:fyst
+eng:fistbump --> eng:bump
+eng:fister --> eng:fist --> enm:fist --> ang:fyst
+eng:fistfight --> eng:fight --> ang:feoht
+eng:fistfighter --> eng:fighter --> eng:fight --> ang:feoht
+eng:fistiana --> eng:fist --> enm:fist --> ang:fyst
+eng:fistic --> eng:fist --> enm:fist --> ang:fyst
+eng:fistlike --> eng:fist --> enm:fist --> ang:fyst
+eng:fistula --> lat:fistula --> lat:findo
+eng:fistulectomy --> eng:fistule
+eng:fistuliform --> eng:fistula --> lat:fistula --> lat:findo
+eng:fistulose --> lat:fistulosus
+eng:fisty --> eng:fist --> enm:fist --> ang:fyst
+eng:fitful --> eng:fit
+eng:fitfully --> eng:fitful --> eng:fit
+eng:fitfulness --> eng:fitful --> eng:fit
+eng:fitly --> eng:fit
+eng:fitment --> eng:fit
+eng:fitness --> eng:fit
+eng:fittable --> eng:fit
+eng:fittedness --> eng:fitted
+eng:fittingness --> eng:fitting
+eng:fitweed --> eng:fit
+eng:Fitz- --> xno:fitz --> fro:fiz --> lat:filius
+eng:fivefold --> eng:five
+eng:fivefoldness --> eng:fivefold --> eng:five
+eng:fiveish --> eng:five
+eng:fiveling --> eng:five
+eng:fiveness --> eng:five
+eng:fivepence --> eng:five
+eng:fivescore --> eng:five
+eng:fivesome --> eng:five
+eng:fivestones --> eng:five
+eng:fiveth --> eng:five
+eng:fiveway --> eng:five
+eng:fix --> fro:fixer
+eng:fixable --> eng:fix --> fro:fixer
+eng:fixation --> fro:fixation
+eng:fixational --> eng:fixation --> fro:fixation
+eng:fixeth --> eng:fix --> fro:fixer
+eng:fixly --> eng:fix --> fro:fixer
+eng:fixt --> eng:fix --> fro:fixer
+eng:fixtureless --> eng:fixture
+eng:fizziness --> eng:fizzy
+eng:fizzingly --> eng:fizzing
+eng:fizzless --> eng:fizz
+eng:fjord --> nor:fjord --> non:fjǫrðr
+eng:fjordlike --> eng:fjord --> nor:fjord --> non:fjǫrðr
+eng:flabile --> lat:flabilis
+eng:flaccid --> lat:flaccidus
+eng:flaccify --> lat:flaccidus
+eng:flack --> enm:flacken
+eng:flacker --> enm:flakeren
+eng:flackery --> eng:flack --> enm:flacken
+eng:flag --> enm:flag
+eng:flagellate --> lat:flagellum --> lat:flagrum
+eng:flagellum --> lat:flagellum --> lat:flagrum
+eng:flageolet --> fra:flageolet --> ita:fagiolo --> lat:phaseolus --> grc:φάσηλος
+eng:flagginess --> eng:flaggy --> eng:flag --> enm:flag
+eng:flaggingly --> eng:flagging
+eng:flaggy --> eng:flag --> enm:flag
+eng:flagitation --> lat:flagitatio
+eng:flagitiously --> eng:flagitious
+eng:flagitiousness --> eng:flagitious
+eng:flagless --> eng:flag --> enm:flag
+eng:flaglet --> eng:flag --> enm:flag
+eng:flaglike --> eng:flag --> enm:flag
+eng:flagon --> enm:flagon
+eng:flagpole --> eng:flag --> enm:flag
+eng:flagrant --> lat:flagrantem
+eng:flagstick --> eng:flag --> enm:flag
+eng:flagstoned --> eng:flagstone
+eng:flagtail --> eng:flag --> enm:flag
+eng:flagworm --> eng:flag --> enm:flag
+eng:flail --> enm:flaile
+eng:flailingly --> eng:flailing
+eng:flaily --> eng:flail --> enm:flaile
+eng:flake --> enm:flake
+eng:flakeless --> eng:flake --> enm:flake
+eng:flakelike --> eng:flake --> enm:flake
+eng:flakily --> eng:flaky
+eng:flamage --> eng:flame --> enm:flaume
+eng:flambeau --> fra:flambeau
+eng:flamboyant --> fra:flamboyant
+eng:flame --> enm:flaume
+eng:flamekeeper --> eng:flame --> enm:flaume
+eng:flamelet --> eng:flame --> enm:flaume
+eng:flamelike --> eng:flame --> enm:flaume
+eng:flamenco --> spa:flamenco
+eng:flamencolike --> eng:flamenco --> spa:flamenco
+eng:flameproof --> eng:flame --> enm:flaume
+eng:flamethrowing --> eng:flame --> enm:flaume
+eng:flamingly --> eng:flaming
+eng:flamingo --> por:flamingo --> spa:flamengo --> oci:flama
+eng:flammeous --> lat:flammeus
+eng:Flamsteedian --> eng:Flamsteed
+eng:Flanders --> fra:Flandres --> nld:Vlaanderen --> dum:Vlander
+eng:flaneur --> fra:flâneur --> fra:flâner
+eng:flangelike --> eng:flange
+eng:flanger --> eng:flange
+eng:flannel --> enm:flaunneol --> xno:flanelle
+eng:flannelgraph --> eng:flannel --> enm:flaunneol --> xno:flanelle
+eng:flannellike --> eng:flannel --> enm:flaunneol --> xno:flanelle
+eng:flannelly --> eng:flannel --> enm:flaunneol --> xno:flanelle
+eng:flannelmouth --> eng:flannel --> enm:flaunneol --> xno:flanelle
+eng:flap --> enm:flappe
+eng:flapless --> eng:flap --> enm:flappe
+eng:flapper --> eng:flap --> enm:flappe
+eng:flapperdom --> eng:flapper --> eng:flap --> enm:flappe
+eng:flapperesque --> eng:flapper --> eng:flap --> enm:flappe
+eng:flapperhood --> eng:flapper --> eng:flap --> enm:flappe
+eng:flapperism --> eng:flapper --> eng:flap --> enm:flappe
+eng:flappingly --> eng:flapping
+eng:flappity --> eng:flap --> enm:flappe
+eng:flappy --> eng:flap --> enm:flappe
+eng:flare-up --> eng:flare
+eng:flaringly --> eng:flaring
+eng:flashcube --> eng:cube --> fro:cube --> lat:cubus --> grc:κύβος
+eng:flashforward --> eng:flashback
+eng:flashingly --> eng:flashing
+eng:flashless --> eng:flash
+eng:flashmob --> eng:flash
+eng:flashover --> eng:flash
+eng:flashpacking --> eng:backpacking
+eng:flashpot --> eng:flash
+eng:flashy --> eng:flash
+eng:flask --> enm:flask --> enm:flaske --> xno:flascon --> lat:flasco
+eng:flaskful --> eng:flask --> enm:flask --> enm:flaske --> xno:flascon --> lat:flasco
+eng:flaskless --> eng:flask --> enm:flask --> enm:flaske --> xno:flascon --> lat:flasco
+eng:flasklike --> eng:flask --> enm:flask --> enm:flaske --> xno:flascon --> lat:flasco
+eng:flatbill --> eng:bill --> ang:bil
+eng:flatblock --> eng:block --> enm:blok --> fro:bloc --> dum:blok
+eng:flatcar --> eng:car --> enm:carre --> xno:carre --> lat:carra
+eng:flatfoot --> eng:flat
+eng:flatfootedly --> eng:flatfooted
+eng:flathe --> enm:flathe
+eng:flathead --> eng:flat
+eng:flat-headed cat --> eng:cat --> enm:cat
+eng:flathon --> enm:flathon
+eng:flating --> eng:flat
+eng:flative --> lat:flare
+eng:flatland --> eng:flat
+eng:flatleaf --> eng:flat
+eng:flatline --> eng:flat
+eng:flatliner --> eng:flatline --> eng:flat
+eng:flatling --> eng:flat
+eng:flatlock --> eng:flat
+eng:flatlong --> eng:flat
+eng:flatness --> eng:flat
+eng:flatour --> fro:flatour
+eng:flatscape --> eng:flat
+eng:flatscreen --> eng:flat
+eng:flatshare --> eng:flat
+eng:flattenable --> eng:flatten
+eng:flattener --> eng:flatten
+eng:flatter --> enm:flatteren
+eng:flatterest --> eng:flatter --> enm:flatteren
+eng:flattereth --> eng:flatter --> enm:flatteren
+eng:flatteringly --> eng:flattering
+eng:flattish --> eng:flat
+eng:flatty --> eng:flat
+eng:flatulence --> eng:flatulent
+eng:flatulently --> eng:flatulent
+eng:flatulogenic --> eng:flatulence --> eng:flatulent
+eng:flatwise --> eng:flat
+eng:flavanonol --> eng:flavanone
+eng:flavescent --> lat:flavescens
+eng:Flavia --> lat:Flavia
+eng:flavid --> lat:flavus
+eng:flavonoid --> eng:flavone
+eng:flavordynamics --> eng:dynamics --> eng:dynamic --> fra:dynamique --> grc:δυναμικός --> grc:δύναμις --> grc:δύναμαι
+eng:flavorful --> eng:flavor
+eng:flavorless --> eng:flavor
+eng:flavorlessly --> eng:flavorless --> eng:flavor
+eng:flavorwise --> eng:flavor
+eng:flavourwise --> eng:flavour
+eng:flavoury --> eng:flavour
+eng:flavous --> lat:flavus
+eng:flawless --> eng:flaw
+eng:flawlessness --> eng:flawless --> eng:flaw
+eng:flawy --> eng:flaw
+eng:flax --> ang:fleax
+eng:flaxlike --> eng:flax --> ang:fleax
+eng:flaxweed --> eng:flax --> ang:fleax
+eng:flaxy --> eng:flax --> ang:fleax
+eng:flay --> ang:flean
+eng:flayer --> eng:flay --> ang:flean
+eng:flaysome --> eng:flay --> ang:flean
+eng:fleabag --> eng:bag --> enm:bagge --> non:baggi
+eng:fleabane --> eng:bane
+eng:fleabite --> eng:bite --> ang:bitan
+eng:fleaborne --> eng:borne
+eng:fleaker --> eng:beaker --> enm:biker --> non:bikarr --> osx:bikeri --> lat:bicarium
+eng:flealike --> eng:flea
+eng:fleam --> fro:flieme --> lat:phlebotomus --> grc:φλεβοτόμον
+eng:flèche --> fro:fleche
+eng:flechette --> fra:fléchette
+eng:fleck --> enm:flekked --> non:flekka
+eng:fleckless --> eng:fleck --> enm:flekked --> non:flekka
+eng:flectional --> eng:flection
+eng:flee --> ang:fleon
+eng:fleece --> enm:flees --> ang:fleos
+eng:fleeceless --> eng:fleece --> enm:flees --> ang:fleos
+eng:fleech --> dum:fletsen
+eng:fleer --> eng:flee --> ang:fleon
+eng:fleerer --> eng:fleer --> eng:flee --> ang:fleon
+eng:fleeringly --> eng:fleering
+eng:fleet --> enm:flet --> ang:flet
+eng:fleetfooted --> eng:fleet --> enm:flet --> ang:flet
+eng:fleeting --> enm:fleten --> ang:fleotan
+eng:fleetingly --> eng:fleeting --> enm:fleten --> ang:fleotan
+eng:fleetwide --> eng:fleet --> enm:flet --> ang:flet
+eng:fleme --> enm:flemen --> ang:flyman
+eng:Fleming --> enm:flameng
+eng:Flemish --> enm:flemmysshe --> ofs:flemsche --> dum:vlāmisch
+eng:flense --> dan:flense
+eng:flerd --> enm:flerd --> ang:fleard
+eng:flesh --> ang:flæsc
+eng:fleshcolored --> eng:colored
+eng:fleshhood --> eng:flesh --> ang:flæsc
+eng:fleshlessness --> eng:fleshless
+eng:fleshlike --> eng:flesh --> ang:flæsc
+eng:fleshliness --> eng:fleshly --> eng:flesh --> ang:flæsc
+eng:fleshloaf --> eng:flesh --> ang:flæsc
+eng:fleshly --> eng:flesh --> ang:flæsc
+eng:fleshmeat --> eng:flesh --> ang:flæsc
+eng:fleshmeet --> eng:flesh --> ang:flæsc
+eng:fleshmonger --> eng:flesh --> ang:flæsc
+eng:Fleur --> fra:fleur --> lat:flos
+eng:fleur-de-lis --> fra:fleur de lys
+eng:fleur-de-lysed --> eng:fleur-de-lys
+eng:flewed --> eng:flew
+eng:flexibility --> lat:flexibilitas --> lat:flecto
+eng:flexible --> lat:flexibilis --> lat:flecto
+eng:flexibleness --> eng:flexible --> lat:flexibilis --> lat:flecto
+eng:flexicurity --> eng:flexibility --> lat:flexibilitas --> lat:flecto
+eng:flexion --> lat:flexio --> lat:flecto
+eng:flexional --> eng:flexion --> lat:flexio --> lat:flecto
+eng:flexitarian --> eng:flexible --> lat:flexibilis --> lat:flecto
+eng:flexitime --> eng:flexible --> lat:flexibilis --> lat:flecto
+eng:flexography --> eng:flex
+eng:flexor --> lat:flexor
+eng:flexuous --> lat:flexuosus --> lat:flexus --> lat:flectere
+eng:flexuously --> eng:flexuous --> lat:flexuosus --> lat:flexus --> lat:flectere
+eng:flexuousness --> eng:flexuous --> lat:flexuosus --> lat:flexus --> lat:flectere
+eng:fley --> enm:fleien --> ang:flegan
+eng:flicker --> enm:flikeren --> ang:flicerian
+eng:flickerer --> eng:flicker --> enm:flikeren --> ang:flicerian
+eng:flickery --> eng:flicker --> enm:flikeren --> ang:flicerian
+eng:flicky --> eng:flick
+eng:flightcraft --> eng:craft
+eng:flighted --> eng:flight
+eng:flighter --> eng:flight
+eng:flightiness --> eng:flighty --> eng:flight
+eng:flightless --> eng:flight
+eng:flightlessly --> eng:flightless --> eng:flight
+eng:flightseeing --> eng:flight
+eng:flighty --> eng:flight
+eng:flimflammer --> eng:flimflam
+eng:flincher --> eng:flinch
+eng:flinchingly --> eng:flinching
+eng:flinchy --> eng:flinch
+eng:flinger --> eng:fling
+eng:flint --> ang:flint
+eng:flintlike --> eng:flint --> ang:flint
+eng:flintlock --> eng:flint --> ang:flint
+eng:flintstone --> eng:flint --> ang:flint
+eng:flintware --> eng:flint --> ang:flint
+eng:flintwood --> eng:flint --> ang:flint
+eng:flinty --> eng:flint --> ang:flint
+eng:flip --> eng:flippant
+eng:flipbook --> eng:book --> enm:book --> ang:boc
+eng:flipness --> eng:flip --> eng:flippant
+eng:flippantness --> eng:flippant
+eng:flippase --> eng:flip --> eng:flippant
+eng:flippered --> eng:flipper
+eng:flipperless --> eng:flipper
+eng:flipperlike --> eng:flipper
+eng:flipside --> eng:flip --> eng:flippant
+eng:flirtationship --> eng:flirtation
+eng:flirter --> eng:flirt
+eng:flirtiness --> eng:flirty --> eng:flirt
+eng:flirtingly --> eng:flirting
+eng:flirtini --> eng:flirt
+eng:flirty --> eng:flirt
+eng:flit --> non:flytja
+eng:flitch --> ang:flicce
+eng:flite --> enm:fliten --> ang:flitan
+eng:flittermouse --> eng:flitter
+eng:flittiness --> eng:flitty
+eng:flitting --> eng:flit --> non:flytja
+eng:flittingly --> eng:flitting --> eng:flit --> non:flytja
+eng:float --> enm:floten --> ang:flotian
+eng:floatable --> eng:float --> enm:floten --> ang:flotian
+eng:floatel --> eng:float --> enm:floten --> ang:flotian
+eng:floatiness --> eng:floaty
+eng:floatingly --> eng:floating
+eng:floatplane --> eng:float --> enm:floten --> ang:flotian
+eng:flobby --> eng:flob
+eng:flock --> enm:flock --> ang:flocc
+eng:flockless --> eng:flock --> enm:flock --> ang:flocc
+eng:flocklike --> eng:flock --> enm:flock --> ang:flocc
+eng:flockling --> eng:flock --> enm:flock --> ang:flocc
+eng:flockly --> eng:flock --> enm:flock --> ang:flocc
+eng:flockmate --> eng:flock --> enm:flock --> ang:flocc
+eng:flogger --> eng:flog
+eng:flogworthy --> eng:flog
+eng:flokati --> ell:φλοκάτη
+eng:flone --> enm:flone
+eng:flong --> fra:flan --> fro:flaon --> lat:fladonem
+eng:flood --> enm:flod --> ang:flod
+eng:floodable --> eng:flood --> enm:flod --> ang:flod
+eng:floodage --> eng:flood --> enm:flod --> ang:flod
+eng:flooder --> eng:flood --> enm:flod --> ang:flod
+eng:floodlike --> eng:flood --> enm:flod --> ang:flod
+eng:floodmark --> eng:flood --> enm:flod --> ang:flod
+eng:floodproof --> eng:flood --> enm:flod --> ang:flod
+eng:floodwall --> eng:flood --> enm:flod --> ang:flod
+eng:floodway --> eng:flood --> enm:flod --> ang:flod
+eng:floorage --> eng:floor
+eng:floorball --> eng:ball --> enm:bal
+eng:floordrobe --> eng:floor
+eng:flooring --> enm:floring --> enm:floren --> enm:flor
+eng:floorlet --> eng:floor
+eng:floormat --> eng:floor
+eng:floorplanning --> eng:floor
+eng:floorplate --> eng:floor
+eng:floorset --> eng:floor
+eng:floorspace --> eng:floor
+eng:floortime --> eng:floor
+eng:floorwalking --> eng:floor
+eng:floorwork --> eng:floor
+eng:flopdom --> eng:flop
+eng:floppy --> eng:flop
+eng:floptical --> eng:floppy --> eng:flop
+eng:floptical disk --> eng:floppy disk
+eng:flora --> lat:Flora
+eng:florally --> eng:floral
+eng:floralness --> eng:floral
+eng:floramour --> lat:flos
+eng:Floréal --> lat:flos
+eng:Florence --> fra:Florence --> lat:Florentia --> lat:florens
+eng:florentine --> fra:florentin
+eng:Florentine --> fra:florentin
+eng:florentium --> ita:florentium
+eng:Flores --> por:flores
+eng:floret --> fro:florete --> fra:fleur --> lat:flos
+eng:Florida --> spa:Pascua Florida
+eng:Floridian --> eng:Florida --> spa:Pascua Florida
+eng:florification --> lat:flos
+eng:floriform --> lat:flos
+eng:floriography --> lat:floris
+eng:florist --> lat:floris
+eng:floristry --> eng:florist --> lat:floris
+eng:floroon --> fra:fleuron
+eng:floruit --> lat:floruit
+eng:florulent --> lat:florulentus
+eng:flosslike --> eng:floss
+eng:flossy --> eng:floss
+eng:flotage --> fro:flotage --> fro:floter
+eng:flotant --> fro:flotant
+eng:flotational --> eng:flotation
+eng:flotel --> eng:float --> enm:floten --> ang:flotian
+eng:flotilla --> spa:flotilla
+eng:flotsam --> xno:floteson --> fro:flotaison --> fro:floter
+eng:flouncer --> eng:flounce
+eng:flouncily --> eng:flouncy
+eng:flouncingly --> eng:flouncing
+eng:flounder --> non:flyðra
+eng:flounderingly --> eng:floundering
+eng:flounderlike --> eng:flounder --> non:flyðra
+eng:flourily --> eng:floury
+eng:flouriness --> eng:floury
+eng:flourish --> ang:florisshen
+eng:flourisher --> eng:flourish --> ang:florisshen
+eng:flourishingly --> eng:flourishing
+eng:flourless --> eng:flour
+eng:flourlike --> eng:flour
+eng:floutingly --> eng:flouting
+eng:flow --> ang:flowan
+eng:flowable --> eng:flow --> ang:flowan
+eng:flowage --> eng:flow --> ang:flowan
+eng:flower --> enm:flour --> xno:flur --> fro:flor --> lat:florem
+eng:flowerage --> eng:flower --> enm:flour --> xno:flur --> fro:flor --> lat:florem
+eng:flowerbed --> eng:bed --> enm:bed --> ang:bedd
+eng:floweret --> eng:flower --> enm:flour --> xno:flur --> fro:flor --> lat:florem
+eng:flower fly --> eng:flower --> enm:flour --> xno:flur --> fro:flor --> lat:florem
+eng:flowerful --> eng:flower --> enm:flour --> xno:flur --> fro:flor --> lat:florem
+eng:flowerlessness --> eng:flowerless
+eng:flowerlike --> eng:flower --> enm:flour --> xno:flur --> fro:flor --> lat:florem
+eng:flowerpecker --> eng:flower --> enm:flour --> xno:flur --> fro:flor --> lat:florem
+eng:flowerpot --> eng:flower --> enm:flour --> xno:flur --> fro:flor --> lat:florem
+eng:floweth --> eng:flow --> ang:flowan
+eng:flowingness --> eng:flowing
+eng:flowtop --> eng:flow --> ang:flowan
+eng:flowy --> eng:flow --> ang:flowan
+eng:flox --> eng:fluorine
+eng:Floyd --> cym:llwyd
+eng:fluctuation --> lat:fluctuationem
+eng:flueless --> eng:flue
+eng:fluelike --> eng:flue
+eng:fluellen --> cym:Llywelyn
+eng:fluency --> lat:fluentia
+eng:fluent --> lat:fluens
+eng:fluentness --> eng:fluent --> lat:fluens
+eng:fluework --> eng:flue
+eng:fluey --> eng:flue
+eng:fluffball --> eng:ball --> enm:bal
+eng:flufftail --> eng:fluff
+eng:fluid --> lat:fluidus --> lat:fluere
+eng:fluidal --> eng:fluid --> lat:fluidus --> lat:fluere
+eng:fluid drachm --> grc:δραχμή --> grc:δράσσομαι
+eng:fluidization --> eng:fluidize
+eng:fluidless --> eng:fluid --> lat:fluidus --> lat:fluere
+eng:fluidlike --> eng:fluid --> lat:fluidus --> lat:fluere
+eng:fluidly --> eng:fluid --> lat:fluidus --> lat:fluere
+eng:fluidness --> eng:fluid --> lat:fluidus --> lat:fluere
+eng:fluidram --> eng:dram --> fro:dragme --> lat:dragma --> grc:δραχμή --> grc:δράσσομαι
+eng:fluke --> ang:floc
+eng:flukelike --> eng:fluke --> ang:floc
+eng:flukeworm --> eng:fluke --> ang:floc
+eng:flukily --> eng:fluky
+eng:flukish --> eng:fluke --> ang:floc
+eng:flulike --> eng:flu
+eng:flume --> enm:flum --> fro:flum
+eng:fluminous --> lat:flumen --> lat:fluere
+eng:flumpet --> eng:flugelhorn
+eng:flunami --> eng:flu
+eng:flunkee --> eng:flunk
+eng:flunkydom --> eng:flunky
+eng:flunkyism --> eng:flunky
+eng:fluocerite --> eng:cerite
+eng:fluorapophyllite --> eng:apophyllite
+eng:fluorenol --> eng:fluorene
+eng:fluorenone --> eng:fluorene
+eng:fluorescein --> eng:fluoresce
+eng:fluorescin --> eng:fluoresce
+eng:fluoridationist --> eng:fluoridation
+eng:fluoridator --> eng:fluoridate
+eng:fluorinelike --> eng:fluorine
+eng:fluoroacetamide --> eng:acetamide --> eng:acetyl
+eng:fluoroalkyl --> eng:alkyl
+eng:fluoroaromatic --> eng:aromatic --> frm:aromatique
+eng:fluorocitrate --> eng:citrate
+eng:fluorocoumarin --> eng:coumarin
+eng:fluorocytosine --> eng:cytosine
+eng:fluoroethyl --> eng:ethyl
+eng:fluorographene --> eng:graphene --> eng:graphite --> deu:Graphit --> grc:γράφω
+eng:fluorography
+eng:fluorohydride --> eng:hydride
+eng:fluoroid --> eng:fluor
+eng:fluoroimmunoassay --> eng:immunoassay --> eng:assay --> xno:assaier
+eng:fluoronucleotide --> eng:nucleotide
+eng:fluoroorotic --> eng:orotic
+eng:fluorophilic
+eng:fluoroproline --> eng:proline
+eng:fluorosulfite --> eng:sulfite
+eng:fluorosurfactant --> eng:surfactant
+eng:fluorotantalate --> eng:tantalate
+eng:fluorotelomer --> eng:telomer
+eng:fluorouridine --> eng:uridine
+eng:fluorspar --> eng:fluorite
+eng:flurriedly --> eng:flurried
+eng:flurrying --> eng:flurry
+eng:flush --> enm:flusshen
+eng:flushable --> eng:flush --> enm:flusshen
+eng:flusher --> eng:flush --> enm:flusshen
+eng:flushingly --> eng:flushing
+eng:flushness --> eng:flush --> enm:flusshen
+eng:flusteredly --> eng:flustered
+eng:flute --> fro:fleüte --> pro:flaut
+eng:flutelike --> eng:flute --> fro:fleüte --> pro:flaut
+eng:flutemouth --> eng:flute --> fro:fleüte --> pro:flaut
+eng:flutiness --> eng:fluty --> eng:flute --> fro:fleüte --> pro:flaut
+eng:flutist --> eng:flute --> fro:fleüte --> pro:flaut
+eng:flutter --> enm:floteren --> ang:floterian
+eng:flutteringly --> eng:fluttering
+eng:fluttersome --> eng:flutter --> enm:floteren --> ang:floterian
+eng:fluty --> eng:flute --> fro:fleüte --> pro:flaut
+eng:fluvial --> lat:fluvialis
+eng:fluvialist --> eng:fluvial --> lat:fluvialis
+eng:fluviatic --> lat:fluviaticus
+eng:flux --> lat:fluxus
+eng:fluxile --> lat:fluxilis
+eng:fluxionist --> eng:fluxion
+eng:fluxless --> eng:flux --> lat:fluxus
+eng:fly --> enm:flien --> ang:fleogan
+eng:flyback --> eng:back --> enm:bak --> ang:bæc
+eng:flyball --> eng:ball --> enm:bal
+eng:flybane --> eng:bane
+eng:flyboat --> eng:boat --> ang:bat
+eng:flycatching --> eng:catching
+eng:flyfish --> eng:fish --> ang:fiscian
+eng:flyhawk --> eng:fly --> enm:flien --> ang:fleogan
+eng:flying --> eng:fly --> enm:flien --> ang:fleogan
+eng:flyman --> eng:fly --> enm:flien --> ang:fleogan
+eng:flyness --> eng:fly --> enm:flien --> ang:fleogan
+eng:flypapered --> eng:flypaper
+eng:flypast --> eng:fly --> enm:flien --> ang:fleogan
+eng:flypost --> eng:fly --> enm:flien --> ang:fleogan
+eng:flyproof --> eng:fly --> enm:flien --> ang:fleogan
+eng:flyrod --> eng:fly --> enm:flien --> ang:fleogan
+eng:flyrodder --> eng:flyrod --> eng:fly --> enm:flien --> ang:fleogan
+eng:flysheet --> eng:fly --> enm:flien --> ang:fleogan
+eng:fly sheet --> eng:fly --> enm:flien --> ang:fleogan
+eng:flyspecking --> eng:flyspeck
+eng:flythrough --> eng:fly --> enm:flien --> ang:fleogan
+eng:flytrap --> eng:fly --> enm:flien --> ang:fleogan
+eng:flyway --> eng:fly --> enm:flien --> ang:fleogan
+eng:foal --> ang:fola
+eng:foalfoot --> eng:foal --> ang:fola
+eng:foam --> enm:fom --> ang:fam
+eng:foamable --> eng:foam --> enm:fom --> ang:fam
+eng:foamboard --> eng:board --> enm:bord
+eng:foamflower --> eng:flower --> enm:flour --> xno:flur --> fro:flor --> lat:florem
+eng:foaminess --> eng:foamy --> eng:foam --> enm:fom --> ang:fam
+eng:foamingly --> eng:foaming
+eng:foamless --> eng:foam --> enm:fom --> ang:fam
+eng:foamlike --> eng:foam --> enm:fom --> ang:fam
+eng:foamy --> eng:foam --> enm:fom --> ang:fam
+eng:fob --> deu:foppen
+eng:focus --> lat:focus
+eng:focusless --> eng:focus --> lat:focus
+eng:fodder --> ang:fōdor
+eng:fodderer --> eng:fodder --> ang:fōdor
+eng:fœderalism --> eng:fœderal
+eng:fœderalist --> eng:fœderal
+eng:foederatus --> lat:foederatus --> lat:foedus
+eng:foehn --> deu:Föhn
+eng:foehood --> eng:foe
+eng:foeman --> enm:foman --> ang:fahman
+eng:foeship --> eng:foe
+eng:foetal --> lat:fetus
+eng:foetidness --> eng:foetid
+eng:foetology --> eng:foetus
+eng:fogbank --> eng:bank --> enm:bank
+eng:fogeydom --> eng:fogey
+eng:fogeyish --> eng:fogey
+eng:Foggia --> ita:Foggia --> lat:Fodia
+eng:foggy --> eng:fog
+eng:foglamp --> eng:fog
+eng:fogless --> eng:fog
+eng:foglike --> eng:fog
+eng:fogou --> cor:fogo
+eng:fogyism --> eng:fogy
+eng:foil --> enm:foilen --> fra:fouler
+eng:foilable --> eng:foil --> enm:foilen --> fra:fouler
+eng:foiler --> eng:foil --> enm:foilen --> fra:fouler
+eng:foin --> fro:foene --> lat:fuscina
+eng:foison --> fro:foison
+eng:foistiness --> eng:foisty
+eng:foistware --> eng:foist
+eng:fold --> enm:fold
+eng:foldable --> eng:fold --> enm:fold
+eng:foldaway --> eng:away --> ang:onweg
+eng:foldback --> eng:back --> enm:bak --> ang:bæc
+eng:folderless --> eng:folder
+eng:folderlike --> eng:folder
+eng:foldless --> eng:fold --> enm:fold
+eng:foldome --> eng:fold --> enm:fold
+eng:foldover --> eng:fold --> enm:fold
+eng:foldup --> eng:fold --> enm:fold
+eng:foliage --> frm:feuillage
+eng:foliaged --> eng:foliage --> frm:feuillage
+eng:foliagelike --> eng:foliage --> frm:feuillage
+eng:folie à deux --> fra:folie à deux
+eng:foliose --> lat:foliosus --> lat:folio
+eng:folker --> eng:folk
+eng:folkiness --> eng:folky --> eng:folk
+eng:folkish --> eng:folk
+eng:folkishness --> eng:folkish --> eng:folk
+eng:folklife --> eng:folk
+eng:folklike --> eng:folk
+eng:folkloric --> eng:folklore
+eng:folklorically --> eng:folkloric --> eng:folklore
+eng:folklorish --> eng:folklore
+eng:folkloristically --> eng:folkloristic
+eng:folkmoot --> ang:folcmot
+eng:folknik --> eng:folk
+eng:folkred --> enm:folkrede --> ang:folcræden
+eng:folksonomy --> eng:folk
+eng:folkstyle --> eng:folk
+eng:folktale --> eng:folk
+eng:folktronica --> eng:electronica
+eng:folky --> eng:folk
+eng:follicle --> lat:folliculus --> lat:follis
+eng:follicly --> eng:follicle --> lat:folliculus --> lat:follis
+eng:follicly challenged --> eng:follicle --> lat:folliculus --> lat:follis
+eng:folliful --> eng:folly --> fro:folie
+eng:follis --> lat:follis
+eng:followee --> eng:follow
+eng:followership --> eng:follower
+eng:followeth --> eng:follow
+eng:followingly --> eng:following
+eng:folly --> fro:folie
+eng:Fomalhaut --> ara:فم الحوت
+eng:foment --> fro:fomenter --> lat:fomentare --> lat:fomentum
+eng:fon --> enm:fon
+eng:fond --> enm:fond
+eng:fondaco --> ita:fondaco
+eng:fondness --> eng:fond --> enm:fond
+eng:fondu --> fra:fondu
+eng:fondue --> fra:fondue --> fra:fondre --> lat:fundere
+eng:fonduer --> eng:fondue --> fra:fondue --> fra:fondre --> lat:fundere
+eng:fonly --> eng:fon --> enm:fon
+eng:font --> ang:font --> lat:fons
+eng:fontanelle --> fro:fontenelle
+eng:fontolizumab
+eng:food --> enm:fode
+eng:foodaholic --> eng:food --> enm:fode
+eng:food fight --> eng:fight --> ang:feoht
+eng:foodflation --> eng:food --> enm:fode
+eng:foodful --> eng:food --> enm:fode
+eng:foodgasm --> eng:food --> enm:fode
+eng:foodie --> eng:food --> enm:fode
+eng:foodlessness --> eng:foodless
+eng:foodlike --> eng:food --> enm:fode
+eng:foodoir --> eng:food --> enm:fode
+eng:foodophile --> eng:food --> enm:fode
+eng:foodporn --> eng:food --> enm:fode
+eng:foodprint --> eng:food --> enm:fode
+eng:foodservice --> eng:food --> enm:fode
+eng:foodstuff --> eng:food --> enm:fode
+eng:foodwise --> eng:food --> enm:fode
+eng:foody --> eng:food --> enm:fode
+eng:foodyolk --> eng:food --> enm:fode
+eng:foofooraw --> fra:fanfaron
+eng:fool --> enm:fol --> fro:fol --> lat:follis
+eng:foolable --> eng:fool --> enm:fol --> fro:fol --> lat:follis
+eng:fooldom --> eng:fool --> enm:fol --> fro:fol --> lat:follis
+eng:foolery --> eng:fool --> enm:fol --> fro:fol --> lat:follis
+eng:fooleth --> eng:fool --> enm:fol --> fro:fol --> lat:follis
+eng:foolhood --> eng:fool --> enm:fol --> fro:fol --> lat:follis
+eng:foolish --> eng:fool --> enm:fol --> fro:fol --> lat:follis
+eng:foolishest --> eng:foolish --> eng:fool --> enm:fol --> fro:fol --> lat:follis
+eng:foolishly --> eng:foolish --> eng:fool --> enm:fol --> fro:fol --> lat:follis
+eng:foolishness --> eng:foolish --> eng:fool --> enm:fol --> fro:fol --> lat:follis
+eng:foolometer --> eng:fool --> enm:fol --> fro:fol --> lat:follis
+eng:foolproof --> eng:fool --> enm:fol --> fro:fol --> lat:follis
+eng:foon --> eng:fork --> enm:forke --> ang:force
+eng:foosball --> deu:Fußball
+eng:footage --> eng:foot
+eng:footbag --> eng:bag --> enm:bagge --> non:baggi
+eng:footballene --> eng:football
+eng:footballer --> eng:football
+eng:footballfish --> eng:fish --> ang:fiscian
+eng:footband --> eng:band --> enm:band --> ang:beand
+eng:footbath --> eng:bath --> heb:בת
+eng:footboy --> eng:boy --> enm:boy
+eng:footbreadth --> eng:breadth --> eng:broad --> enm:brood
+eng:footbridge --> eng:bridge --> enm:brigge --> ang:brycg
+eng:footcare --> eng:care --> enm:care --> ang:caru
+eng:footcloth --> eng:cloth --> enm:cloth
+eng:foot-dragging --> eng:drag one's feet
+eng:footedness --> eng:footed
+eng:footfuck --> eng:foot
+eng:footfucker --> eng:footfuck --> eng:foot
+eng:footglove --> eng:foot
+eng:foothalt --> eng:foot
+eng:foothold --> eng:foot
+eng:foothot --> eng:foot
+eng:footing --> eng:foot
+eng:footlessness --> eng:footless
+eng:footlicker --> eng:foot
+eng:footlike --> eng:foot
+eng:footling --> eng:foot
+eng:footlog --> eng:foot
+eng:footlooseness --> eng:footloose
+eng:footmanship --> eng:footman
+eng:footmeal --> enm:footmele
+eng:footpath --> eng:foot
+eng:footpeg --> eng:foot
+eng:footrope --> eng:foot
+eng:footrot --> eng:foot
+eng:footsoreness --> eng:footsore
+eng:footstall --> eng:foot
+eng:footstep --> eng:foot
+eng:footstone --> eng:foot
+eng:footstool --> eng:foot
+eng:footsweep --> eng:foot
+eng:footswitch --> eng:foot
+eng:footwalk --> eng:foot
+eng:footwall --> eng:foot
+eng:footwarmer --> eng:foot
+eng:footway --> eng:foot
+eng:footwear --> eng:foot
+eng:footwork --> eng:foot
+eng:footworn --> eng:foot
+eng:footwrap --> eng:foot
+eng:footwriting --> eng:foot
+eng:fopling --> eng:fop
+eng:foppishly --> eng:foppish
+eng:for --> enm:for --> ang:for
+eng:for-
+eng:forageable --> eng:forage
+eng:foramen --> lat:foramen --> lat:foro
+eng:foraminated --> lat:foraminatus
+eng:foraminiferan --> eng:foraminifer
+eng:forasmuch --> eng:as --> lat:as
+eng:foravirumab
+eng:foray --> enm:forrayen
+eng:forayer --> eng:foray --> enm:forrayen
+eng:forb --> grc:φορβη --> grc:φορβειν
+eng:forbar --> enm:forbarren
+eng:forbathe --> eng:bathe --> enm:bathen --> ang:baþian
+eng:forbear --> enm:forberen --> ang:forberan
+eng:forbearance --> eng:forbear --> enm:forberen --> ang:forberan
+eng:forbearer --> eng:forbear --> enm:forberen --> ang:forberan
+eng:forbeat --> enm:forbeten
+eng:forbid --> enm:forbeden --> ang:forbeodan
+eng:forbiddenly --> eng:forbidden
+eng:forbidder --> eng:forbid --> enm:forbeden --> ang:forbeodan
+eng:forbiddest --> eng:forbid --> enm:forbeden --> ang:forbeodan
+eng:forbise --> enm:forbise
+eng:forbisen --> enm:forbisen
+eng:forbite --> enm:forbiten
+eng:forblack --> enm:forblack
+eng:forbode --> enm:forbode
+eng:forbreak --> enm:forbreken --> ang:forbrecan
+eng:forbruise --> enm:forbrusen
+eng:forburn --> enm:forburnen
+eng:forburst --> enm:forbersten
+eng:forbuyer --> enm:forbier
+eng:forby --> enm:forby
+eng:forcarve --> enm:forkerven --> ang:forceorfan
+eng:forcast --> enm:forcast
+eng:forcause --> eng:cause --> enm:cause --> fro:cause --> lat:causa
+eng:force --> enm:force
+eng:forceable --> eng:force --> enm:force
+eng:forcedly --> eng:forced
+eng:forcedness --> eng:forced
+eng:forcefully --> eng:forceful
+eng:forceless --> eng:force --> enm:force
+eng:force majeure --> fra:force majeure
+eng:forcement --> eng:force --> enm:force
+eng:forcené --> fro:forcené
+eng:forceout --> eng:force --> enm:force
+eng:forcepslike --> eng:forceps
+eng:forcest --> eng:force --> enm:force
+eng:forceth --> eng:force --> enm:force
+eng:forcibly --> eng:forcible
+eng:forcingly --> eng:forcing
+eng:forcleave --> enm:forcleven
+eng:forclem --> enm:forclemmen
+eng:forcling --> enm:forclingen --> ang:forclingan
+eng:forclutch --> enm:forclucchen
+eng:forcover --> enm:forcoveren --> enm:coveren --> fro:covrir --> lat:cooperire
+eng:forcremp --> enm:forcrempen
+eng:forcurse --> enm:forcursien --> ang:forcursian
+eng:forcut --> enm:forcutten
+eng:ford --> ang:ford
+eng:fordable --> eng:ford --> ang:ford
+eng:fordeem --> enm:fordemen --> ang:fordeman
+eng:fordim --> enm:fordimmen --> ang:fordimmian
+eng:Fordism --> eng:Ford
+eng:fordless --> eng:ford --> ang:ford
+eng:fordo --> enm:fordon --> ang:fordon --> ang:don
+eng:fordote --> eng:dote
+eng:fordread --> enm:fordreden --> ang:fordrædan
+eng:fordrench --> enm:fordrenchen --> ang:fordrencan
+eng:fordrive --> enm:fordriven --> ang:fordrifan
+eng:fordry --> enm:fordrien
+eng:fordull --> enm:fordullen
+eng:fordwine --> enm:fordwinen --> ang:fordwinan
+eng:foreacre --> eng:acre --> enm:acre
+eng:foreadmonish --> eng:admonish
+eng:foreadvise --> eng:advise --> enm:avisen --> fra:aviser --> lat:advisare
+eng:forealleged --> eng:alleged
+eng:foreanent --> eng:anent --> enm:anent
+eng:foreappoint --> eng:appoint --> enm:apointen --> fro:apointier
+eng:foreappointment --> eng:appointment --> frm:apointement
+eng:forearm --> eng:arm --> enm:arm --> ang:earm
+eng:forebeam --> eng:beam --> enm:beem --> ang:beam
+eng:forebear --> eng:beer --> enm:beere
+eng:forebeat --> eng:beat --> enm:beten --> ang:beatan
+eng:forebelief --> eng:belief
+eng:forebemoaned --> eng:bemoaned
+eng:forebodement --> eng:forebode
+eng:foreboder --> eng:forebode
+eng:foreboding --> eng:boding
+eng:forebrace --> eng:brace --> fro:brace --> lat:bracchia
+eng:forebring --> eng:bring --> enm:bringen --> ang:bringan
+eng:forebusy --> ang:forebisegian
+eng:forecall --> eng:call --> enm:callen
+eng:forecastable --> eng:forecast
+eng:forecheck --> eng:check --> fro:eschec --> lat:scacus --> ara:صکّ --> fas:چک --> fas:شاه --> pal:𐭬𐭫𐭪𐭠
+eng:forechecker --> eng:forecheck --> eng:check --> fro:eschec --> lat:scacus --> ara:صکّ --> fas:چک --> fas:شاه --> pal:𐭬𐭫𐭪𐭠
+eng:forechoose --> enm:forechosen --> ang:foreceosan
+eng:forechosen --> eng:chosen
+eng:forecited --> eng:cited
+eng:foreclosable --> eng:foreclose --> enm:foreclosen
+eng:foreclose --> enm:foreclosen
+eng:foreconceive --> eng:conceive --> enm:conceiven --> fro:concevoir
+eng:foredate --> eng:date --> fra:date
+eng:foredeck --> eng:deck --> dum:dekken
+eng:foredeclare --> eng:declare --> fra:déclarer --> lat:declarare
+eng:foredesign --> eng:design --> fro:designer --> lat:designare
+eng:foredetermine --> eng:determine --> enm:determinen --> fro:determiner
+eng:foredispose --> eng:dispose --> fro:disposer
+eng:foredoom --> eng:doom --> ang:dom
+eng:foredraft --> eng:draft --> enm:draught
+eng:foredune --> eng:dune
+eng:forefeel --> eng:feel --> enm:feele
+eng:foreflow --> eng:flow --> ang:flowan
+eng:forefoot --> eng:foot
+eng:forefront --> eng:front --> fro:front
+eng:foregame --> eng:game --> enm:game
+eng:foreganger --> enm:foreganger
+eng:foregear --> eng:gear --> non:gervi
+eng:foregift --> eng:gift --> non:gipt
+eng:foregleam --> eng:gleam
+eng:foreglimpse --> eng:glimpse
+eng:forego --> ang:foregan
+eng:foregroundable --> eng:foreground
+eng:foreguard --> eng:guard
+eng:foreguess --> enm:foregessen
+eng:forehalsen --> eng:halsen --> eng:halse --> enm:hals --> ang:heals
+eng:forehanded --> eng:forehand
+eng:forehead --> ang:forheafod
+eng:forehearth --> eng:hearth
+eng:forehew --> eng:hew --> enm:hewen --> ang:heawan
+eng:forehock --> eng:hock --> enm:hoch
+eng:forehold --> eng:hold --> enm:hold --> ang:hold
+eng:foreholding --> eng:forehold --> eng:hold --> enm:hold --> ang:hold
+eng:forehoof --> eng:hoof --> ang:hof
+eng:forehook --> eng:hook --> enm:hoke --> ang:hoc
+eng:foreign --> enm:forein --> fro:forain
+eng:foreignism --> eng:foreign --> enm:forein --> fro:forain
+eng:foreignize --> eng:foreign --> enm:forein --> fro:forain
+eng:foreignness --> eng:foreign --> enm:forein --> fro:forain
+eng:forejudge --> eng:judge --> fro:juge
+eng:forejudgment --> eng:judgment --> fro:jugement --> lat:iudicamentum --> lat:iudex
+eng:foreken --> eng:ken
+eng:foreking --> eng:king --> enm:king
+eng:foreknow --> eng:know --> enm:knowen --> ang:cnawan
+eng:foreknowable --> eng:foreknow --> eng:know --> enm:knowen --> ang:cnawan
+eng:foreknower --> eng:foreknow --> eng:know --> enm:knowen --> ang:cnawan
+eng:foreknowingly --> eng:foreknowing
+eng:foreknowledge --> eng:knowledge --> enm:knowleche
+eng:foreland --> eng:land --> enm:land
+eng:forelay --> eng:lay --> enm:laie
+eng:forelead --> enm:forleden --> ang:forelædan
+eng:foreleader --> eng:leader --> enm:leder
+eng:forelie --> eng:lie --> enm:lien --> ang:leogan
+eng:forelift --> eng:lift --> enm:lifte
+eng:forelike --> eng:like --> enm:liken --> ang:lician
+eng:forelook --> enm:vorloken
+eng:foremath --> eng:math --> enm:math --> ang:mæþ
+eng:foremeant --> eng:meant
+eng:forementioned --> eng:mentioned
+eng:foremilk --> eng:milk --> ang:melcan
+eng:foremind --> enm:foremynden
+eng:foremost --> ang:formest
+eng:foremostly --> eng:foremost --> ang:formest
+eng:foremother --> eng:mother --> enm:moder --> ang:modor
+eng:forename --> eng:name --> enm:name --> ang:nama
+eng:forenight --> eng:night --> enm:night
+eng:forenotice --> eng:notice --> lat:notitia --> lat:notus
+eng:forensic --> lat:forensis --> lat:forum
+eng:foreordain --> eng:ordain
+eng:foreordinate --> eng:ordinate
+eng:foreordination --> eng:ordination
+eng:forepassed --> eng:passed
+eng:forepast --> eng:past
+eng:foreplane --> eng:plane --> fro:plane --> lat:platanus --> grc:πλάτανος --> grc:πλατύς
+eng:forepleasure --> eng:pleasure
+eng:forepossessed --> eng:possessed
+eng:foreprize --> eng:prize --> enm:prise --> fro:prise --> fra:prise
+eng:forepromised --> eng:promised
+eng:forequoted --> eng:quoted
+eng:forerank --> eng:rank --> enm:rank --> ang:ranc
+eng:forereach --> eng:reach --> enm:rechen --> ang:ræcan
+eng:foreread --> eng:read --> ang:rædan
+eng:forerecited --> eng:recited
+eng:forereef --> eng:fore
+eng:foreremembered --> eng:remembered
+eng:forerider --> eng:rider
+eng:forerun --> eng:run --> enm:ronnen
+eng:foreseeability --> eng:foreseeable --> eng:foresee
+eng:foreseeable --> eng:foresee
+eng:foreseeably --> eng:foreseeable --> eng:foresee
+eng:foreseeing --> eng:foresee
+eng:foreseeingly --> eng:foreseeing --> eng:foresee
+eng:foreseize --> eng:seize
+eng:foreset --> enm:foresetten --> ang:foresettan
+eng:foreshadow --> eng:shadow --> enm:schadowe
+eng:foreshadower --> eng:foreshadow --> eng:shadow --> enm:schadowe
+eng:foreshape --> eng:shape --> enm:shap
+eng:foreship --> eng:ship --> enm:ship
+eng:foreshock --> eng:shock
+eng:foreshore --> eng:fore
+eng:foreshorten --> eng:shorten --> eng:short --> enm:short
+eng:foreshow --> eng:show --> enm:schewen
+eng:foreshower --> eng:foreshow --> eng:show --> enm:schewen
+eng:foreside --> eng:side --> ang:side --> p_gem:sithon
+eng:foresight --> eng:sight --> ang:sihþ
+eng:foresightfully --> eng:foresightful
+eng:foresightless --> eng:foresight --> eng:sight --> ang:sihþ
+eng:foresightlessness --> eng:foresightless --> eng:foresight --> eng:sight --> ang:sihþ
+eng:foresightly --> eng:foresight --> eng:sight --> ang:sihþ
+eng:foresighty --> eng:foresight --> eng:sight --> ang:sihþ
+eng:foresignify --> eng:signify
+eng:foresister --> eng:sister --> enm:sister
+eng:foreskinless --> eng:foreskin
+eng:foreskinned --> eng:foreskin
+eng:foreskirt --> eng:skirt --> non:skyrta
+eng:foresleeve --> eng:sleeve --> enm:sleve --> ang:sliefe
+eng:foresmack --> eng:smack --> enm:smac
+eng:foresmell --> eng:smell --> enm:smellen
+eng:forespeak --> eng:speak --> enm:speken --> ang:specan
+eng:forespeech --> enm:forespeche --> ang:forespæc
+eng:forespin --> eng:spin --> ang:spinnan
+eng:forest --> enm:forest --> fro:forest --> lat:foresta
+eng:forestaff --> eng:staff --> ang:stæf
+eng:forestage --> eng:forest --> enm:forest --> fro:forest --> lat:foresta
+eng:forestall --> enm:forestallen --> enm:forestalle --> ang:foresteall --> ang:steall
+eng:forestart --> eng:start --> enm:stert
+eng:forestay --> eng:stay --> enm:steyen
+eng:forester --> fro:forestier
+eng:forestick --> eng:stick --> enm:stiken --> ang:stician
+eng:forestkeeper --> eng:forest --> enm:forest --> fro:forest --> lat:foresta
+eng:forestless --> eng:forest --> enm:forest --> fro:forest --> lat:foresta
+eng:forestlike --> eng:forest --> enm:forest --> fro:forest --> lat:foresta
+eng:foresty --> eng:forest --> enm:forest --> fro:forest --> lat:foresta
+eng:foretake --> eng:take --> enm:taken --> ang:tacan
+eng:foretalk --> eng:talk --> enm:talken
+eng:foretaste --> eng:taste --> enm:tasten --> fro:taster
+eng:foretaster --> eng:taster
+eng:foreteach --> eng:teach --> enm:techen --> ang:tæcan
+eng:foretell --> eng:tell --> ara:تل
+eng:foreteller --> eng:foretell --> eng:tell --> ara:تل
+eng:foretelleth --> eng:foretell --> eng:tell --> ara:تل
+eng:forethink --> enm:forethynken --> ang:foreþencan
+eng:forethought --> enm:forethouht
+eng:forethoughtful --> eng:thoughtful --> eng:thought --> enm:thought
+eng:forethoughtfulness --> eng:forethoughtful --> eng:thoughtful --> eng:thought --> enm:thought
+eng:forethrown --> eng:thrown
+eng:foretime --> eng:time --> enm:time
+eng:foretokening --> eng:foretoken
+eng:foretooth --> eng:tooth --> enm:tooth --> ang:toþ
+eng:foretopgallant --> eng:topgallant
+eng:foretopman --> eng:foretop
+eng:foretopmast --> eng:topmast
+eng:foreverness --> eng:forever
+eng:forevouched --> eng:vouched
+eng:forewalk --> eng:walk --> enm:walken --> ang:wealcan
+eng:foreward --> eng:fore
+eng:forewarningly --> eng:forewarning
+eng:foreway --> eng:way --> ang:weg
+eng:foreweep --> eng:weep --> ang:wepan
+eng:foreweigh --> eng:weigh --> ang:wegan
+eng:forewish --> eng:wish --> ang:wyscan
+eng:forewit --> eng:wit --> ang:witan --> ang:wite
+eng:forewoman --> eng:woman --> enm:woman
+eng:foreyard --> eng:yard --> ang:geard
+eng:forfare --> enm:forfaren --> ang:forfaran
+eng:forfeiter --> eng:forfeit
+eng:forfend --> enm:forfenden
+eng:forficate --> lat:forfex
+eng:forfight --> enm:forfighten
+eng:forflutter --> eng:flutter --> enm:floteren --> ang:floterian
+eng:forfoughten --> eng:foughten
+eng:forfret --> enm:forfreten
+eng:forgab --> enm:forgabben
+eng:forgather --> sco:foregather --> sco:gather
+eng:forge --> fro:forge
+eng:forgeable --> eng:forge --> fro:forge
+eng:forgelike --> eng:forge --> fro:forge
+eng:forget --> enm:forgeten
+eng:forgetful --> eng:forget --> enm:forgeten
+eng:forgetfulness --> eng:forgetful --> eng:forget --> enm:forgeten
+eng:forgettable --> eng:forget --> enm:forgeten
+eng:forgettably --> eng:forgettable --> eng:forget --> enm:forgeten
+eng:forgetter --> eng:forget --> enm:forgeten
+eng:forgettest --> eng:forget --> enm:forgeten
+eng:forgetteth --> eng:forget --> enm:forgeten
+eng:forgettingly --> eng:forgetting
+eng:forgettle --> enm:forȝetil --> ang:forgitel
+eng:forgitty --> eng:forgit
+eng:forgive --> enm:forgiven --> ang:forgiefan
+eng:forgivest --> eng:forgive --> enm:forgiven --> ang:forgiefan
+eng:forgnaw --> enm:forgnawen
+eng:forgnide --> enm:forgniden --> ang:forgnidan
+eng:forgo --> enm:forgon --> ang:forgan
+eng:forgottenness --> eng:forgotten
+eng:forgraith --> enm:forgreithen
+eng:forgraithing --> eng:forgraith --> enm:forgreithen
+eng:forgrow --> enm:forgrowen --> ang:forgrowan
+eng:forguilt --> enm:forgilten
+eng:forhard --> enm:forhardien --> ang:forheardian
+eng:forharden --> eng:harden --> eng:hard --> ang:heard
+eng:forhare --> eng:hare --> enm:hare --> ang:hara
+eng:forhele --> enm:forhelen --> ang:forhelan
+eng:forhew --> ang:forheawan
+eng:forhill --> eng:hill
+eng:forhold --> enm:forholden --> ang:forhealdan
+eng:forhow --> enm:forhowien --> ang:forhogian
+eng:forhunger --> enm:forhungren
+eng:forhush --> enm:forhuschen
+eng:forinsecal --> lat:forinsecus
+eng:fork --> enm:forke --> ang:force
+eng:forkable --> eng:fork --> enm:forke --> ang:force
+eng:forkbeard --> eng:beard --> enm:berd --> ang:beard
+eng:forkedness --> eng:forked
+eng:forken --> eng:fork --> enm:forke --> ang:force
+eng:forkful --> eng:fork --> enm:forke --> ang:force
+eng:forkhead --> eng:fork --> enm:forke --> ang:force
+eng:forkiness --> eng:forky --> eng:fork --> enm:forke --> ang:force
+eng:forkless --> eng:fork --> enm:forke --> ang:force
+eng:forklike --> eng:fork --> enm:forke --> ang:force
+eng:forktail --> eng:fork --> enm:forke --> ang:force
+eng:forky --> eng:fork --> enm:forke --> ang:force
+eng:forlat --> eng:lat --> lav:lats
+eng:forlay --> eng:lay --> enm:laie
+eng:forlead --> eng:lead --> enm:leed --> ang:lead
+eng:forleave --> enm:forleven
+eng:forlend --> eng:lend --> enm:lende --> ang:lendenu
+eng:forlese --> enm:forlesen --> ang:forleosan
+eng:forlet --> enm:forleten --> ang:forlætan
+eng:forlie --> enm:forliggen --> ang:forlicgan
+eng:forlighten --> eng:lighten --> eng:light --> ang:leoht
+eng:forlive --> enm:forlyven
+eng:forlong --> eng:long --> enm:long
+eng:forloppin --> eng:loppin
+eng:forlorn --> enm:forlorn
+eng:forlornly --> eng:forlorn --> enm:forlorn
+eng:forlornness --> enm:forlorennesse --> ang:forlorenes
+eng:form --> enm:forme --> fro:forme --> lat:forma --> grc:μόρφα
+eng:formable --> eng:form --> enm:forme --> fro:forme --> lat:forma --> grc:μόρφα
+eng:formake --> eng:make --> enm:make --> non:makr
+eng:formal --> enm:formel --> fro:formel --> lat:formalis --> lat:forma --> grc:μόρφα
+eng:formalism --> eng:formal --> enm:formel --> fro:formel --> lat:formalis --> lat:forma --> grc:μόρφα
+eng:formalist --> eng:formal --> enm:formel --> fro:formel --> lat:formalis --> lat:forma --> grc:μόρφα
+eng:formalistic --> eng:formalist --> eng:formal --> enm:formel --> fro:formel --> lat:formalis --> lat:forma --> grc:μόρφα
+eng:formality --> eng:formal --> enm:formel --> fro:formel --> lat:formalis --> lat:forma --> grc:μόρφα
+eng:formalizable --> eng:formalize --> eng:formal --> enm:formel --> fro:formel --> lat:formalis --> lat:forma --> grc:μόρφα
+eng:formalize --> eng:formal --> enm:formel --> fro:formel --> lat:formalis --> lat:forma --> grc:μόρφα
+eng:formally --> eng:formal --> enm:formel --> fro:formel --> lat:formalis --> lat:forma --> grc:μόρφα
+eng:formalwear --> eng:formal --> enm:formel --> fro:formel --> lat:formalis --> lat:forma --> grc:μόρφα
+eng:formation --> fra:formation --> lat:formatio --> lat:formo --> lat:forma --> grc:μόρφα
+eng:formattable --> eng:format
+eng:formay --> eng:may --> ang:magan
+eng:formboard --> eng:board --> enm:bord
+eng:formelt --> enm:formelten --> ang:formeltan
+eng:former --> enm:former
+eng:formerly --> eng:former --> enm:former
+eng:formfilling --> eng:filling
+eng:formful --> eng:form --> enm:forme --> fro:forme --> lat:forma --> grc:μόρφα
+eng:formic --> lat:formica
+eng:formidability --> eng:formidable --> lat:formidabilis --> lat:formido
+eng:formidable --> lat:formidabilis --> lat:formido
+eng:formiminotetrahydrofolate --> eng:formiminotetrahydrofolic
+eng:formirken --> eng:mirken --> eng:mirk
+eng:formless --> eng:form --> enm:forme --> fro:forme --> lat:forma --> grc:μόρφα
+eng:formlike --> eng:form --> enm:forme --> fro:forme --> lat:forma --> grc:μόρφα
+eng:Formosa --> por:formosa --> lat:formosus
+eng:formula --> lat:formula --> lat:forma --> grc:μόρφα
+eng:formulaically --> eng:formulaic
+eng:formulary --> fra:formulaire
+eng:formulate --> eng:formula --> lat:formula --> lat:forma --> grc:μόρφα
+eng:formulism --> eng:formula --> lat:formula --> lat:forma --> grc:μόρφα
+eng:formylmethanofuran --> eng:formyl
+eng:formyltetrahydrofolate --> eng:formyltetrahydrofolic
+eng:forncast --> enm:forncasten
+eng:fornicator --> eng:fornicate
+eng:fornicatory --> eng:fornicator --> eng:fornicate
+eng:fornim --> enm:fornimen --> ang:forniman
+eng:fornumb --> eng:numb
+eng:forpamper --> enm:forpampren
+eng:forpass --> eng:pass --> enm:pas
+eng:forpine --> enm:forpinen
+eng:for realsies --> eng:for real
+eng:forridden --> eng:ridden
+eng:forsaid --> eng:said
+eng:forsake --> enm:forsaken --> ang:forsacan
+eng:forsakenness --> eng:forsaken
+eng:forsaker --> eng:forsake --> enm:forsaken --> ang:forsacan
+eng:forsakest --> eng:forsake --> enm:forsaken --> ang:forsacan
+eng:forsaketh --> eng:forsake --> enm:forsaken --> ang:forsacan
+eng:forsay --> enm:forsayen --> ang:forsecgan
+eng:forsaying --> eng:forsay --> enm:forsayen --> ang:forsecgan
+eng:forscald --> enm:forscalden
+eng:forsee --> enm:forseen
+eng:forseethe --> enm:forsethen
+eng:forsench --> enm:forsenchen --> ang:forsencan
+eng:forset --> enm:forsetten --> ang:forsettan
+eng:forshake --> enm:forschaken
+eng:forshame --> enm:forshamen --> ang:forscamian
+eng:forshape --> enm:forshapen
+eng:forshrink --> enm:forshrinken --> ang:forscrincan
+eng:forshrunk --> enm:forschrunken --> ang:forscruncen
+eng:forshut --> enm:forschutten --> ang:forscyttan
+eng:forsing --> enm:forsingen
+eng:forslack --> eng:slack
+eng:forsleep --> enm:forslepen
+eng:forsling --> dum:verslinden
+eng:forslinger --> dum:verslingeren
+eng:forslip --> eng:slip --> ang:slype
+eng:forsloth --> eng:sloth --> enm:slouthe
+eng:forslow --> enm:forslowen
+eng:forslowth --> enm:forslowthen
+eng:forslug --> enm:forsluggen
+eng:forsmite --> enm:forsmiten
+eng:forspan --> eng:span --> ang:spann
+eng:forspare --> eng:spare --> ang:sparian
+eng:forspeak --> eng:speak --> enm:speken --> ang:specan
+eng:forspend --> enm:forspenden --> ang:forspendan
+eng:forspill --> enm:forspillen --> ang:forspillan
+eng:forspread --> enm:forspreden
+eng:forstand --> enm:forstanden --> ang:forstandan
+eng:forsteal --> enm:forstelen --> ang:forstelan
+eng:Forsterian --> eng:Forster
+eng:forstop --> enm:forstoppen --> ang:forstoppian --> ang:stoppian
+eng:forsume
+eng:forswallow --> enm:forswolewen
+eng:forswart --> enm:forswarten
+eng:forswarted --> eng:forswart --> enm:forswarten
+eng:forswat --> enm:forswat
+eng:forsweal --> enm:forswelen
+eng:forswear --> enm:forsweren --> ang:forswerian
+eng:forswearer --> enm:forswerere
+eng:forswelt --> enm:forswelten --> ang:forsweltan
+eng:forswift --> eng:swift
+eng:forswing --> enm:forswingen
+eng:forswink --> enm:forswinken
+eng:forswonk --> eng:swonk
+eng:forswornness --> enm:forsworenesse
+eng:forswunk --> enm:forswunken
+eng:fort --> frm:fort
+eng:fortake --> enm:fortaken
+eng:fortatter --> enm:fortateren
+eng:fortax --> enm:fortaxen
+eng:forte --> fra:fort --> lat:fortis
+eng:forteach --> eng:teach --> enm:techen --> ang:tæcan
+eng:forteana --> eng:fortean
+eng:fortear --> eng:tear --> enm:teren --> ang:teran
+eng:fortee --> enm:forteen --> ang:forteon
+eng:fortepianist --> eng:fortepiano
+eng:forth --> ang:forþ
+eng:forthan --> enm:forthan --> ang:forþan
+eng:forthbear --> enm:forthberen --> ang:forþberan
+eng:forthbring --> enm:forthbringen --> ang:forþbringan
+eng:forthby --> eng:by --> ang:bi
+eng:forthcast --> enm:forthcasten
+eng:forthclepe --> enm:forthclepien
+eng:forthcome --> enm:forthcomen --> ang:forþcuman
+eng:forthcoming --> eng:coming --> eng:come --> enm:comen
+eng:forthcomingness --> eng:forthcoming --> eng:coming --> eng:come --> enm:comen
+eng:forthcut --> enm:forthkutten
+eng:forthdraw --> enm:forthdrawen
+eng:forthen --> enm:forthen --> ang:forþon
+eng:forthfare --> enm:forthfaren
+eng:forthfaring --> eng:forthfare --> enm:forthfaren
+eng:forthfather --> enm:forthfader
+eng:forthfet --> enm:forthfetten
+eng:forthfill --> enm:forthfillen
+eng:forthgang --> enm:forthgang --> ang:forþgang
+eng:forthglide --> enm:forthgliden
+eng:forthgo --> enm:forthgon
+eng:forthink --> enm:forthinken
+eng:forthinketh --> eng:forthink --> enm:forthinken
+eng:forthirst --> enm:forthyrsten
+eng:forth-issuing --> eng:issuing
+eng:forthlead --> enm:forthleden
+eng:forthleap --> enm:forthlepen
+eng:forthlook --> enm:forthloken --> ang:forþlocian
+eng:forthnim --> enm:forthnimen
+eng:forthpass --> enm:forthpassen
+eng:forthpushing --> eng:pushing
+eng:forthput --> eng:put --> enm:putten
+eng:forthputter --> eng:forthput --> eng:put --> enm:putten
+eng:forthputting --> eng:putting
+eng:forthright --> eng:right --> ang:rihtan --> ang:riht
+eng:forthrightly --> eng:forthright --> eng:right --> ang:rihtan --> ang:riht
+eng:forthrightness --> eng:forthright --> eng:right --> ang:rihtan --> ang:riht
+eng:forthrist --> enm:forthristen
+eng:forthrow --> enm:forthrowen
+eng:forthset --> enm:forthsetten
+eng:forthshow --> enm:forthschewen
+eng:forthspeak --> eng:speak --> enm:speken --> ang:specan
+eng:forthspeaker --> eng:speaker
+eng:forthspeaking --> eng:forthspeak --> eng:speak --> enm:speken --> ang:specan
+eng:forthtell --> eng:tell --> ara:تل
+eng:forthward --> enm:forthward
+eng:forthwax --> enm:forthwaxen --> ang:forþweaxan
+eng:forthwith --> eng:with --> enm:with --> ang:wiþ
+eng:forthy --> enm:forthy --> ang:froþy
+eng:forthyete --> enm:forthyeten --> ang:forþgietan
+eng:fortiethly --> eng:fortieth
+eng:fortifiable --> eng:fortify
+eng:fortification --> lat:fortificatio
+eng:fortifying --> eng:fortify
+eng:fortifyingly --> eng:fortifying --> eng:fortify
+eng:fortis --> lat:fortis
+eng:fortlet --> eng:fort --> frm:fort
+eng:fortlike --> eng:fort --> frm:fort
+eng:fortnightly --> eng:fortnight
+eng:fortoggle --> enm:fortoglen
+eng:Fortranlike --> eng:Fortran
+eng:fortravel --> enm:fortravailen
+eng:fortread --> enm:fortreden --> ang:fortredan
+eng:fortress --> fro:forteresce
+eng:fortuit --> fra:fortuit --> lat:fortuitus --> lat:fors
+eng:fortuitous --> lat:fortuitus --> lat:fors
+eng:fortunately --> eng:fortunate
+eng:fortunateness --> eng:fortunate
+eng:fortune --> lat:fortuna --> lat:fors
+eng:fortuneless --> eng:fortune --> lat:fortuna --> lat:fors
+eng:fortunize --> eng:fortune --> lat:fortuna --> lat:fors
+eng:fortyfold --> eng:forty
+eng:fortyish --> eng:forty
+eng:forty-leven --> eng:eleven
+eng:fortypenny --> eng:forty
+eng:forum --> lat:forum
+eng:forumite --> eng:forum --> lat:forum
+eng:forwake --> enm:forwaken
+eng:forwalk --> enm:forwalken
+eng:forwall --> enm:forwallen --> ang:forweallan
+eng:forwander --> enm:forwandrien
+eng:forward --> enm:foreward --> ang:foreweard
+eng:forwardable --> eng:forward --> enm:foreward --> ang:foreweard
+eng:forwarder --> eng:forward --> enm:foreward --> ang:foreweard
+eng:forwardmost --> eng:forward --> enm:foreward --> ang:foreweard
+eng:forwardness --> eng:forward --> enm:foreward --> ang:foreweard
+eng:forwards --> eng:forward --> enm:foreward --> ang:foreweard
+eng:forwarn --> enm:forwernen --> ang:forwærnan
+eng:forwaste --> eng:waste --> enm:waste
+eng:forwax --> enm:forwaxen --> ang:forweaxan
+eng:forwean --> enm:forwenien
+eng:forwear --> enm:forweren
+eng:forweary --> enm:forwerien
+eng:forweep --> enm:forwepen
+eng:forwelk --> enm:forwelken
+eng:forwent --> eng:went
+eng:forwerp --> enm:forwerpen --> ang:forweorpan
+eng:forwhore --> enm:forhoren
+eng:forwhy --> enm:forwhy
+eng:forwither --> eng:wither --> enm:widren
+eng:forwonder --> enm:forwonderen
+eng:forwork --> enm:forwirken
+eng:forworship --> eng:worship --> ang:weorþscipe
+eng:forworth --> enm:forworthen --> ang:forweorþan
+eng:forwound --> enm:forwounden
+eng:forwrap --> enm:forwrappen
+eng:foryield --> enm:foryelden --> ang:forgieldan
+eng:fo shizzle --> eng:for sure
+eng:foss --> non:fors
+eng:fossa --> lat:fossa --> lat:fodio
+eng:fosseway --> eng:fosse
+eng:fossilate --> eng:fossil
+eng:fossilhood --> eng:fossil
+eng:fossilify --> eng:fossil
+eng:fossilism --> eng:fossil
+eng:fossilist --> eng:fossil
+eng:fossilogy --> eng:fossil
+eng:fossilology --> eng:fossil
+eng:fossor --> lat:fossor --> lat:fodio
+eng:fossorial --> lat:fossorius --> lat:fodio
+eng:fossorious --> lat:fodere
+eng:fossula --> lat:fossula
+eng:foster --> ang:fostor
+eng:fosterling --> eng:foster --> ang:fostor
+eng:fosterment --> eng:foster --> ang:fostor
+eng:fother --> non:fóðr --> gml:voder
+eng:fotive --> lat:fovere
+eng:Foucaultian --> eng:Foucault
+eng:foud --> non:fōgeti
+eng:fouetté --> fra:fouetté
+eng:fougerite --> eng:Fougères
+eng:foul --> ang:fulian
+eng:foulard --> fra:foulard
+eng:foulbrood --> eng:brood
+eng:foulder --> enm:fouldre
+eng:fouler --> eng:foul --> ang:fulian
+eng:found --> frm:fondre
+eng:foundation --> lat:fundatio --> lat:fundo --> lat:fundus
+eng:foundational --> eng:foundation --> lat:fundatio --> lat:fundo --> lat:fundus
+eng:foundationalism --> eng:foundational --> eng:foundation --> lat:fundatio --> lat:fundo --> lat:fundus
+eng:foundationalist --> eng:foundational --> eng:foundation --> lat:fundatio --> lat:fundo --> lat:fundus
+eng:foundationally --> eng:foundational --> eng:foundation --> lat:fundatio --> lat:fundo --> lat:fundus
+eng:foundationer --> eng:foundation --> lat:fundatio --> lat:fundo --> lat:fundus
+eng:foundationless --> eng:foundation --> lat:fundatio --> lat:fundo --> lat:fundus
+eng:founder --> frm:fondeur --> lat:fundo --> lat:fundus
+eng:founderous --> eng:founder --> frm:fondeur --> lat:fundo --> lat:fundus
+eng:foundery --> fra:fonderie
+eng:foundherentism --> eng:coherentism --> eng:coherent --> lat:cohaerens
+eng:foundling --> eng:found --> frm:fondre
+eng:foundress --> eng:founder --> frm:fondeur --> lat:fundo --> lat:fundus
+eng:foundry --> fra:fonderie
+eng:fount --> frm:fonte
+eng:fountaineer --> eng:fountain
+eng:fountainless --> eng:fountain
+eng:fountainlet --> eng:fountain
+eng:fountainlike --> eng:fountain
+eng:fountful --> eng:fount --> frm:fonte
+eng:four --> enm:fower --> ang:feower
+eng:fourball --> eng:ball --> enm:bal
+eng:fourbery --> fra:fourberie --> fra:fourbe
+eng:fourchette --> fra:fourchette --> fra:fourche --> fro:furche
+eng:fourfoldness --> eng:fourfold
+eng:fourfooted --> eng:footed
+eng:fourgie --> eng:four --> enm:fower --> ang:feower
+eng:fourhanded --> eng:four --> enm:fower --> ang:feower
+eng:Fourierism --> eng:Fourier
+eng:Fourierist --> eng:Fourier
+eng:Fourierite --> eng:Fourier
+eng:fourish --> eng:four --> enm:fower --> ang:feower
+eng:fourling --> eng:four --> enm:fower --> ang:feower
+eng:fourness --> eng:four --> enm:fower --> ang:feower
+eng:fourpeat --> eng:four --> enm:fower --> ang:feower
+eng:four-peat --> eng:four --> enm:fower --> ang:feower
+eng:fourpence --> eng:four --> enm:fower --> ang:feower
+eng:fourpenny --> eng:four --> enm:fower --> ang:feower
+eng:fourscore --> eng:four --> enm:fower --> ang:feower
+eng:foursome --> eng:four --> enm:fower --> ang:feower
+eng:foursquare --> eng:four --> enm:fower --> ang:feower
+eng:fourteen --> enm:fourtene --> ang:feowertiene
+eng:fourteener --> eng:fourteen --> enm:fourtene --> ang:feowertiene
+eng:fourteenfold --> eng:fourteen --> enm:fourtene --> ang:feowertiene
+eng:fourteenish --> eng:fourteen --> enm:fourtene --> ang:feowertiene
+eng:fourteenness --> eng:fourteen --> enm:fourtene --> ang:feowertiene
+eng:fourteenpence --> eng:fourteen --> enm:fourtene --> ang:feowertiene
+eng:fourteenpenny --> eng:fourteen --> enm:fourtene --> ang:feowertiene
+eng:fourteenthly --> eng:fourteenth
+eng:fourthly --> eng:fourth
+eng:fourthness --> eng:fourth
+eng:fouse --> enm:fous --> ang:fus
+eng:fouthy --> eng:fouth
+eng:fovea --> lat:fovea
+eng:foveate --> eng:fovea --> lat:fovea
+eng:fower --> enm:fower --> ang:feower
+eng:fowl --> enm:foul
+eng:fowler --> eng:fowl --> enm:foul
+eng:Fowlerian --> eng:Fowler
+eng:fowlerite --> eng:Fowler
+eng:fowlery --> eng:fowl --> enm:foul
+eng:fowlpox --> eng:fowl --> enm:foul
+eng:fox --> enm:fox --> ang:fox
+eng:foxberry --> eng:berry --> enm:bery
+eng:foxcore --> eng:fox --> enm:fox --> ang:fox
+eng:Foxean --> eng:Foxe
+eng:foxery --> eng:fox --> enm:fox --> ang:fox
+eng:foxfish --> eng:fish --> ang:fiscian
+eng:foxglove --> eng:fox --> enm:fox --> ang:fox
+eng:foxhunt --> eng:fox --> enm:fox --> ang:fox
+eng:foxie --> eng:fox --> enm:fox --> ang:fox
+eng:foxish --> eng:fox --> enm:fox --> ang:fox
+eng:foxling --> eng:fox --> enm:fox --> ang:fox
+eng:foxship --> eng:fox --> enm:fox --> ang:fox
+eng:foxtail --> eng:fox --> enm:fox --> ang:fox
+eng:foxy --> eng:fox --> enm:fox --> ang:fox
+eng:foy --> frm:foy --> fro:foi
+eng:foyer --> fra:foyer
+eng:foyerlike --> eng:foyer --> fra:foyer
+eng:foziness --> eng:fozy
+eng:fqih --> ary:فقيه
+eng:frabjously --> eng:frabjous
+eng:frac --> eng:hydrofracking
+eng:fracas --> fra:fracas --> ita:fracasso --> ita:fracassare
+eng:frack --> eng:hydrofracking
+eng:fract --> lat:fractus
+eng:fractal --> fra:fractal --> lat:fractus
+eng:fractality --> eng:fractal --> fra:fractal --> lat:fractus
+eng:fractalize --> eng:fractal --> fra:fractal --> lat:fractus
+eng:fractally --> eng:fractal --> fra:fractal --> lat:fractus
+eng:fraction --> enm:fraccioun
+eng:fractional --> eng:fraction --> enm:fraccioun
+eng:fractionate --> eng:fraction --> enm:fraccioun
+eng:fractious --> eng:fraction --> enm:fraccioun
+eng:fractural --> eng:fracture
+eng:fragger --> eng:frag
+eng:fragile --> lat:fragilis --> lat:frango
+eng:fragilely --> eng:fragile --> lat:fragilis --> lat:frango
+eng:fragileness --> eng:fragile --> lat:fragilis --> lat:frango
+eng:fragilize --> eng:fragile --> lat:fragilis --> lat:frango
+eng:fragmentable --> eng:fragment
+eng:fragmental --> eng:fragment
+eng:fragmentarily --> eng:fragmentary --> eng:fragment
+eng:fragmentariness --> eng:fragmentary --> eng:fragment
+eng:fragmentary --> eng:fragment
+eng:fragmentedness --> eng:fragmented
+eng:fragmentist --> eng:fragment
+eng:fragrance --> lat:fragrantia
+eng:fragranceless --> eng:fragrance --> lat:fragrantia
+eng:fragrant --> lat:fragrans
+eng:frail --> fro:fraile --> lat:fragilis --> lat:frango
+eng:frailly --> eng:frail --> fro:fraile --> lat:fragilis --> lat:frango
+eng:frailty --> eng:frail --> fro:fraile --> lat:fragilis --> lat:frango
+eng:frain --> enm:frainen --> ang:fregnan --> ang:frægn
+eng:fraise --> enm:fraisen --> ang:freasian
+eng:fraised --> eng:fraise --> enm:fraisen --> ang:freasian
+eng:fraist --> enm:fraisten
+eng:fraked --> enm:fraked --> ang:fracod
+eng:frakel --> enm:frakel
+eng:frame --> enm:framen
+eng:frameable --> eng:frame --> enm:framen
+eng:framebuffer --> eng:buffer --> eng:buff --> eng:buffe --> frm:buffle
+eng:frameset --> eng:frame --> enm:framen
+eng:frameskip --> eng:frame --> enm:framen
+eng:framesmith --> eng:frame --> enm:framen
+eng:framework --> eng:frame --> enm:framen
+eng:framily --> eng:family --> lat:familia --> lat:famula
+eng:francais --> fra:français --> frm:françois --> fro:françois --> fro:France --> lat:Francia --> lat:Franci
+eng:France --> fra:France --> fro:France --> lat:Francia --> lat:Franci
+eng:Francesca --> ita:Francesca
+eng:franchisable --> eng:franchise --> enm:franchisen
+eng:franchise --> enm:franchisen
+eng:Francia --> lat:Francia --> lat:Franci
+eng:Francis --> lat:Franciscus
+eng:francium --> fra:francium --> fra:France --> fro:France --> lat:Francia --> lat:Franci
+eng:Francization --> eng:France --> fra:France --> fro:France --> lat:Francia --> lat:Franci
+eng:Francoesque --> eng:Franco
+eng:francolin --> fra:francolin
+eng:Francophile
+eng:Francophobia
+eng:frangible --> frm:frangible --> lat:frangibilis --> lat:frangere
+eng:Franglais --> fra:franglais
+eng:frangulin --> eng:frangula
+eng:frank --> fra:franc
+eng:Frank --> enm:Frank
+eng:frankenfish --> eng:fish --> ang:fiscian
+eng:frankenfood --> eng:Frankenstein
+eng:Frankensteinian --> eng:Frankenstein
+eng:Frankensteinish --> eng:Frankenstein
+eng:frankenword --> eng:Frankenstein
+eng:frankfurt --> deu:Frankfurt
+eng:frankfurter --> deu:frankfurter
+eng:Frankish --> eng:Frank --> enm:Frank
+eng:Frankism --> eng:Frank --> enm:Frank
+eng:Frankist --> eng:Frank --> enm:Frank
+eng:Frankland --> enm:Fronc-lond --> ang:Francland --> ang:France
+eng:franklin --> enm:frankelein --> xno:fraunclein --> xno:fraunc
+eng:Franklinian --> eng:Franklin
+eng:Franklinic --> eng:Franklin
+eng:franklinite --> eng:Franklin
+eng:frankly --> eng:frank --> fra:franc
+eng:frankness --> eng:frank --> fra:franc
+eng:Franquist --> spa:franquismo
+eng:frantickly --> eng:frantick
+eng:franticly --> eng:frantic
+eng:franticness --> eng:frantic
+eng:frape --> eng:Facebook --> eng:facebook --> eng:book --> enm:book --> ang:boc
+eng:Fraserian --> eng:Fraser
+eng:frass --> goh:fraz --> goh:frezzan
+eng:fraterculine --> eng:Fratercula
+eng:fraternal --> frm:fraternel --> lat:fraternalis --> lat:fraternus --> lat:frater
+eng:fraternally --> eng:fraternal --> frm:fraternel --> lat:fraternalis --> lat:fraternus --> lat:frater
+eng:fraternizable --> eng:fraternize
+eng:fraudful --> eng:fraud
+eng:fraudless --> eng:fraud
+eng:fraudproof --> eng:fraud
+eng:fraudulently --> eng:fraudulent
+eng:fraudulentness --> eng:fraudulent
+eng:fray --> fro:frayer --> lat:frico
+eng:frayproof --> eng:fray --> fro:frayer --> lat:frico
+eng:frazil --> fra:frasil
+eng:frazzledness --> eng:frazzled
+eng:freak --> enm:freke --> ang:freca
+eng:freakery --> eng:freak --> enm:freke --> ang:freca
+eng:freakiness --> eng:freaky
+eng:freakish --> eng:freak --> enm:freke --> ang:freca
+eng:freakishly --> eng:freakish --> eng:freak --> enm:freke --> ang:freca
+eng:frecency --> eng:frequency --> lat:frequentia --> lat:frequens
+eng:freckle --> enm:freken
+eng:freckled duck --> eng:duck --> ang:duce
+eng:freckledness --> eng:freckled
+eng:freckleless --> eng:freckle --> enm:freken
+eng:Frederictonian --> eng:Fredericton
+eng:fredrikssonite --> eng:Fredriksson
+eng:free --> enm:fre --> ang:freo
+eng:freeable --> eng:free --> enm:fre --> ang:freo
+eng:freebooting --> eng:freebooter
+eng:freecycle --> eng:free --> enm:fre --> ang:freo
+eng:Freecycle --> eng:free --> enm:fre --> ang:freo
+eng:freedman --> eng:freed
+eng:freedom --> enm:freedom
+eng:freedomless --> eng:freedom --> enm:freedom
+eng:freedom of assembly --> eng:assembly --> enm:assemblee --> xno:asemblee
+eng:freedom of association --> eng:association --> lat:associationem
+eng:freedom of contract --> eng:contract
+eng:freedom of expression --> eng:expression
+eng:freedom of movement --> eng:freedom --> enm:freedom
+eng:freedom of religion --> eng:freedom --> enm:freedom
+eng:freedom of the press --> eng:freedom --> enm:freedom
+eng:freedom rider --> eng:freedom ride
+eng:freedperson --> eng:freed
+eng:freedwoman --> eng:freed
+eng:freegan --> eng:free --> enm:fre --> ang:freo
+eng:freeganism --> eng:freegan --> eng:free --> enm:fre --> ang:freo
+eng:freehand --> eng:free --> enm:fre --> ang:freo
+eng:freehood --> eng:free --> enm:fre --> ang:freo
+eng:freehub --> eng:free --> enm:fre --> ang:freo
+eng:freely --> enm:frely
+eng:freeman --> eng:free --> enm:fre --> ang:freo
+eng:freemartinism --> eng:freemartin
+eng:freeness --> eng:free --> enm:fre --> ang:freo
+eng:freephone --> eng:free --> enm:fre --> ang:freo
+eng:freeroll --> eng:free --> enm:fre --> ang:freo
+eng:freerun --> eng:free --> enm:fre --> ang:freo
+eng:freerunning --> eng:free --> enm:fre --> ang:freo
+eng:freesheet --> eng:free --> enm:fre --> ang:freo
+eng:freeskier --> eng:freeski
+eng:freeskiing --> eng:free --> enm:fre --> ang:freo
+eng:free speech --> eng:free --> enm:fre --> ang:freo
+eng:Free-Stater --> eng:free state
+eng:freestore --> eng:free --> enm:fre --> ang:freo
+eng:freestream --> eng:free --> enm:fre --> ang:freo
+eng:freestyler --> eng:freestyle
+eng:freet --> enm:frete --> non:frétt
+eng:freetard --> eng:free --> enm:fre --> ang:freo
+eng:freety --> eng:freet --> enm:frete --> non:frétt
+eng:freeware --> eng:free --> enm:fre --> ang:freo
+eng:freewheelingly --> eng:freewheeling
+eng:freezable --> eng:freeze --> enm:fresen --> ang:freosan
+eng:freeze --> enm:fresen --> ang:freosan
+eng:freezeout --> eng:freeze --> enm:fresen --> ang:freosan
+eng:freezeproof --> eng:freeze --> enm:fresen --> ang:freosan
+eng:freezie --> eng:freeze --> enm:fresen --> ang:freosan
+eng:freezingly --> eng:freezing
+eng:freezingness --> eng:freezing
+eng:freezoner --> eng:Free Zone
+eng:freezy --> eng:freeze --> enm:fresen --> ang:freosan
+eng:Fregean --> eng:Frege
+eng:freight --> enm:freyght --> dum:vracht --> gml:vracht
+eng:freightage --> eng:freight --> enm:freyght --> dum:vracht --> gml:vracht
+eng:freightless --> eng:freight --> enm:freyght --> dum:vracht --> gml:vracht
+eng:freightwagon --> eng:freight --> enm:freyght --> dum:vracht --> gml:vracht
+eng:freke --> enm:freke --> ang:freca
+eng:Frelimo --> por:Frelimo
+eng:fremd --> enm:fremede --> ang:fremde
+eng:fremedly --> enm:fremedly
+eng:fremitus --> lat:fremitus
+eng:French --> enm:Frenche
+eng:Frenchcore --> eng:French --> enm:Frenche
+eng:Frenchiness --> eng:Frenchy
+eng:Frenchism --> eng:French --> enm:Frenche
+eng:Frenchlike --> eng:French --> enm:Frenche
+eng:Frenchly --> eng:French --> enm:Frenche
+eng:Frenchman --> eng:French --> enm:Frenche
+eng:Frenchperson --> eng:French --> enm:Frenche
+eng:frenemy --> eng:enemy --> fro:enemi --> lat:inimicus
+eng:frenetic --> fro:frenetike --> lat:phreneticus
+eng:frenulum --> lat:frenulum
+eng:frenziedly --> eng:frenzied
+eng:frenziedness --> eng:frenzied
+eng:Freo --> eng:Fremantle
+eng:frequency --> lat:frequentia --> lat:frequens
+eng:frequent --> fro:frequent --> lat:frequens
+eng:frequentage --> eng:frequent --> fro:frequent --> lat:frequens
+eng:frequentative --> lat:frequentativus
+eng:frequentatively --> eng:frequentative --> lat:frequentativus
+eng:frequentativeness --> eng:frequentative --> lat:frequentativus
+eng:frequently --> eng:frequent --> fro:frequent --> lat:frequens
+eng:fresco --> ita:fresco
+eng:frescolike --> eng:fresco --> ita:fresco
+eng:fresh --> enm:fresch
+eng:freshen --> eng:fresh --> enm:fresch
+eng:freshet --> fro:freschete
+eng:freshly --> eng:fresh --> enm:fresch
+eng:freshman --> eng:fresh --> enm:fresch
+eng:freshmanhood --> eng:freshman --> eng:fresh --> enm:fresch
+eng:freshness --> eng:fresh --> enm:fresch
+eng:Fresno --> spa:fresno
+eng:fret --> enm:freten --> ang:fretan
+eng:fretful --> eng:fret --> enm:freten --> ang:fretan
+eng:fretman --> eng:fret --> enm:freten --> ang:fretan
+eng:fretten --> enm:freten --> ang:fretan
+eng:frettingly --> eng:fretting
+eng:fretum --> lat:fretum
+eng:fretworked --> eng:fretwork
+eng:Freudianism --> eng:Freudian
+eng:friable --> lat:friabilis --> lat:frio
+eng:friarbird --> eng:bird --> enm:brid --> ang:bridd
+eng:friarly --> eng:friar
+eng:fribbler --> eng:fribble
+eng:fricative --> lat:fricativus
+eng:Friday --> ang:frigedæg
+eng:fridgeful --> eng:fridge
+eng:fridgeless --> eng:fridge
+eng:fridgelike --> eng:fridge
+eng:friedrichite --> eng:Friedrich
+eng:friend --> enm:frende --> ang:freond
+eng:friendess --> enm:frendesse
+eng:friendless --> eng:friend --> enm:frende --> ang:freond
+eng:friendlihead --> enm:frendlyhed
+eng:friendlike --> eng:friend --> enm:frende --> ang:freond
+eng:friendlily --> eng:friendly
+eng:friendliness --> eng:friendly
+eng:friendrede --> enm:frendrede --> ang:freondræden
+eng:Friendsgiving --> eng:Thanksgiving
+eng:friendship --> eng:friend --> enm:frende --> ang:freond
+eng:friendshipless --> eng:friendship --> eng:friend --> enm:frende --> ang:freond
+eng:friendshiplike --> eng:friendship --> eng:friend --> enm:frende --> ang:freond
+eng:friendworthy --> eng:friend --> enm:frende --> ang:freond
+eng:frieze --> frm:frise
+eng:friezeless --> eng:frieze --> frm:frise
+eng:friezelike --> eng:frieze --> frm:frise
+eng:friezer --> eng:frieze --> frm:frise
+eng:frig --> enm:friggen
+eng:frigatebird --> eng:bird --> enm:brid --> ang:bridd
+eng:frigerate --> lat:frigerare
+eng:Frigg --> non:Frigg
+eng:Frigga --> non:Frigg
+eng:fright --> enm:fright
+eng:frightenable --> eng:frighten
+eng:frightening --> eng:frighten
+eng:frighteningly --> eng:frightening --> eng:frighten
+eng:frightful --> enm:frightful --> ang:forhtful
+eng:frightfuller --> eng:frightful --> enm:frightful --> ang:forhtful
+eng:frightfulness --> eng:frightful --> enm:frightful --> ang:forhtful
+eng:frightihead --> enm:frightihed
+eng:frightsome --> eng:fright --> enm:fright
+eng:frighty --> enm:frighty
+eng:frigid --> lat:frigidus --> lat:frigeo --> lat:frigus
+eng:frilly --> eng:frill
+eng:frim --> enm:frym --> ang:freme
+eng:Frimaire --> lat:frimas
+eng:fringeless --> eng:fringe
+eng:fringelike --> eng:fringe
+eng:fringy --> eng:fringe
+eng:fripper --> fra:fripier
+eng:frippery --> fra:friperie
+eng:friseur --> fra:friseur --> fra:friser
+eng:frisk --> enm:frisk --> fro:frisque
+eng:frisker --> eng:frisk --> enm:frisk --> fro:frisque
+eng:friskingly --> eng:frisking
+eng:frisson --> fra:frisson --> lat:frigeo --> lat:frigus
+eng:fristing --> enm:fristing
+eng:frith --> enm:frith --> ang:fyrhþe
+eng:fritillary --> lat:fritillus
+eng:fritterlike --> eng:fritter
+eng:fritterware --> eng:fritter
+eng:Friulian --> eng:Friuli
+eng:frivol --> fra:frivole --> lat:frivolus --> lat:frio
+eng:frivolent --> eng:frivol --> fra:frivole --> lat:frivolus --> lat:frio
+eng:frivolous --> lat:frivolus --> lat:frio
+eng:frivolously --> eng:frivolous --> lat:frivolus --> lat:frio
+eng:frivolousness --> eng:frivolous --> lat:frivolus --> lat:frio
+eng:frizz --> enm:fryse
+eng:frizzily --> eng:frizzy
+eng:frizziness --> eng:frizzy
+eng:frizzle --> eng:frizz --> enm:fryse
+eng:frizzler --> eng:frizzle --> eng:frizz --> enm:fryse
+eng:fro --> enm:fro
+eng:frock --> enm:frok
+eng:frockless --> eng:frock --> enm:frok
+eng:Froebelian --> eng:Froebel
+eng:frog --> eng:frog legs
+eng:frogbit --> eng:bit
+eng:frogfish --> eng:fish --> ang:fiscian
+eng:froggily --> eng:froggy
+eng:frogginess --> eng:froggy
+eng:froggish --> eng:frog --> eng:frog legs
+eng:froglet --> eng:frog --> eng:frog legs
+eng:frogling --> eng:frog --> eng:frog legs
+eng:frogly --> eng:frog --> eng:frog legs
+eng:frogskin --> eng:frog --> eng:frog legs
+eng:frohawk --> eng:Mohawk
+eng:froise --> enm:froise
+eng:frolic --> nld:vrolijk
+eng:frolicker --> eng:frolic --> nld:vrolijk
+eng:frolickingly --> eng:frolicking
+eng:frolicky --> eng:frolic --> nld:vrolijk
+eng:frolicly --> eng:frolic --> nld:vrolijk
+eng:frolicsome --> eng:frolic --> nld:vrolijk
+eng:frolicsomely --> eng:frolicsome --> eng:frolic --> nld:vrolijk
+eng:froliquely --> eng:frolique
+eng:from --> enm:from --> ang:from
+eng:fromagerie --> fra:fromagerie
+eng:Frommian --> eng:Fromm
+eng:fromward --> enm:fromward
+eng:frond --> lat:frons
+eng:frondation --> lat:frondatio
+eng:fronded --> eng:frond --> lat:frons
+eng:frondesce --> lat:frondescere
+eng:frondescent --> lat:frondescens
+eng:frondlet --> eng:frond --> lat:frons
+eng:frondlike --> eng:frond --> lat:frons
+eng:frondose --> lat:frondosus --> lat:frons
+eng:frons --> lat:frons
+eng:front --> fro:front
+eng:frontality --> eng:frontal
+eng:frontbencher --> eng:bench --> ang:benc
+eng:front end --> eng:end --> enm:ende --> ang:ende
+eng:frontier --> fro:fronter --> fro:front
+eng:frontiered --> eng:frontier --> fro:fronter --> fro:front
+eng:frontierless --> eng:frontier --> fro:fronter --> fro:front
+eng:frontierlike --> eng:frontier --> fro:fronter --> fro:front
+eng:frontiersman --> eng:frontier --> fro:fronter --> fro:front
+eng:frontiersmanship --> eng:frontiersman --> eng:frontier --> fro:fronter --> fro:front
+eng:frontlessly --> eng:frontless
+eng:frontlet --> fro:frontelet
+eng:frontlist --> eng:front --> fro:front
+eng:frontloader --> eng:front --> fro:front
+eng:frontman --> eng:front --> fro:front
+eng:frontocerebellar --> eng:cerebellar
+eng:frontoethmoidal --> eng:ethmoidal --> eng:ethmoid --> grc:ἠθμοειδής --> grc:ἠθμός --> grc:ἤθειν
+eng:frontogenesis --> eng:front --> fro:front
+eng:frontoparietal --> eng:parietal
+eng:frontostriatal --> eng:striatal --> eng:striate --> lat:striatum
+eng:frontotemporal --> eng:temporal --> enm:temporal --> fro:temporal --> lat:temporalis --> lat:tempora
+eng:frontotemporally --> eng:frontotemporal --> eng:temporal --> enm:temporal --> fro:temporal --> lat:temporalis --> lat:tempora
+eng:frontrunner --> eng:front --> fro:front
+eng:frontside --> eng:front --> fro:front
+eng:frontward --> eng:front --> fro:front
+eng:frontwards --> eng:frontward --> eng:front --> fro:front
+eng:frontwise --> eng:front --> fro:front
+eng:frory --> eng:frore
+eng:frosh --> enm:frosch --> ang:frosc
+eng:frosk --> enm:frosk --> non:froskr
+eng:frost --> ang:frost
+eng:frostbird --> eng:bird --> enm:brid --> ang:bridd
+eng:frostbite --> eng:bite --> ang:bitan
+eng:frostfish --> eng:fish --> ang:fiscian
+eng:frostily --> eng:frosty
+eng:frostinglike --> eng:frosting
+eng:frostless --> eng:frost --> ang:frost
+eng:frostlike --> eng:frost --> ang:frost
+eng:frostproof --> eng:frost --> ang:frost
+eng:frostweed --> eng:frost --> ang:frost
+eng:frostwort --> eng:frost --> ang:frost
+eng:frot --> fro:froter
+eng:frote --> fra:frotter
+eng:frother --> eng:froth
+eng:frothingly --> eng:frothing
+eng:frothless --> eng:froth
+eng:frottage --> fra:frotter
+eng:frotteur --> fra:frotteur --> fra:frotter
+eng:frotteurism --> eng:frotteur --> fra:frotteur --> fra:frotter
+eng:frounce --> enm:frouncen
+eng:frover --> enm:frovre
+eng:frow --> dum:vrouwe --> odt:frouwa
+eng:froward --> enm:froward
+eng:frowardly --> eng:froward --> enm:froward
+eng:frown --> fro:frognier
+eng:frownest --> eng:frown --> fro:frognier
+eng:frowneth --> eng:frown --> fro:frognier
+eng:frowningly --> eng:frowning
+eng:frowny --> eng:frown --> fro:frognier
+eng:frowsily --> eng:frowsy
+eng:frozenly --> eng:frozen
+eng:frozenness --> eng:frozen
+eng:Fructidor --> lat:fructus --> lat:fruor
+eng:Fructidorian --> eng:Fructidor --> lat:fructus --> lat:fruor
+eng:fructify --> fro:fructefier
+eng:fructooligosaccharide --> eng:oligosaccharide --> eng:saccharide
+eng:fructosamine --> eng:amine --> eng:ammonia
+eng:fructuary --> lat:fructuarius
+eng:frugalista --> eng:fashionista
+eng:fruitarian --> eng:fruit
+eng:fruitcake --> eng:cake --> enm:cake --> non:kaka
+eng:fruiter --> eng:fruit
+eng:fruitful --> eng:fruit
+eng:fruitfuller --> eng:fruitful --> eng:fruit
+eng:fruition --> lat:frui
+eng:fruitique --> eng:boutique --> fra:boutique --> lat:apotheca --> grc:ἀποθήκη
+eng:fruitless --> eng:fruit
+eng:fruitlessness --> eng:fruitless --> eng:fruit
+eng:fruitmonger --> eng:fruit
+eng:fruitness --> eng:fruit
+eng:fruitseller --> eng:fruit
+eng:fruitshop --> eng:fruit
+eng:fruitwood --> eng:fruit
+eng:frum --> yid:פֿרום --> goh:fruma
+eng:frumentation --> lat:frumentatio
+eng:frumenty --> fro:frumentee --> fro:frument --> lat:frumentum --> lat:fruor
+eng:frumpery --> eng:frump
+eng:frumpish --> eng:frump
+eng:frumpishly --> eng:frumpish --> eng:frump
+eng:frumpishness --> eng:frumpish --> eng:frump
+eng:frumple --> enm:frumpil
+eng:frush --> fro:fruissier
+eng:frustrate --> lat:frustro
+eng:frustratedly --> eng:frustrated
+eng:frustrately --> eng:frustrate --> lat:frustro
+eng:frustration --> lat:frustratio
+eng:frustum --> lat:frustum
+eng:fruticant --> lat:fruticans
+eng:fry --> enm:fry --> non:frjó
+eng:fryable --> eng:fry --> enm:fry --> non:frjó
+eng:fryer --> eng:fry --> enm:fry --> non:frjó
+eng:fryling --> eng:fry --> enm:fry --> non:frjó
+eng:FTPable --> eng:FTP
+eng:fucate --> lat:fucatus
+eng:fuchsialike --> eng:fuchsia
+eng:Fuchsian --> eng:Fuchs
+eng:fuchsine --> eng:fuchsia
+eng:fucivore --> grc:φῦκος
+eng:fucivorous --> grc:φῦκος
+eng:fuckable --> eng:fuck
+eng:fuckathon --> eng:fuck
+eng:fuckbrain --> eng:brain --> enm:brain --> ang:brægen
+eng:fuckee --> eng:fuck
+eng:fucker --> eng:fuck
+eng:fucketh --> eng:fuck
+eng:fuckface --> eng:face
+eng:fuckfest --> eng:fuck
+eng:fuckhead --> eng:fuck
+eng:fuckin' --> eng:fuck
+eng:fucking --> eng:fuck
+eng:fuckingly --> eng:fucking --> eng:fuck
+eng:fuckish --> eng:fuck
+eng:fuckity --> eng:fuck
+eng:fuckless --> eng:fuck
+eng:fuckload --> eng:fuck
+eng:fuckmobile --> eng:fuck
+eng:fuckroom --> eng:fuck
+eng:fuckshit --> eng:fuck
+eng:fucksore --> eng:fuck
+eng:fuckspeak --> eng:fuck
+eng:fuckstick --> eng:fuck
+eng:fucktard --> eng:fucking --> eng:fuck
+eng:fucktastic --> eng:fuck
+eng:fuckton --> eng:fuck
+eng:fucktoy --> eng:fuck
+eng:fucktwat --> eng:fuck
+eng:fuckwad --> eng:fuck
+eng:fuckwittedness --> eng:fuckwitted
+eng:fuckwittery --> eng:fuckwit
+eng:fucoid --> grc:φῦκος
+eng:fucoidal --> eng:fucoid --> grc:φῦκος
+eng:fuddy-duddery --> eng:fuddy-duddy
+eng:fudgelike --> eng:fudge
+eng:fudgy --> eng:fudge
+eng:fuel --> fro:fouaille --> fro:feu
+eng:fuelless --> eng:fuel --> fro:fouaille --> fro:feu
+eng:fugacious --> lat:fugacius
+eng:fugaciously --> eng:fugacious --> lat:fugacius
+eng:fugient --> lat:fugientem
+eng:fugitive --> fro:fugitif
+eng:fugitively --> eng:fugitive --> fro:fugitif
+eng:fugitiveness --> eng:fugitive --> fro:fugitif
+eng:fugly --> eng:fucking --> eng:fuck
+eng:fuguelike --> eng:fugue
+eng:fuguist --> eng:fugue
+eng:Fujihara --> jpn:藤原
+eng:Fujiwara --> jpn:藤原
+eng:fukalite --> eng:Fuka
+eng:fukusa --> jpn:帛紗
+eng:Fukushima --> jpn:福島 --> jpn:島
+eng:fulciment --> lat:fulcimentum --> lat:fulcio
+eng:fulcrum --> lat:fulcrum --> lat:fulcio
+eng:Fulda --> deu:Fulda --> goh:Vulthaha
+eng:fulfill --> enm:fulfillen --> ang:fullfyllan
+eng:fulfillable --> eng:fulfill --> enm:fulfillen --> ang:fullfyllan
+eng:fulfiller --> eng:fulfill --> enm:fulfillen --> ang:fullfyllan
+eng:fulfilleth --> eng:fulfil
+eng:fulfillment --> eng:fulfill --> enm:fulfillen --> ang:fullfyllan
+eng:fulfilment --> enm:fulfillen --> ang:fullfyllan
+eng:fulgently --> eng:fulgent
+eng:fulgid --> lat:fulgidus
+eng:fulgurate --> lat:fulgur --> lat:fulgeo
+eng:fulgurite --> lat:fulgur --> lat:fulgeo
+eng:fulgury --> lat:fulgur --> lat:fulgeo
+eng:fulicine --> lat:Fulica
+eng:fuliginous --> lat:fuliginosus
+eng:fuliginously --> eng:fuliginous --> lat:fuliginosus
+eng:full --> ang:full
+eng:fullage --> eng:full --> ang:full
+eng:fullbring --> enm:fulbringen
+eng:fullburn --> eng:burn --> enm:bernen
+eng:fullcourt --> eng:court --> fro:cort --> lat:cors
+eng:fulldo --> enm:fuldon --> ang:fuldon
+eng:fullend --> enm:fulenden --> ang:fullendian --> ang:endian
+eng:fullfed --> eng:fullfeed
+eng:fullfreme --> enm:fulfremien --> ang:fullfremian
+eng:fullhead --> enm:fullhede
+eng:fulling --> eng:full --> ang:full
+eng:fullish --> eng:full --> ang:full
+eng:full-looking --> eng:full --> ang:full
+eng:fullmade --> enm:fulmade
+eng:fullness --> eng:full --> ang:full
+eng:fullought --> ang:fulluht
+eng:fullstanding --> eng:full --> ang:full
+eng:full-time --> eng:full --> ang:full
+eng:fully --> eng:full --> ang:full
+eng:fulminant --> lat:fulminare
+eng:fulminate --> lat:fulminatus
+eng:fulminator --> eng:fulminate --> lat:fulminatus
+eng:fulmine --> fra:fulminer --> lat:fulmino
+eng:fulsome --> enm:fulsum
+eng:fulsomely --> eng:fulsome --> enm:fulsum
+eng:fulsomeness --> eng:fulsome --> enm:fulsum
+eng:fulth --> enm:fulth
+eng:fulvid --> lat:fulvidus --> lat:fulvus
+eng:fulvous --> lat:fulvus
+eng:fumage --> fro:fumage
+eng:fumblefingers --> eng:fingers
+eng:fumeless --> eng:fume
+eng:fumelike --> eng:fume
+eng:fumette --> fra:fumet
+eng:fumewort --> eng:fume
+eng:fumidashi --> jpn:''[[rear]] [[step]] [[out]]''
+eng:fumidawara --> jpn:''[[stepping]]-[[bale]]''
+eng:fumily --> eng:fumy
+eng:fumingly --> eng:fuming
+eng:fumish --> eng:fume
+eng:fumishness --> eng:fumish --> eng:fume
+eng:fun --> enm:fon
+eng:funalicious --> eng:delicious --> enm:delicious --> xno:delicious --> fro:delicious
+eng:funbags --> eng:bags --> eng:bagsy
+eng:funboard --> eng:board --> enm:bord
+eng:funboarder --> eng:funboard --> eng:board --> enm:bord
+eng:funboarding --> eng:funboard --> eng:board --> enm:bord
+eng:funbox --> eng:box --> ang:box
+eng:function --> frm:function --> fra:fonction --> lat:functio --> lat:fungor
+eng:functional --> eng:function --> frm:function --> fra:fonction --> lat:functio --> lat:fungor
+eng:functionalism --> eng:functional --> eng:function --> frm:function --> fra:fonction --> lat:functio --> lat:fungor
+eng:functionalistically --> eng:functionalistic
+eng:functionality --> eng:functional --> eng:function --> frm:function --> fra:fonction --> lat:functio --> lat:fungor
+eng:functionless --> eng:function --> frm:function --> fra:fonction --> lat:functio --> lat:fungor
+eng:functionlessness --> eng:functionless --> eng:function --> frm:function --> fra:fonction --> lat:functio --> lat:fungor
+eng:fundamentalism --> eng:fundamental
+eng:fundamentality --> eng:fundamental
+eng:fundamentalness --> eng:fundamental
+eng:fundless --> eng:fund
+eng:fundraiser --> eng:fund
+eng:fundraising --> eng:fund
+eng:fundus --> lat:fundus
+eng:funemployed --> eng:fun --> enm:fon
+eng:funemployment --> eng:fun --> enm:fon
+eng:funeral home --> eng:funeral
+eng:funeralist --> eng:funeral
+eng:funeralize --> eng:funeral
+eng:funerate --> lat:funeratus
+eng:funeration --> lat:funeratio
+eng:funest --> fra:funeste --> lat:funestus
+eng:funfest --> eng:fun --> enm:fon
+eng:funfilled --> eng:filled
+eng:fungaemic --> eng:fungaemia
+eng:fungally --> eng:fungal
+eng:fungicide --> eng:fungi
+eng:fungiproof --> eng:fungi
+eng:fungite --> eng:Fungia
+eng:fungoid --> eng:fungus --> lat:fungus
+eng:fungology --> eng:fungus --> lat:fungus
+eng:fungus --> lat:fungus
+eng:funguslike --> eng:fungus --> lat:fungus
+eng:fungusproof --> eng:fungus --> lat:fungus
+eng:funhouse --> eng:fun --> enm:fon
+eng:funicle --> lat:funiculus
+eng:funicular --> lat:funiculus
+eng:funiculus --> lat:funiculus
+eng:funk --> enm:funke
+eng:funkabilly --> eng:funk --> enm:funke
+eng:funkadelia --> eng:funk --> enm:funke
+eng:funkadelic --> eng:funk --> enm:funke
+eng:funkcore --> eng:funk --> enm:funke
+eng:funkster --> eng:funk --> enm:funke
+eng:funktastic --> eng:funk --> enm:funke
+eng:funky --> eng:funk --> enm:funke
+eng:funless --> eng:fun --> enm:fon
+eng:funlessly --> eng:funless --> eng:fun --> enm:fon
+eng:funlessness --> eng:funless --> eng:fun --> enm:fon
+eng:funnel --> ang:funel
+eng:funnelform --> eng:funnel --> ang:funel
+eng:funnelless --> eng:funnel --> ang:funel
+eng:funness --> eng:fun --> enm:fon
+eng:funniness --> eng:funny --> eng:fun --> enm:fon
+eng:funnish --> eng:fun --> enm:fon
+eng:funny --> eng:fun --> enm:fon
+eng:funnyness --> eng:funny --> eng:fun --> enm:fon
+eng:funster --> eng:fun --> enm:fon
+eng:funtastic --> eng:fantastic --> eng:fantasy --> fro:fantasie --> lat:phantasia --> grc:φαντασία --> grc:φαντάζω --> grc:φαίνω
+eng:fuqaha' --> ara:فقهاء
+eng:fur --> enm:furren --> xno:furrer
+eng:furacious --> lat:furax
+eng:furacity --> lat:furacitas
+eng:furbearer --> eng:bearer --> eng:bear --> enm:bere --> ang:beor
+eng:furbish --> enm:furbishen
+eng:furbishable --> eng:furbish --> enm:furbishen
+eng:furbisher --> eng:furbish --> enm:furbishen
+eng:furcate --> lat:furcatus --> lat:furca
+eng:furcation --> eng:furcate --> lat:furcatus --> lat:furca
+eng:furdom --> eng:fur --> enm:furren --> xno:furrer
+eng:furfag --> eng:fag
+eng:furfan --> eng:fan
+eng:furfur --> lat:furfur
+eng:furibundal --> lat:furibundus --> lat:fursio --> lat:furiae
+eng:furikake --> jpn:振り掛け
+eng:furile --> eng:benzile
+eng:furiously --> eng:furious
+eng:furiousness --> eng:furious
+eng:furless --> eng:fur --> enm:furren --> xno:furrer
+eng:furlessness --> eng:furless --> eng:fur --> enm:furren --> xno:furrer
+eng:furlike --> eng:fur --> enm:furren --> xno:furrer
+eng:furlined --> eng:fur --> enm:furren --> xno:furrer
+eng:furlough --> nld:verlof
+eng:furnace --> fro:fornais --> lat:fornax
+eng:furnacelike --> eng:furnace --> fro:fornais --> lat:fornax
+eng:furnaceman --> eng:furnace --> fro:fornais --> lat:fornax
+eng:furnish --> enm:furnysshen
+eng:furnishment --> eng:furnish --> enm:furnysshen
+eng:furniture --> frm:fourniture --> frm:fournir
+eng:furnituremaker --> eng:furniture --> frm:fourniture --> frm:fournir
+eng:furniture music --> fra:musique d'ameublement
+eng:furoin --> eng:benzoin
+eng:furore --> lat:furor --> lat:fur
+eng:furphy --> eng:Furphy
+eng:furrow --> enm:furgh
+eng:furrowest --> eng:furrow --> enm:furgh
+eng:furrowlike --> eng:furrow --> enm:furgh
+eng:furrowy --> eng:furrow --> enm:furgh
+eng:furrydom --> eng:furry
+eng:fursecution --> eng:fur --> enm:furren --> xno:furrer
+eng:fursona --> eng:furry
+eng:fursuit --> eng:fur --> enm:furren --> xno:furrer
+eng:fursuited --> eng:fursuit --> eng:fur --> enm:furren --> xno:furrer
+eng:fursuiter --> eng:fursuit --> eng:fur --> enm:furren --> xno:furrer
+eng:fursuiting --> eng:fursuit --> eng:fur --> enm:furren --> xno:furrer
+eng:further --> ang:furþor
+eng:furtherer --> eng:further --> ang:furþor
+eng:furthermost --> eng:further --> ang:furþor
+eng:furthersome --> eng:further --> ang:furþor
+eng:furtive --> fra:furtif --> lat:furtivus --> lat:furtum --> lat:fur
+eng:furtively --> eng:furtive --> fra:furtif --> lat:furtivus --> lat:furtum --> lat:fur
+eng:furunculosis --> eng:furuncle
+eng:furvert --> eng:fur --> enm:furren --> xno:furrer
+eng:furzechat --> eng:chat
+eng:furzeling --> eng:furze
+eng:furzen --> eng:furze
+eng:furzy --> eng:furze
+eng:fusarole --> fra:fusarolle --> ita:fusaruolo
+eng:fuscation --> lat:fuscare
+eng:fusee --> fra:fusée
+eng:fuselage --> fra:fuselage --> fra:fuselé
+eng:fuseless --> eng:fuse
+eng:fuselike --> eng:fuse
+eng:fuser --> eng:fuse
+eng:fuseway --> eng:fuse
+eng:Fus-ha --> ara:فصحى
+eng:fusible --> eng:fuse
+eng:fusidate --> eng:fusidic
+eng:fusilier --> fra:fusilier
+eng:fusional --> eng:fusion
+eng:fusioneer --> eng:fusion
+eng:fusionesque --> eng:fusion
+eng:fusionlike --> eng:fusion
+eng:fusome --> eng:fuse
+eng:fusser --> eng:fuss
+eng:fussless --> eng:fuss
+eng:fussocky --> eng:fussock
+eng:fustercluck --> eng:cluster --> enm:cluster
+eng:fustian --> enm:fustian --> fro:fustaine --> lat:fustaneum --> lat:fustis
+eng:fustianed --> eng:fustian --> enm:fustian --> fro:fustaine --> lat:fustaneum --> lat:fustis
+eng:fustianist --> eng:fustian --> enm:fustian --> fro:fustaine --> lat:fustaneum --> lat:fustis
+eng:fustigate --> lat:fustigatus
+eng:fustilug --> eng:fusty --> fro:fust --> lat:fustis
+eng:fustily --> eng:fusty --> fro:fust --> lat:fustis
+eng:fustiness --> eng:fusty --> fro:fust --> lat:fustis
+eng:fusty --> fro:fust --> lat:fustis
+eng:fusuma --> jpn:襖
+eng:fusure --> lat:fusura
+eng:futile --> lat:futilis
+eng:futilitarianism --> eng:futilitarian
+eng:futility --> eng:futile --> lat:futilis
+eng:futomaki --> jpn:太巻
+eng:futon --> jpn:布団
+eng:Futunan --> eng:Futuna
+eng:futurable --> eng:future --> lat:futurus
+eng:future --> lat:futurus
+eng:futureless --> eng:future --> lat:futurus
+eng:futurelessness --> eng:futureless --> eng:future --> lat:futurus
+eng:futurely --> eng:future --> lat:futurus
+eng:futurepop --> eng:future --> lat:futurus
+eng:futureproof --> eng:future --> lat:futurus
+eng:future proof --> eng:future --> lat:futurus
+eng:futureward --> eng:future --> lat:futurus
+eng:futurewards --> eng:future --> lat:futurus
+eng:futureworld --> eng:future --> lat:futurus
+eng:futurism --> eng:future --> lat:futurus
+eng:futuristic --> eng:future --> lat:futurus
+eng:fuzzball --> eng:ball --> enm:bal
+eng:fuzzies --> eng:fuzz
+eng:fuzzily --> eng:fuzzy --> eng:fuzz
+eng:fuzziness --> eng:fuzzy --> eng:fuzz
+eng:fuzzless --> eng:fuzz
+eng:fuzzword --> eng:fuzz
+eng:fuzzy --> eng:fuzz
+eng:fyrdman --> ang:fyrdmann

@@ -1,0 +1,3656 @@
+eng:each --> enm:eche --> ang:ælc
+eng:eachwhere --> eng:each --> enm:eche --> ang:ælc
+eng:eager --> enm:eger --> fro:egre
+eng:eagerly --> eng:eager --> enm:eger --> fro:egre
+eng:eagle --> enm:egle --> xno:egle --> fro:aigle --> lat:aquila
+eng:eaglelike --> eng:eagle --> enm:egle --> xno:egle --> fro:aigle --> lat:aquila
+eng:eaglestone --> eng:eagle --> enm:egle --> xno:egle --> fro:aigle --> lat:aquila
+eng:eagre --> ang:eágor
+eng:eagreness --> eng:eagre --> ang:eágor
+eng:eam --> enm:eem --> ang:eam
+eng:ean --> enm:enen --> ang:eanian
+eng:ear --> enm:er
+eng:earake --> eng:ake
+eng:earal --> eng:ear --> enm:er
+eng:earbone --> eng:bone --> enm:bon --> ang:ban
+eng:earcap --> eng:cap --> enm:cappe --> ang:cæppe --> lat:cappa
+eng:earcon --> eng:ear --> enm:er
+eng:earcup --> eng:cup --> ang:cuppe --> lat:cuppa --> lat:cupa
+eng:eardrop --> eng:drop --> ang:dropa
+eng:eardrum --> eng:drum
+eng:eargasm --> eng:ear --> enm:er
+eng:earhole --> eng:ear --> enm:er
+eng:eariness --> eng:eary
+eng:earl --> enm:erl --> ang:eorl
+eng:earlessness --> eng:earless
+eng:earlid --> eng:ear --> enm:er
+eng:earlike --> eng:ear --> enm:er
+eng:earlock --> eng:ear --> enm:er
+eng:earloop --> eng:ear --> enm:er
+eng:early --> enm:erly
+eng:earlyish --> eng:early --> enm:erly
+eng:earmark --> eng:ear --> enm:er
+eng:earmuff --> eng:ear --> enm:er
+eng:earmuffed --> eng:earmuff --> eng:ear --> enm:er
+eng:earnest --> enm:eornest --> ang:eornoste
+eng:earnester --> eng:earnest --> enm:eornest --> ang:eornoste
+eng:earnestful --> eng:earnest --> enm:eornest --> ang:eornoste
+eng:earnestly --> eng:earnest --> enm:eornest --> ang:eornoste
+eng:earnestness --> eng:earnest --> enm:eornest --> ang:eornoste
+eng:earneth --> eng:earn
+eng:earnful --> eng:earn
+eng:earnout --> eng:earn
+eng:earpad --> eng:ear --> enm:er
+eng:earphone --> eng:ear --> enm:er
+eng:earphoned --> eng:earphone --> eng:ear --> enm:er
+eng:earpick --> eng:ear --> enm:er
+eng:earplug --> eng:ear --> enm:er
+eng:earreach --> eng:ear --> enm:er
+eng:earring --> eng:ear --> enm:er
+eng:earset --> eng:ear --> enm:er
+eng:earshrift --> eng:ear --> enm:er
+eng:earsplittingly --> eng:earsplitting
+eng:earth --> enm:erthe --> ang:eorþe
+eng:Earth --> ang:eorþe
+eng:earthbag --> eng:bag --> enm:bagge --> non:baggi
+eng:earthbank --> eng:bank --> enm:bank
+eng:earthboard --> eng:board --> enm:bord
+eng:earthborn --> eng:born
+eng:earthbound --> eng:bound --> enm:bounde --> fro:bunne --> lat:bodina
+eng:earthbred --> eng:bred
+eng:earthdin --> enm:erthedine
+eng:earthdrake --> ang:eorþdraca
+eng:eartheater --> eng:earth --> enm:erthe --> ang:eorþe
+eng:Earther --> eng:Earth --> ang:eorþe
+eng:earthfall --> eng:earth --> enm:erthe --> ang:eorþe
+eng:earthflow --> eng:earth --> enm:erthe --> ang:eorþe
+eng:earthhog --> eng:earth --> enm:erthe --> ang:eorþe
+eng:earthhole --> enm:eorthehole
+eng:Earthian --> eng:Earth --> ang:eorþe
+eng:earthless --> eng:earth --> enm:erthe --> ang:eorþe
+eng:earthliness --> eng:earthly --> ang:eorþlic
+eng:earthly --> ang:eorþlic
+eng:earthmoving --> eng:earth --> enm:erthe --> ang:eorþe
+eng:earthnut --> eng:earth --> enm:erthe --> ang:eorþe
+eng:earthpea --> eng:earth --> enm:erthe --> ang:eorþe
+eng:earthpig --> eng:earth --> enm:erthe --> ang:eorþe
+eng:earthquake --> enm:ertheqwake
+eng:Earthscape --> eng:Earth --> ang:eorþe
+eng:earthshakingly --> eng:earthshaking
+eng:earthshock --> eng:earth --> enm:erthe --> ang:eorþe
+eng:earthward --> eng:earth --> enm:erthe --> ang:eorþe
+eng:earthwolf --> eng:earth --> enm:erthe --> ang:eorþe
+eng:earthworm --> eng:earth --> enm:erthe --> ang:eorþe
+eng:earware --> eng:ear --> enm:er
+eng:earwear --> eng:ear --> enm:er
+eng:earwig --> enm:erwigge --> ang:êarwicga
+eng:ease --> enm:ese
+eng:easefulness --> eng:easeful
+eng:easeless --> eng:ease --> enm:ese
+eng:easellike --> eng:easel
+eng:easement --> fro:aisement
+eng:easily --> eng:easy --> enm:esy
+eng:easiness --> eng:easy --> enm:esy
+eng:east --> enm:est --> ang:east
+eng:Easter --> ang:eastre
+eng:Eastermonth --> ang:eastermonaþ
+eng:eastern --> enm:esterne --> ang:easterne
+eng:easternise --> eng:eastern --> enm:esterne --> ang:easterne
+eng:easternize --> eng:eastern --> enm:esterne --> ang:easterne
+eng:easternmost --> eng:eastern --> enm:esterne --> ang:easterne
+eng:easternness --> eng:eastern --> enm:esterne --> ang:easterne
+eng:Eastertide --> eng:Easter --> ang:eastre
+eng:eastmost --> eng:east --> enm:est --> ang:east
+eng:easy --> enm:esy
+eng:easygoingness --> eng:easygoing
+eng:easyish --> eng:easy --> enm:esy
+eng:eat --> enm:eten --> ang:etan
+eng:eatable --> eng:eat --> enm:eten --> ang:etan
+eng:eatage --> eng:eat --> enm:eten --> ang:etan
+eng:eatathon --> eng:eat --> enm:eten --> ang:etan
+eng:eateth --> eng:eat --> enm:eten --> ang:etan
+eng:eath --> enm:ethe --> ang:eaþe
+eng:eathful --> eng:eath --> enm:ethe --> ang:eaþe
+eng:eath-kent --> eng:eath --> enm:ethe --> ang:eaþe
+eng:eathlins --> eng:eath --> enm:ethe --> ang:eaþe
+eng:eathly --> eng:eath --> enm:ethe --> ang:eaþe
+eng:eathy --> eng:eath --> enm:ethe --> ang:eaþe
+eng:eatworthy --> eng:eat --> enm:eten --> ang:etan
+eng:e-auction --> eng:auction --> lat:augere
+eng:eau de nil --> fra:eau de nil
+eng:eau de vie --> fra:eau-de-vie
+eng:eavedrop --> eng:drop --> ang:dropa
+eng:eavesdroppingly --> eng:eavesdropping
+eng:eazily --> eng:eazy
+eng:e-banking --> eng:banking
+eng:eBayer --> eng:eBay
+eng:ebb --> enm:ebbe --> ang:ebba
+eng:Ebenezer --> heb:אבן העזר
+eng:e-bike --> eng:bike --> eng:bicycle
+eng:e-billing --> eng:billing
+eng:Ebionite --> grc:Ἐβιωναῖοι --> heb:אביונים
+eng:Ebionitic --> eng:Ebionite --> grc:Ἐβιωναῖοι --> heb:אביונים
+eng:ebon --> fro:eban --> lat:ebenus --> grc:ἔβενος --> egy:hbny
+eng:Ebonics --> eng:ebony
+eng:ebonist --> eng:ebony
+eng:ebonize --> eng:ebony
+eng:ebonylike --> eng:ebony
+eng:e-boutique --> eng:boutique --> fra:boutique --> lat:apotheca --> grc:ἀποθήκη
+eng:ebracteate --> eng:bracteate --> lat:bracteatus --> lat:bractea
+eng:ebracteolate --> eng:bracteolate
+eng:ebriety --> fra:ébriété --> lat:ebriatatem --> lat:ebrius
+eng:ebrious --> lat:ebrius
+eng:e-brochure --> eng:brochure
+eng:ebullient --> lat:bullire
+eng:eburnean --> lat:eburneus
+eng:eburnine --> lat:eburnus
+eng:e-business --> eng:business --> enm:busines
+eng:e-car --> eng:car --> enm:carre --> xno:carre --> lat:carra
+eng:ecard --> eng:card --> enm:carde --> fro:carte --> lat:charta --> grc:χάρτης --> grc:χαράσσω
+eng:ecarte --> fra:écarté
+eng:e-catalog --> eng:catalog
+eng:e-catalogue --> eng:catalogue --> lat:catalogus
+eng:Ecbatana --> lat:Ecbatana --> grc:Ἐκβάτανα
+eng:eccentric --> lat:eccentricus --> grc:ἔκκεντρος
+eng:eccentrically --> eng:eccentric --> lat:eccentricus --> grc:ἔκκεντρος
+eng:eccentricity --> eng:eccentric --> lat:eccentricus --> grc:ἔκκεντρος
+eng:ecclesia --> lat:ecclesia --> grc:ἐκκλησία
+eng:ecclesiarch --> lat:ecclesiarcha
+eng:ecclesiastic --> lat:ecclesia --> grc:ἐκκλησία
+eng:ecclesiastical --> eng:ecclesiastic --> lat:ecclesia --> grc:ἐκκλησία
+eng:ecclesiasticism --> eng:ecclesiastic --> lat:ecclesia --> grc:ἐκκλησία
+eng:eccrine --> grc:ἐκκρίνω
+eng:eccyclema --> grc:ἐκκύκλημα --> grc:ἐκκυκλέω
+eng:ecdysis --> grc:ἔκδυσις --> grc:ἐκδύω
+eng:ecesis --> grc:οἴκισις
+eng:eche --> enm:eche --> ang:ælc
+eng:echelle --> fra:échelle --> fro:eschale --> lat:scala --> lat:scando
+eng:echelon --> fra:échelon --> fra:échelle --> fro:eschale --> lat:scala --> lat:scando
+eng:echidnine --> eng:echidna
+eng:echinodermal --> eng:echinoderm
+eng:echinulate --> lat:echinulus
+eng:echo --> lat:echo --> grc:ἠχώ --> grc:ἠχή
+eng:Echo --> grc:Ἠχώ
+eng:echoable --> eng:echo --> lat:echo --> grc:ἠχώ --> grc:ἠχή
+eng:echocardiography --> eng:cardiography
+eng:echoer --> eng:echo --> lat:echo --> grc:ἠχώ --> grc:ἠχή
+eng:echogenic --> eng:echo --> lat:echo --> grc:ἠχώ --> grc:ἠχή
+eng:echography --> eng:echo --> lat:echo --> grc:ἠχώ --> grc:ἠχή
+eng:echoingly --> eng:echoing
+eng:echokinesis --> eng:echo --> lat:echo --> grc:ἠχώ --> grc:ἠχή
+eng:echolalia --> eng:echo --> lat:echo --> grc:ἠχώ --> grc:ἠχή
+eng:echolocational --> eng:echolocation
+eng:echomail --> eng:echo --> lat:echo --> grc:ἠχώ --> grc:ἠχή
+eng:echometer --> eng:echo --> lat:echo --> grc:ἠχώ --> grc:ἠχή
+eng:echoplex --> eng:duplex --> lat:duplex
+eng:echoscope --> eng:echo --> lat:echo --> grc:ἠχώ --> grc:ἠχή
+eng:echt --> deu:echt --> gml:echt
+eng:eclabium --> eng:labium --> lat:labium
+eng:eclaircissement --> fra:éclaircissement
+eng:eclectic --> fra:éclectique --> grc:ἐκλεκτικός --> grc:ἐκλέγω
+eng:eclection --> eng:eclectic --> fra:éclectique --> grc:ἐκλεκτικός --> grc:ἐκλέγω
+eng:eclipsable --> eng:eclipse --> lat:eclipsis --> grc:ἔκλειψις --> grc:ἐκλείπω
+eng:eclipse --> lat:eclipsis --> grc:ἔκλειψις --> grc:ἐκλείπω
+eng:eclogite --> grc:ἐκλογή
+eng:ecmnesic --> eng:ecmnesia
+eng:eco-
+eng:ecoactivism --> eng:activism --> eng:active --> enm:actif --> fro:actif --> lat:activus
+eng:ecoactivist --> eng:activist --> eng:active --> enm:actif --> fro:actif --> lat:activus
+eng:ecoanarchism --> eng:anarchism --> eng:anarchy --> lat:anarchia --> grc:ἀναρχία --> grc:ἀρχός
+eng:ecoanxiety --> eng:anxiety --> lat:anxietatem --> lat:anxius --> lat:ango
+eng:ecobabble --> eng:babble --> enm:babelen
+eng:ecocatastrophe --> eng:catastrophe --> grc:καταστροφή --> grc:καταστρέφω
+eng:ecocentric --> eng:centric --> grc:κεντρικός
+eng:ecocide
+eng:ecoconscious --> eng:conscious --> lat:conscius
+eng:ecocritic --> eng:critic --> lat:criticus --> grc:κριτικός --> grc:κρίνω
+eng:ecocritical --> eng:critical
+eng:ecocriticism --> eng:criticism --> eng:critic --> lat:criticus --> grc:κριτικός --> grc:κρίνω
+eng:ecoculturally --> eng:ecocultural
+eng:ecodesigning --> eng:designing
+eng:ecodevelopment --> eng:development --> eng:develop --> fra:développer --> frm:desveloper --> fro:desveloper --> fra:veloper
+eng:ecodisaster --> eng:disaster --> frm:desastre --> ita:disastro
+eng:ecoepidemiology --> eng:epidemiology
+eng:ecofeminism --> eng:feminism
+eng:ecofootprint --> eng:footprint
+eng:ecoforestry --> eng:forestry
+eng:ecofreak --> eng:freak --> enm:freke --> ang:freca
+eng:eco-friendly --> eng:friendly
+eng:ecogeographic --> eng:ecogeography --> eng:geography
+eng:ecogeography --> eng:geography
+eng:eco-house --> eng:house --> enm:hous
+eng:eco-kosher --> eng:kosher --> yid:כּשר --> heb:כשר
+eng:ecolabel --> eng:label --> enm:label --> fro:label
+eng:ecolect --> grc:οἶκος --> grc:ϝοῖκος
+eng:ecolinguist --> eng:linguist
+eng:ecolinguistic --> eng:linguistic
+eng:ecolinguistics --> eng:linguistics --> eng:linguist
+eng:ecolodge --> eng:lodge --> enm:logge --> fra:loge
+eng:ecologic
+eng:ecological --> eng:ecology --> deu:Ökologie
+eng:ecologically --> eng:ecological --> eng:ecology --> deu:Ökologie
+eng:ecologist
+eng:ecology --> deu:Ökologie
+eng:ecomanagement --> eng:management --> eng:manage --> fro:manege
+eng:ecomigration --> eng:migration
+eng:e-communication --> eng:communication --> fro:communicacion --> lat:communicationem
+eng:econiche --> eng:niche --> fro:niche --> fro:nichier --> lat:nidus
+eng:econobox --> eng:box --> ang:box
+eng:econometrics --> eng:economy --> lat:oeconomia --> grc:οἰκονομία
+eng:economic --> eng:economy --> lat:oeconomia --> grc:οἰκονομία
+eng:economically --> eng:economic --> eng:economy --> lat:oeconomia --> grc:οἰκονομία
+eng:economicalness --> eng:economical
+eng:economics --> eng:economy --> lat:oeconomia --> grc:οἰκονομία
+eng:economiser --> eng:economise
+eng:economist --> frm:économiste
+eng:economization --> eng:economize
+eng:economizer --> eng:economize
+eng:economy --> lat:oeconomia --> grc:οἰκονομία
+eng:e-conomy --> eng:economy --> lat:oeconomia --> grc:οἰκονομία
+eng:economywide --> eng:economy --> lat:oeconomia --> grc:οἰκονομία
+eng:ecophilosophy --> eng:philosophy --> xno:philosophie --> lat:philosophia --> grc:φιλοσοφία --> grc:φιλόσοφος
+eng:ecophobia
+eng:ecophysical --> eng:physical
+eng:ecophysics --> eng:physics --> grc:φυσικός --> grc:φύσις
+eng:ecophysiology --> eng:physiology --> fra:physiologie --> lat:physiologia --> grc:φυσιολογία
+eng:ecopoem --> eng:poem --> lat:poema --> grc:ποίημα --> grc:ποιέω
+eng:ecopoet --> eng:poet --> fro:poete --> lat:poeta --> grc:ποιητής --> grc:ποιέω
+eng:ecopoetic --> eng:poetic
+eng:ecopoetics --> eng:poetics
+eng:ecopoetry --> eng:poetry --> grc:ποίησις --> grc:ποιέω
+eng:ecopornography --> eng:pornography --> grc:πορνογράφος
+eng:ecopsychiatry --> eng:psychiatry
+eng:ecopsychology --> eng:psychology --> fra:psychologie --> lat:psychologia
+eng:ecopsychotherapy --> eng:psychotherapy
+eng:ecoregional --> eng:regional
+eng:ecoresponsive --> eng:responsive
+eng:ecorestoration --> eng:restoration
+eng:ecoscape
+eng:ecosexual --> eng:sexual --> lat:sexualis
+eng:ecosexuality --> eng:sexuality --> eng:sexual --> lat:sexualis
+eng:ecosocial --> eng:social --> frm:social --> lat:socialis --> lat:socius --> lat:sequor
+eng:ecosocialism --> eng:socialism
+eng:ecosophy --> eng:ecology --> deu:Ökologie
+eng:ecostate --> eng:costate
+eng:ecotage --> eng:ecological --> eng:ecology --> deu:Ökologie
+eng:ecotax --> eng:tax
+eng:ecotaxation --> eng:taxation --> lat:taxatio
+eng:ecotecture --> eng:architecture
+eng:ecoterrorism --> eng:terrorism --> eng:terror --> fro:terreur
+eng:ecoterrorist --> eng:terrorist --> fra:terroriste --> fra:terreur --> lat:terror --> lat:terreo
+eng:ecoteur --> eng:ecological --> eng:ecology --> deu:Ökologie
+eng:ecotherapist --> eng:therapist
+eng:ecotherapy --> eng:therapy --> grc:θεραπεία --> grc:θεραπεύω --> grc:θεράπων
+eng:ecotopian --> eng:ecotopia
+eng:ecotourism --> eng:tourism --> eng:tour --> fro:tor --> lat:turris --> grc:τύρρις
+eng:ecotown --> eng:town
+eng:ecotoxic --> eng:toxic --> fra:toxique --> lat:toxicus --> grc:τοξικόν --> grc:τοξικός --> grc:τόξον
+eng:ecotoxicity --> eng:toxicity
+eng:ecotoxin --> eng:toxin --> lat:toxicum --> grc:τοξικόν --> grc:τοξικός --> grc:τόξον
+eng:ecotype --> eng:type --> lat:typus --> grc:τύπος --> grc:τύπτω
+eng:eco-unfriendly --> eng:unfriendly
+eng:eco-village --> eng:village --> fra:village --> ita:villaggio
+eng:ecowar --> eng:war --> enm:werre
+eng:ecphonesis --> grc:ἐκφώνησις
+eng:ecraseur --> fra:écraseur --> fra:écraser --> frm:ecraser --> enm:crasen
+eng:e-crime --> eng:crime --> lat:crimen --> lat:cernere
+eng:ecromeximab
+eng:ecru --> fra:écru
+eng:ecstasy --> grc:ἔκστασις --> grc:ἐξίστημι
+eng:ectal
+eng:ectethmoid --> eng:ethmoid --> grc:ἠθμοειδής --> grc:ἠθμός --> grc:ἤθειν
+eng:ectoantigen --> eng:antigen --> fra:antigène --> fra:gène
+eng:ectoapyrase --> eng:apyrase
+eng:ectoATPase --> eng:ATPase
+eng:ectobronchium --> eng:bronchium
+eng:ectocardia
+eng:ectocervical --> eng:cervical --> lat:cervix
+eng:ectocervix --> eng:cervix --> lat:cervix
+eng:ectochoroidea --> eng:choroidea
+eng:ectocornea --> eng:cornea --> lat:cornea tela
+eng:ectocranial --> eng:cranial
+eng:ectocuneiform --> eng:cuneiform
+eng:ectodomain --> eng:domain --> enm:demeine
+eng:ectoenzyme --> eng:enzyme --> deu:Enzym
+eng:ectogenesis
+eng:ectomesenchyme --> eng:mesenchyme
+eng:ectomycorrhiza --> eng:mycorrhiza
+eng:ectonucleotidase --> eng:nucleotidase
+eng:ectonucleotide --> eng:nucleotide
+eng:ectophosphodiesterase --> eng:phosphodiesterase
+eng:ectopic --> grc:ἐκτόπιος
+eng:ectoplacental --> eng:placental
+eng:ectoplasm --> eng:plasm
+eng:ectoprotein --> eng:protein
+eng:ectopterygoid --> eng:pterygoid
+eng:ectostosis --> eng:ostosis
+eng:ectosymbiont --> eng:symbiont
+eng:ectothermically --> eng:ectothermic
+eng:ectozoic
+eng:Ecuador --> spa:ecuador --> lat:aequator
+eng:Ecuadorianism --> eng:Ecuadorian
+eng:eculizumab
+eng:ecumene --> lat:oecumenicus --> grc:οἰκουμένη --> grc:οἰκέω --> grc:οἶκος --> grc:ϝοῖκος
+eng:ecumenic --> lat:oecumenicus --> grc:οἰκουμένη --> grc:οἰκέω --> grc:οἶκος --> grc:ϝοῖκος
+eng:ecumenical --> eng:ecumenic --> lat:oecumenicus --> grc:οἰκουμένη --> grc:οἰκέω --> grc:οἶκος --> grc:ϝοῖκος
+eng:ecumenism --> eng:ecumene --> lat:oecumenicus --> grc:οἰκουμένη --> grc:οἰκέω --> grc:οἶκος --> grc:ϝοῖκος
+eng:ecumenist --> eng:ecumenism --> eng:ecumene --> lat:oecumenicus --> grc:οἰκουμένη --> grc:οἰκέω --> grc:οἶκος --> grc:ϝοῖκος
+eng:eczema --> grc:ἔκζεμα
+eng:eczemalike --> eng:eczema --> grc:ἔκζεμα
+eng:eczematic --> eng:eczema --> grc:ἔκζεμα
+eng:ed-
+eng:Eda --> ang:ead
+eng:edaciousness --> eng:edacious
+eng:edacity --> lat:edacitas
+eng:edaphologist --> eng:edaphology
+eng:edaphosaurid --> eng:edaphosaurus
+eng:e-dating --> eng:dating
+eng:Edda --> non:edda
+eng:eddy --> enm:eddy
+eng:edelweiss --> deu:Edelweiß --> deu:edel --> goh:adal
+eng:edema --> grc:οἴδημα --> grc:οἰδέω
+eng:edematic --> eng:edema --> grc:οἴδημα --> grc:οἰδέω
+eng:edematous --> eng:edema --> grc:οἴδημα --> grc:οἰδέω
+eng:e-democracy --> eng:democracy --> frm:democratie --> lat:democratia --> grc:δημοκράτια --> grc:δήμος
+eng:Eden --> heb:עדן
+eng:Edenic --> eng:Eden --> heb:עדן
+eng:Edenize --> eng:Eden --> heb:עדן
+eng:Edenlike --> eng:Eden --> heb:עדן
+eng:edentulous --> lat:edentulus
+eng:Edessa --> grc:Ἔδεσσα
+eng:edetate --> eng:edetic
+eng:Edgar --> ang:Eadgar
+eng:edge --> enm:egge --> ang:ecg
+eng:edgebanding --> eng:banding
+eng:edgeless --> eng:edge --> enm:egge --> ang:ecg
+eng:edgelessness --> eng:edgeless --> eng:edge --> enm:egge --> ang:ecg
+eng:edgelike --> eng:edge --> enm:egge --> ang:ecg
+eng:edgelong --> eng:edge --> enm:egge --> ang:ecg
+eng:edgepath --> eng:edge --> enm:egge --> ang:ecg
+eng:edgeware --> eng:edge --> enm:egge --> ang:ecg
+eng:edgewise --> eng:edge --> enm:egge --> ang:ecg
+eng:edgework --> eng:edge --> enm:egge --> ang:ecg
+eng:Edgeworthian --> eng:Edgeworth
+eng:edgie --> sco:edgy
+eng:edgingly --> eng:edging
+eng:edgrow --> enm:edgrow
+eng:edgy --> eng:edge --> enm:egge --> ang:ecg
+eng:e-diary --> eng:diary
+eng:edible --> lat:edibilis --> lat:edere
+eng:edificant --> lat:aedificans
+eng:edifice --> enm:edifice --> fro:edifice
+eng:edificial --> lat:aedificialis
+eng:edified --> eng:edify
+eng:edifiest --> eng:edify
+eng:Edinburgh --> ang:burg
+eng:edingtonite --> eng:Edington
+eng:e-discovery --> eng:discovery
+eng:edisonade --> eng:Edison
+eng:e-distribution --> eng:distribution --> lat:distributio
+eng:editability --> eng:edit
+eng:editable --> eng:edit
+eng:edit-a-thon --> eng:edit
+eng:edition --> lat:editio --> lat:edere
+eng:editionalize --> eng:editional
+eng:editorship --> eng:editor
+eng:Edmondson --> eng:Edmond
+eng:Edmund --> ang:Eadmund
+eng:edobacomab
+eng:Edomite --> eng:Edom
+eng:edrecolomab
+eng:edriophthalmous --> eng:Edriophthalma
+eng:edu-babble --> eng:babble --> enm:babelen
+eng:educatable --> eng:educate --> lat:educatus
+eng:educate --> lat:educatus
+eng:educatee --> eng:educate --> lat:educatus
+eng:education --> lat:educatio --> lat:educo
+eng:educational --> eng:education --> lat:educatio --> lat:educo
+eng:educationalist --> eng:educational --> eng:education --> lat:educatio --> lat:educo
+eng:educationalization --> eng:educationalize --> eng:educational --> eng:education --> lat:educatio --> lat:educo
+eng:educationalize --> eng:educational --> eng:education --> lat:educatio --> lat:educo
+eng:educationless --> eng:education --> lat:educatio --> lat:educo
+eng:educative --> eng:educate --> lat:educatus
+eng:educatively --> eng:educative --> eng:educate --> lat:educatus
+eng:educatress --> eng:educator
+eng:educible --> eng:educe
+eng:educrat --> eng:bureaucrat --> fra:bureaucrate --> fra:bureaucratie --> fra:bureau --> fra:bure
+eng:edulcoration --> lat:edulcoratio
+eng:edulcorator --> eng:edulcorate
+eng:edulious --> lat:edulis
+eng:eduspeak --> eng:education --> lat:educatio --> lat:educo
+eng:edutainer --> eng:edutain
+eng:edutainment --> eng:education --> lat:educatio --> lat:educo
+eng:Edward --> ang:Eadweard
+eng:Edwardian --> eng:Edward --> ang:Eadweard
+eng:Edwin --> ang:Eadwine
+eng:e-education --> eng:education --> lat:educatio --> lat:educo
+eng:eel --> enm:ele --> ang:æl
+eng:eelpout --> ang:ælepute
+eng:eelskin --> eng:eel --> enm:ele --> ang:æl
+eng:eelspear --> eng:eel --> enm:ele --> ang:æl
+eng:eely --> eng:eel --> enm:ele --> ang:æl
+eng:een --> eng:even --> ang:efen
+eng:eerie --> enm:eri --> ang:earg
+eng:eerisome --> eng:eerie --> enm:eri --> ang:earg
+eng:efalizumab
+eng:e-fencing --> eng:fencing
+eng:effascinate --> lat:effascinare
+eng:effascination --> lat:effascinatio
+eng:effecter --> eng:effect
+eng:effectibility --> eng:effectible --> eng:effect
+eng:effectible --> eng:effect
+eng:effecting --> eng:effect
+eng:effectiveness --> eng:effective
+eng:effectual --> eng:effect
+eng:effectuality --> eng:effectual --> eng:effect
+eng:effectualness --> eng:effectual --> eng:effect
+eng:effectuation --> eng:effectuate
+eng:effectuously --> eng:effectuous
+eng:effeminate --> lat:effeminatus
+eng:effeminately --> eng:effeminate --> lat:effeminatus
+eng:effeminateness --> eng:effeminate --> lat:effeminatus
+eng:effemination --> lat:effeminatio
+eng:effendi --> tur:efendi --> ell:αφέντη
+eng:efferent --> lat:efferens
+eng:efferently --> eng:efferent --> lat:efferens
+eng:effervescence --> fra:effervescence
+eng:effervescent --> lat:effervesco
+eng:effervescingly --> eng:effervescing
+eng:effete --> lat:effetus
+eng:efficacious --> fro:efficacieux --> lat:efficax
+eng:efficacy --> lat:efficacia
+eng:efficiency --> lat:efficientia
+eng:efficiently --> eng:efficient
+eng:efficientness --> eng:efficient
+eng:effigial --> eng:effigy --> fra:effigie --> lat:effigies --> lat:effingo --> lat:e --> lat:et
+eng:effigy --> fra:effigie --> lat:effigies --> lat:effingo --> lat:e --> lat:et
+eng:effigylike --> eng:effigy --> fra:effigie --> lat:effigies --> lat:effingo --> lat:e --> lat:et
+eng:efflagitate --> lat:efflagitare
+eng:effleurage --> fra:effleurer
+eng:effluvium --> lat:effluvium --> lat:effluo --> lat:e --> lat:et
+eng:efflux --> lat:effluxus --> lat:effluo --> lat:e --> lat:et
+eng:effluxion --> eng:efflux --> lat:effluxus --> lat:effluo --> lat:e --> lat:et
+eng:efforce --> frm:efforcer
+eng:efform --> eng:form --> enm:forme --> fro:forme --> lat:forma --> grc:μόρφα
+eng:effort --> frm:effort --> fro:esfort
+eng:effortfully --> eng:effortful
+eng:effortless --> eng:effort --> frm:effort --> fro:esfort
+eng:effossion --> lat:effossio
+eng:effranchise --> eng:franchise --> enm:franchisen
+eng:effray --> frm:effrayer
+eng:effrontit --> fra:effronté
+eng:effulgent --> lat:effulgens
+eng:effund --> lat:effundere
+eng:effusion --> lat:effusio --> lat:effundo --> lat:e --> lat:et
+eng:effusive --> lat:effundere
+eng:e-finance --> eng:finance --> enm:finaunce
+eng:e-frontier --> eng:frontier --> fro:fronter --> fro:front
+eng:eft --> ang:efeta
+eng:eftsoons --> eng:eft#Etymology 2
+eng:efungumab
+eng:egal --> fra:égal --> fro:igal
+eng:egalitarianism --> eng:egalitarian
+eng:egality --> frm:egalité
+eng:e-gate --> eng:gate --> ang:geat
+eng:Egbert --> ang:Ecgberht
+eng:egence --> lat:egens
+eng:egency --> lat:egentia
+eng:egesta --> lat:egeries
+eng:egg --> enm:egge --> ang:ecg
+eng:eggburger --> eng:burger
+eng:egger --> eng:egg --> enm:egge --> ang:ecg
+eng:eggery --> eng:egg --> enm:egge --> ang:ecg
+eng:eggetarian --> eng:egg --> enm:egge --> ang:ecg
+eng:eggfruit --> eng:egg --> enm:egge --> ang:ecg
+eng:eggheaded --> eng:egg --> enm:egge --> ang:ecg
+eng:egghot --> eng:egg --> enm:egge --> ang:ecg
+eng:eggily --> eng:eggy --> eng:egg --> enm:egge --> ang:ecg
+eng:egginess --> eng:eggy --> eng:egg --> enm:egge --> ang:ecg
+eng:eggless --> eng:egg --> enm:egge --> ang:ecg
+eng:egglessness --> eng:eggless --> eng:egg --> enm:egge --> ang:ecg
+eng:egglike --> eng:egg --> enm:egge --> ang:ecg
+eng:eggmass --> eng:egg --> enm:egge --> ang:ecg
+eng:egg-shaped --> eng:egg --> enm:egge --> ang:ecg
+eng:eggshell --> eng:egg --> enm:egge --> ang:ecg
+eng:eggy --> eng:egg --> enm:egge --> ang:ecg
+eng:eglandulose --> eng:glandulose
+eng:eglomerate --> eng:glomerate
+eng:ego --> lat:ego
+eng:egodystonic --> eng:dystonic
+eng:egoically --> eng:egoic
+eng:egoism --> eng:ego --> lat:ego
+eng:egoist --> eng:ego --> lat:ego
+eng:egoistic --> eng:egoist --> eng:ego --> lat:ego
+eng:egoistical --> eng:egoistic --> eng:egoist --> eng:ego --> lat:ego
+eng:egoitis --> eng:ego --> lat:ego
+eng:egoity --> eng:ego --> lat:ego
+eng:egoless --> eng:ego --> lat:ego
+eng:egolessness --> eng:egoless --> eng:ego --> lat:ego
+eng:egolike --> eng:ego --> lat:ego
+eng:egophony
+eng:egosyntonic --> eng:ego --> lat:ego
+eng:egotistical --> eng:egotistic
+eng:e-governance --> eng:governance --> fro:gouvernance
+eng:e-government --> eng:government --> enm:governement --> fro:governement --> lat:gubernatio --> grc:κυβερνισμός
+eng:egregiously --> eng:egregious
+eng:egress --> lat:egressus
+eng:egretlike --> eng:egret
+eng:egrimony --> lat:aegrimonia
+eng:egriot --> fra:aigrette
+eng:egritude --> lat:aegritudo
+eng:Egypt --> frm:Egypte --> lat:Ægyptus --> grc:Αἴγυπτος
+eng:Egyptianize --> eng:Egyptian
+eng:Egyptianness --> eng:Egyptian
+eng:Egyptize --> eng:Egypt --> frm:Egypte --> lat:Ægyptus --> grc:Αἴγυπτος
+eng:Egyptology --> eng:Egypt --> frm:Egypte --> lat:Ægyptus --> grc:Αἴγυπτος
+eng:e-health --> eng:health --> enm:helthe --> ang:hælþ
+eng:ehlite --> eng:Ehl
+eng:eicosadienoic --> eng:eicosadiene
+eng:eicosameric --> eng:eicosamer
+eng:eicosanoic --> eng:eicosane
+eng:Eid --> ara:عيد
+eng:Eid al-Adha --> ara:عيد الأضحى
+eng:Eid al-Fitr --> ara:عيد الفطر
+eng:eident --> sco:eident
+eng:e-identity --> eng:identity
+eng:eider --> isl:æðar
+eng:eidetic --> deu:eidetisch --> grc:εἰδητικός --> grc:εἶδος --> grc:εἴδω
+eng:eidetically --> eng:eidetic --> deu:eidetisch --> grc:εἰδητικός --> grc:εἶδος --> grc:εἴδω
+eng:eid mubarak --> ara:عيد مبارك
+eng:eidolon --> grc:εἴδωλον --> grc:εἶδος --> grc:εἴδω
+eng:eigenanalysis --> eng:analysis --> lat:analysis --> grc:ἀνάλυσις --> grc:ἀναλύω
+eng:eigenbasis --> eng:basis --> lat:basis --> grc:βάσις
+eng:eigenbrane --> eng:brane
+eng:eigenclass --> eng:class --> fra:classe --> lat:classis
+eng:eigendecomposition --> eng:decomposition
+eng:eigenequation --> eng:equation --> lat:aequatio --> lat:aequo --> lat:aequus
+eng:eigenfrequency --> eng:frequency --> lat:frequentia --> lat:frequens
+eng:eigenfunction --> eng:function --> frm:function --> fra:fonction --> lat:functio --> lat:fungor
+eng:eigengene --> eng:gene --> deu:Gen
+eng:eigenmass --> eng:mass --> enm:masse --> ang:mæsse
+eng:eigenmetabolite --> eng:metabolite --> eng:metabolism --> grc:μεταβολή
+eng:eigenmode --> eng:mode --> fra:mode --> lat:modus
+eng:eigenpair --> eng:pair --> fro:paire --> lat:paria
+eng:eigenpolarization --> eng:polarization
+eng:eigenproblem --> eng:problem
+eng:eigenprojection --> eng:projection
+eng:eigensolver --> eng:solver
+eng:eigenspace --> eng:space --> xno:space
+eng:eigenstate --> eng:state --> lat:status --> lat:stare
+eng:eigentime --> eng:time --> enm:time
+eng:eigentone --> eng:tone --> enm:tone
+eng:eigenvalue --> eng:value
+eng:eigenvector --> eng:vector --> lat:vector --> lat:veho
+eng:eight --> enm:eight
+eng:eighteen --> enm:ehtetene --> ang:eahtatiene
+eng:eighteenfold --> eng:eighteen --> enm:ehtetene --> ang:eahtatiene
+eng:eighteenish --> eng:eighteen --> enm:ehtetene --> ang:eahtatiene
+eng:eighteenpence --> eng:eighteen --> enm:ehtetene --> ang:eahtatiene
+eng:eighteenpenny --> eng:eighteen --> enm:ehtetene --> ang:eahtatiene
+eng:eighteenthly --> eng:eighteenth
+eng:eightfold --> eng:eight --> enm:eight
+eng:eightfoldness --> eng:eightfold --> eng:eight --> enm:eight
+eng:eighthly --> eng:eighth
+eng:eightieth --> eng:eighty
+eng:eightish --> eng:eight --> enm:eight
+eng:eightlike --> eng:eight --> enm:eight
+eng:eightling --> eng:eight --> enm:eight
+eng:eightness --> eng:eight --> enm:eight
+eng:eightpence --> eng:eight --> enm:eight
+eng:eightpenny --> eng:eight --> enm:eight
+eng:eightplex --> eng:eight --> enm:eight
+eng:eightscore --> eng:eight --> enm:eight
+eng:eightsome --> eng:eight --> enm:eight
+eng:eightyfold --> eng:eighty
+eng:eightyish --> eng:eighty
+eng:eigne --> fro:aisné
+eng:eikonal --> grc:εἰκών
+eng:e-inclusion --> eng:inclusion
+eng:Eindhoven --> nld:Eindhoven --> dum:Endehoven
+eng:Einsteinian --> eng:Einstein
+eng:einsteinium --> eng:Einstein
+eng:e-invoicing --> eng:invoicing
+eng:Eire --> gle:Éire --> sga:Ériu
+eng:eirenicon --> grc:εἰρηνικόν
+eng:eirself --> eng:eir
+eng:eisteddfod --> cym:eisteddfod --> cym:bod
+eng:eisteddfodau --> cym:eisteddfodau --> cym:eisteddfod --> cym:bod
+eng:either --> ang:æghwæþer
+eng:ejaculate --> lat:eiaculatus
+eng:eject --> lat:eiectus
+eng:ejectee --> eng:eject --> lat:eiectus
+eng:ejoo --> msa:ijuk
+eng:e-journal --> eng:journal --> fro:journal --> lat:diurnalis --> lat:dies
+eng:ejulation --> lat:ejulatio
+eng:eka- --> san:एक
+eng:ekaboron --> eng:boron
+eng:Ekadashi --> san:एकादशी
+eng:ekaluminium --> eng:aluminium --> lat:alumen
+eng:ekamanganese --> eng:manganese --> fra:manganèse --> ita:manganese
+eng:ekasilicon --> eng:silicon --> eng:silica --> gle:silex
+eng:eke --> enm:eek --> ang:eac
+eng:ekebergite --> eng:Ekeberg
+eng:ekiden --> jpn:駅伝
+eng:e-kiosk --> eng:kiosk --> fra:kiosque --> ota:ﻛﻮﺸﻚ --> fas:کوشک --> pal:𐭪𐭥𐭱𐭪
+eng:ekmek kadayif --> tur:ekmek kadayıfı
+eng:ekphrasis --> grc:ἔκφρασις --> grc:ἐκφράζω
+eng:ekstasis --> grc:ἔκστασις --> grc:ἐξίστημι
+eng:elaboratively --> eng:elaborative
+eng:elaborativeness --> eng:elaborative
+eng:elæon --> grc:ἔλαιον --> grc:ἐλαία
+eng:elaidate --> eng:elaidic
+eng:Elamite --> eng:Elam
+eng:elamping --> eng:lamp
+eng:elance --> fra:élancer
+eng:eland --> nld:eland
+eng:elanid kite --> eng:elanid
+eng:elastic --> lat:elasticus
+eng:elasticness --> eng:elastic --> lat:elasticus
+eng:elastodynamically --> eng:elastodynamic
+eng:elastohydrodynamically --> eng:elastohydrodynamic
+eng:elastomer --> eng:elastic --> lat:elasticus
+eng:elastomerically --> eng:elastomeric
+eng:elastoviscoplastic --> eng:viscoplastic --> eng:plastic --> lat:plasticus --> grc:πλαστικός --> grc:πλάσσειν
+eng:elate --> lat:elatus
+eng:elated --> lat:elatus
+eng:elater --> eng:elate --> lat:elatus
+eng:elation --> enm:elacioun --> fro:elacion --> lat:elationem
+eng:elative --> lat:elatum
+eng:elbaite --> eng:Elba
+eng:Elbingian --> eng:Elbing
+eng:elbow --> ang:elnboga
+eng:elbowful --> eng:elbow --> ang:elnboga
+eng:elbowless --> eng:elbow --> ang:elnboga
+eng:elbowlike --> eng:elbow --> ang:elnboga
+eng:eld --> enm:elde --> ang:ieldu
+eng:elder --> ang:eldra
+eng:elderberrying --> eng:elderberry
+eng:eldercare --> eng:care --> enm:care --> ang:caru
+eng:elderflower --> eng:elder --> ang:eldra
+eng:elderhood --> eng:elder --> ang:eldra
+eng:elderish --> eng:elder --> ang:eldra
+eng:elderliness --> eng:elderly --> eng:elder --> ang:eldra
+eng:elderly --> eng:elder --> ang:eldra
+eng:eldern --> enm:eldrin
+eng:eldership --> eng:elder --> ang:eldra
+eng:elderwed --> eng:elder --> ang:eldra
+eng:eldfather --> enm:eldfader
+eng:elding --> enm:elding
+eng:eldmother --> enm:eldmoder --> ang:ealdmodor
+eng:eldning --> enm:elning
+eng:Eleatic --> lat:eleaticus
+eng:Eleazar --> heb:אלעזר
+eng:elect --> lat:electus
+eng:electant --> lat:electans
+eng:election --> xno:eleccioun
+eng:electioneer --> eng:election --> xno:eleccioun
+eng:electioneerer --> eng:electioneer --> eng:election --> xno:eleccioun
+eng:electively --> eng:elective
+eng:electoral --> eng:elector
+eng:electorally --> eng:electoral --> eng:elector
+eng:electracy --> eng:electrical
+eng:electret --> eng:electricity
+eng:electric --> lat:electricus --> grc:ἤλεκτρον --> grc:ἠλέκτωρ
+eng:electricalness --> eng:electrical
+eng:electricize --> eng:electric --> lat:electricus --> grc:ἤλεκτρον --> grc:ἠλέκτωρ
+eng:electricness --> eng:electric --> lat:electricus --> grc:ἤλεκτρον --> grc:ἠλέκτωρ
+eng:electrifiable --> eng:electrify
+eng:electrifyingly --> eng:electrifying
+eng:electrization --> eng:electrize
+eng:electrizer --> eng:electrize
+eng:electroabsorption --> eng:absorption
+eng:electroacoustic --> eng:acoustic --> fra:acoustique --> grc:ακουστικός
+eng:electroacoustics --> eng:acoustics --> fra:acoustique --> grc:ακουστικός
+eng:electroactive --> eng:active --> enm:actif --> fro:actif --> lat:activus
+eng:electroacupuncture --> eng:acupuncture
+eng:electroanaesthesia --> eng:anaesthesia --> eng:aesthesia
+eng:electroanalgesia --> eng:analgesia
+eng:electroanalysis --> eng:analysis --> lat:analysis --> grc:ἀνάλυσις --> grc:ἀναλύω
+eng:electroanalytical --> eng:analytical
+eng:electroanatomical --> eng:anatomical --> lat:anatomicus --> lat:anatomia --> grc:ἀνατομία
+eng:electroantennogram --> eng:antennogram
+eng:electroassisted --> eng:assisted
+eng:electroaxonography --> eng:axonography --> eng:axon --> grc:ἄξων
+eng:electroballistic --> eng:ballistic --> lat:ballista --> grc:βαλλίστρα --> grc:βάλλω
+eng:electroballistics --> eng:ballistics
+eng:electrobasograph --> eng:basograph
+eng:electrobasography --> eng:basography
+eng:electrobiological --> eng:biological
+eng:electrobiologically --> eng:electrobiological --> eng:biological
+eng:electrobiologist --> eng:biologist
+eng:electrobiology --> eng:biology
+eng:electrobioscopy --> eng:bioscopy
+eng:electroblotting --> eng:blotting
+eng:electrocaloric --> eng:caloric
+eng:electrocapacitive --> eng:capacitive
+eng:electrocapillarity --> eng:capillarity
+eng:electrocapillary --> eng:capillary --> lat:capillaris --> lat:capillus --> lat:caput
+eng:electrocardiogram --> eng:cardiogram
+eng:electrocardiograph --> eng:cardiograph
+eng:electrocardiographic --> eng:electrocardiograph --> eng:cardiograph
+eng:electrocardiography --> eng:cardiography
+eng:electrocatalysis --> eng:catalysis --> grc:κατάλυσις --> grc:καταλύω
+eng:electrocatalyst --> eng:catalyst --> eng:catalysis --> grc:κατάλυσις --> grc:καταλύω
+eng:electrocatalytic --> eng:catalytic
+eng:electrocauterization --> eng:cauterization
+eng:electrocauterize --> eng:cauterize --> frm:cauteriser --> lat:cauterizare --> grc:καυτηριάζω --> grc:καυτήρ --> grc:καίειν
+eng:electrocautery --> eng:cautery
+eng:electroceramic --> eng:ceramic --> grc:κεραμικός --> grc:κέραμος
+eng:electrocerebral --> eng:cerebral --> fra:cérébral --> lat:cerebrum
+eng:electrocharged --> eng:charged
+eng:electrochemically --> eng:electrochemical
+eng:electrochemiluminescence --> eng:chemiluminescence --> eng:luminescence
+eng:electrochemiluminescent --> eng:chemiluminescent
+eng:electrochemist --> eng:chemist
+eng:electrochemistry --> eng:chemistry
+eng:electrochemotherapy --> eng:chemotherapy --> eng:therapy --> grc:θεραπεία --> grc:θεραπεύω --> grc:θεράπων
+eng:electrocholecystectomy --> eng:cholecystectomy
+eng:electrocholecystocausis --> eng:cholecystocausis
+eng:electrochromatography --> eng:chromatography
+eng:electrochronograph --> eng:chronograph --> grc:χρονογράφος
+eng:electrochronographic --> eng:chronographic
+eng:electroclash --> eng:clash
+eng:electroclinic --> eng:cline --> grc:κλίνειν
+eng:electrocoagulation --> eng:coagulation --> eng:coagulate --> lat:coagulo --> lat:coagulum --> lat:cogo --> lat:ago
+eng:electrocoalescence --> eng:coalescence
+eng:electrocochleogram --> eng:cochleogram
+eng:electrocochleography --> eng:cochleography
+eng:electrocompetent --> eng:competent
+eng:electroconductibility --> eng:conductibility
+eng:electroconductivity --> eng:conductivity --> eng:conductive
+eng:electrocontractile --> eng:contractile
+eng:electrocontractility --> eng:contractility
+eng:electroconvection --> eng:convection --> lat:convectionem
+eng:electroconvulsive --> eng:convulsive
+eng:electrocortical --> eng:cortical --> lat:cortex
+eng:electrocorticogram --> eng:corticogram
+eng:electrocorticographic --> eng:corticographic
+eng:electrocorticography --> eng:corticography
+eng:electrocute --> eng:execute --> lat:exsecutus
+eng:electrocution --> eng:electrocute --> eng:execute --> lat:exsecutus
+eng:electrocutioner --> eng:electrocution --> eng:electrocute --> eng:execute --> lat:exsecutus
+eng:electrocyclic --> eng:cyclic
+eng:electrocyclization --> eng:cyclization --> eng:cyclize --> eng:cycle --> lat:cyclus --> grc:κύκλος
+eng:electrocystography --> eng:cystography
+eng:electrocyte
+eng:electrodecantation --> eng:decantation
+eng:electrodeformation --> eng:deformation
+eng:electrodeless --> eng:electrode
+eng:electrodeposited --> eng:deposited
+eng:electrodeposition --> eng:deposition
+eng:electrodermal --> eng:dermal
+eng:electrodermatome --> eng:dermatome
+eng:electrodesiccation --> eng:desiccation
+eng:electrodiagnosis --> eng:diagnosis --> lat:diagnosis --> grc:διάγνωσις
+eng:electrodiagnostic --> eng:diagnostic
+eng:electrodiagnostically --> eng:electrodiagnostic --> eng:diagnostic
+eng:electrodialysis --> eng:dialysis
+eng:electrodiffusion --> eng:diffusion --> lat:diffusionem
+eng:electrodiffusional --> eng:diffusional --> eng:diffusion --> lat:diffusionem
+eng:electrodiffusive --> eng:diffusive
+eng:electrodisintegration --> eng:disintegration --> eng:disintegrate
+eng:electrodispersion --> eng:dispersion
+eng:electrodynamic --> eng:dynamic --> fra:dynamique --> grc:δυναμικός --> grc:δύναμις --> grc:δύναμαι
+eng:electrodynamically --> eng:electrodynamic --> eng:dynamic --> fra:dynamique --> grc:δυναμικός --> grc:δύναμις --> grc:δύναμαι
+eng:electrodynamics --> eng:dynamics --> eng:dynamic --> fra:dynamique --> grc:δυναμικός --> grc:δύναμις --> grc:δύναμαι
+eng:electrodynamometer --> eng:dynamometer
+eng:electroejaculation --> eng:ejaculation
+eng:electroeluted --> eng:eluted
+eng:electroelution --> eng:elution
+eng:electroencephalogram --> eng:encephalogram
+eng:electroencephalographic --> eng:electroencephalograph
+eng:electroencephalographically --> eng:electroencephalographic --> eng:electroencephalograph
+eng:electroencephalography --> eng:encephalography
+eng:electroendocytosis --> eng:endocytosis
+eng:electroendosmosis --> eng:endosmosis --> eng:osmosis
+eng:electroengraving --> eng:engraving
+eng:electroetching --> eng:etching
+eng:electroexcitation --> eng:excitation
+eng:electroextraction --> eng:extraction
+eng:electrofisher --> eng:fisher --> eng:fish --> ang:fiscian
+eng:electrofishing --> eng:fishing
+eng:electroflotation --> eng:flotation
+eng:electrofluorination --> eng:fluorination
+eng:electrofocusing --> eng:focusing
+eng:electroformed --> eng:formed
+eng:electrofugal
+eng:electrofulguration --> eng:fulguration
+eng:electrofunk --> eng:funk --> enm:funke
+eng:electrofuse --> eng:fuse
+eng:electrofusion --> eng:fusion
+eng:electrogenerated --> eng:generated
+eng:electrogenesis
+eng:electrogenic
+eng:electrogilding --> eng:gilding
+eng:electrogilt --> eng:gilt
+eng:electroglottograph --> eng:glottograph
+eng:electroglottography --> eng:glottography
+eng:electrogram
+eng:electrograph
+eng:electrographite --> eng:graphite --> deu:Graphit --> grc:γράφω
+eng:electrogravitic --> eng:gravitic
+eng:electrogravitics --> eng:gravity
+eng:electrohomeopathy --> eng:homoeopathy
+eng:electrohydrodynamic --> eng:hydrodynamic
+eng:electrohydrodynamics --> eng:hydrodynamics
+eng:electrohypersensitive --> eng:hypersensitive
+eng:electrohypersensitivity --> eng:hypersensitivity --> eng:sensitivity
+eng:electrokinesis
+eng:electrokinetic --> eng:kinetic --> grc:κινητικός --> grc:κινέω
+eng:electrokinetics --> eng:kinetics --> grc:κινητικός --> grc:κινέω
+eng:electrolarynx --> eng:larynx --> grc:λάρυγξ
+eng:electroless
+eng:electroloading --> eng:loading
+eng:electrolocation --> eng:electric --> lat:electricus --> grc:ἤλεκτρον --> grc:ἠλέκτωρ
+eng:electrology
+eng:electroluminescence --> eng:luminescence
+eng:electroluminescent --> eng:luminescent
+eng:electrolytically --> eng:electrolytic
+eng:electrolyzable --> eng:electrolyze
+eng:electrolyzation --> eng:electrolyze
+eng:electrolyzer --> eng:electrolyze
+eng:electromagnet --> eng:magnet
+eng:electromagnetic --> eng:magnetic
+eng:electromagnetically --> eng:electromagnetic --> eng:magnetic
+eng:electromagnetics --> eng:magnetics
+eng:electromagnetism --> eng:magnetism
+eng:electromagnetohydrodynamics --> eng:magnetohydrodynamics
+eng:electromagnon --> eng:magnon
+eng:electromechanical --> eng:mechanical
+eng:electromechanically --> eng:electromechanical --> eng:mechanical
+eng:electromechanics --> eng:mechanics --> lat:mechanicus --> grc:μηχανικός --> grc:μηχανή
+eng:electromediated --> eng:mediated
+eng:electromeric
+eng:electrometallurgical --> eng:metallurgical --> eng:metallurgy --> grc:μεταλλουργός
+eng:electrometallurgy --> eng:metallurgy --> grc:μεταλλουργός
+eng:electrometer
+eng:electrometric
+eng:electrometry
+eng:electromigrated --> eng:migrated
+eng:electromigration --> eng:migration
+eng:electromobility --> eng:mobility --> lat:mobilitas
+eng:electromotility --> eng:motility
+eng:electro-motion --> eng:motion --> xno:motion
+eng:electromotive --> eng:motive
+eng:electromotor --> eng:motor --> lat:moto
+eng:electromuscular --> eng:muscular
+eng:electromyograph --> eng:myograph
+eng:electromyography --> eng:myography
+eng:electron --> grc:ἤλεκτρον --> grc:ἠλέκτωρ
+eng:electronarcosis --> eng:narcosis
+eng:electronegative --> eng:negative --> lat:negativus --> lat:nego
+eng:electronegatively --> eng:electronegative --> eng:negative --> lat:negativus --> lat:nego
+eng:electronegativity --> eng:negativity
+eng:electroneutral --> eng:neutral
+eng:electroneutrality --> eng:neutrality
+eng:electronic --> lat:electrinus --> grc:ἤλεκτρον --> grc:ἠλέκτωρ
+eng:electronically --> eng:electronic --> lat:electrinus --> grc:ἤλεκτρον --> grc:ἠλέκτωρ
+eng:electronuclear --> eng:nuclear --> eng:nucleus --> lat:nucleus
+eng:electronystagmographic --> eng:electronystagmography
+eng:electrooculogram
+eng:electrooptic --> eng:optic --> lat:opticus --> grc:ὀπτικός
+eng:electrooptical --> eng:optical --> eng:optic --> lat:opticus --> grc:ὀπτικός
+eng:electrooptics --> eng:optics
+eng:electroosmosis --> eng:osmosis
+eng:electroosmotic --> eng:osmotic
+eng:electrooxidation --> eng:oxidation
+eng:electropalatographic
+eng:electropalatography
+eng:electropathy
+eng:electropermeabilization --> eng:permeabilization
+eng:electropermeabilized --> eng:permeabilized
+eng:electrophile
+eng:electrophilic
+eng:electrophilically --> eng:electrophilic
+eng:electrophilicity --> eng:electrophilic
+eng:electrophobia
+eng:electrophone
+eng:electrophonic --> eng:electrophone
+eng:electrophonically --> eng:electrophonic --> eng:electrophone
+eng:electrophoresis
+eng:electrophoretic --> eng:phoretic
+eng:electrophoretically --> eng:electrophoretic --> eng:phoretic
+eng:electrophosphorescence --> eng:phosphorescence
+eng:electrophosphorescent --> eng:phosphorescent‎
+eng:electrophotographic --> eng:photographic
+eng:electrophotographically --> eng:electrophotographic --> eng:photographic
+eng:electrophotography --> eng:photography
+eng:electrophysiological --> eng:physiological
+eng:electrophysiologically --> eng:electrophysiological --> eng:physiological
+eng:electrophysiologist --> eng:physiologist
+eng:electrophysiology --> eng:physiology --> fra:physiologie --> lat:physiologia --> grc:φυσιολογία
+eng:electroplatable --> eng:electroplate --> eng:plate --> fro:plate --> lat:plata
+eng:electroplate --> eng:plate --> fro:plate --> lat:plata
+eng:electroplater --> eng:electroplate --> eng:plate --> fro:plate --> lat:plata
+eng:electropolar --> eng:polar
+eng:electropolishing --> eng:polishing
+eng:electropolymerization --> eng:polymerization --> eng:polymerize --> eng:polymer
+eng:electropolymerized --> eng:polymerized
+eng:electropop --> eng:pop --> eng:popular --> lat:popularis --> lat:populus
+eng:electroporation --> eng:poration
+eng:electropositive --> eng:positive
+eng:electropositively --> eng:electropositive --> eng:positive
+eng:electropositivity --> eng:positivity --> eng:positive
+eng:electroproduction --> eng:production
+eng:electropsychometer
+eng:electropulsation --> eng:pulsation
+eng:electropulse --> eng:pulse --> lat:pulsus --> lat:pellere
+eng:electropuncture --> eng:puncture
+eng:electropunk --> eng:punk
+eng:electroreception --> eng:reception --> lat:receptio --> lat:recipio
+eng:electroreceptive --> eng:receptive
+eng:electroreceptor --> eng:receptor
+eng:electrorefining --> eng:refining
+eng:electroresistance --> eng:resistance --> fra:résistance
+eng:electroretinogram
+eng:electroretinographic --> eng:retina --> lat:retina
+eng:electroretinographically --> eng:electroretinographic --> eng:retina --> lat:retina
+eng:electroretinography --> eng:retina --> lat:retina
+eng:electrorheological --> eng:rheological --> eng:rheology
+eng:electrorheology --> eng:rheology
+eng:electrorotation --> eng:rotation --> lat:rotationem
+eng:electroscalar --> eng:scalar --> lat:scalaris
+eng:electroscope
+eng:electroscopic
+eng:electroscopy
+eng:electrosensibility --> eng:sensibility
+eng:electrosensitive --> eng:sensitive --> frm:sensitif --> lat:sensitivus
+eng:electrosensitivity --> eng:sensitivity
+eng:electrosensory --> eng:sensory --> lat:sentire
+eng:electrosex --> eng:sex
+eng:electroshock --> eng:shock
+eng:electrosmog --> eng:smog --> eng:fog
+eng:electrosorption --> eng:sorption
+eng:electrosphere
+eng:electrospinning --> eng:spinning
+eng:electrospray --> eng:spray
+eng:electrospraying --> eng:electrospray --> eng:spray
+eng:electrospun --> eng:spun
+eng:electrostatic --> eng:static
+eng:electrostatically --> eng:electrostatic --> eng:static
+eng:electrostatics --> eng:statics
+eng:electrostimulation --> eng:stimulation --> lat:stimulatio --> lat:stimulo --> lat:stimulus
+eng:electrostress --> eng:stress --> enm:destresse
+eng:electrostrong --> eng:strong --> enm:strong --> ang:strang
+eng:electrosurgery --> eng:surgery --> fro:surgerie
+eng:electrosurgical --> eng:surgical
+eng:electrosynthesis --> eng:synthesis --> lat:synthesis --> grc:σύνθεσις --> grc:συντίθημι
+eng:electrotaxis --> eng:taxis --> grc:τάξις --> grc:τάσσω
+eng:electrotechnical --> eng:technical --> lat:technicus --> grc:τέχνη
+eng:electrotechnology --> eng:technology --> grc:τεχνολογία
+eng:electrotelegraphic --> eng:telegraphic
+eng:electrotelegraphy --> eng:telegraphy
+eng:electrotherapeutic --> eng:therapeutic --> lat:therapeuticus --> grc:θεραπευτικoς --> grc:θεραπευτής --> grc:θεραπεύω --> grc:θεράπων
+eng:electrotherapeutics --> eng:therapeutics
+eng:electrotherapy --> eng:therapy --> grc:θεραπεία --> grc:θεραπεύω --> grc:θεράπων
+eng:electrothermal --> eng:thermal
+eng:electrothermally --> eng:electrothermal --> eng:thermal
+eng:electrothermic --> eng:thermic
+eng:electrothermy
+eng:electrotint --> eng:tint
+eng:electrotonically --> eng:electrotonic
+eng:electrotorture --> eng:torture --> lat:tortura --> lat:torqueo
+eng:electrotransfer --> eng:transfer --> lat:transfero
+eng:electrotransferred --> eng:transferred
+eng:electrotransformation --> eng:transformation
+eng:electrotransformed --> eng:transformed
+eng:electrotropism --> eng:tropism
+eng:electrotype --> eng:type --> lat:typus --> grc:τύπος --> grc:τύπτω
+eng:electrotyper --> eng:electrotype --> eng:type --> lat:typus --> grc:τύπος --> grc:τύπτω
+eng:electrotypic --> eng:electrotype --> eng:type --> lat:typus --> grc:τύπος --> grc:τύπτω
+eng:electrotyping --> eng:electrotype --> eng:type --> lat:typus --> grc:τύπος --> grc:τύπτω
+eng:electrovacuum --> eng:vacuum --> lat:vacuum
+eng:electrovalency --> eng:valency
+eng:electrovalent
+eng:electroviscous --> eng:viscous
+eng:electrovital --> eng:vital
+eng:electroweak --> eng:weak --> enm:weike --> non:veikr
+eng:electrowetting --> eng:wetting
+eng:electrowinning --> eng:winning
+eng:electrowon --> eng:won --> ang:wunian
+eng:electrum --> lat:electrum --> grc:ἤλεκτρον --> grc:ἠλέκτωρ
+eng:electuary --> lat:electuarium --> grc:ἐκλείκτον --> grc:ἐκλείχω
+eng:eleemosynarily --> eng:eleemosynary --> lat:eleemosynarius --> lat:eleemosyna --> grc:ἐλεημοσύνη --> grc:ἐλεέω --> grc:ἔλεος
+eng:eleemosynary --> lat:eleemosynarius --> lat:eleemosyna --> grc:ἐλεημοσύνη --> grc:ἐλεέω --> grc:ἔλεος
+eng:elegant --> frm:elegant
+eng:elegantly --> eng:elegant --> frm:elegant
+eng:elegiacally --> eng:elegiacal
+eng:elegit --> lat:elegit
+eng:element --> enm:element --> fro:element
+eng:elementalism --> eng:elemental
+eng:elementarily --> eng:elementary
+eng:elementoid --> eng:element --> enm:element --> fro:element
+eng:elemin --> eng:elemi
+eng:elench --> lat:elenchus
+eng:elenchize --> eng:elenchus --> grc:ἔλεγχος
+eng:elenchus --> grc:ἔλεγχος
+eng:elenctic --> grc:ἐλεγκτικός
+eng:elephant --> enm:elefant
+eng:elephantdom --> eng:elephant --> enm:elefant
+eng:elephantfish --> eng:elephant --> enm:elefant
+eng:elephanthood --> eng:elephant --> enm:elefant
+eng:elephantiasis --> lat:elephas --> grc:ἐλέφας
+eng:elephantic --> eng:elephant --> enm:elefant
+eng:elephanticide --> eng:elephant --> enm:elefant
+eng:e-lesson --> eng:lesson --> fro:leçon --> lat:lectio --> lat:lego --> lat:lex
+eng:elevatable --> eng:elevate --> lat:elevatus
+eng:elevate --> lat:elevatus
+eng:elevatedness --> eng:elevated
+eng:elevational --> eng:elevation
+eng:elevatored --> eng:elevator
+eng:elevatorless --> eng:elevator
+eng:elevatorlike --> eng:elevator
+eng:elevenfold --> eng:eleven
+eng:elevenish --> eng:eleven
+eng:elevenpence --> eng:eleven
+eng:elevenpenny --> eng:eleven
+eng:eleventeen --> eng:eleven
+eng:eleventhly --> eng:eleventh
+eng:elevon --> eng:aileron
+eng:elfdom --> eng:elf
+eng:elfe --> enm:elfe --> ang:elfen
+eng:elfen --> eng:elf
+eng:elfin --> enm:elven --> ang:elfen
+eng:elfishly --> eng:elfish
+eng:elfishness --> eng:elfish
+eng:elfkin --> eng:elf
+eng:elflike --> eng:elf
+eng:elflock --> eng:elf
+eng:Elfreda --> ang:Ælfþryþ
+eng:e-library --> eng:library --> enm:librarie --> xno:librarie --> fro:librairie --> lat:librarium --> lat:librarius --> lat:liber
+eng:elicit --> lat:elicitus
+eng:elicitation --> eng:elicit --> lat:elicitus
+eng:elidable --> eng:elide
+eng:elidible --> eng:elide
+eng:Eliel --> heb:אליאל
+eng:Eliezer --> heb:אליעזר
+eng:eligible --> frm:eligible --> lat:eligibilis --> lat:eligo
+eng:eligibleness --> eng:eligible --> frm:eligible --> lat:eligibilis --> lat:eligo
+eng:Elijah --> heb:אליהו
+eng:eliminate --> lat:eliminatus
+eng:eliminativism --> eng:eliminative
+eng:eliminativist --> eng:eliminative
+eng:eliminator --> eng:eliminate --> lat:eliminatus
+eng:elinguated --> lat:elinguare
+eng:elinguid --> lat:elinguis
+eng:Eliotian --> eng:Eliot
+eng:eliquation --> lat:eliquatio
+eng:e-liquid --> eng:liquid --> enm:liquide --> fro:liquide --> lat:liquidus --> lat:liqueo
+eng:Elis --> grc:Ἦλις
+eng:elisor --> fra:éliseur
+eng:elite --> fro:elit
+eng:eliteness --> eng:elite --> fro:elit
+eng:e-literacy --> eng:literacy
+eng:e-literate --> eng:literate --> lat:litteratus
+eng:e-literature --> eng:literature
+eng:elixate --> lat:elixatus
+eng:elixation --> lat:elixare
+eng:elixir --> lat:elixir --> ara:إكسير --> grc:ξήριον --> grc:ξηρός
+eng:elixirlike --> eng:elixir --> lat:elixir --> ara:إكسير --> grc:ξήριον --> grc:ξηρός
+eng:Elizabethan --> eng:Elizabeth
+eng:Elizabethian --> eng:Elizabeth
+eng:elkburger --> eng:burger
+eng:elkskin --> eng:elk
+eng:elkwood --> eng:elk
+eng:ellen --> enm:elne
+eng:Elliniko --> ell:ελληνικό
+eng:ellipse --> fra:ellipse --> lat:ellipsis --> grc:ἔλλειψις
+eng:ellipsis --> grc:ἔλλειψις
+eng:elliptic --> grc:ἐλλειπτικός --> grc:ἐλλείπω
+eng:ellisite --> eng:Ellis
+eng:ellisize --> eng:Ellis
+eng:Ellison --> eng:Ellis
+eng:Ellulian --> eng:Ellul
+eng:ellwand --> eng:ell
+eng:elm --> ang:elm
+eng:elmen --> eng:elm --> ang:elm
+eng:elmy --> eng:elm --> ang:elm
+eng:elne --> enm:elne
+eng:elning --> enm:elning
+eng:elocation --> eng:location --> lat:locatio --> lat:locare --> lat:locus --> lat:stlocus
+eng:eloge --> fra:éloge --> lat:elogium
+eng:elogist --> fra:élogiste
+eng:eloign --> xno:esloignier
+eng:eloignment --> fra:éloignement
+eng:Eloise --> fra:Éloïse
+eng:elongate --> lat:elongare
+eng:elope --> nld:ontlopen --> nld:lopen --> dum:loope
+eng:eloquent --> lat:eloquens
+eng:eloquently --> eng:eloquent --> lat:eloquens
+eng:eloquentness --> eng:eloquent --> lat:eloquens
+eng:ELOT --> ell:ΕΛΟΤ
+eng:Elsa --> deu:Elsa
+eng:El Salvador --> spa:salvador --> lat:salvator
+eng:elsen --> enm:aslen
+eng:elseness --> eng:else
+eng:elsewhat --> eng:else
+eng:elsewhen --> eng:else
+eng:elsewise --> eng:else
+eng:elsin --> enm:aslen
+eng:elt --> enm:elten --> non:elta
+eng:elucidate --> lat:elucidatus
+eng:eluctation --> lat:eluctatio
+eng:elude --> lat:eludo --> lat:e --> lat:et
+eng:eludible --> eng:elude --> lat:eludo --> lat:e --> lat:et
+eng:elumbated --> lat:elumbis --> lat:lumbus
+eng:elute --> lat:elutus
+eng:elutriate --> lat:elutriare
+eng:eluxated --> eng:luxated
+eng:elven --> enm:elven --> ang:elfen
+eng:Elvisdom --> eng:Elvis
+eng:Elvisesque --> eng:Elvis
+eng:elvishly --> eng:elvish
+eng:Elvisy --> eng:Elvis
+eng:elytron --> grc:ἔλυτρον
+eng:Elzevirian --> eng:Elzevir
+eng:emaciate --> lat:emaciare
+eng:emacity --> lat:emacitas --> lat:emax --> lat:emo
+eng:emaculate --> lat:emaculatus
+eng:emaculation --> eng:maculation
+eng:e-mailable --> eng:e-mail
+eng:emailee --> eng:email
+eng:emailer --> eng:email
+eng:e-mailer --> eng:e-mail
+eng:email ombrant --> fra:émail ombrant
+eng:emailware --> eng:email
+eng:emanate --> lat:emanare
+eng:emanatively --> eng:emanative
+eng:emancipate --> lat:emancipatus
+eng:emancipator --> lat:emancipator
+eng:emancipatory --> eng:emancipate --> lat:emancipatus
+eng:emarginately --> eng:emarginate
+eng:e-marketer --> eng:marketer
+eng:e-marketing --> eng:marketing
+eng:emasculate --> lat:emasculo
+eng:embale --> fra:emballer
+eng:embalmment --> eng:embalm
+eng:embar --> frm:embarrer
+eng:embarcadere --> fra:embarcadère --> spa:embarcadero --> spa:embarcar
+eng:embarcadère --> fra:embarcadère --> spa:embarcadero --> spa:embarcar
+eng:embarcadero --> spa:embarcadero --> spa:embarcar
+eng:embargo --> spa:embargar
+eng:embark --> frm:embarquer
+eng:embarkee --> eng:embark --> frm:embarquer
+eng:embarkest --> eng:embark --> frm:embarquer
+eng:embarketh --> eng:embark --> frm:embarquer
+eng:embarrass --> fra:embarrasser --> spa:embarazar --> por:embaraçar
+eng:embarrassable --> eng:embarrass --> fra:embarrasser --> spa:embarazar --> por:embaraçar
+eng:embarrassingly --> eng:embarrassing
+eng:embarrassingness --> eng:embarrassing
+eng:embarrassment --> eng:embarrass --> fra:embarrasser --> spa:embarazar --> por:embaraçar
+eng:embase --> eng:base --> fro:bas --> lat:bassus
+eng:embasement --> eng:embase --> eng:base --> fro:bas --> lat:bassus
+eng:embaseth --> eng:embase --> eng:base --> fro:bas --> lat:bassus
+eng:embastardize --> eng:bastardize --> eng:bastard --> enm:bastard
+eng:embathe --> eng:bathe --> enm:bathen --> ang:baþian
+eng:embay --> eng:bay --> enm:baye
+eng:embayment --> eng:bay --> enm:baye
+eng:embeam --> eng:beam --> enm:beem --> ang:beam
+eng:embed --> eng:bed --> enm:bed --> ang:bedd
+eng:embedder --> eng:embed --> eng:bed --> enm:bed --> ang:bedd
+eng:embellish --> fro:embellir
+eng:embellishable --> eng:embellish --> fro:embellir
+eng:embellisher --> eng:embellish --> fro:embellir
+eng:embellishment --> eng:embellish --> fro:embellir
+eng:emberlike --> eng:ember
+eng:embetter --> eng:better --> enm:better
+eng:embetterment --> eng:embetter --> eng:better --> enm:better
+eng:embezzlement --> eng:embezzle
+eng:embiggen --> eng:big
+eng:embillow --> eng:billow --> non:bylgja
+eng:embitter --> eng:bitter --> ang:bitter
+eng:embitteredly --> eng:embittered
+eng:embitteredness --> eng:embittered
+eng:embitterer --> eng:embitter --> eng:bitter --> ang:bitter
+eng:emblanch --> eng:blanch
+eng:emblaze --> eng:blaze --> enm:blase --> ang:blæse
+eng:emblazonry --> eng:emblazon
+eng:emblem --> fro:embleme --> lat:emblema --> grc:ἔμβλημα
+eng:emblematically --> eng:emblematic
+eng:emblematicize --> eng:emblematic
+eng:emblemed --> eng:emblem --> fro:embleme --> lat:emblema --> grc:ἔμβλημα
+eng:emblemize --> eng:emblem --> fro:embleme --> lat:emblema --> grc:ἔμβλημα
+eng:embloom --> eng:bloom --> ang:bloma
+eng:emblossom --> eng:blossom --> enm:blosme
+eng:embodiable --> eng:embody
+eng:embodier --> eng:embody
+eng:emboil --> eng:boil --> enm:bile --> ang:byl
+eng:emboldener --> eng:embolden
+eng:embolismal --> eng:embolism
+eng:embolon --> grc:ἔμβολον --> grc:ἐμβάλλω
+eng:embolus --> lat:embolus --> grc:ἔμβολος
+eng:embondage --> eng:bondage --> enm:bondage
+eng:embonpoint --> fra:embonpoint
+eng:emborder --> eng:border --> enm:bordure --> fro:bordure
+eng:emboss --> eng:boss --> enm:bos
+eng:embottle --> eng:bottle --> enm:bottle
+eng:embouchure --> fra:embouchure --> fra:emboucher
+eng:embourgeoisement --> fra:embourgeoisement
+eng:embow --> eng:bow --> ang:boga
+eng:embowel --> eng:bowel --> frm:boel --> lat:botellus
+eng:embowl --> eng:bowl --> enm:bolle --> ang:bolla
+eng:embox --> eng:box --> ang:box
+eng:embrace --> enm:embracen --> fro:embracier
+eng:embracement --> eng:embrace --> enm:embracen --> fro:embracier
+eng:embracingly --> eng:embracing
+eng:embracive --> eng:embrace --> enm:embracen --> fro:embracier
+eng:embraid --> eng:braid
+eng:embrasure --> fra:embrasure
+eng:embrave --> eng:brave --> fra:brave
+eng:embrighten --> eng:bright --> ang:bryht
+eng:embrittle --> eng:brittle --> enm:britel
+eng:embroider --> enm:embroudren
+eng:embroiderer --> eng:embroider --> enm:embroudren
+eng:embroideress --> eng:embroider --> enm:embroudren
+eng:embroiler --> eng:embroil
+eng:embrothel --> eng:brothel
+eng:embryogenesis --> eng:embryo
+eng:embryogenically --> eng:embryogenic
+eng:embryoless --> eng:embryo
+eng:embryolike --> eng:embryo
+eng:embryologic --> eng:embryology
+eng:embryoniclike --> eng:embryonic
+eng:embryoplastic --> eng:embryo
+eng:embryotoxic --> eng:embryo
+eng:embusy --> eng:busy --> enm:busi
+eng:eme --> enm:eam
+eng:emendately --> eng:emendate
+eng:emender --> eng:emend
+eng:emerald --> enm:emeraude --> fro:esmeraude
+eng:emeraldlike --> eng:emerald --> enm:emeraude --> fro:esmeraude
+eng:emergentism --> eng:emergent
+eng:emergentist --> eng:emergent
+eng:emergently --> eng:emergent
+eng:emergentness --> eng:emergent
+eng:emeritus --> lat:emeritus
+eng:Emerson --> eng:Emery
+eng:Emersonian --> eng:Emerson --> eng:Emery
+eng:emery --> fra:émeri --> fro:esmeril --> lat:smericulum --> grc:σμῆρις
+eng:emetic --> grc:ἔμετος --> grc:ἐμέω
+eng:emetology --> grc:ἔμετος‎
+eng:emicant --> lat:emicans
+eng:emication --> lat:emicatio
+eng:emigrate --> lat:emigratus
+eng:emigrational --> eng:emigration
+eng:emigrationist --> eng:emigration
+eng:emigre --> fra:émigré
+eng:Emil --> deu:Emil --> lat:Aemilius
+eng:Emilian --> eng:Emilia
+eng:eminently --> eng:eminent
+eng:emir --> ara:أَمِير
+eng:emirate --> eng:emir --> ara:أَمِير
+eng:emirship --> eng:emir --> ara:أَمِير
+eng:emissaryship --> eng:emissary
+eng:emissitious --> lat:emissitius
+eng:emma --> eng:Emma
+eng:Emmabeth --> eng:Beth
+eng:emmarble --> eng:marble
+eng:Emmerson --> eng:Emery
+eng:emmet --> enm:emete --> ang:æmete
+eng:emocore --> eng:emotional --> eng:emotion --> fra:émotion
+eng:emollient --> lat:emolliens
+eng:emolument --> lat:emolumentum
+eng:emolumental --> eng:emolument --> lat:emolumentum
+eng:Emon --> mah:em̧m̧an
+eng:e-money --> eng:money --> enm:moneie
+eng:emotag --> eng:emotion --> fra:émotion
+eng:emoter --> eng:emote
+eng:emoticon --> eng:emotion --> fra:émotion
+eng:emotion --> fra:émotion
+eng:emotional --> eng:emotion --> fra:émotion
+eng:emotionalism --> eng:emotional --> eng:emotion --> fra:émotion
+eng:emotionality --> eng:emotional --> eng:emotion --> fra:émotion
+eng:emotionalize --> eng:emotional --> eng:emotion --> fra:émotion
+eng:emotionally --> eng:emotional --> eng:emotion --> fra:émotion
+eng:emotioned --> eng:emotion --> fra:émotion
+eng:emotionful --> eng:emotion --> fra:émotion
+eng:emotionless --> eng:emotion --> fra:émotion
+eng:emotionlessness --> eng:emotionless --> eng:emotion --> fra:émotion
+eng:emotionlike --> eng:emotion --> fra:émotion
+eng:emotively --> eng:emotive
+eng:emotronic --> eng:electronic --> lat:electrinus --> grc:ἤλεκτρον --> grc:ἠλέκτωρ
+eng:empairment --> eng:empair
+eng:empalement --> eng:empale
+eng:empanada --> spa:empanada
+eng:empanadilla --> spa:empanadilla --> spa:empanada
+eng:empanoplied --> eng:panoply --> grc:πανοπλία
+eng:empark --> eng:park --> enm:park --> fro:parc --> lat:parcus
+eng:empassion --> eng:passion
+eng:empathogen --> eng:empathy
+eng:empathogenic --> eng:empathogen --> eng:empathy
+eng:empathyless --> eng:empathy
+eng:empeachment --> eng:empeach
+eng:Empedocles --> grc:Ἐμπεδοκλῆς
+eng:empeople --> eng:people --> enm:peple
+eng:emperor --> fra:empereor --> lat:imperator --> lat:imperare
+eng:emperorlike --> eng:emperor --> fra:empereor --> lat:imperator --> lat:imperare
+eng:emperorship --> eng:emperor --> fra:empereor --> lat:imperator --> lat:imperare
+eng:empery --> enm:emperie
+eng:emphasiser --> eng:emphasise
+eng:emphasizable --> eng:emphasize
+eng:emphasization --> eng:emphasize
+eng:emphasizer --> eng:emphasize
+eng:emphatic --> grc:ἐμφατικός --> grc:ἔμφασις --> grc:ἐμφαίνω
+eng:emphatically --> eng:emphatic --> grc:ἐμφατικός --> grc:ἔμφασις --> grc:ἐμφαίνω
+eng:emphaticalness --> eng:emphatical
+eng:emphysematous --> eng:emphysema
+eng:emphyteuticary --> lat:emphyteuticarius
+eng:empierce --> eng:pierce --> fro:percier
+eng:empirehood --> eng:empire
+eng:empiric --> fro:empirique --> lat:empiricus --> grc:ἐμπειρικός
+eng:empirical --> eng:empiric --> fro:empirique --> lat:empiricus --> grc:ἐμπειρικός
+eng:empirically --> eng:empirical --> eng:empiric --> fro:empirique --> lat:empiricus --> grc:ἐμπειρικός
+eng:empiricism --> grc:ἐμπειρία
+eng:emplacement --> fra:emplacement
+eng:emplaster --> fro:emplastre --> lat:emplastrum --> grc:ἔμπλαστρον
+eng:employ --> frm:employer --> lat:implicare
+eng:employability --> eng:employable --> eng:employ --> frm:employer --> lat:implicare
+eng:employable --> eng:employ --> frm:employer --> lat:implicare
+eng:employe --> fra:employé
+eng:employee --> fra:employé
+eng:employeeless --> eng:employee --> fra:employé
+eng:employer --> fra:employeur --> fra:employer --> fro:emploier --> lat:implicāre
+eng:employest --> eng:employ --> frm:employer --> lat:implicare
+eng:employeth --> eng:employ --> frm:employer --> lat:implicare
+eng:employing --> eng:employ --> frm:employer --> lat:implicare
+eng:emplumed --> eng:plumed
+eng:empoison --> frm:empoisonner
+eng:empoisonment --> fra:empoisonnement
+eng:empower --> eng:power --> enm:poer --> fro:poer
+eng:empowered --> eng:powered
+eng:empowerer --> eng:empower --> eng:power --> enm:poer --> fro:poer
+eng:empowereth --> eng:empower --> eng:power --> enm:poer --> fro:poer
+eng:empoweringly --> eng:empowering
+eng:empowerment --> eng:empower --> eng:power --> enm:poer --> fro:poer
+eng:empractical --> eng:practical --> eng:practic
+eng:empress --> eng:emperor --> fra:empereor --> lat:imperator --> lat:imperare
+eng:empressment --> eng:empress --> eng:emperor --> fra:empereor --> lat:imperator --> lat:imperare
+eng:emprise --> fro:emprise
+eng:emprisonment --> eng:emprison
+eng:Empsonian --> eng:Empson
+eng:emptiable --> eng:empty --> enm:emty --> ang:æmtig
+eng:emptiness --> eng:empty --> enm:emty --> ang:æmtig
+eng:emption --> lat:emptio
+eng:empty --> enm:emty --> ang:æmtig
+eng:empurple --> eng:purple --> enm:purpel --> ang:purple
+eng:empuse --> lat:empusa
+eng:empuzzle --> eng:puzzle
+eng:empyema --> grc:ἐμπύημα
+eng:empyreal --> lat:empyreus --> grc:ἐμπύριος
+eng:empyrean --> lat:empyreus --> grc:ἐμπύριος
+eng:emu --> por:ema
+eng:emulatively --> eng:emulative
+eng:emulatress --> eng:emulator
+eng:emule --> fra:émuler
+eng:emulous --> lat:aemulus --> grc:ἁμιλλάομαι
+eng:emulously --> eng:emulous --> lat:aemulus --> grc:ἁμιλλάομαι
+eng:emulousness --> eng:emulous --> lat:aemulus --> grc:ἁμιλλάομαι
+eng:emunctory --> lat:emunctus
+eng:en-
+eng:enable --> eng:able --> enm:ablen --> enm:able
+eng:enact --> enm:enacten
+eng:enactable --> eng:enact --> enm:enacten
+eng:enactest --> eng:enact --> enm:enacten
+eng:enacteth --> eng:enact --> enm:enacten
+eng:enactively --> eng:enactive
+eng:enallage --> grc:ἐναλλαγή
+eng:enamelist --> eng:enamel
+eng:enamored --> eng:enamor
+eng:enamorment --> eng:enamor
+eng:enantiomer
+eng:enantiomeric --> eng:enantiomer
+eng:enantiosis --> grc:ἐναντίος --> grc:ἀντί
+eng:enarch --> eng:arch
+eng:enarmor --> eng:armor --> enm:armour --> xno:armure --> fro:armure --> lat:armatura --> lat:armo --> lat:arma
+eng:enarmour --> eng:armour
+eng:enarration --> lat:enarratio
+eng:enascent --> lat:enascens
+eng:enaunter --> eng:aunter
+eng:en banc --> fra:en banc
+eng:encage --> eng:cage
+eng:encamp --> eng:camp --> enm:camp --> ang:camp --> lat:campus
+eng:encanker --> eng:canker --> enm:canker
+eng:encapsulate --> eng:capsule --> fra:capsule --> lat:capsula --> lat:capsa --> lat:capere
+eng:encapture --> eng:capture --> frm:capture
+eng:encase --> eng:case --> enm:cas --> ang:cas --> fro:cas --> lat:casus
+eng:encashment --> eng:encash
+eng:enceinte --> fra:enceinte --> lat:incincta
+eng:Enceladus --> grc:Ἐγκέλαδος
+eng:encephalic --> eng:encephalon --> grc:ἐγκέφαλος
+eng:encephalitis
+eng:encephalization
+eng:encephalize-
+eng:encephalo- --> grc:ἐγκέφαλος
+eng:encephalocele
+eng:encephalogram
+eng:encephalography
+eng:encephalometric --> eng:encephalometry
+eng:encephalomyelitis --> eng:myelitis
+eng:encephalon --> grc:ἐγκέφαλος
+eng:encephalopathy
+eng:encephalophagy
+eng:enchaired --> eng:chair
+eng:enchannel --> eng:channel --> fro:chenel --> lat:canalis --> lat:canna --> grc:κάννα --> akk:𒄀 --> sux:𒄀𒈾
+eng:enchant --> fra:enchanter --> lat:incantare
+eng:enchantable --> eng:enchant --> fra:enchanter --> lat:incantare
+eng:enchantest --> eng:enchant --> fra:enchanter --> lat:incantare
+eng:enchanteth --> eng:enchant --> fra:enchanter --> lat:incantare
+eng:encharge --> fro:enchargier
+eng:enchaser --> eng:enchase
+eng:encheason --> fro:encheson
+eng:encheer --> eng:cheer --> xno:chere --> fro:chiere --> lat:cara --> grc:κάρα
+eng:enchilada --> spa:enchilada
+eng:enchiridion --> grc:ἐγχειρίδιον
+eng:enchisel --> eng:chisel --> fro:cisel
+eng:enchorial --> grc:ἐγχώριος --> grc:χωρά
+eng:enchyma --> grc:ἔγχυμα
+eng:encindered --> eng:cinder --> enm:cinder
+eng:encirclement --> eng:encircle
+eng:encirclet --> eng:encircle
+eng:enclave --> fra:enclave --> frm:enclave
+eng:enclisis --> grc:ἔγκλισις
+eng:enclitic --> lat:encliticus --> grc:ἐγκλιτικός --> grc:ἐγκλίνω
+eng:enclitically --> eng:enclitic --> lat:encliticus --> grc:ἐγκλιτικός --> grc:ἐγκλίνω
+eng:encloister --> eng:cloister
+eng:enclosable --> eng:enclose
+eng:enclothe --> eng:clothe --> enm:clothen --> ang:claþian
+eng:encoach --> eng:coach --> frm:coche --> deu:Kutsche --> hun:kocsi
+eng:encodable --> eng:encode
+eng:encoffined --> eng:coffin
+eng:encoignure --> fra:encoignure
+eng:encolour --> eng:colour --> enm:color --> xno:colur --> fro:colour
+eng:encomiast --> grc:ἐγκωμιαστής
+eng:encomiastic --> grc:ἐγκωμιαστικός
+eng:encomium --> lat:encomium --> grc:ἐγκώμιον --> grc:ἐγκώμιος --> grc:κῶμος
+eng:encompass --> eng:compass
+eng:encompassingly --> eng:encompassing
+eng:encompassment --> eng:encompass --> eng:compass
+eng:encore --> fra:encore
+eng:encounterer --> eng:encounter
+eng:encourage --> enm:encoragen --> xno:encoragier --> fro:encoragier --> fro:corage --> lat:cor
+eng:encourager --> eng:encourage --> enm:encoragen --> xno:encoragier --> fro:encoragier --> fro:corage --> lat:cor
+eng:encouragest --> eng:encourage --> enm:encoragen --> xno:encoragier --> fro:encoragier --> fro:corage --> lat:cor
+eng:encourageth --> eng:encourage --> enm:encoragen --> xno:encoragier --> fro:encoragier --> fro:corage --> lat:cor
+eng:encouragingly --> eng:encouraging
+eng:encouragingness --> eng:encouraging
+eng:encowl --> eng:cowl --> enm:coule --> ang:cule --> ang:cugele
+eng:encradle --> eng:cradle --> ang:cradol
+eng:Encratite --> lat:Encratitae
+eng:encreasingly --> eng:encreasing
+eng:encrisped --> eng:crisp --> enm:crisp --> ang:crisp --> lat:crispus
+eng:encroach --> fro:encrochier
+eng:encroachingly --> eng:encroaching
+eng:encroachment --> eng:encroach --> fro:encrochier
+eng:encrust --> lat:incrustare
+eng:encrustment --> eng:encrust --> lat:incrustare
+eng:encrypter --> eng:encrypt
+eng:encryptor --> eng:encrypt
+eng:encumber --> fro:encombrer
+eng:encumberer --> eng:encumber --> fro:encombrer
+eng:encumberingly --> eng:encumbering
+eng:encumbrous --> eng:encumber --> fro:encombrer
+eng:encunt --> eng:cunt --> enm:cunte
+eng:encurtain --> eng:curtain --> fro:cortine --> lat:cortina --> lat:cortem
+eng:encyclical --> lat:encyclicus --> grc:εγκυκλιος
+eng:encyclopaediacal --> eng:encyclopaediac
+eng:encyclopædiacal --> eng:encyclopædiac
+eng:encyclopaedial --> eng:encyclopaedia
+eng:encyclopædial --> eng:encyclopædia
+eng:encyclopaedian --> eng:encyclopaedia
+eng:encyclopædian --> eng:encyclopædia
+eng:encyclopaedical --> eng:encyclopaedic
+eng:encyclopædical --> eng:encyclopædic
+eng:encyclopædically --> eng:encyclopædic
+eng:encyclopædist --> eng:encyclopædia
+eng:encyclopedia --> lat:encyclopaedia --> grc:ἐγκύκλιος παιδεία --> grc:ἐγκύκλιος
+eng:encyclopediacal --> eng:encyclopediac
+eng:encyclopedial --> eng:encyclopedia --> lat:encyclopaedia --> grc:ἐγκύκλιος παιδεία --> grc:ἐγκύκλιος
+eng:encyclopedialike --> eng:encyclopedia --> lat:encyclopaedia --> grc:ἐγκύκλιος παιδεία --> grc:ἐγκύκλιος
+eng:encyclopedian --> eng:encyclopedia --> lat:encyclopaedia --> grc:ἐγκύκλιος παιδεία --> grc:ἐγκύκλιος
+eng:encyclopedical --> eng:encyclopedic
+eng:encyclopedically --> eng:encyclopedic
+eng:encyclopedicity --> eng:encyclopaedic
+eng:encyclopedist --> eng:encyclopedia --> lat:encyclopaedia --> grc:ἐγκύκλιος παιδεία --> grc:ἐγκύκλιος
+eng:encysted --> eng:encyst
+eng:end --> enm:ende --> ang:ende
+eng:endable --> eng:end --> enm:ende --> ang:ende
+eng:endamage --> eng:damage --> fro:damage --> lat:damnum
+eng:endangeredness --> eng:endangered
+eng:endangerest --> eng:endanger
+eng:endangereth --> eng:endanger
+eng:endarterectomy --> eng:endarterium
+eng:endazzle --> eng:dazzle
+eng:endcap --> eng:cap --> enm:cappe --> ang:cæppe --> lat:cappa
+eng:endear --> eng:dear --> enm:dere --> ang:deor
+eng:endearedly --> eng:endeared
+eng:endearedness --> eng:endeared
+eng:endearingness --> eng:endearing
+eng:endeavor --> enm:endevour
+eng:endeavorer --> eng:endeavor --> enm:endevour
+eng:endeavorment --> eng:endeavor --> enm:endevour
+eng:endeavour --> enm:endeveren
+eng:endeavourest --> eng:endeavour --> enm:endeveren
+eng:endeavourment --> eng:endeavour --> enm:endeveren
+eng:endebtedness --> eng:endebted
+eng:endenizen --> eng:denizen --> enm:denisein --> xno:denzein --> xno:deinz --> lat:deintus
+eng:endermically --> eng:endermic
+eng:endest --> eng:end --> enm:ende --> ang:ende
+eng:endeth --> eng:end --> enm:ende --> ang:ende
+eng:endgame --> eng:end --> enm:ende --> ang:ende
+eng:endiademed --> eng:diadem --> grc:διάδημα --> grc:διαδέω
+eng:endian --> eng:end --> enm:ende --> ang:ende
+eng:endianness --> eng:endian --> eng:end --> enm:ende --> ang:ende
+eng:endizen --> eng:dizen
+eng:endless --> eng:end --> enm:ende --> ang:ende
+eng:endlessly --> eng:endless --> eng:end --> enm:ende --> ang:ende
+eng:endlike --> eng:end --> enm:ende --> ang:ende
+eng:endly --> enm:endly
+eng:end mark --> eng:end --> enm:ende --> ang:ende
+eng:endmost --> eng:end --> enm:ende --> ang:ende
+eng:endnoted --> eng:endnote
+eng:endobacterial --> eng:bacterial
+eng:endobacterium --> eng:bacterium
+eng:endobenthic --> eng:benthic
+eng:endobiont
+eng:endoblastic --> eng:endoblast
+eng:endobronchial --> eng:bronchial
+eng:endocannibalism --> eng:cannibalism
+eng:endocannibalistic --> eng:cannibalistic
+eng:endocardiac --> eng:cardiac --> grc:καρδιακός --> grc:καρδία
+eng:endocardial --> eng:endocardium
+eng:endocavitary --> eng:cavitary
+eng:endocellular --> eng:cellular
+eng:endocervix --> eng:cervix --> lat:cervix
+eng:endochitinase --> eng:chitinase
+eng:endochrome
+eng:endoctrine --> eng:doctrine
+eng:endocycle --> eng:cycle --> lat:cyclus --> grc:κύκλος
+eng:endocyst --> eng:cyst --> lat:cystis --> grc:κύστις
+eng:endodermic --> eng:endoderm
+eng:endodermis --> eng:dermis
+eng:endodontia
+eng:endoduplication --> eng:duplication
+eng:endoenzyme --> eng:enzyme --> deu:Enzym
+eng:Endoeuropean --> eng:European --> fra:Européen
+eng:endofacial --> eng:facial
+eng:endofullerene --> eng:fullerene
+eng:endofunctor --> eng:functor
+eng:endogamous
+eng:endogamy
+eng:endogen
+eng:endogenesis --> eng:genesis --> lat:genesis --> grc:γένεσις
+eng:endogenous
+eng:endoglossic --> eng:glossic
+eng:endognathal --> eng:endognath
+eng:endohedral
+eng:endolithic --> eng:lithic
+eng:endolymphangial --> eng:lymphangial
+eng:endolymphatic --> eng:lymphatic
+eng:endome --> eng:dome --> lat:doma
+eng:endometrioma --> eng:endometrium
+eng:endometrium
+eng:endomitosis --> eng:mitosis --> deu:Mitosis
+eng:endomorphism
+eng:endomycorrhiza --> eng:mycorrhiza
+eng:endomycorrhizal --> eng:mycorrhizal
+eng:endomyocardial --> eng:myocardial
+eng:endonormative --> eng:normative --> fra:normatif --> fra:norme
+eng:endopelvic --> eng:pelvic
+eng:endophenotype --> eng:phenotype
+eng:endophenotypic --> eng:endophenotype --> eng:phenotype
+eng:endophragmal --> eng:endophragma
+eng:endophyllous --> eng:phyllous
+eng:endoplastule --> eng:endoplast
+eng:endopleura --> eng:pleura --> grc:πλευρά
+eng:endopolyploidy --> eng:polyploidy --> eng:polyploid
+eng:endoprosthesis --> eng:prosthesis
+eng:endoprotease --> eng:protease
+eng:endoproteinase --> eng:proteinase
+eng:endoproteolysis --> eng:proteolysis
+eng:endoproteolytic --> eng:proteolytic
+eng:endoreduplication --> eng:reduplication --> eng:duplication
+eng:endoreversible --> eng:reversible
+eng:endorphin --> fra:endorphine
+eng:endorsable --> eng:endorse
+eng:endorsation --> eng:endorse
+eng:endorsement --> eng:endorse
+eng:endoskeleton --> eng:skeleton --> grc:σκελετός --> grc:σκελλώ
+eng:endosmosis --> eng:osmosis
+eng:endosome
+eng:endosomotropic --> eng:endosome
+eng:endosphere --> eng:sphere --> fro:sphere --> lat:sphera --> lat:sphaera --> grc:σφαῖρα
+eng:endosporous
+eng:endoss --> fra:endosser --> fra:dos --> lat:dorsum
+eng:endosteally --> eng:endosteal
+eng:endosternite --> eng:sternite
+eng:endosulfatase --> eng:sulfatase
+eng:endosurgery --> eng:surgery --> fro:surgerie
+eng:endosymbiont --> eng:symbiont
+eng:endosymbiosis --> eng:symbiosis --> grc:συμβίωσις
+eng:endosymbiotic --> eng:symbiotic --> eng:symbiosis --> grc:συμβίωσις
+eng:endothelially --> eng:endothelial
+eng:endotheloid --> eng:endothelium
+eng:endothermic --> eng:thermic
+eng:endothermy
+eng:endothorax --> eng:thorax --> grc:θώραξ
+eng:endotoxicology --> eng:toxicology --> fra:toxicologie
+eng:endotracheally --> eng:endotracheal
+eng:endotransglycosylase --> eng:transglycosylase
+eng:endotrophic
+eng:endourology --> eng:urology
+eng:endovaginal --> eng:vaginal --> eng:vagina --> lat:vagina
+eng:endovaginally --> eng:endovaginal --> eng:vaginal --> eng:vagina --> lat:vagina
+eng:endovascular --> eng:vascular
+eng:endovenous --> eng:venous
+eng:endow --> xno:endover
+eng:endower --> eng:endow --> xno:endover
+eng:endozoochory
+eng:endpin --> eng:end --> enm:ende --> ang:ende
+eng:endplay --> eng:end --> enm:ende --> ang:ende
+eng:endrudge --> eng:drudge
+eng:endsay --> eng:end --> enm:ende --> ang:ende
+eng:endstage --> eng:end --> enm:ende --> ang:ende
+eng:endue --> fro:enduire
+eng:endurable --> eng:endure --> enm:enduren --> fro:endurer --> lat:induro
+eng:endure --> enm:enduren --> fro:endurer --> lat:induro
+eng:endurer --> eng:endure --> enm:enduren --> fro:endurer --> lat:induro
+eng:endurest --> eng:endure --> enm:enduren --> fro:endurer --> lat:induro
+eng:endureth --> eng:endure --> enm:enduren --> fro:endurer --> lat:induro
+eng:enduringly --> eng:enduring
+eng:enduringness --> eng:enduring
+eng:endward --> eng:end --> enm:ende --> ang:ende
+eng:endwise --> eng:end --> enm:ende --> ang:ende
+eng:endymal --> eng:endyma
+eng:enema --> grc:ἔνεμα --> grc:ἐνίημι
+eng:enematic --> eng:enema --> grc:ἔνεμα --> grc:ἐνίημι
+eng:enemy --> fro:enemi --> lat:inimicus
+eng:enepidermic --> eng:epidermic
+eng:energetic --> grc:ἐνεργητικός --> grc:ἐνεργέω --> grc:ἐνεργός
+eng:energetically --> eng:energetic --> grc:ἐνεργητικός --> grc:ἐνεργέω --> grc:ἐνεργός
+eng:energumen --> lat:energumenus --> grc:ἐνεργούμενον
+eng:energy --> grc:ἐνέργεια
+eng:energyless --> eng:energy --> grc:ἐνέργεια
+eng:enervous --> lat:enervis
+eng:e-news --> eng:news
+eng:e-newsletter --> eng:newsletter
+eng:enfame --> eng:fame
+eng:enfasten --> eng:fast --> ang:fæst
+eng:enfeeble --> eng:feeble --> enm:feble --> fro:feble
+eng:enfeebler --> eng:enfeeble --> eng:feeble --> enm:feble --> fro:feble
+eng:enfetter --> eng:fetter --> ang:feter
+eng:enfierced --> eng:fierce
+eng:enfire --> eng:fire --> enm:fier --> ang:fyr
+eng:enflesh --> eng:flesh --> ang:flæsc
+eng:enfleurage --> fra:enfleurage
+eng:enflower --> eng:flower --> enm:flour --> xno:flur --> fro:flor --> lat:florem
+eng:enfold --> eng:fold --> enm:fold
+eng:enfolder --> eng:enfold --> eng:fold --> enm:fold
+eng:enfoldingly --> eng:enfolding
+eng:enfoldment --> eng:enfold --> eng:fold --> enm:fold
+eng:enforce --> fro:enforcier --> lat:infortiare
+eng:enforceability --> eng:enforce --> fro:enforcier --> lat:infortiare
+eng:enforceable --> eng:enforce --> fro:enforcier --> lat:infortiare
+eng:enforcedly --> eng:enforced
+eng:enforcement --> eng:enforce --> fro:enforcier --> lat:infortiare
+eng:enforcible --> eng:enforce --> fro:enforcier --> lat:infortiare
+eng:enforest --> eng:forest --> enm:forest --> fro:forest --> lat:foresta
+eng:enform --> fra:enformer
+eng:enframe --> eng:frame --> enm:framen
+eng:enframement --> eng:enframe --> eng:frame --> enm:framen
+eng:enfranchiser --> eng:enfranchise
+eng:enfree --> eng:free --> enm:fre --> ang:freo
+eng:enfreedom --> eng:freedom --> enm:freedom
+eng:enfreeze --> eng:freeze --> enm:fresen --> ang:freosan
+eng:engage --> frm:engagier --> fro:engager
+eng:engagedly --> eng:engaged
+eng:engagedness --> eng:engaged
+eng:engagement --> fra:engagement --> fra:engager
+eng:engager --> eng:engage --> frm:engagier --> fro:engager
+eng:engagingness --> eng:engaging
+eng:engaol --> eng:gaol --> enm:gayole
+eng:engarland --> eng:garland --> fro:gerlande
+eng:engender --> eng:gender --> enm:gendren
+eng:engenderer --> eng:engender --> eng:gender --> enm:gendren
+eng:engendrure --> fro:engendreure
+eng:engild --> eng:gild
+eng:engine --> enm:engin --> fro:engin --> lat:ingenium
+eng:engined --> eng:engine --> enm:engin --> fro:engin --> lat:ingenium
+eng:engineer --> enm:engineour --> fro:engignier --> lat:ingeniarius --> lat:ingenium
+eng:engineerable --> eng:engineer --> enm:engineour --> fro:engignier --> lat:ingeniarius --> lat:ingenium
+eng:engineeress --> eng:engineer --> enm:engineour --> fro:engignier --> lat:ingeniarius --> lat:ingenium
+eng:engineering --> eng:engineer --> enm:engineour --> fro:engignier --> lat:ingeniarius --> lat:ingenium
+eng:enginelike --> eng:engine --> enm:engin --> fro:engin --> lat:ingenium
+eng:enginery --> eng:engine --> enm:engin --> fro:engin --> lat:ingenium
+eng:enginous --> fro:engignos
+eng:engirt --> eng:girt --> enm:girten
+eng:England --> ang:Engles land
+eng:Englander --> eng:England --> ang:Engles land
+eng:Englishism --> eng:English
+eng:Englishization --> eng:English
+eng:Englishly --> eng:English
+eng:Englishman --> ang:engliscmann
+eng:Englishry --> eng:English
+eng:Englishy --> eng:English
+eng:englue --> eng:glue --> fro:glu --> lat:glus
+eng:englyn --> cym:englyn
+eng:engobe --> fra:engobe
+eng:engolden --> eng:golden --> enm:golden
+eng:engore --> eng:gore --> ang:gor
+eng:engorgement --> eng:engorge
+eng:engouled --> fro:engoulé
+eng:engraftable --> eng:engraft
+eng:engraftation --> eng:engraft
+eng:engrail --> eng:grail --> fro:graal --> lat:gradalis
+eng:engram --> eng:en
+eng:engrasp --> eng:grasp
+eng:engrave --> eng:grave --> enm:grave
+eng:engravement --> eng:engrave --> eng:grave --> enm:grave
+eng:engraven --> eng:engrave --> eng:grave --> enm:grave
+eng:engravery --> eng:engrave --> eng:grave --> enm:grave
+eng:engravest --> eng:engrave --> eng:grave --> enm:grave
+eng:engraveth --> eng:engrave --> eng:grave --> enm:grave
+eng:engrieve --> eng:grieve --> ang:grœfa
+eng:engroove --> eng:groove --> enm:groof
+eng:engross --> enm:engrossen
+eng:enguard --> eng:guard
+eng:engulf --> eng:gulf --> fra:golfe --> ita:golfo --> lat:colfus --> grc:κόλπος
+eng:engyve --> eng:gyve
+eng:enhabit --> fro:enhabiter --> lat:inhabitare
+eng:enhalo --> eng:halo --> lat:halos --> grc:ἅλως
+eng:enhance --> enm:enhauncen --> xno:enhauncer --> fro:enhaucier
+eng:enhancer --> eng:enhance --> enm:enhauncen --> xno:enhauncer --> fro:enhaucier
+eng:enharbour --> eng:harbour --> enm:herber
+eng:enhedge --> eng:hedge --> enm:hegge --> ang:hecg
+eng:enhoney --> eng:honey --> enm:honig --> ang:hunig
+eng:enhort --> fro:enhorter
+eng:enhunger --> eng:hunger --> ang:hungor
+eng:Enif --> ara:انف
+eng:enigma --> lat:aenigma --> grc:αἴνιγμα
+eng:enigmatically --> eng:enigmatic
+eng:enisled --> eng:isle
+eng:enjail --> eng:jail --> enm:gaiole
+eng:enjambment --> fra:enjambement
+eng:enjoin --> fro:enjoindre --> lat:injungere
+eng:enjoiner --> eng:enjoin --> fro:enjoindre --> lat:injungere
+eng:enjoinment --> eng:enjoin --> fro:enjoindre --> lat:injungere
+eng:enjoy --> fro:enjoir --> lat:gaudere
+eng:enjoyability --> eng:enjoy --> fro:enjoir --> lat:gaudere
+eng:enjoyable --> eng:enjoy --> fro:enjoir --> lat:gaudere
+eng:enjoyableness --> eng:enjoyable --> eng:enjoy --> fro:enjoir --> lat:gaudere
+eng:enjoyingly --> eng:enjoying
+eng:enjoyment --> eng:enjoy --> fro:enjoir --> lat:gaudere
+eng:enkennel --> eng:kennel
+eng:enkephalinase --> eng:enkephalin
+eng:enlacement --> eng:enlace
+eng:enlard --> eng:lard --> fro:lard --> lat:lardum
+eng:enlargedness --> eng:enlarged
+eng:enleague --> eng:league --> enm:ligg --> frm:ligue --> ita:lega
+eng:enlight --> eng:light --> ang:leoht
+eng:enlightenable --> eng:enlighten
+eng:enlightener --> eng:enlighten
+eng:enlighteningly --> eng:enlightening
+eng:enlimn --> eng:limn --> enm:luminem
+eng:enlink --> eng:link
+eng:enlist --> eng:list --> ang:lystan
+eng:enlivener --> eng:enliven
+eng:enliveningly --> eng:enlivening
+eng:enlumine --> fra:enluminer
+eng:enlute --> eng:lute --> frm:lut --> fro:leüt
+eng:enmarble --> eng:marble
+eng:enmesh --> eng:mesh --> enm:mesche
+eng:enmilden --> eng:milden
+eng:enmired --> eng:enmire
+eng:enmist --> eng:mist --> ang:mist
+eng:enmity --> fro:enemistié
+eng:enmossed --> eng:moss --> enm:mos --> ang:mos
+eng:enmuffle --> eng:muffle
+eng:Enna --> ita:Enna
+eng:ennea- --> grc:ἐννέα
+eng:enneagon
+eng:enneagonal --> eng:enneagon
+eng:enneahedron
+eng:ennet --> enm:enede --> ang:ened
+eng:ennew --> eng:new --> enm:newe --> ang:niwe
+eng:enniche --> eng:niche --> fro:niche --> fro:nichier --> lat:nidus
+eng:ennoble --> enm:ennoblen --> fro:ennoblir
+eng:ennobler --> eng:ennoble --> enm:ennoblen --> fro:ennoblir
+eng:ennuyé --> fra:ennuyé
+eng:Enoch --> lat:Enoch --> grc:Ενωχ --> heb:חֲנוֹךְ
+eng:enodal --> eng:nodal
+eng:enoki --> jpn:榎茸
+eng:enoki mushroom --> jpn:えのき茸
+eng:enolic --> eng:enol
+eng:enologist
+eng:enology
+eng:enormity --> frm:énormité --> lat:enormitatem
+eng:enormous --> lat:enormis
+eng:enormously --> eng:enormous --> lat:enormis
+eng:e-nose --> eng:nose
+eng:Enosis --> ell:Ένωσις
+eng:enough --> enm:ynough --> ang:genog
+eng:enoughness --> eng:enough --> enm:ynough --> ang:genog
+eng:e-novella --> eng:novella
+eng:enpatron --> eng:patron --> ang:patron
+eng:enplane --> eng:plane --> fro:plane --> lat:platanus --> grc:πλάτανος --> grc:πλατύς
+eng:enprison --> eng:prison --> fro:prison --> lat:prehensio --> lat:prehendo
+eng:enqueue --> frm:queu
+eng:enquire --> fro:enquerre --> lat:inquirere
+eng:enquirest --> eng:enquire --> fro:enquerre --> lat:inquirere
+eng:enrace --> eng:race --> frm:race --> ita:razza --> goh:reiza
+eng:enrage --> fro:enrager
+eng:enrange --> eng:range --> enm:rengen --> fro:renger --> fro:rang --> goh:hring
+eng:enrank --> eng:rank --> enm:rank --> ang:ranc
+eng:enravishingly --> eng:enravishing
+eng:enravishment --> eng:enravish
+eng:enrheum --> eng:rheum --> xno:roume
+eng:enrichingly --> eng:enriching
+eng:enrichment --> eng:enrich
+eng:enridge --> eng:ridge --> enm:rigge
+eng:enrockment --> eng:rock --> dum:rocke
+eng:enrollment --> eng:enroll
+eng:enroot --> eng:root --> enm:root
+eng:enround --> eng:round --> enm:roun --> ang:run
+eng:ensafe --> eng:safe --> enm:safe
+eng:enscale --> eng:scale --> enm:scale --> ang:scealu
+eng:enschedule --> eng:schedule --> fro:cedule --> lat:schedula --> lat:scheda --> grc:σχέδη
+eng:ensconce --> eng:sconce --> dum:schans
+eng:ensear --> eng:sear --> ang:searian --> ang:sear
+eng:ensearch --> fro:encerchier
+eng:enseel --> eng:seel --> enm:sel --> ang:sæle
+eng:ensemble --> fra:ensemble --> lat:insimul
+eng:ensembling --> eng:ensemble --> fra:ensemble --> lat:insimul
+eng:ensemblist --> eng:ensemble --> fra:ensemble --> lat:insimul
+eng:enserf --> eng:serf --> fro:serf --> lat:servus
+eng:enserfment --> eng:enserf --> eng:serf --> fro:serf --> lat:servus
+eng:enshackle --> eng:shackle
+eng:ensheathe --> eng:sheathe
+eng:enshelter --> eng:shelter
+eng:enshrine --> eng:shrine --> enm:shryne
+eng:enshrinee --> eng:enshrine --> eng:shrine --> enm:shryne
+eng:ensiferous --> eng:ensifer
+eng:ensignship --> eng:ensign
+eng:ensile --> fra:ensiler
+eng:ensky --> eng:sky
+eng:enslave --> eng:slave
+eng:enslavedness --> eng:enslaved
+eng:enslaver --> eng:enslave --> eng:slave
+eng:ensnare --> eng:snare
+eng:ensnarer --> eng:ensnare --> eng:snare
+eng:ensober --> eng:sober --> fro:sobre --> lat:sobrius --> lat:ebrius
+eng:ensorcellment --> eng:ensorcell
+eng:ensphere --> eng:sphere --> fro:sphere --> lat:sphera --> lat:sphaera --> grc:σφαῖρα
+eng:enstamp --> eng:stamp --> enm:stampen
+eng:enstantly --> eng:enstant
+eng:enstatitic --> eng:enstatite
+eng:enstraighten --> eng:straighten
+eng:enstrengthen --> eng:strengthen --> eng:strength --> ang:strengþu
+eng:enstyle --> eng:style --> fra:estile --> lat:stilus
+eng:ensuant --> xno:ensuant
+eng:ensure --> xno:enseurer --> fro:seur --> lat:super
+eng:enswathement --> eng:enswathe
+eng:ensweep --> eng:sweep
+eng:entablement --> fra:entablement --> fra:entabler
+eng:entactogenic --> eng:entactogen
+eng:entail --> ang:entaile --> fro:entaille
+eng:entailment --> eng:entail --> ang:entaile --> fro:entaille
+eng:ental
+eng:entame --> eng:tame --> ang:tam
+eng:entanglement --> eng:entangle
+eng:entelechy --> lat:entelechia --> grc:ἐντελέχεια
+eng:entend --> fra:entendre
+eng:entender --> eng:tender --> eng:tend --> enm:tenden --> ang:tendan
+eng:enter --> enm:entren --> fro:entrer --> lat:intro --> lat:intra
+eng:enter- --> fra:entre --> lat:inter --> lat:volvere
+eng:enterable --> eng:enter --> enm:entren --> fro:entrer --> lat:intro --> lat:intra
+eng:enterdeal --> eng:deal --> enm:dele --> ang:dæl
+eng:enterer --> eng:enter --> enm:entren --> fro:entrer --> lat:intro --> lat:intra
+eng:enterest --> eng:enter --> enm:entren --> fro:entrer --> lat:intro --> lat:intra
+eng:entereth --> eng:enter --> enm:entren --> fro:entrer --> lat:intro --> lat:intra
+eng:entermewer --> eng:mew --> enm:mewe --> ang:mæw
+eng:entermise --> fra:entremise
+eng:entero- --> grc:ἔντερον
+eng:enteroaggregative --> eng:aggregative
+eng:enterobacterium --> eng:bacterium
+eng:enterocele
+eng:enterococcus --> eng:coccus
+eng:enteroinvasive --> eng:invasive
+eng:enteropathogenic --> eng:enteropathogen
+eng:enterotome --> fra:entérotome
+eng:enterotomy
+eng:enterotype
+eng:enterprisewide --> eng:enterprise
+eng:enterprisey --> eng:enterprise
+eng:entertailing --> eng:entertaining
+eng:entertain --> fro:entretenir
+eng:entertainer --> eng:entertain --> fro:entretenir
+eng:entertake --> eng:take --> enm:taken --> ang:tacan
+eng:enthalpy --> grc:ἐνθάλπω
+eng:enthesis --> grc:ἔνθεσις
+eng:enthralldom --> eng:enthrall
+eng:enthrallingly --> eng:enthralling
+eng:enthrill --> eng:thrill --> ang:þyrlian
+eng:enthronize --> eng:enthrone
+eng:enthuser --> eng:enthuse
+eng:enthusiastical --> eng:enthusiastic
+eng:enthymeme --> grc:ἐνθύμημα
+eng:entice --> fro:enticier
+eng:enticeable --> eng:entice --> fro:enticier
+eng:enticer --> eng:entice --> fro:enticier
+eng:enticeth --> eng:entice --> fro:enticier
+eng:enticingness --> eng:enticing
+eng:entire --> enm:entere
+eng:entirely --> eng:entire --> enm:entere
+eng:entireness --> eng:entire --> enm:entere
+eng:entitatively --> eng:entitative
+eng:entitize --> eng:entity
+eng:entoblast
+eng:entobronchial --> eng:entobronchia
+eng:entobronchium --> eng:bronchium
+eng:entoderm
+eng:entogastric --> eng:gastric --> grc:γαστήρ
+eng:entogenous
+eng:entoglossal --> eng:glossal
+eng:entoil --> eng:toil --> enm:toilen
+eng:entomber --> eng:entomb
+eng:entomere
+eng:entomologically --> eng:entomological
+eng:entomologist --> eng:entomology --> fra:entomologie
+eng:entomologize --> eng:entomology --> fra:entomologie
+eng:entomology --> fra:entomologie
+eng:entomophile
+eng:entoperipheral --> eng:peripheral
+eng:entophytic --> eng:entophyte
+eng:entopic
+eng:entoplastron --> eng:plastron --> fra:plastron --> ita:piastrone --> ita:piastra
+eng:entosternum --> eng:sternum
+eng:entothorax --> eng:thorax --> grc:θώραξ
+eng:entourage --> fra:entourage --> fra:entourer --> fra:entour
+eng:entozoal --> eng:Entozoa
+eng:entrada --> spa:entrada
+eng:entrail --> eng:trail --> lat:trahere
+eng:entrails --> fro:entrailles --> lat:intralia --> lat:interanea --> lat:interaneus --> lat:inter --> lat:volvere
+eng:entrainable --> eng:entrain
+eng:entrance --> frm:entrance
+eng:entranceless --> eng:entrance --> frm:entrance
+eng:entrancingly --> eng:entrancing
+eng:entrap --> eng:trap --> enm:trappe --> ang:træppe
+eng:entrapment --> eng:entrap --> eng:trap --> enm:trappe --> ang:træppe
+eng:entreatable --> eng:entreat
+eng:entreater --> eng:entreat
+eng:entreatful --> eng:entreat
+eng:entreatment --> eng:entreat
+eng:entrechat --> fra:entrechat --> ita:intrecciata
+eng:entrée --> fra:entrée
+eng:entrencher --> eng:entrench
+eng:entrepôt --> fra:entreposer
+eng:entreprenerd --> eng:entrepreneur --> fra:entrepreneur
+eng:entrepreneur --> fra:entrepreneur
+eng:entrepreneurship --> eng:entrepreneur --> fra:entrepreneur
+eng:entrest --> eng:entre
+eng:entreth --> eng:entre
+eng:entrochite --> eng:trochite
+eng:entropically --> eng:entropic
+eng:entropyless --> eng:entropy
+eng:entropylike --> eng:entropy
+eng:entrust --> eng:trust --> enm:truste --> non:traust
+eng:entry --> fro:entree
+eng:entryism --> eng:entry --> fro:entree
+eng:entryist --> eng:entry --> fro:entree
+eng:entrywise --> eng:entry --> fro:entree
+eng:entwin --> eng:twin --> ang:twinn
+eng:entwine --> eng:twine --> enm:twine
+eng:entwinement --> eng:entwine --> eng:twine --> enm:twine
+eng:entwiningly --> eng:entwining
+eng:entwist --> eng:twist
+eng:entwite --> eng:twite
+eng:enubilate --> lat:enubilatus
+eng:enucleate --> eng:nucleus --> lat:nucleus
+eng:Enûma Eliš --> akk:𒂊𒉡𒈠𒂊𒇺
+eng:enumerably --> eng:enumerable
+eng:enumerate --> frm:enumeration --> lat:enumerationem
+eng:enumerative --> eng:enumerate --> frm:enumeration --> lat:enumerationem
+eng:enunciate --> lat:enuntiatus
+eng:enunciatively --> eng:enunciative
+eng:enunciator --> lat:enuntiator
+eng:enuresis --> lat:enuresis
+eng:envassal --> eng:vassal
+eng:envault --> eng:vault --> eng:volte --> eng:volvita
+eng:enveil --> eng:veil
+eng:envelop --> enm:envolupen --> fro:envoluper
+eng:envermeil --> eng:vermeil --> fra:vermeil --> lat:vermiculus --> lat:vermis
+eng:enviability --> eng:enviable
+eng:enviableness --> eng:enviable
+eng:envier --> eng:envy --> enm:envie --> fro:envie --> lat:invidia --> lat:invidere
+eng:Enviropig --> eng:pig --> enm:pigge
+eng:envisage --> fra:envisager
+eng:envisagement --> eng:envisage --> fra:envisager
+eng:envisager --> eng:envisage --> fra:envisager
+eng:envisionment --> eng:envision
+eng:envolume --> eng:volume --> fro:volume --> lat:volumen --> lat:volvo
+eng:envolvement --> eng:envolve
+eng:envoyship --> eng:envoy
+eng:envy --> enm:envie --> fro:envie --> lat:invidia --> lat:invidere
+eng:enwallowed --> eng:wallow --> ang:wealwian
+eng:enweaken --> eng:weaken
+eng:enwind --> eng:wind --> ang:windan
+eng:enwoman --> eng:woman --> enm:woman
+eng:enwomb --> eng:womb --> ang:wamb
+eng:enwrap --> enm:enwrappen
+eng:enwrapment --> eng:enwrap --> enm:enwrappen
+eng:enwrite --> enm:inwriten
+eng:enyl
+eng:Enyo --> grc:Ἐνυώ
+eng:enzone --> eng:zone --> lat:zona --> grc:ζώνη
+eng:enzyme --> deu:Enzym
+eng:enzymeless --> eng:enzyme --> deu:Enzym
+eng:enzymelike --> eng:enzyme --> deu:Enzym
+eng:eobiont
+eng:eo ipso --> lat:eo ipso
+eng:eolic --> lat:Aeolicus --> grc:Αἴολος
+eng:eon --> grc:αἰών
+eng:eo nomine --> lat:eo nomine
+eng:eophytic --> eng:eophyte
+eng:Eosphorus --> grc:Ἑωσφόρος
+eng:eozoonal --> eng:eozoon
+eng:epænetic --> grc:ἐπαινετικός --> grc:ἐπαινέω
+eng:epalon --> eng:epiallopregnanolone
+eng:epanorthosis --> grc:ἐπανόρθωσις
+eng:e-paper --> eng:paper --> xno:paper --> fro:papier --> lat:papyrus --> grc:πάπυρος
+eng:eparch --> grc:ἔπαρχος
+eng:eparchy --> grc:ἐπαρχία
+eng:eparterial --> eng:arterial
+eng:e-passport --> eng:passport --> fra:passeport
+eng:epaulement --> fra:épaulement
+eng:epaulette --> fra:épaulette --> fra:épaule --> frm:espaule --> fro:espalle --> lat:spatula --> lat:spatha --> grc:σπάθη
+eng:epazote --> spa:epazote --> nci:epazotl
+eng:epee --> fra:épée --> fro:espee
+eng:epeirogenesis
+eng:epeirogeny
+eng:epencephalic --> eng:encephalic --> eng:encephalon --> grc:ἐγκέφαλος
+eng:ependyma --> grc:ἐπένδυμα --> grc:ἐπενδύειν
+eng:epenthetically --> eng:epenthetic
+eng:e-petition --> eng:petition
+eng:epexegesis --> grc:ἐπεξήγησις --> grc:ἐπεξηγέομαι
+eng:ephah --> heb:איפה
+eng:ephapse --> grc:ἔφαψις --> grc:ἐφάπτω
+eng:ephaptic --> eng:haptic --> grc:ἁπτικός --> grc:ἅπτω
+eng:ephedra --> grc:ἐφέδρα
+eng:ephemeral --> lat:ephemerus --> grc:ἐφήμερος
+eng:ephemerally --> eng:ephemeral --> lat:ephemerus --> grc:ἐφήμερος
+eng:Ephesus --> grc:Ἔφεσος
+eng:ephor --> grc:ἔφορος
+eng:Ephraim --> heb:אפרים
+eng:epi- --> grc:ἐπί
+eng:epibenthic --> eng:benthic
+eng:epibenthos --> eng:benthos --> grc:βένθος
+eng:epibiont
+eng:epibiota --> eng:biota
+eng:epiblast
+eng:epiboly --> ell:ἐπιβολή
+eng:epibrassinolide --> eng:brassinolide
+eng:epic --> lat:epicus --> grc:ἐπικός --> grc:ἔπος
+eng:epicadmium --> eng:cadmium --> grc:Καδμεία --> grc:Κάδμος
+eng:epicatechin --> eng:catechin
+eng:epicede --> lat:epicedium --> grc:ἐπικήδειον
+eng:epicellular --> eng:cellular
+eng:epichordal --> eng:chordal
+eng:epichoric --> grc:ἐπιχώριος
+eng:epiclassical --> eng:classical
+eng:epiclike --> eng:epic --> lat:epicus --> grc:ἐπικός --> grc:ἔπος
+eng:epicness --> eng:epic --> lat:epicus --> grc:ἐπικός --> grc:ἔπος
+eng:epicolic --> eng:colic
+eng:epicondyle --> eng:condyle --> fra:condyle --> lat:condylus --> grc:κόνδυλος
+eng:epicoracoid --> eng:coracoid
+eng:epicormic --> eng:corm
+eng:epicranium --> eng:cranium --> lat:cranium --> grc:κρανίον
+eng:epicrisis --> eng:crisis --> grc:κρίσις --> grc:κρίνω
+eng:Epictetian --> grc:Ἐπίκτητος
+eng:Epictetus --> grc:Ἐπίκτητος
+eng:Epicurean --> lat:Epicureus --> grc:Ἐπικούρειος
+eng:epicurely --> eng:epicure
+eng:epicurize --> eng:epicure
+eng:Epicurus --> lat:Epicurus --> grc:Ἐπίκουρος
+eng:epicutaneous --> eng:cutaneous
+eng:epicuticle --> eng:cuticle --> lat:cuticula
+eng:epicycle --> lat:epicyclus --> grc:ἐπίκυκλος
+eng:epicycloidal --> eng:epicycloid
+eng:epidemic --> fra:épidémique --> fra:épidémie --> lat:epidemia --> grc:ἐπιδήμιος
+eng:epidemiclike --> eng:epidemic --> fra:épidémique --> fra:épidémie --> lat:epidemia --> grc:ἐπιδήμιος
+eng:epidermis --> lat:epidermis --> grc:ἐπιδερμίς
+eng:epidermose --> eng:epidermis --> lat:epidermis --> grc:ἐπιδερμίς
+eng:epididymal --> eng:epididymis --> grc:ἐπιδιδυμίς
+eng:epididymis --> grc:ἐπιδιδυμίς
+eng:epididymitis --> eng:epididymis --> grc:ἐπιδιδυμίς
+eng:epidotic --> eng:epidote
+eng:epifamily --> eng:family --> lat:familia --> lat:famula
+eng:epifaunal --> eng:epifauna
+eng:epifloral --> eng:epiflora
+eng:epigeal
+eng:epigenesis
+eng:epigenetic --> eng:genetic
+eng:epigenotype --> eng:genotype --> eng:type --> lat:typus --> grc:τύπος --> grc:τύπτω
+eng:epignathous
+eng:epigone --> fra:épigones --> lat:epigoni --> grc:ἐπίγονοι
+eng:epigram --> lat:epigramma --> grc:ἐπίγραμμα
+eng:epigraphy
+eng:epikeia --> grc:ἐπιείκεια --> grc:ἐπιεικής
+eng:epileptic
+eng:epileptically --> eng:epileptic
+eng:epileptogenesis
+eng:epileptogenic
+eng:epileptoid --> eng:epileptic
+eng:epilith --> eng:lith --> enm:lith
+eng:epilogation --> lat:epilogatio
+eng:epilogic --> grc:ἐπιλογικός
+eng:epilogical --> eng:epilogic --> grc:ἐπιλογικός
+eng:epilogue --> fra:épilogue --> fra:logue
+eng:Epimenides --> grc:Ἐπιμενίδης
+eng:epimer
+eng:epimere
+eng:Epimetheus --> grc:Ἐπιμηθεύς
+eng:epimmunome --> eng:immune --> lat:immunis
+eng:epimorphic
+eng:epimutation --> eng:mutation
+eng:epimythium --> grc:ἐπιμύθιον
+eng:epineural --> eng:neural
+eng:epinucleation --> eng:nucleation
+eng:epipelagic --> eng:pelagic
+eng:epiperipheral --> eng:peripheral
+eng:epipetalous --> eng:petal --> grc:πέταλον
+eng:epiphænomena --> eng:phænomena
+eng:epiphænomenon --> eng:phænomenon
+eng:epiphanic --> eng:epiphany --> fro:epyphanie --> lat:epiphania --> grc:ἐπιφάνεια --> grc:ἐπιφαίνω
+eng:epiphanically --> eng:epiphanic --> eng:epiphany --> fro:epyphanie --> lat:epiphania --> grc:ἐπιφάνεια --> grc:ἐπιφαίνω
+eng:epiphany --> fro:epyphanie --> lat:epiphania --> grc:ἐπιφάνεια --> grc:ἐπιφαίνω
+eng:epiphanylike --> eng:epiphany --> fro:epyphanie --> lat:epiphania --> grc:ἐπιφάνεια --> grc:ἐπιφαίνω
+eng:epipharyngeal --> eng:pharyngeal
+eng:epipharynx --> eng:pharynx --> lat:pharynx --> grc:φάρυγξ
+eng:epiphenomenon --> eng:phenomenon --> lat:phaenomenon --> grc:φαινόμενον
+eng:epiphloeum --> eng:phloem
+eng:epiphonema --> lat:epiphonema --> grc:ἐπιφώνημα --> grc:ἐπιφωνείν
+eng:epiphytal --> eng:epiphyte --> grc:ἐπιφύτον
+eng:epiphyte --> grc:ἐπιφύτον
+eng:epiplankton --> eng:plankton --> deu:Plankton
+eng:epiplastron --> eng:plastron --> fra:plastron --> ita:piastrone --> ita:piastra
+eng:epipleural --> eng:pleural
+eng:epiploic --> eng:epiploon
+eng:epipterygoid --> eng:pterygoid
+eng:epipubis --> eng:pubis
+eng:e-piracy --> eng:piracy
+eng:epirelief --> eng:relief
+eng:epiretinal --> eng:retinal
+eng:Epirot --> grc:ἠπειρώτης --> grc:ἤπειρος
+eng:Epirus --> lat:Epirus --> grc:Ἤπειρος
+eng:episcopacy --> lat:episcopatus
+eng:episcopal --> lat:episcopus --> grc:επίσκοπος
+eng:Episcopalianism --> eng:Episcopalian
+eng:episcopally --> eng:episcopal --> lat:episcopus --> grc:επίσκοπος
+eng:episcopicide --> eng:episcopus
+eng:episepalous --> eng:sepalous --> eng:sepal --> lat:sepalum
+eng:episkeletal --> eng:skeletal --> eng:skeleton --> grc:σκελετός --> grc:σκελλώ
+eng:episode --> fra:épisode
+eng:episodic --> eng:episode --> fra:épisode
+eng:epispermic --> eng:episperm
+eng:epispore --> eng:spore
+eng:episteme --> grc:ἐπιστήμη --> grc:ἐπί
+eng:epistemology --> grc:ἐπιστήμη --> grc:ἐπί
+eng:episternum --> eng:sternum
+eng:epistle --> fro:epistre --> lat:epistola --> grc:ἐπιστολή --> grc:ἐπιστέλλω
+eng:epistler --> eng:epistle --> fro:epistre --> lat:epistola --> grc:ἐπιστολή --> grc:ἐπιστέλλω
+eng:epistyle --> lat:epistylium
+eng:episyllogism --> eng:syllogism --> fro:silogisme --> lat:syllogismus --> grc:συλλογισμός
+eng:episymbiont --> eng:symbiont
+eng:epitaph --> fro:epitafe --> lat:epitaphium --> grc:ἐπιτάφιον
+eng:epitapher --> eng:epitaph --> fro:epitafe --> lat:epitaphium --> grc:ἐπιτάφιον
+eng:epitaphic --> eng:epitaph --> fro:epitafe --> lat:epitaphium --> grc:ἐπιτάφιον
+eng:epitaphist --> eng:epitaph --> fro:epitafe --> lat:epitaphium --> grc:ἐπιτάφιον
+eng:epitasis --> grc:ἐπίτασις --> grc:ἐπιτείνω
+eng:epithalamium --> grc:ἐπιθαλάμιον
+eng:epithecal --> eng:epitheca
+eng:epithem --> grc:ἐπίθεμα
+eng:epitheted --> eng:epithet
+eng:epitomic --> eng:epitome
+eng:epitomizer --> eng:epitomize
+eng:epitrochlea --> eng:trochlea
+eng:epixylous --> eng:xylem --> deu:Xylem --> grc:ξύλον
+eng:epizoic
+eng:epizoochory
+eng:epizootic
+eng:epizoötic --> eng:zoötic
+eng:epizooty --> fra:épizootie
+eng:epoch --> lat:epocha --> grc:ἐποχή --> grc:ἐπέχειν
+eng:epochally --> eng:epochal
+eng:eponym --> grc:ἐπώνυμος
+eng:eponymic --> eng:eponym --> grc:ἐπώνυμος
+eng:eponymically --> eng:eponymic --> eng:eponym --> grc:ἐπώνυμος
+eng:eponymous --> eng:eponym --> grc:ἐπώνυμος
+eng:epopee --> fra:épopée --> grc:ἐποποιία
+eng:epopt --> grc:ἐπόπτης
+eng:epopteia --> grc:ἐποπτεία
+eng:epotation --> lat:epotare
+eng:epratuzumab
+eng:e-prescription --> eng:prescription
+eng:e-procurement --> eng:procurement
+eng:eprouvette --> fra:éprouvette
+eng:epsilon --> grc:ἒψιλόν
+eng:epsomite --> eng:Epsom
+eng:eptameride --> eng:meride --> fra:méride --> grc:μερίς
+eng:e-publication --> eng:publication --> fro:publicacion
+eng:e-publisher --> eng:publisher
+eng:e-publishing --> eng:publishing
+eng:epulation --> lat:epulatio
+eng:epulis --> grc:ἐπουλίς
+eng:epuration --> fra:épuration --> fra:épurer --> fra:pur --> lat:purus
+eng:epyllion --> grc:ἐπύλλιον
+eng:equ- --> lat:aequus
+eng:equability --> lat:aequabilitas --> lat:aequabilis --> lat:aequo --> lat:aequus
+eng:equable --> lat:aequabilis --> lat:aequo --> lat:aequus
+eng:equableness --> eng:equable --> lat:aequabilis --> lat:aequo --> lat:aequus
+eng:e-quaintance --> eng:acquaintance --> fro:acointance
+eng:equal --> lat:aequalis --> lat:aequus
+eng:equalise --> eng:equal --> lat:aequalis --> lat:aequus
+eng:equalism --> eng:equal --> lat:aequalis --> lat:aequus
+eng:equalitarianism --> eng:equalitarian
+eng:equality --> lat:aequalitas --> lat:aequalis --> lat:aequus
+eng:equalize --> eng:equal --> lat:aequalis --> lat:aequus
+eng:equally --> eng:equal --> lat:aequalis --> lat:aequus
+eng:equalness --> eng:equal --> lat:aequalis --> lat:aequus
+eng:equanimity --> lat:aequanimitas
+eng:equate --> lat:aequātus
+eng:equation --> lat:aequatio --> lat:aequo --> lat:aequus
+eng:equationlike --> eng:equation --> lat:aequatio --> lat:aequo --> lat:aequus
+eng:equative --> eng:equate --> lat:aequātus
+eng:equatorward --> eng:equator
+eng:equestrianship --> eng:equestrian
+eng:equiangled --> eng:angled
+eng:equiatomic --> eng:atomic
+eng:equibalance --> eng:balance --> frm:balance
+eng:equicontinuous --> eng:continuous
+eng:equicrescent --> eng:crescent --> lat:crescens --> lat:cresco
+eng:equicrural --> lat:aequicrurus
+eng:equidecomposability --> eng:decomposability
+eng:equidecomposable --> eng:decomposable
+eng:equidifferent --> eng:different
+eng:equidimensionality --> eng:dimensionality
+eng:equidistance --> eng:distance
+eng:equidistribute --> eng:distribute --> lat:distributus
+eng:equidistributed --> eng:distributed
+eng:equidistribution --> eng:distribution --> lat:distributio
+eng:equidiurnal --> eng:diurnal --> lat:diurnalis --> lat:dies
+eng:equientangled --> eng:entangled
+eng:equifrequency --> eng:frequency --> lat:frequentia --> lat:frequens
+eng:equifrequent --> eng:frequent --> fro:frequent --> lat:frequens
+eng:equigranular --> eng:granular --> eng:granule --> lat:granulum
+eng:equigranularity --> eng:granularity
+eng:equijoin --> eng:join --> fro:joindre --> lat:iungo
+eng:equilibrium --> lat:aequilibrium --> lat:aequilibris
+eng:equimomental --> eng:momental
+eng:equimultiple --> eng:multiple --> fra:multiple --> lat:multiplus --> lat:multiplex
+eng:equinal --> eng:equine --> lat:equinus
+eng:equine --> lat:equinus
+eng:equinoctially --> eng:equinoctial
+eng:equinox --> lat:aequinoctium
+eng:equinoxial --> eng:equinox --> lat:aequinoctium
+eng:equinumerousness --> eng:equinumerous
+eng:equip --> fra:équiper
+eng:equipable --> eng:equip --> fra:équiper
+eng:equipage --> frm:equippage --> frm:equipper
+eng:equipendency --> eng:pendency
+eng:equipment --> eng:equip --> fra:équiper
+eng:equipmentman --> eng:equipment --> eng:equip --> fra:équiper
+eng:equipoise --> eng:poise
+eng:equipollently --> eng:equipollent
+eng:equiponderous --> eng:ponderous
+eng:equipotently --> eng:equipotent
+eng:equiprimordially --> eng:equiprimordial
+eng:equirectangular --> eng:rectangular
+eng:equirotal --> eng:rotal
+eng:equisonant --> eng:sonant
+eng:equispaced --> eng:spaced
+eng:equitable --> fra:équitable --> fra:équité --> lat:aequitas --> lat:aequus
+eng:equitableness --> eng:equitable --> fra:équitable --> fra:équité --> lat:aequitas --> lat:aequus
+eng:equitably --> eng:equitable --> fra:équitable --> fra:équité --> lat:aequitas --> lat:aequus
+eng:equitant --> lat:equitans
+eng:equitylike --> eng:equity
+eng:equivalent --> lat:aequivalentem
+eng:equivalentist --> eng:equivalent --> lat:aequivalentem
+eng:equivalue --> eng:value
+eng:equivalvular --> eng:valvular --> lat:valvularum
+eng:equivocate --> lat:aequivocatus
+eng:equivocatingly --> eng:equivocating
+eng:equivoque --> lat:aequivocus
+eng:equixially --> eng:equiaxial
+eng:Equuleus --> lat:equuleus
+eng:era --> lat:aera
+eng:eradicate --> lat:eradicatus
+eng:eradicative --> eng:eradicate --> lat:eradicatus
+eng:erase --> lat:erasus
+eng:eraserlike --> eng:eraser
+eng:erastes --> grc:ἐραστής --> grc:ἐράω
+eng:Erastian --> eng:Erastus --> grc:ἐραστος
+eng:Erastianism --> eng:Erastian --> eng:Erastus --> grc:ἐραστος
+eng:Erastus --> grc:ἐραστος
+eng:erbium --> swe:Ytterby
+eng:erd --> enm:erd --> ang:eard
+eng:Erdoğan --> tur:Erdoğan
+eng:e-reader --> eng:reader
+eng:Erebus --> grc:Ἔρεβος
+eng:e-recruitment --> eng:recruitment --> eng:recruit --> fra:recruter
+eng:erectable --> eng:erect
+eng:erection --> lat:erectio --> lat:erectus
+eng:erective --> eng:erect
+eng:erelong --> eng:ere
+eng:eremite --> lat:eremita --> grc:ἐρημίτης --> grc:ἐρημία --> grc:ἐρῆμος
+eng:erer --> enm:erer
+eng:erethism --> fra:éréthisme --> grc:ἐρεθισμός --> grc:ἐρεθίζειν
+eng:Erewhonian --> eng:Erewhon
+eng:ereyesterday --> ang:ǣr
+eng:erf --> enm:erfe
+eng:erfkin --> enm:erfkin
+eng:erg --> fra:erg --> grc:ἔργον
+eng:ergativity --> eng:ergative
+eng:ergato- --> grc:ἐργάτης
+eng:ergatocracy
+eng:ergatocratic --> eng:ergatocracy
+eng:ergo --> lat:ergo
+eng:ergo- --> grc:ἔργον
+eng:ergodically --> eng:ergodic
+eng:ergodicity --> eng:ergodic
+eng:ergolinic --> eng:ergoline
+eng:ergomania
+eng:ergonomically --> eng:ergonomic
+eng:ergosphere
+eng:ergosterol --> eng:sterol
+eng:ergot --> fra:ergot --> fro:argot
+eng:ergotamine --> deu:Ergotamin
+eng:ergotic --> eng:ergot --> fra:ergot --> fro:argot
+eng:ergotin --> eng:ergot --> fra:ergot --> fro:argot
+eng:ergotism --> eng:ergot --> fra:ergot --> fro:argot
+eng:eric --> gle:eiric
+eng:Eric --> non:Eirríkr
+eng:Ericksonian --> eng:Erickson
+eng:ericssonite --> eng:Ericsson
+eng:Eridanus --> lat:Eridanus --> grc:Ἠριδανός
+eng:Eriksonian --> eng:Erikson
+eng:erinaceous --> lat:erinaceus
+eng:erinite --> eng:Erin
+eng:Erinys --> grc:Ἐρινύς
+eng:Eris --> grc:Ἔρις --> grc:ἔρις
+eng:Eritrea --> lat:Erythraea --> grc:Ἐρυθρά Θάλασσα
+eng:Eritreanness --> eng:Eritrean
+eng:erization --> eng:erhua
+eng:erlizumab
+eng:ermelin --> deu:Hermelin --> gmh:hermelin --> goh:harmili
+eng:Ermin --> fro:Ermin
+eng:ermine --> enm:ermine
+eng:erminelike --> eng:ermine --> enm:ermine
+eng:ern --> enm:ernen --> ang:irnan
+eng:erne --> enm:ern
+eng:erogation --> lat:erogatio --> lat:erogo --> lat:e --> lat:et
+eng:erogenicity --> eng:erogenic
+eng:ero-guro --> jpn:エログロ
+eng:eromenos --> grc:ἐρώμενος --> grc:ἐράω
+eng:eros --> grc:ἔρως --> grc:ἔραμαι
+eng:Eros --> grc:Ἔρως
+eng:erosion --> lat:erosio
+eng:erosional --> eng:erosion --> lat:erosio
+eng:erosionally --> eng:erosional --> eng:erosion --> lat:erosio
+eng:erosiveness --> eng:erosive
+eng:erotesis --> lat:erotesis --> grc:ἐρώτησις --> grc:ἐρωτάω
+eng:erotetic --> grc:ἐρωτητικός
+eng:erotetically --> eng:erotetic --> grc:ἐρωτητικός
+eng:erotic --> fra:érotique --> grc:ἐρωτικός --> grc:ἔρως --> grc:ἔραμαι
+eng:erotically --> eng:erotic --> fra:érotique --> grc:ἐρωτικός --> grc:ἔρως --> grc:ἔραμαι
+eng:eroticisation --> eng:erotic --> fra:érotique --> grc:ἐρωτικός --> grc:ἔρως --> grc:ἔραμαι
+eng:eroticism --> eng:erotic --> fra:érotique --> grc:ἐρωτικός --> grc:ἔρως --> grc:ἔραμαι
+eng:eroticization --> eng:erotic --> fra:érotique --> grc:ἐρωτικός --> grc:ἔρως --> grc:ἔραμαι
+eng:eroto- --> grc:Ἔρωτος
+eng:erotogenicity --> eng:erotogenic
+eng:erotology
+eng:erotomania --> grc:ἐρωτικός --> grc:ἔρως --> grc:ἔραμαι
+eng:erotomaniac
+eng:erotopathy
+eng:erotophobe
+eng:erotosexual --> eng:erotic --> fra:érotique --> grc:ἐρωτικός --> grc:ἔρως --> grc:ἔραμαι
+eng:erototoxin --> eng:toxin --> lat:toxicum --> grc:τοξικόν --> grc:τοξικός --> grc:τόξον
+eng:err --> enm:erren --> fro:errer --> lat:erro
+eng:errableness --> eng:errable
+eng:errabund --> lat:errabundus
+eng:errand --> enm:erande
+eng:errand-ghost --> ang:ærendgast --> ang:gast
+eng:erratic --> fro:erratique --> lat:erraticus --> lat:erratus
+eng:erraticalness --> eng:erratical
+eng:erraticness --> eng:erratic --> fro:erratique --> lat:erraticus --> lat:erratus
+eng:erration --> lat:erratio
+eng:errhine --> lat:errhinum --> grc:ἔρρῖνον
+eng:erringly --> eng:erring
+eng:error --> enm:errour --> lat:error
+eng:errorfree --> eng:error --> enm:errour --> lat:error
+eng:errorful --> eng:error --> enm:errour --> lat:error
+eng:errorist --> eng:error --> enm:errour --> lat:error
+eng:errorless --> eng:error --> enm:errour --> lat:error
+eng:errorlessness --> eng:errorless --> eng:error --> enm:errour --> lat:error
+eng:errorproof --> eng:error --> enm:errour --> lat:error
+eng:ersatzer --> eng:ersatz
+eng:ersatzism --> eng:ersatz
+eng:ersatzist --> eng:ersatz
+eng:ersatzness --> eng:ersatz
+eng:erst --> enm:erst
+eng:erstwhile --> eng:erst --> enm:erst
+eng:ert --> enm:erten
+eng:eruct --> lat:eructo --> lat:ructo --> lat:ructus
+eng:eructate --> lat:eructatus
+eng:erudit --> fra:érudit --> lat:eruditus
+eng:erudite --> lat:eruditus
+eng:eruditeness --> eng:erudite --> lat:eruditus
+eng:erudition --> lat:eruditio
+eng:eruginous --> frm:erugineux --> lat:aeruginosus --> lat:aerugo --> lat:aes
+eng:erumpent --> lat:erumpens
+eng:erupt --> lat:eruptus
+eng:eruptiveness --> eng:eruptive
+eng:eruptivity --> eng:eruptive
+eng:eruv --> heb:ערוב‎
+eng:Erymanthos --> grc:Ἐρύμανθος
+eng:erysipelas --> grc:ἐρυσίπελας
+eng:erythematously --> eng:erythematous
+eng:erythravine --> eng:Erythrina
+eng:erythric --> eng:erythrin --> grc:ἐρυθρός
+eng:erythrin --> grc:ἐρυθρός
+eng:erythrite
+eng:erythro- --> grc:ἐρυθρός
+eng:erythroagglutinin --> eng:agglutinin
+eng:erythroblast
+eng:erythrodermic --> eng:erythroderma
+eng:erythrodextrin --> eng:dextrin
+eng:erythrodifferentiation --> eng:differentiation
+eng:erythrogenic
+eng:erythrogranulose --> eng:granulose --> eng:granule --> lat:granulum
+eng:erythroleukemia --> eng:leukemia --> deu:Leukämie
+eng:erythroleukemic --> eng:leukemic
+eng:erythronium --> grc:ἐρυθρός
+eng:erythrophobia
+eng:erythrophyll
+eng:erythropoiesis
+eng:e-safety --> eng:safety --> fro:sauveté
+eng:e-sales --> eng:sales
+eng:Esau --> heb:עשו
+eng:esbat --> fro:esbat
+eng:Esbjerg --> dan:Esbjerg
+eng:esca --> lat:esca --> lat:edo --> lat:e --> lat:et
+eng:escadrille --> fra:escadrille
+eng:escalop --> fro:escalope
+eng:escaloped --> eng:escalop --> fro:escalope
+eng:escambio --> lat:escambium
+eng:escapability --> eng:escapable --> eng:escape
+eng:escapable --> eng:escape
+eng:escapade --> fra:escapade --> osp:escapada --> osp:escapar
+eng:escapeth --> eng:escape
+eng:escapology --> eng:escape
+eng:escarbuncle --> fra:escarbuncle
+eng:escargots --> fra:escargot --> oci:escargol
+eng:escarpment --> fra:escarpement
+eng:escartele --> fro:escarteler
+eng:Escaut --> fra:Escaut --> lat:Scaldis
+eng:eschaton --> grc:ἔσχατον
+eng:escheat --> fro:escheoit
+eng:escheatable --> eng:escheat --> fro:escheoit
+eng:escheatage --> eng:escheat --> fro:escheoit
+eng:escheatment --> eng:escheat --> fro:escheoit
+eng:Escheresque --> eng:Escher
+eng:Escherian --> eng:Escher
+eng:eschevin --> fro:eschevin
+eng:eschew --> enm:eschewen --> xno:eschiver
+eng:eschewer --> eng:eschew --> enm:eschewen --> xno:eschiver
+eng:eschewment --> eng:eschew --> enm:eschewen --> xno:eschiver
+eng:escopet --> spa:escopeta --> ita:schioppetto --> ita:schioppo --> lat:stloppus
+eng:escort --> fra:escorte
+eng:escortee --> eng:escort --> fra:escorte
+eng:escortless --> eng:escort --> fra:escorte
+eng:escrow --> enm:escrowl --> fro:escroue
+eng:escuage --> fro:escuage
+eng:esculent --> lat:esculentus --> lat:esca --> lat:edo --> lat:e --> lat:et
+eng:esculic acid --> lat:Aesculus
+eng:escutcheon --> xno:escuchon
+eng:escutcheoned --> eng:escutcheon --> xno:escuchon
+eng:e-security --> eng:security --> enm:securite
+eng:e-service --> eng:service --> fro:servise --> lat:servitium --> lat:servus
+eng:esexual --> eng:sexual --> lat:sexualis
+eng:e-shop --> eng:shop --> enm:shoppe --> ang:sceoppa
+eng:e-shopper --> eng:shopper
+eng:e-shopping --> eng:shopping
+eng:esker --> gle:eiscir
+eng:Eskimoan --> eng:Eskimo
+eng:Eskimology --> eng:Eskimo
+eng:esky --> eng:Esky
+eng:Esmeralda --> spa:esmeralda --> lat:esmeraude
+eng:esne --> ang:esne
+eng:e-society --> eng:society --> fro:societé --> lat:societas --> lat:socius --> lat:sequor
+eng:esophagean --> eng:esophagus
+eng:esophagic --> eng:esophagus
+eng:esophagical --> eng:esophagic --> eng:esophagus
+eng:esophagotomy --> eng:esophagus
+eng:esoteric --> grc:ἐσωτερικός --> grc:ἐσωτέρω
+eng:espadon --> fra:espadon --> spa:espadon
+eng:espadrille --> fra:espadrille
+eng:espalier --> fra:espalier --> ita:spalliera
+eng:esparcet --> fra:esparcet
+eng:esparto --> spa:esparto --> lat:spartum
+eng:especially --> eng:especial
+eng:especialness --> eng:especial
+eng:esper --> eng:ESP
+eng:esperance --> fra:esperance
+eng:Esperantism --> eng:Esperanto --> epo:esperanto --> fra:espérer --> lat:sperare
+eng:Esperantist --> epo:Esperantisto
+eng:Esperanto --> epo:esperanto --> fra:espérer --> lat:sperare
+eng:esplanaded --> eng:esplanade
+eng:esplees --> lat:expletia
+eng:e-sports --> eng:sports
+eng:espouse --> ang:espousen --> fro:espouser --> lat:sponsare
+eng:espouser --> eng:espouse --> ang:espousen --> fro:espouser --> lat:sponsare
+eng:espresso --> ita:espresso
+eng:esprit de corps --> fra:esprit de corps
+eng:esquire --> fro:escuyer
+eng:esquireship --> eng:esquire --> fro:escuyer
+eng:essay --> frm:essai
+eng:essayer --> eng:essay --> frm:essai
+eng:essayist --> eng:essay --> frm:essai
+eng:essayistic --> eng:essayist --> eng:essay --> frm:essai
+eng:essaylike --> eng:essay --> frm:essai
+eng:essence --> fra:essence --> lat:essentia
+eng:essenceless --> eng:essence --> fra:essence --> lat:essentia
+eng:Essenism --> eng:Essene
+eng:essential --> lat:essentialis --> lat:esse
+eng:essentiality --> eng:essential --> lat:essentialis --> lat:esse
+eng:essentialize --> eng:essential --> lat:essentialis --> lat:esse
+eng:essentially --> eng:essential --> lat:essentialis --> lat:esse
+eng:Essexian --> eng:Essex
+eng:essoin --> fro:essoinier
+eng:essoiner --> eng:essoin --> fro:essoinier
+eng:est --> enm:este --> ang:est
+eng:establish --> enm:establissen
+eng:establishable --> eng:establish --> enm:establissen
+eng:established --> eng:establish --> enm:establissen
+eng:establishment --> fro:establissement
+eng:estafette --> fra:estafette --> ita:staffetta --> ita:staffa
+eng:estaminet --> fra:estaminet
+eng:estate --> xno:astat --> fro:estat --> lat:status --> lat:stare
+eng:estated --> eng:estate --> xno:astat --> fro:estat --> lat:status --> lat:stare
+eng:e-statement --> eng:statement
+eng:esteemable --> eng:esteem
+eng:esteemer --> eng:esteem
+eng:esteemest --> eng:esteem
+eng:esterifiable --> eng:esterify --> eng:ester
+eng:esterify --> eng:ester
+eng:esthetical --> eng:esthetic
+eng:esthetically --> eng:esthetic
+eng:estheticism --> eng:esthetic
+eng:estimableness --> eng:estimable
+eng:estimably --> eng:estimable
+eng:estimate --> lat:aestimatus
+eng:estival --> lat:aestivalis --> lat:aestivus --> lat:aestas
+eng:e-store --> eng:store
+eng:estorie --> eng:historia --> grc:ἱστορία --> grc:ἱστορέω --> grc:ἵστωρ
+eng:estrade --> fra:estrade --> spa:estrado --> lat:stratum --> lat:stratus
+eng:estradiol --> eng:estrane
+eng:estragon --> fra:estragon
+eng:estrange --> fro:estranger --> lat:extraneus --> lat:extra --> lat:exter
+eng:estrangedness --> eng:estranged
+eng:estrangement --> fro:estrangement
+eng:estray --> xno:astrai --> xno:estray
+eng:estrogen --> eng:estrus
+eng:estrogenlike --> eng:estrogen --> eng:estrus
+eng:estuary --> lat:aestuarium
+eng:estuation --> lat:aestuatio
+eng:esurient --> lat:esurire --> lat:edo --> lat:e --> lat:et
+eng:et --> fra:et
+eng:eta --> grc:ἦτα
+eng:etabonate --> eng:etabonic
+eng:etaerio --> fra:étairion --> grc:ἑταιρεία
+eng:etagere --> fra:étagère --> oci:estagiera
+eng:e-tagging --> eng:tagging
+eng:e-tail --> eng:retail
+eng:e-tailer --> eng:retailer
+eng:e-tailing --> eng:retailing
+eng:etaracizumab
+eng:etatism --> fra:étatisme --> fra:état --> fro:estat --> lat:status --> lat:stare
+eng:etatisme --> fra:étatisme --> fra:état --> fro:estat --> lat:status --> lat:stare
+eng:etcetera --> lat:et cetera
+eng:et cetera --> lat:et cetera
+eng:e-tender --> eng:tender --> eng:tend --> enm:tenden --> ang:tendan
+eng:eterminable --> eng:terminable
+eng:eternal --> lat:aeternalis --> lat:aeternus --> lat:aeviternus
+eng:eternalism --> eng:eternal --> lat:aeternalis --> lat:aeternus --> lat:aeviternus
+eng:eternalist --> eng:eternal --> lat:aeternalis --> lat:aeternus --> lat:aeviternus
+eng:eternalize --> eng:eternal --> lat:aeternalis --> lat:aeternus --> lat:aeviternus
+eng:eternally --> eng:eternal --> lat:aeternalis --> lat:aeternus --> lat:aeviternus
+eng:eterne --> fro:eterne --> lat:aeternus --> lat:aeviternus
+eng:eternity --> lat:aeternitas --> lat:aeternus --> lat:aeviternus
+eng:etesian --> lat:etesius --> grc:ἐτήσιος --> grc:ἔτος
+eng:Ethan --> heb:איתן
+eng:ethane
+eng:ethanologenic --> eng:ethanol
+eng:ethel --> enm:ethel --> ang:æþel
+eng:Ethelbert --> ang:Æþelbeorht
+eng:ethenic --> eng:ethene
+eng:etheostomoid --> eng:Etheostoma
+eng:ether --> lat:aether --> grc:αἰθήρ --> grc:αἴθω
+eng:ethereal --> lat:aetherius --> grc:αἰθέριος
+eng:etherealness --> eng:ethereal --> lat:aetherius --> grc:αἰθέριος
+eng:ethereous --> lat:aethereus
+eng:etheric --> eng:ether --> lat:aether --> grc:αἰθήρ --> grc:αἴθω
+eng:etherify --> eng:ether --> lat:aether --> grc:αἰθήρ --> grc:αἴθω
+eng:etherin --> eng:ether --> lat:aether --> grc:αἰθήρ --> grc:αἴθω
+eng:etherize --> eng:ether --> lat:aether --> grc:αἰθήρ --> grc:αἴθω
+eng:etherlike --> eng:ether --> lat:aether --> grc:αἰθήρ --> grc:αἴθω
+eng:etherol --> eng:ether --> lat:aether --> grc:αἰθήρ --> grc:αἴθω
+eng:ethic --> fro:ethique --> lat:ethica --> grc:ἠθική
+eng:ethicalism --> eng:ethical
+eng:ethically --> eng:ethical
+eng:ethicless --> eng:ethic --> fro:ethique --> lat:ethica --> grc:ἠθική
+eng:ethics --> fro:ethique --> lat:ethica --> grc:ἠθική
+eng:ethification --> eng:ethical
+eng:ethify --> eng:ethical
+eng:ethionic acid --> eng:ethyl
+eng:Ethiopia --> grc:Αἰθιοπία --> grc:Αἰθίοψ
+eng:Ethiopian --> eng:Ethiopia --> grc:Αἰθιοπία --> grc:Αἰθίοψ
+eng:Ethiopianness --> eng:Ethiopian --> eng:Ethiopia --> grc:Αἰθιοπία --> grc:Αἰθίοψ
+eng:ethmoid --> grc:ἠθμοειδής --> grc:ἠθμός --> grc:ἤθειν
+eng:ethmoidal --> eng:ethmoid --> grc:ἠθμοειδής --> grc:ἠθμός --> grc:ἤθειν
+eng:ethnic --> fra:ethnique --> lat:ethnicus --> grc:ἐθνικός --> grc:ἔθνος
+eng:ethnicon --> grc:ἐθνικόν
+eng:ethno- --> grc:ἔθνος
+eng:ethnoarchaeology --> eng:archaeology --> grc:ἀρχαιολογία
+eng:ethnoastronomy --> eng:astronomy --> fro:astronomie --> lat:astronomia --> grc:ἀστρονομία --> grc:ἄστρον --> grc:ἀστήρ
+eng:ethnobotanist --> eng:botanist --> eng:botany
+eng:ethnobotany --> eng:botany
+eng:ethnoburb --> eng:burb
+eng:ethnocentric
+eng:ethnocentrism
+eng:ethnocidal --> eng:ethnocide
+eng:ethnocracy
+eng:ethnocrat --> eng:ethnic --> fra:ethnique --> lat:ethnicus --> grc:ἐθνικός --> grc:ἔθνος
+eng:ethnocritical --> eng:critical
+eng:ethnoculturally --> eng:ethnocultural
+eng:ethnogenesis
+eng:ethnography
+eng:ethnolinguistic --> eng:linguistic
+eng:ethnolinguistics --> eng:linguistics --> eng:linguist
+eng:ethnologically --> eng:ethnological
+eng:ethnomathematical --> eng:mathematical
+eng:ethnomedical --> eng:medical
+eng:ethnomedicine --> eng:medicine --> enm:medicin
+eng:ethnomethodological --> eng:ethnomethodology --> eng:methodology
+eng:ethnomethodologist --> eng:ethnomethodology --> eng:methodology
+eng:ethnomethodology --> eng:methodology
+eng:ethnomimesis --> eng:mimesis --> grc:μίμησις --> grc:μιμεῖσθαι --> grc:μῖμος
+eng:ethnomusic --> eng:music --> xno:musik
+eng:ethnomusicologist --> eng:ethnomusicology
+eng:ethnonym
+eng:ethnonymic --> eng:ethnonym
+eng:ethnopedology --> eng:pedology
+eng:ethnopharmacology --> eng:pharmacology
+eng:ethnopoetics --> eng:poetics
+eng:ethnoracism --> eng:racism --> fra:racisme --> fra:race --> ita:razza --> goh:reiza
+eng:ethnoreligious --> eng:religious --> xno:relegius
+eng:ethnoreligiously --> eng:ethnoreligious --> eng:religious --> xno:relegius
+eng:ethnoscience --> eng:science
+eng:ethologic --> eng:ethology
+eng:ethologically --> eng:ethological
+eng:ethos --> grc:ἦθος
+eng:ethylenic --> eng:ethylene
+eng:ethylic --> eng:ethyl
+eng:ethylmercurithiosalicylate --> eng:ethylmercurithiosalicylic
+eng:ethylphenacemide --> eng:ethyl
+eng:ethylxanthate --> eng:ethylxanthic
+eng:ethylxanthogenate --> eng:ethylxanthogenic
+eng:e-ticket --> eng:ticket --> fro:estiquet
+eng:e-ticketing --> eng:ticketing
+eng:etiolate --> fra:étioler
+eng:etiologically --> eng:etiologic
+eng:etiologist --> eng:etiology
+eng:Etnean --> lat:Aetnaeus
+eng:etoile --> fra:étoile
+eng:etolin --> eng:etiolate --> fra:étioler
+eng:e-trade --> eng:trade --> enm:trade
+eng:e-trading --> eng:trading
+eng:ettin --> enm:eten --> ang:etan
+eng:ettle --> enm:etlien
+eng:ettling --> enm:etlyng
+eng:etymologic --> eng:etymology --> enm:etimologie --> fro:ethimologie --> lat:etymologia --> grc:ἐτυμολογία
+eng:etymological --> eng:etymology --> enm:etimologie --> fro:ethimologie --> lat:etymologia --> grc:ἐτυμολογία
+eng:etymologically --> eng:etymological --> eng:etymology --> enm:etimologie --> fro:ethimologie --> lat:etymologia --> grc:ἐτυμολογία
+eng:etymologick --> eng:etymology --> enm:etimologie --> fro:ethimologie --> lat:etymologia --> grc:ἐτυμολογία
+eng:etymologise --> eng:etymology --> enm:etimologie --> fro:ethimologie --> lat:etymologia --> grc:ἐτυμολογία
+eng:etymologism --> eng:etymology --> enm:etimologie --> fro:ethimologie --> lat:etymologia --> grc:ἐτυμολογία
+eng:etymologizable --> eng:etymologize
+eng:etymologization --> eng:etymologize
+eng:etymology --> enm:etimologie --> fro:ethimologie --> lat:etymologia --> grc:ἐτυμολογία
+eng:etymon --> grc:ἔτυμον --> grc:ἔτυμος
+eng:etymonic --> eng:etymon --> grc:ἔτυμον --> grc:ἔτυμος
+eng:etypical --> eng:typical --> lat:typicalis --> lat:typicus --> grc:τυπικός
+eng:eu- --> grc:εὖ
+eng:euagaric --> eng:agaric --> lat:agaricum --> grc:ἀγαρικόν
+eng:euasterids I --> eng:asterids
+eng:euasterids II --> eng:asterids
+eng:eubacterium --> eng:bacterium
+eng:Euboea --> grc:Εὔβοια
+eng:Euboean --> eng:Euboea --> grc:Εὔβοια
+eng:eucalyptoid --> eng:eucalypt
+eng:eucalyptus --> fra:eucalyptus
+eng:eucaryotic --> eng:eucaryote
+eng:eucatastrophe --> eng:catastrophe --> grc:καταστροφή --> grc:καταστρέφω
+eng:eucatastrophic --> eng:eucatastrophe --> eng:catastrophe --> grc:καταστροφή --> grc:καταστρέφω
+eng:Eucharist --> enm:eukariste
+eng:Euchite --> grc:εὐχίτης
+eng:euchologue --> fra:euchologe
+eng:euchrone --> eng:euchroic
+eng:euclidianness --> eng:Euclidean
+eng:eucryptite
+eng:eucyclic --> eng:cyclic
+eng:eudæmonia --> eng:dæmonia
+eng:eudaemonism --> grc:εὐδαίμων
+eng:eudemonia --> grc:εὐδαιμονία
+eng:Eudoxian --> eng:Eudoxius
+eng:Eugene --> grc:εὐγένιος
+eng:Eugenia --> grc:Εὐγενία
+eng:eugenicism --> eng:eugenics
+eng:eugenicist --> eng:eugenic
+eng:eugenist --> eng:eugenic
+eng:eugonadal --> eng:gonadal
+eng:euharmonic --> eng:harmonic
+eng:euhedrally --> eng:euhedral
+eng:Euhemeros --> grc:Εὐήμερος
+eng:eukaryon --> eng:karyon
+eng:eukaryote
+eng:eukaryotic --> eng:eukaryote
+eng:eulachon --> chn:ulakan
+eng:Eulerian --> eng:Euler
+eng:eulogization --> eng:eulogize
+eng:eulogy --> grc:εὐλογία --> grc:εὔλογος
+eng:eumelanogenesis --> eng:melanogenesis
+eng:eunoia --> grc:εὔνοια
+eng:Eunomia --> grc:Εὐνομία
+eng:Eunomian --> eng:Eunomius
+eng:eunuchate --> lat:eunuchatus
+eng:eunuchlike --> eng:eunuch
+eng:eunuchoid --> eng:eunuch
+eng:euonym
+eng:euonymin --> eng:Euonymus
+eng:eupepsia --> grc:εὔπεπτος
+eng:euphenics --> eng:phenotype
+eng:euphobia
+eng:euphonic --> eng:euphony --> grc:εὐφωνία --> grc:εὔφωνος
+eng:euphonically --> eng:euphonic --> eng:euphony --> grc:εὐφωνία --> grc:εὔφωνος
+eng:euphonious --> eng:euphony --> grc:εὐφωνία --> grc:εὔφωνος
+eng:euphonium --> grc:εὔφωνος
+eng:euphoniumist --> eng:euphonium --> grc:εὔφωνος
+eng:euphony --> grc:εὐφωνία --> grc:εὔφωνος
+eng:euphorbin --> eng:Euphorbia
+eng:Euphrates --> grc:Εὐφράτης --> peo:𐎢𐎳𐎼𐎠𐎬𐎢
+eng:Euphrosyne --> grc:Εὐφροσύνη
+eng:euphuistically --> eng:euphuistic
+eng:eupittonic --> eng:eupittone
+eng:euplasia
+eng:euplastic --> eng:plastic --> lat:plasticus --> grc:πλαστικός --> grc:πλάσσειν
+eng:Eurabia --> eng:Arabia --> lat:Arabia --> grc:Ἀραβία
+eng:Euramerica --> eng:America --> eng:Americus
+eng:Eurasia --> eng:Asia --> grc:Ἀσία
+eng:eureka --> grc:εὕρηκα
+eng:euripe --> fra:euripe --> lat:euripus --> grc:Εὔρῑπος
+eng:Euripides --> grc:Εὐριπίδης
+eng:euritic --> eng:eurite
+eng:euro --> adt:yuru
+eng:Eurobond --> eng:bond --> enm:bond
+eng:Eurocent --> eng:cent --> fro:cent --> lat:centum
+eng:Eurocentrically --> eng:Eurocentric
+eng:Eurocheque --> eng:cheque
+eng:Eurocrat --> eng:bureaucrat --> fra:bureaucrate --> fra:bureaucratie --> fra:bureau --> fra:bure
+eng:Eurodance --> eng:dance --> enm:daunsen --> xno:dancer
+eng:eurodemo --> eng:demo --> eng:demonstration --> lat:demonstrationem --> lat:demonstrare
+eng:Eurodeputy --> eng:deputy --> fra:député --> lat:deputatus
+eng:Eurodollar --> eng:dollar --> nld:daler --> deu:Taler
+eng:Eurofag --> eng:fag
+eng:euroization --> eng:euro --> adt:yuru
+eng:euroize --> eng:euro --> adt:yuru
+eng:Europa --> grc:Εὐρώπα
+eng:Europe --> grc:Εὐρώπη
+eng:European --> fra:Européen
+eng:Europeanism --> eng:European --> fra:Européen
+eng:Europeanist --> eng:European --> fra:Européen
+eng:Europeanly --> eng:European --> fra:Européen
+eng:Europeanness --> eng:European --> fra:Européen
+eng:Europessimism --> eng:pessimism --> lat:pessimus
+eng:Europewide --> eng:Europe --> grc:Εὐρώπη
+eng:europhile
+eng:Europlug --> eng:plug
+eng:Europudding --> eng:pudding
+eng:Euroregion --> eng:region --> xno:regiun --> lat:''[[regio]], regionem'', from ''[[regere]]''
+eng:Eurosclerosis --> eng:sclerosis --> grc:σκλήρωσις
+eng:eurosids I --> eng:rosids
+eng:eurosids II --> eng:rosids
+eng:Eurotrash --> eng:trash
+eng:Eurovision --> eng:vision --> lat:visio
+eng:Euro wasp --> eng:Euro
+eng:Eurus --> grc:Εὔρος
+eng:Euryale --> grc:Εὐρυάλη
+eng:Eurydice --> lat:Eurydice --> grc:Εὐρυδίκη
+eng:eurygnathous
+eng:euryhaline --> eng:haline
+eng:euryhalinity --> eng:halinity
+eng:eurypteroid --> eng:Eurypterus
+eng:eurytherm
+eng:eurythmy --> grc:εὐρυθμία --> grc:εὔρυθμος
+eng:eurytopic
+eng:Eusebian --> eng:Eusebius
+eng:eusocial --> eng:social --> frm:social --> lat:socialis --> lat:socius --> lat:sequor
+eng:eusociality --> eng:eusocial --> eng:social --> frm:social --> lat:socialis --> lat:socius --> lat:sequor
+eng:eusocially --> eng:eusocial --> eng:social --> frm:social --> lat:socialis --> lat:socius --> lat:sequor
+eng:eustress --> eng:stress --> enm:destresse
+eng:eutectic --> grc:εὔτηκτος
+eng:eutely --> grc:ευ
+eng:Euterpe --> grc:ευτέρπη
+eng:Euterpean --> eng:Euterpe --> grc:ευτέρπη
+eng:euthanasist --> eng:euthanasia
+eng:euthanization --> eng:euthanize
+eng:euthyroidism --> eng:euthyroid
+eng:eutrophy
+eng:Eutychianism --> eng:Eutychian
+eng:euxenite --> grc:εὔξενος
+eng:evacate --> eng:vacate
+eng:evacuate --> lat:evacuare
+eng:evadable --> eng:evade --> lat:evado
+eng:evade --> lat:evado
+eng:evadible --> eng:evade --> lat:evado
+eng:evadingly --> eng:evading
+eng:evadite --> lat:evadite
+eng:evagation --> lat:evagatio
+eng:eval --> lat:aevum
+eng:evaluable --> eng:evaluate
+eng:evaluatee --> eng:evaluate
+eng:evaluation --> frm:évaluation
+eng:evaluative --> eng:evaluate
+eng:evaluator --> eng:evaluate
+eng:evanesce --> lat:evanescere
+eng:evanescent --> lat:evanescens
+eng:evangelical --> eng:evangel
+eng:evangelically --> eng:evangelical --> eng:evangel
+eng:evangelicalness --> eng:evangelical --> eng:evangel
+eng:evangelism --> eng:evangel
+eng:evangelist --> fro:evangeliste
+eng:evangelize --> lat:évangéliser --> lat:evangelizare --> grc:εὐαγγελίζω --> grc:εὐάγγελος
+eng:evangile --> fra:évangile
+eng:evanid --> lat:evanidus
+eng:evansite --> eng:Evans
+eng:evasible --> eng:evade --> lat:evado
+eng:evasion --> lat:evasionem
+eng:Eve --> grc:Εὔα --> heb:חוה
+eng:Evelike --> eng:Eve --> grc:Εὔα --> heb:חוה
+eng:even --> ang:efen
+eng:even-
+eng:even-christian --> enm:evencristen
+eng:evendown --> eng:down --> ang:dune
+eng:evene --> lat:evenio --> lat:e --> lat:et
+eng:evenhandedness --> eng:evenhanded
+eng:even-handedness --> eng:even-handed
+eng:evening --> ang:æfnung --> ang:æfnian
+eng:eveninger --> eng:evening --> ang:æfnung --> ang:æfnian
+eng:eveningless --> eng:evening --> ang:æfnung --> ang:æfnian
+eng:eveninglike --> eng:evening --> ang:æfnung --> ang:æfnian
+eng:eveningness --> eng:evening --> ang:æfnung --> ang:æfnian
+eng:eveningwear --> eng:evening --> ang:æfnung --> ang:æfnian
+eng:evenkite --> eng:Evenkia
+eng:evenlight --> enm:evenlight
+eng:evenly --> eng:even --> ang:efen
+eng:evenmete --> enm:efenmete
+eng:even-minded --> eng:even --> ang:efen
+eng:even-mindedness --> eng:even-minded --> eng:even --> ang:efen
+eng:evenold --> enm:efenald --> ang:efeneald
+eng:even steven --> eng:even --> ang:efen
+eng:event --> lat:eventus --> lat:evenio --> lat:e --> lat:et
+eng:eventful --> eng:event --> lat:eventus --> lat:evenio --> lat:e --> lat:et
+eng:eventhood --> eng:event --> lat:eventus --> lat:evenio --> lat:e --> lat:et
+eng:eventilate --> lat:eventilatus
+eng:eventing --> eng:event --> lat:eventus --> lat:evenio --> lat:e --> lat:et
+eng:eventless --> eng:event --> lat:eventus --> lat:evenio --> lat:e --> lat:et
+eng:eventlike --> eng:event --> lat:eventus --> lat:evenio --> lat:e --> lat:et
+eng:eventually --> eng:eventual
+eng:evenward --> eng:even --> ang:efen
+eng:ever --> enm:evere --> ang:æfre
+eng:everbearing --> eng:bearing
+eng:everbloomer --> eng:bloomer
+eng:evergreen --> eng:ever --> enm:evere --> ang:æfre
+eng:everlastable --> eng:everlast
+eng:everlasting --> eng:ever --> enm:evere --> ang:æfre
+eng:everlastingness --> eng:everlasting --> eng:ever --> enm:evere --> ang:æfre
+eng:everliving --> eng:ever --> enm:evere --> ang:æfre
+eng:everloving --> eng:ever --> enm:evere --> ang:æfre
+eng:everwhat --> eng:ever --> enm:evere --> ang:æfre
+eng:every --> enm:everich
+eng:everybody --> eng:body --> enm:body
+eng:everydayness --> eng:everyday
+eng:everydude --> eng:dude
+eng:everyguy --> eng:every --> enm:everich
+eng:everyone --> enm:everichon
+eng:everyplace --> eng:every --> enm:everich
+eng:everything --> eng:every --> enm:everich
+eng:everywhere --> eng:every --> enm:everich
+eng:everywhereness --> eng:everywhere --> eng:every --> enm:everich
+eng:evetime --> eng:eve
+eng:evibrate --> lat:evibrare
+eng:evict --> lat:evincere
+eng:evictable --> eng:evict --> lat:evincere
+eng:evictee --> eng:evict --> lat:evincere
+eng:evidenceless --> eng:evidence
+eng:evidencer --> eng:evidence
+eng:evidentialist --> eng:evidential
+eng:evidently --> eng:evident
+eng:evidentness --> eng:evident
+eng:evil --> ang:yfel
+eng:evilness --> eng:evil --> ang:yfel
+eng:evince --> fra:evincer --> lat:evincere
+eng:evirate --> lat:eviratus
+eng:eviration --> lat:eviratio
+eng:eviscerate --> lat:evisceratus
+eng:Evita --> spa:Evita
+eng:evitability --> eng:evitable --> lat:evitabilis --> lat:evitare
+eng:evitable --> lat:evitabilis --> lat:evitare
+eng:evitably --> eng:evitable --> lat:evitabilis --> lat:evitare
+eng:evitation --> lat:evitatio
+eng:evitative --> lat:evitare
+eng:eviternal --> lat:eviternus
+eng:evocate --> lat:evocare
+eng:evocative --> lat:evocativius
+eng:evocativeness --> eng:evocative --> lat:evocativius
+eng:evoke --> lat:evoco
+eng:evolation --> lat:evolatio
+eng:evolution --> lat:evolutio --> lat:evolutus
+eng:evolutionarily --> eng:evolutionary --> eng:evolution --> lat:evolutio --> lat:evolutus
+eng:evolutionary --> eng:evolution --> lat:evolutio --> lat:evolutus
+eng:evolutionism --> eng:evolution --> lat:evolutio --> lat:evolutus
+eng:evolutionlike --> eng:evolution --> lat:evolutio --> lat:evolutus
+eng:evolve --> lat:evolvere
+eng:evolvedness --> eng:evolved
+eng:evolvent --> lat:evolvens
+eng:evolvingly --> eng:evolving
+eng:e-voter --> eng:voter --> eng:vote --> lat:votum --> lat:voveo
+eng:e-voting --> eng:voting
+eng:evulgate --> lat:evulgatus
+eng:evulsion --> lat:evulsionem
+eng:e-wallet --> eng:wallet --> enm:walet
+eng:Ewan --> gla:Eòghan
+eng:e-warfare --> eng:warfare
+eng:ewer --> xno:ewer --> xno:ewe --> fro:eve --> lat:aqua
+eng:exa- --> grc:ἕξ
+eng:exabyte --> eng:byte
+eng:exacerbatingly --> eng:exacerbating
+eng:exacerbescence --> lat:exacerbescens
+eng:exacta --> eng:exact
+eng:exactamundo --> eng:exact
+eng:exactitude --> fra:exactitude --> lat:exactus
+eng:exactly --> eng:exact
+eng:exactness --> eng:exact
+eng:exaflop --> eng:FLOP
+eng:exaggerate --> lat:exaggeratus
+eng:exaggeration --> lat:exaggeratio
+eng:exalbuminous --> eng:albuminous
+eng:exalt --> lat:exaltare
+eng:exaltation --> fra:exaltation --> lat:exaltatio --> lat:exalto
+eng:examinationless --> eng:examination
+eng:examine --> fro:examiner --> lat:examinare
+eng:examinee --> eng:examine --> fro:examiner --> lat:examinare
+eng:example --> enm:example --> fro:essample --> lat:exemplum --> lat:exemptus
+eng:exanimation --> lat:exanimatio
+eng:exanimous --> lat:exanimus
+eng:exannulate --> eng:annulate
+eng:exantlate --> lat:exantlatus
+eng:exantlation --> eng:exantlate --> lat:exantlatus
+eng:exaration --> lat:exaratio
+eng:exarchal --> eng:exarch
+eng:exarchate --> eng:exarch
+eng:exarillate --> eng:arillate
+eng:exarticulate --> eng:articulate --> lat:articulatus
+eng:exarticulation --> eng:articulation --> fro:articulacion --> lat:articulatio
+eng:exascale --> eng:scale --> enm:scale --> ang:scealu
+eng:exasperater --> eng:exasperate
+eng:exaugurate --> lat:exauguratus
+eng:exauthorate --> lat:exauctoratus
+eng:exauthorize --> eng:authorize --> fro:autoriser
+eng:exbi- --> eng:binary --> lat:binarius --> lat:bini
+eng:Excalibur --> enm:Excalaber --> fro:Escalibor
+eng:excaudate --> eng:caudate
+eng:excavatable --> eng:excavate
+eng:excavation --> lat:excavatio --> lat:excavo
+eng:excecate --> lat:excaecatus
+eng:excede --> lat:excedo
+eng:exceed --> enm:exceden --> fro:exceder --> lat:excedere
+eng:exceeder --> eng:exceed --> enm:exceden --> fro:exceder --> lat:excedere
+eng:exceedest --> eng:exceed --> enm:exceden --> fro:exceder --> lat:excedere
+eng:exceeding --> eng:exceed --> enm:exceden --> fro:exceder --> lat:excedere
+eng:exceedingly --> eng:exceeding --> eng:exceed --> enm:exceden --> fro:exceder --> lat:excedere
+eng:excel --> lat:excellere
+eng:excellence --> lat:excellentia --> lat:excellens
+eng:excellent --> lat:excellens
+eng:excellently --> eng:excellent --> lat:excellens
+eng:excellentness --> eng:excellent --> lat:excellens
+eng:excellest --> eng:excel --> lat:excellere
+eng:excelsior --> lat:excelsior --> lat:excelsus --> lat:excello
+eng:excentral --> eng:centre
+eng:excentric
+eng:except --> lat:exceptus
+eng:exceptionableness --> eng:exceptionable
+eng:exceptionalist --> eng:exceptional
+eng:exceptionally --> eng:exceptional
+eng:exceptionalness --> eng:exceptional
+eng:exceptioner --> eng:exception
+eng:exceptless --> eng:except --> lat:exceptus
+eng:excerp --> lat:excerpere
+eng:excerpt --> lat:excerptus
+eng:excerption --> lat:excerptio
+eng:excerptor --> eng:excerpt --> lat:excerptus
+eng:excess --> enm:exces --> lat:excessus --> lat:excedere
+eng:excessively --> eng:excessive
+eng:exchange --> enm:eschaunge --> xno:eschaunge --> fro:eschange --> fro:eschanger
+eng:exchangeable --> eng:exchange --> enm:eschaunge --> xno:eschaunge --> fro:eschange --> fro:eschanger
+eng:exchangeably --> eng:exchangeable --> eng:exchange --> enm:eschaunge --> xno:eschaunge --> fro:eschange --> fro:eschanger
+eng:exchanger --> eng:exchange --> enm:eschaunge --> xno:eschaunge --> fro:eschange --> fro:eschanger
+eng:exchequership --> eng:exchequer
+eng:excimer
+eng:excisability --> eng:excise --> dum:excijs
+eng:excisable --> eng:excise --> dum:excijs
+eng:excise --> dum:excijs
+eng:excisional --> eng:excision
+eng:excitableness --> eng:excitable
+eng:excite --> enm:exciten
+eng:exciteableness --> eng:excitable
+eng:exciteful --> eng:excite --> enm:exciten
+eng:excitement --> eng:excite --> enm:exciten
+eng:excitingness --> eng:exciting
+eng:exciton
+eng:exclaim --> frm:exclamer --> lat:exclamare
+eng:exclaimer --> eng:exclaim --> frm:exclamer --> lat:exclamare
+eng:exclaimeth --> eng:exclaim --> frm:exclamer --> lat:exclamare
+eng:exclamatorily --> eng:exclamatory
+eng:excludable --> eng:exclude --> lat:excludere
+eng:exclude --> lat:excludere
+eng:exclusion --> lat:exclusionem
+eng:exclusionarily --> eng:exclusionary --> eng:exclusion --> lat:exclusionem
+eng:exclusionary --> eng:exclusion --> lat:exclusionem
+eng:exclusionism --> eng:exclusion --> lat:exclusionem
+eng:exclusive --> lat:exclusivus
+eng:exclusively --> eng:exclusive --> lat:exclusivus
+eng:exclusivize --> eng:exclusive --> lat:exclusivus
+eng:excoction --> lat:excoctio
+eng:excogitate --> lat:excōgitāre
+eng:excommunicate --> lat:excommunicatus
+eng:excoriate --> lat:excoriatus
+eng:excoriatingly --> eng:excoriating
+eng:excreate --> lat:excreare
+eng:excreation --> lat:excreatio
+eng:excrement --> lat:excrementum --> lat:excernere
+eng:excrementize --> eng:excrement --> lat:excrementum --> lat:excernere
+eng:excrescent --> lat:excrēscēns
+eng:excretable --> eng:excrete --> lat:excretum
+eng:excrete --> lat:excretum
+eng:excretin --> eng:excrete --> lat:excretum
+eng:excretive --> eng:excrete --> lat:excretum
+eng:excretorily --> eng:excretory
+eng:excruciable --> lat:excruciabilis
+eng:excruciate --> lat:excruciatus
+eng:excubation --> lat:excubatio
+eng:excursion --> lat:excursio --> lat:excurrere
+eng:excusation --> fra:excusation --> lat:excusationem
+eng:excuse --> enm:excusen --> fro:escuser --> lat:excuso
+eng:excuseless --> eng:excuse --> enm:excusen --> fro:escuser --> lat:excuso
+eng:excuser --> eng:excuse --> enm:excusen --> fro:escuser --> lat:excuso
+eng:excussion --> lat:excussus
+eng:execrable --> lat:exsecratus
+eng:execrate --> lat:exsecrari
+eng:execration --> lat:exsecratus
+eng:execute --> lat:exsecutus
+eng:executeth --> eng:execute --> lat:exsecutus
+eng:execution --> fro:execution --> lat:executio
+eng:executioner --> eng:execution --> fro:execution --> lat:executio
+eng:executioneress --> eng:executioner --> eng:execution --> fro:execution --> lat:executio
+eng:executionism --> eng:execution --> fro:execution --> lat:executio
+eng:executionist --> eng:execution --> fro:execution --> lat:executio
+eng:executive --> frm:executif
+eng:executively --> eng:executive --> frm:executif
+eng:executorial --> lat:executorialis
+eng:executorship --> eng:executor
+eng:executrix --> eng:execute --> lat:exsecutus
+eng:exegesis --> grc:ἐξήγησις --> grc:ἐξηγέομαι
+eng:exegete --> grc:ἐξηγητής
+eng:exemplar --> fra:exemplaire --> fra:exemple --> lat:exemplum --> lat:exemptus
+eng:exemplarily --> eng:exemplary
+eng:exemplariness --> eng:exemplary
+eng:exemplifiable --> eng:exemplify
+eng:exemplifier --> eng:exemplify
+eng:exemplum --> lat:exemplum --> lat:exemptus
+eng:exempt --> lat:exemptus
+eng:exemptible --> eng:exempt --> lat:exemptus
+eng:exemptional --> eng:exemption
+eng:exemptionalism --> eng:exemptional --> eng:exemption
+eng:exemptionalist --> eng:exemptional --> eng:exemption
+eng:exenteration --> lat:exenterare
+eng:exequatur --> lat:exequatur
+eng:exequial --> lat:exequialis
+eng:exequious --> eng:exequy
+eng:exercisable --> eng:exercise --> lat:exercitium --> lat:exerceo
+eng:exercise --> lat:exercitium --> lat:exerceo
+eng:exerciseth --> eng:exercise --> lat:exercitium --> lat:exerceo
+eng:exercitation --> lat:exercitatio
+eng:exergame --> eng:exercise --> lat:exercitium --> lat:exerceo
+eng:exergaming --> eng:exercise --> lat:exercitium --> lat:exerceo
+eng:exergasia --> grc:ἐξεργασία --> grc:ἐξεργάζομαι
+eng:exert --> lat:exsertus
+eng:exertainment --> eng:entertainment
+eng:exertional --> eng:exertion
+eng:exertive --> eng:exert --> lat:exsertus
+eng:exertment --> eng:exert --> lat:exsertus
+eng:exesion --> lat:exedere
+eng:exessive --> eng:essive
+eng:exestuate --> lat:exaestuatus
+eng:exestuation --> lat:exaestuatio
+eng:exeunt --> lat:exeunt
+eng:exfetation --> eng:fetation
+eng:exfoliator --> eng:exfoliate
+eng:exfriend --> eng:friend --> enm:frende --> ang:freond
+eng:exhalable --> eng:exhale --> fra:exhaler --> lat:exhalare
+eng:exhale --> fra:exhaler --> lat:exhalare
+eng:exhalement --> eng:exhale --> fra:exhaler --> lat:exhalare
+eng:exhaust --> lat:exhaustus
+eng:exhaustedly --> eng:exhausted
+eng:exhauster --> eng:exhaust --> lat:exhaustus
+eng:exhaustless --> eng:exhaust --> lat:exhaustus
+eng:exhaustlessness --> eng:exhaustless --> eng:exhaust --> lat:exhaustus
+eng:exhaustment --> eng:exhaust --> lat:exhaustus
+eng:exhereditation --> lat:exhereditare
+eng:exhibit --> lat:exhibitus
+eng:exhibitable --> eng:exhibit --> lat:exhibitus
+eng:exhibiter --> eng:exhibit --> lat:exhibitus
+eng:exhibition --> fro:exhibicion --> lat:exhibitio
+eng:exhibitioner --> eng:exhibition --> fro:exhibicion --> lat:exhibitio
+eng:exhibitionist --> eng:exhibition --> fro:exhibicion --> lat:exhibitio
+eng:exhibitionistically --> eng:exhibitionistic
+eng:exhibitry --> eng:exhibit --> lat:exhibitus
+eng:exhilarate --> lat:exhilarare
+eng:exhilaratingly --> eng:exhilarating
+eng:exhort --> lat:exhortor
+eng:exhortation --> lat:exhortationem
+eng:exhortative --> lat:exhortativus --> lat:exhortatus
+eng:exhortatively --> eng:exhortative --> lat:exhortativus --> lat:exhortatus
+eng:exhorter --> eng:exhort --> lat:exhortor
+eng:exhortingly --> eng:exhorting
+eng:exigent --> lat:exigens
+eng:exigenter --> eng:exigent --> lat:exigens
+eng:exiguous --> lat:exiguus --> lat:exigo --> lat:ago
+eng:exiguously --> eng:exiguous --> lat:exiguus --> lat:exigo --> lat:ago
+eng:exile --> enm:exil
+eng:exility --> lat:exilitatem
+eng:eximious --> lat:eximius --> lat:eximo
+eng:exinitic --> eng:exinite
+eng:exist --> lat:existo
+eng:existable --> eng:exist --> lat:existo
+eng:existence --> fro:existence --> lat:existentia
+eng:existenceless --> eng:existence --> fro:existence --> lat:existentia
+eng:existent --> lat:existens --> lat:existere
+eng:existential --> fro:existence --> lat:existentia
+eng:exister --> eng:exist --> lat:existo
+eng:existest --> eng:exist --> lat:existo
+eng:existeth --> eng:exist --> lat:existo
+eng:existible --> eng:exist --> lat:existo
+eng:exitless --> eng:exit
+eng:exitlessness --> eng:exitless --> eng:exit
+eng:ex libris --> lat:ex libris
+eng:Exmoorian --> eng:Exmoor
+eng:exo- --> grc:ἔξω
+eng:exoantigen --> eng:antigen --> fra:antigène --> fra:gène
+eng:exoatmospheric --> eng:atmospheric --> eng:atmosphere --> lat:atmosphaera
+eng:exoatmospherically --> eng:exoatmospheric --> eng:atmospheric --> eng:atmosphere --> lat:atmosphaera
+eng:exobiological --> eng:exobiology --> eng:biology
+eng:exobiologically --> eng:exobiological --> eng:exobiology --> eng:biology
+eng:exobiologist --> eng:biologist
+eng:exobiology --> eng:biology
+eng:exocannibalism --> eng:cannibalism
+eng:exocellular --> eng:cellular
+eng:exocervix --> eng:cervix --> lat:cervix
+eng:Exocet --> fra:exocet
+eng:exocuticle --> eng:cuticle --> lat:cuticula
+eng:Exodus --> grc:ἔξοδος
+eng:exoenergic --> eng:energic
+eng:exofacial --> eng:facial
+eng:exogamous --> eng:exogamy
+eng:exogen
+eng:exogenetic --> eng:genetic
+eng:exogeography --> eng:geography
+eng:exogeology --> eng:geology
+eng:exogeomorphology --> eng:geomorphology --> eng:morphology
+eng:exoglossic --> eng:glossic
+eng:exokernel --> eng:kernel --> ang:cyrnel
+eng:exolabial --> eng:labial
+eng:exolve --> lat:exolvere
+eng:exomoon --> eng:moon --> enm:mone --> ang:mona
+eng:exonarthex --> eng:narthex --> grc:νάρθηξ
+eng:exoneree --> eng:exonerate
+eng:exonormative --> eng:normative --> fra:normatif --> fra:norme
+eng:exonumia --> eng:numia
+eng:exonym
+eng:exophobic
+eng:exoplanetary --> eng:exoplanet
+eng:exoplanetology --> eng:planetology
+eng:exopolysaccharide --> eng:polysaccharide
+eng:exoprotease --> eng:protease
+eng:exoproteolytic --> eng:proteolytic
+eng:exoptable --> lat:exoptabilis
+eng:exorbital --> eng:orbital
+eng:exorbitate --> lat:exorbitatus
+eng:exorcisable --> eng:exorcise --> fro:exorciser
+eng:exorcise --> fro:exorciser
+eng:exorciser --> eng:exorcise --> fro:exorciser
+eng:exord --> lat:exordium --> lat:exordior
+eng:exordium --> lat:exordium --> lat:exordior
+eng:exoribonuclease --> eng:ribonuclease
+eng:exornation --> lat:exornatio
+eng:exoscopy
+eng:exosite --> eng:site
+eng:exoskeletally --> eng:exoskeletal
+eng:exoskeleton --> eng:skeleton --> grc:σκελετός --> grc:σκελλώ
+eng:exosmosis --> eng:osmosis
+eng:exosseous --> eng:osseous
+eng:exosubstance --> eng:substance --> fro:substance --> lat:substantia --> lat:substans
+eng:exosystem --> eng:system
+eng:exoteric --> lat:exotericus --> grc:ἐξωτερικός
+eng:exotic --> lat:exoticus --> grc:ἐξωτικός
+eng:exoticism --> eng:exotic --> lat:exoticus --> grc:ἐξωτικός
+eng:exoticize --> eng:exotic --> lat:exoticus --> grc:ἐξωτικός
+eng:exozodiacal --> eng:zodiacal --> eng:zodiac
+eng:expandable --> eng:expand
+eng:expandingly --> eng:expanding
+eng:expandingness --> eng:expanding
+eng:expanse --> lat:expando
+eng:expansiveness --> eng:expansive
+eng:expect --> lat:expectare
+eng:expectation --> lat:expectationem
+eng:expectedly --> eng:expected
+eng:expectedness --> eng:expected
+eng:expecter --> eng:expect --> lat:expectare
+eng:expectest --> eng:expect --> lat:expectare
+eng:expectingly --> eng:expecting
+eng:expectorate --> lat:expectoratus
+eng:expediate --> lat:expedio
+eng:expeditate --> lat:expeditatus
+eng:expedite --> lat:expeditus
+eng:expeditely --> eng:expedite --> lat:expeditus
+eng:expediteness --> eng:expedite --> lat:expeditus
+eng:expediter --> eng:expedite --> lat:expeditus
+eng:expedition --> lat:expeditio
+eng:expeditionist --> eng:expedition --> lat:expeditio
+eng:expeditious --> eng:expedite --> lat:expeditus
+eng:expeditiously --> eng:expeditious --> eng:expedite --> lat:expeditus
+eng:expellable --> eng:expel
+eng:expendability --> eng:expendable
+eng:expender --> eng:expend
+eng:expense --> lat:expensa --> lat:expendo
+eng:expenseful --> eng:expense --> lat:expensa --> lat:expendo
+eng:expenseless --> eng:expense --> lat:expensa --> lat:expendo
+eng:expensive --> lat:expensivus --> lat:expendere
+eng:expensively --> eng:expensive --> lat:expensivus --> lat:expendere
+eng:experienceable --> eng:experience
+eng:experiencedly --> eng:experienced
+eng:experienceless --> eng:experience
+eng:experiencer --> eng:experience
+eng:experiencewise --> eng:experience
+eng:experient --> lat:experiri
+eng:experientialism --> eng:experiential
+eng:experientialist --> eng:experiential
+eng:experientially --> eng:experiential
+eng:experimentalism --> eng:experimental
+eng:experimentality --> eng:experimental
+eng:experimentalize --> eng:experimental
+eng:experimentalness --> eng:experimental
+eng:experimentarian --> eng:experiment
+eng:experimentee --> eng:experiment
+eng:expert --> lat:expertus
+eng:expertise --> fra:expertise
+eng:expertize --> eng:expert --> lat:expertus
+eng:expiable --> eng:expiate --> lat:expiatum
+eng:expiate --> lat:expiatum
+eng:expilator --> lat:expilator
+eng:expirable --> eng:expire
+eng:expiree --> eng:expire
+eng:expirest --> eng:expire
+eng:expireth --> eng:expire
+eng:explain --> enm:explanen --> fro:explaner --> lat:explanō
+eng:explainable --> eng:explain --> enm:explanen --> fro:explaner --> lat:explanō
+eng:explanation --> lat:explanatio
+eng:explanationism --> eng:explanation --> lat:explanatio
+eng:explanationist --> eng:explanation --> lat:explanatio
+eng:explanatorily --> eng:explanatory
+eng:explanatoriness --> eng:explanatory
+eng:explementary --> eng:explement
+eng:expletive --> lat:expletivus --> lat:expletus
+eng:expletively --> eng:expletive --> lat:expletivus --> lat:expletus
+eng:explicableness --> eng:explicable
+eng:explicandum --> lat:explico
+eng:explicate --> lat:explicare
+eng:explicative --> lat:explico
+eng:explicatory --> lat:explico
+eng:explicitly --> eng:explicit
+eng:explicitness --> eng:explicit
+eng:explodingly --> eng:exploding
+eng:exploitability --> eng:exploitable
+eng:exploitably --> eng:exploitable
+eng:exploitation --> fra:exploitation
+eng:exploitationer --> eng:exploitation --> fra:exploitation
+eng:exploitative --> eng:exploitation --> fra:exploitation
+eng:exploitatively --> eng:exploitative --> eng:exploitation --> fra:exploitation
+eng:exploitativeness --> eng:exploitative --> eng:exploitation --> fra:exploitation
+eng:exploitee --> eng:exploit
+eng:exploitive --> eng:exploit
+eng:explorable --> eng:explore
+eng:exploratoriness --> eng:exploratory
+eng:explorement --> eng:explore
+eng:explornography --> eng:explore
+eng:explosion --> lat:explosionis
+eng:explosionlike --> eng:explosion --> lat:explosionis
+eng:explosively --> eng:explosive
+eng:exponentially --> eng:exponential
+eng:exponentiator --> eng:exponentiate
+eng:export --> lat:exportare
+eng:exporter --> eng:export --> lat:exportare
+eng:exportieren --> eng:export --> lat:exportare
+eng:expose --> frm:exposer --> lat:expono --> lat:pono
+eng:exposé --> fra:exposé
+eng:exposedness --> eng:exposed
+eng:exposeome --> eng:exposure
+eng:exposer --> eng:expose --> frm:exposer --> lat:expono --> lat:pono
+eng:expositional --> eng:exposition
+eng:expositionary --> eng:exposition
+eng:expositorily --> eng:expository
+eng:expostulatingly --> eng:expostulating
+eng:expostulation --> lat:expostulationem
+eng:expostulatory --> eng:expostulate
+eng:express --> fra:exprès --> lat:expressus
+eng:expressage --> eng:express --> fra:exprès --> lat:expressus
+eng:expresser --> eng:express --> fra:exprès --> lat:expressus
+eng:expressionistically --> eng:expressionistic
+eng:expressionless --> eng:expression
+eng:expressiveness --> eng:expressive
+eng:expressivism --> eng:expressive
+eng:expressivist --> eng:expressive
+eng:expressivity --> eng:expressive
+eng:expressly --> eng:express --> fra:exprès --> lat:expressus
+eng:expressness --> eng:express --> fra:exprès --> lat:expressus
+eng:ex professo --> lat:ex professo
+eng:expropriation --> eng:expropriate
+eng:expugn --> fra:expugner --> lat:expugnare
+eng:expugnable --> lat:expugnabilis
+eng:expugnation --> lat:expugnatio
+eng:expugner --> eng:expugn --> fra:expugner --> lat:expugnare
+eng:expulsionism --> eng:expulsion
+eng:expulsionist --> eng:expulsion
+eng:expunge --> lat:expungere
+eng:expurgate --> lat:expurgatus
+eng:exquisite --> lat:exquisitus
+eng:exquisitiveness --> eng:exquisitive
+eng:exradio --> eng:radio --> lat:radius
+eng:exsanguine --> eng:sanguine --> fra:sanguin
+eng:ex-Scientologist --> eng:Scientologist
+eng:exscind --> lat:exscindo
+eng:exscript --> lat:exscriptus
+eng:exscriptural --> eng:Scriptural
+eng:ex-serviceman --> eng:serviceman --> eng:service --> fro:servise --> lat:servitium --> lat:servus
+eng:exsolve --> lat:exsolvere
+eng:exspoliation --> lat:exspoliatio
+eng:exsuccous --> lat:exsuccus
+eng:exsuction --> lat:exsugere
+eng:exsuscitation --> lat:exsuscitatio
+eng:extancy --> lat:extantia
+eng:extatical --> eng:extatic
+eng:extelligence --> eng:intelligence --> fro:intelligence
+eng:extemporal --> lat:extemporalis
+eng:extemporally --> eng:extemporal --> lat:extemporalis
+eng:extemporaneous --> lat:extemporaneus --> lat:ex tempore
+eng:extemporarily --> eng:extemporary
+eng:extemporizer --> eng:extemporize
+eng:extend --> lat:extendo
+eng:extendedly --> eng:extended
+eng:extender --> eng:extend --> lat:extendo
+eng:extense --> lat:extensus
+eng:extensibleness --> eng:extensible
+eng:extensionally --> eng:extensional
+eng:extensionist --> eng:extension
+eng:extensively --> eng:extensive
+eng:extent --> xno:extente --> fro:estente --> fro:extendre --> lat:extendere
+eng:extenuate --> lat:extenuatus
+eng:extenuatingly --> eng:extenuating
+eng:exteriorize --> eng:exterior
+eng:exteriourly --> eng:exteriour
+eng:exterminate --> lat:exterminatus
+eng:extermination --> eng:exterminate --> lat:exterminatus
+eng:exterminationism --> eng:extermination --> eng:exterminate --> lat:exterminatus
+eng:exterminationist --> eng:extermination --> eng:exterminate --> lat:exterminatus
+eng:extermine --> fra:exterminer
+eng:extern --> lat:externus --> lat:exter
+eng:external --> lat:externus --> lat:exter
+eng:externalist --> eng:external --> lat:externus --> lat:exter
+eng:externalistically --> eng:externalistic
+eng:externalizer --> eng:externalize
+eng:externalness --> eng:external --> lat:externus --> lat:exter
+eng:extersion --> lat:extergere
+eng:extill --> lat:extillare
+eng:extimulate --> lat:extimulatus
+eng:extinction --> fra:extinction --> lat:extinctio
+eng:extinctionism --> eng:extinction --> fra:extinction --> lat:extinctio
+eng:extinctionist --> eng:extinction --> fra:extinction --> lat:extinctio
+eng:extinctness --> eng:extinct
+eng:extinguish --> lat:extinguo
+eng:extirpate --> lat:exstirpo
+eng:extirpative --> eng:extirpate --> lat:exstirpo
+eng:extirpator --> eng:extirpate --> lat:exstirpo
+eng:extispicy --> lat:extispicium
+eng:extoller --> eng:extol
+eng:extollingly --> eng:extolling
+eng:extort --> lat:extortus
+eng:extorter --> eng:extort --> lat:extortus
+eng:extortionist --> eng:extortion
+eng:extra- --> lat:extra --> lat:exter
+eng:extra-amniotic --> eng:amniotic
+eng:extraaxillary --> eng:axillary
+eng:extrabiblical --> eng:biblical
+eng:extrabodily --> eng:bodily --> eng:body --> enm:body
+eng:extrabranchial --> eng:branchial
+eng:extracapsular --> eng:capsular
+eng:extracardiac --> eng:cardiac --> grc:καρδιακός --> grc:καρδία
+eng:extracellular --> eng:cellular
+eng:extracelomic --> eng:celomic
+eng:extracerebral --> eng:cerebral --> fra:cérébral --> lat:cerebrum
+eng:extrachromosomally --> eng:extrachromosomal
+eng:extracoital --> eng:coital
+eng:extracolonic --> eng:colonic
+eng:extraconstitutional --> eng:constitutional
+eng:extracontinental --> eng:continental
+eng:extracontractual --> eng:contractual
+eng:extracorporeal --> eng:corporeal --> lat:corporeus --> lat:corpus
+eng:extracorporeally --> eng:extracorporeal --> eng:corporeal --> lat:corporeus --> lat:corpus
+eng:extracorpuscular --> eng:corpuscular
+eng:extracranial --> eng:cranial
+eng:extracranially --> eng:extracranial --> eng:cranial
+eng:extract --> lat:extractum
+eng:extracytoplasmic --> eng:cytoplasmic
+eng:extradentary --> eng:dentary
+eng:extra dictionem --> lat:extra dictionem
+eng:extraditee --> eng:extradite
+eng:extradural --> eng:dural
+eng:extraembryonic --> eng:embryonic
+eng:extrafamilial --> eng:familial
+eng:extrafloral --> eng:floral
+eng:extrafoliaceous --> eng:foliaceous
+eng:extragastrointestinal --> eng:gastrointestinal
+eng:extragenetic --> eng:genetic
+eng:extragenital --> eng:genital
+eng:extraglomerular --> eng:glomerular
+eng:extragonadal --> eng:gonadal
+eng:extraintestinal --> eng:intestinal
+eng:extralegally --> eng:extralegal
+eng:extraligamentous --> eng:ligamentous
+eng:extralimital --> eng:limital
+eng:extralimitary --> eng:limitary
+eng:extralinguistic --> eng:linguistic
+eng:extraliterary --> eng:literary --> fra:littéraire --> lat:litterarius
+eng:extra-liturgical --> eng:liturgical
+eng:extralogical --> eng:logical --> eng:logic --> fro:logike --> lat:logica --> grc:λογική
+eng:extralong --> eng:extra
+eng:extramatrical --> eng:matrical
+eng:extramembrane --> eng:membrane --> lat:membrana --> lat:membrum
+eng:extramembranous --> eng:membranous --> fra:membraneux --> lat:membraneus --> lat:membrana --> lat:membrum
+eng:extramitochondrial --> eng:mitochondrial --> eng:mitochondria
+eng:extramundane --> eng:mundane --> lat:mundanus
+eng:extramusical --> eng:musical
+eng:extra-natural --> lat:extranaturalis
+eng:extraneous --> lat:extraneus --> lat:extra --> lat:exter
+eng:extraness --> eng:extra
+eng:extranet --> eng:net --> ang:net
+eng:extraneural --> eng:neural
+eng:extraneuronal --> eng:neuronal
+eng:extranigral --> eng:nigral --> eng:nigra
+eng:extranodal --> eng:nodal
+eng:extranoematic --> eng:noematic --> grc:νοηματικός
+eng:extranuclear --> eng:nuclear --> eng:nucleus --> lat:nucleus
+eng:extraofficial --> eng:official --> fro:official --> lat:officium
+eng:extraoral --> eng:oral --> lat:oralis --> lat:os
+eng:extraordinarily --> eng:extraordinary --> lat:extraordinarius
+eng:extraordinary --> lat:extraordinarius
+eng:extrapallial --> eng:pallial
+eng:extraparliamentary --> eng:parliamentary
+eng:extraparochial --> eng:parochial
+eng:extrapelvic --> eng:pelvic
+eng:extraperitoneal --> eng:peritoneal
+eng:extraphysical --> eng:physical
+eng:extraplanar --> eng:planar --> lat:planarius --> lat:planum --> lat:planus --> grc:πλάνος
+eng:extraplanetary --> eng:planetary
+eng:extrapolar --> eng:polar
+eng:extraprofessional --> eng:professional
+eng:extraprostatic --> eng:prostatic
+eng:extraprovincial --> eng:provincial --> lat:provincialis
+eng:extrapulmonary --> eng:pulmonary --> lat:pulmonarius
+eng:extrapyramidal --> eng:pyramidal
+eng:extrarational --> eng:rational --> fro:rational --> lat:rationale
+eng:extraregular --> eng:regular --> xno:reguler
+eng:extrarenal --> eng:renal --> lat:renalis --> lat:renes
+eng:extrasaccular --> eng:saccular
+eng:extrasemantic --> eng:semantic
+eng:extrasensorily --> eng:extrasensory
+eng:extraskeletal --> eng:skeletal --> eng:skeleton --> grc:σκελετός --> grc:σκελλώ
+eng:extrasocietal --> eng:societal --> eng:society --> fro:societé --> lat:societas --> lat:socius --> lat:sequor
+eng:extraspectral --> eng:spectral
+eng:extrastapedial --> eng:stapedial
+eng:extrastriatal --> eng:striatal --> eng:striate --> lat:striatum
+eng:extrastriate --> eng:striate --> lat:striatum
+eng:extrasyllabicity --> eng:extrasyllabic
+eng:extratarsal --> eng:tarsal
+eng:extratelomeric --> eng:telomeric
+eng:extraterrestrial --> eng:terrestrial --> lat:terrestris --> lat:terra
+eng:extrathoracic --> eng:thoracic --> grc:θωρακικός --> grc:θώραξ
+eng:extrathymic --> eng:thymic
+eng:extratidal --> eng:tidal --> eng:tide --> enm:tide --> ang:tid
+eng:extratracheal --> eng:tracheal
+eng:extrauterine --> eng:uterine
+eng:extravagantly --> eng:extravagant
+eng:extravagantness --> eng:extravagant
+eng:extravaginal --> eng:vaginal --> eng:vagina --> lat:vagina
+eng:extravehicular --> eng:vehicular
+eng:extraventricular --> eng:ventricular
+eng:extraverbal --> eng:verbal
+eng:extraverbally --> eng:extraverbal --> eng:verbal
+eng:extravillous --> eng:villous
+eng:extravisual --> eng:visual
+eng:extravital --> eng:vital
+eng:extreamly --> eng:extream
+eng:extremal --> eng:extreme --> lat:extremus
+eng:extreme --> lat:extremus
+eng:extremely --> eng:extreme --> lat:extremus
+eng:extremer --> eng:extreme --> lat:extremus
+eng:extremest --> eng:extreme --> lat:extremus
+eng:extremity --> enm:extremite --> fro:extremite --> lat:extremitas
+eng:extremogram --> eng:extreme --> lat:extremus
+eng:extremum --> lat:extremus
+eng:extricate --> lat:extricatus
+eng:extrication --> eng:extricate --> lat:extricatus
+eng:extrinsic --> lat:extrinsecus
+eng:extropianism --> eng:extropian
+eng:extrovertedly --> eng:extroverted
+eng:extruct --> lat:extructus
+eng:extruction --> lat:exstructio
+eng:extrudite --> eng:extrude
+eng:extuberant --> lat:extuberare
+eng:extuberate --> lat:extuberatus
+eng:extuberation --> lat:extuberatio
+eng:exuberant --> lat:exuberans
+eng:exult --> lat:exsultare
+eng:exundate --> lat:exundatus
+eng:exundation --> lat:exundatio
+eng:exuperable --> lat:exuperabilis
+eng:exuperance --> lat:exuperantia
+eng:exustion --> lat:exustio
+eng:exuvia --> lat:exuvia --> lat:exuo
+eng:exuviae --> lat:exuo
+eng:exuvial --> lat:exuviae --> lat:exuo
+eng:exuviate --> lat:exuviae --> lat:exuo
+eng:ex vivo --> lat:''[[ex]] [[vivo]]''
+eng:ey --> enm:ey --> ang:æg
+eng:eyalet --> tur:ایالت
+eng:eyeball --> eng:ball --> enm:bal
+eng:eyebar --> eng:bar --> enm:barre --> fro:barre
+eng:eyeborg --> eng:cyborg --> eng:cybernetic --> grc:κυβερνητικός --> grc:κυβερνάω
+eng:eyebright --> eng:bright --> ang:bryht
+eng:eyebrowed --> eng:eyebrow
+eng:eyebrowless --> eng:eyebrow
+eng:eyebrowlike --> eng:eyebrow
+eng:eyecare --> eng:care --> enm:care --> ang:caru
+eng:eyeflap --> eng:eye
+eng:eyefuck --> eng:eye
+eng:eyeful --> eng:eye
+eng:eyegasm --> eng:eye
+eng:eyeglance --> eng:eye
+eng:eyehole --> eng:eye
+eng:eyehook --> eng:eye
+eng:eyeless --> eng:eye
+eng:eyelessness --> eng:eyeless --> eng:eye
+eng:eyelet --> eng:eye
+eng:eyeleteer --> eng:eyelet --> eng:eye
+eng:eyelid --> eng:eye
+eng:eyelidded --> eng:eyelid --> eng:eye
+eng:eyelift --> eng:eye
+eng:eyelike --> eng:eye
+eng:eyelinered --> eng:eyeliner
+eng:eyely --> eng:eye
+eng:eyemask --> eng:eye
+eng:eyepaint --> eng:eye
+eng:eyepatched --> eng:eyepatch
+eng:eyephone --> eng:eye
+eng:eyepiece --> eng:eye
+eng:eyepoint --> eng:eye
+eng:eyereach --> eng:eye
+eng:eyering --> eng:eye
+eng:eyesalve --> eng:eye
+eng:eyeservant --> eng:eye
+eng:eyeservice --> eng:eye
+eng:eyeshield --> eng:eye
+eng:eyeshine --> eng:eye
+eng:eyesight --> eng:eye
+eng:eyeslit --> eng:eye
+eng:eyesplice --> eng:eye
+eng:eyespot --> eng:eye
+eng:eyespotted --> eng:eyespot --> eng:eye
+eng:eyestone --> eng:eye
+eng:eyestrain --> eng:eye
+eng:eyestring --> eng:eye
+eng:eyewash --> eng:eye
+eng:eyewater --> eng:eye
+eng:eyewatering --> eng:eye
+eng:eyewear --> eng:eye
+eng:eyewink --> eng:eye
+eng:eyewinker --> eng:eye
+eng:eyne --> ang:ēaġan
+eng:eyot --> enm:eyt

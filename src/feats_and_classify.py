@@ -1,10 +1,12 @@
 import argparse
+import os
 from sklearn.linear_model.logistic import LogisticRegression
 from collections import Counter, defaultdict
 import networkx as nx
 from sklearn.feature_extraction import DictVectorizer
 from nltk.corpus import wordnet as wn
 from cwi_util import *
+import porter
 
 class WordInContext:
     def __init__(self,sentence,index,word,lemma,pos,namedentity,label,heads,deprels):
@@ -30,8 +32,8 @@ class WordInContext:
 
     def a_simple_feats(self): #
         D = {}
-        D["a_form"] = self.word
-        D["a_lemma"] = self.lemma
+        #D["a_form"] = self.word
+        #D["a_lemma"] = self.lemma
         D["a_pos"] = self.pos
         D["a_namedentity"] = self.a_namedentity
         D["a_formlength"] = len(self.word)
@@ -49,9 +51,9 @@ class WordInContext:
         before, after = commas_before_after(self.sentence, self.index)
         D["c_preceding_commas"] = before
         D["c_following_commas"] = after
-        # TODO before, after = verbs_before_after(self.sentence, self.index)
-        # TODO D["c_preceding_verbs"] = before
-        # TODO D["c_following_verbs"] = after
+        before, after = verbs_before_after(self.sentence, self.index)
+        D["c_preceding_verbs"] = before
+        D["c_following_verbs"] = after
         return D
         
     def d_frequency_feats(self):
@@ -65,10 +67,12 @@ class WordInContext:
 
     def e_morphological_feats(self):
         D = {}
-        # TODO D["e_foreign_root"] = has_foreign_root(self.word)  # check wiktionary
-        # TODO D["e_length_dist_lemma_form"] = len(self.word) - len(lemmatize(self.word))
-        # TODO D["e_length_dist_stem_form"] = len(self.word) - len(stem(self.word))
-        # TODO D["e_inflectional_morphemes_count"] = porterstemmer.reductions(self.word)  # implement interations counter in Porter Stemmer
+        etymology = retrieve_etymology(self.word)
+        D["e_latin_root"] = has_ancestor_in_lang("lat", etymology)  # check wiktionary
+        D["e_length_dist_lemma_form"] = len(self.word) - len(self.lemma)
+        stem, steps = porter.stem(self.word)
+        D["e_length_dist_stem_form"] = len(self.word) - len(stem)
+        D["e_inflectional_morphemes_count"] = steps 
         return D
 
     def f_prob_in_context_feats(self):
@@ -90,6 +94,11 @@ class WordInContext:
         D = {}
         D.update(self.a_simple_feats())
         D.update(self.b_wordnet_feats())
+        D.update(self.c_positional_feats())
+        D.update(self.d_frequency_feats())
+        D.update(self.e_morphological_feats())
+        D.update(self.f_prob_in_context_feats())
+        D.update(self.g_char_complexity_feats())
         return D
 
 def prettyprintweights(linearmodel,vectorizer):
@@ -127,8 +136,10 @@ def readSentences(infile):
 
 
 def main():
+    scriptdir = os.path.dirname(os.path.realpath(__file__))
+    defaultdata = scriptdir+"/../data/cwi_training/cwi_training.txt.lbl.conll"
     parser = argparse.ArgumentParser(description="Skeleton for features and classifier for CWI-2016")
-    parser.add_argument('--train', help="parsed-and-label input format", default="../data/cwi_training/cwi_training.txt.lbl.conll")
+    parser.add_argument('--train', help="parsed-and-label input format", default=defaultdata)
     args = parser.parse_args()
 
     labels = []
@@ -137,7 +148,7 @@ def main():
     for s in readSentences(args.train):
         for l,i in zip(s["label"],s["idx"]):
             if l != "-":
-                w = WordInContext(s["form"],i, s["form"][i],s["lemma"][i],s["pos"][i],s["ne"][i],l,s["head"],s["deprel"])
+                w = WordInContext(s, i, s["form"][i],s["lemma"][i],s["pos"][i],s["ne"][i],l,s["head"],s["deprel"])
                 featuredicts.append(w.featurize())
                 labels.append(w.label)
 

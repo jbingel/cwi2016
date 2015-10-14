@@ -1,0 +1,2417 @@
+eng:la --> ang:la
+eng:laager --> nld:leger
+eng:Labadism --> eng:Labadie
+eng:Labadist --> eng:Labadie
+eng:Laban --> heb:לָבָן
+eng:labanotation --> eng:Laban --> heb:לָבָן
+eng:labarum --> lat:labarum --> grc:λαβαρόν
+eng:labdane --> eng:labdanum --> lat:ladanum --> grc:λήδανον --> grc:λήδον
+eng:labdanum --> lat:ladanum --> grc:λήδανον --> grc:λήδον
+eng:labefaction --> lat:labefacio
+eng:labefy --> lat:labefacere
+eng:label --> enm:label --> fro:label
+eng:labeler --> eng:label --> enm:label --> fro:label
+eng:labeller --> eng:label --> enm:label --> fro:label
+eng:labelless --> eng:label --> enm:label --> fro:label
+eng:labellum --> lat:labellum --> lat:labrum
+eng:labelmate --> eng:label --> enm:label --> fro:label
+eng:labetuzumab
+eng:labia --> lat:labialis --> lat:labium
+eng:labialization --> eng:labialize
+eng:labially --> eng:labial
+eng:labile --> lat:labilis --> lat:labi
+eng:labiodentally --> eng:labiodental
+eng:labium --> lat:labium
+eng:labmate --> eng:lab
+eng:laborant --> lat:laborans
+eng:laboratory --> lat:laboratorium
+eng:labor-intensive --> eng:intensive
+eng:laboriously --> eng:laborious
+eng:laborless --> eng:labor
+eng:laborlore --> eng:labor
+eng:labour --> enm:labouren --> fro:laborer --> lat:laborare
+eng:labourest --> eng:labour --> enm:labouren --> fro:laborer --> lat:laborare
+eng:laboureth --> eng:labour --> enm:labouren --> fro:laborer --> lat:laborare
+eng:labouringly --> eng:labouring
+eng:labouriously --> eng:labourious
+eng:labourous --> eng:labour --> enm:labouren --> fro:laborer --> lat:laborare
+eng:labourously --> eng:labourous --> eng:labour --> enm:labouren --> fro:laborer --> lat:laborare
+eng:laboursome --> eng:labour --> enm:labouren --> fro:laborer --> lat:laborare
+eng:Labradoodle --> eng:Labrador
+eng:Labrador duck --> eng:Labrador
+eng:Labradorian --> eng:Labrador
+eng:labradorite --> eng:Labrador
+eng:labral --> eng:labrum --> lat:labrum
+eng:labroid --> eng:Labrus
+eng:labrose --> lat:labrosus
+eng:labrum --> lat:labrum
+eng:labrys --> grc:λάβρυς
+eng:Labuan --> msa:Labuan
+eng:laburnine --> eng:laburnum
+eng:labware --> eng:lab
+eng:labyrinthiform --> eng:labyrinth
+eng:labyrinthine --> eng:labyrinth
+eng:labyrinthinely --> eng:labyrinthine --> eng:labyrinth
+eng:labyrinthlike --> eng:labyrinth
+eng:lac --> por:laca --> fas:لاک --> hin:लाख --> san:लक्षं
+eng:lace --> fro:las
+eng:Lacedaemon --> grc:Λακεδαίμων
+eng:laceless --> eng:lace --> fro:las
+eng:lacelike --> eng:lace --> fro:las
+eng:lacemaking --> eng:lace --> fro:las
+eng:laceman --> eng:lace --> fro:las
+eng:lacerate --> enm:laceraten --> lat:laceratus
+eng:laceratingly --> eng:lacerating
+eng:lacertiloid --> eng:Lacertilia
+eng:laceweight --> eng:lace --> fro:las
+eng:lacewing --> eng:lace --> fro:las
+eng:laches --> fra:lâches
+eng:Lachlan --> gla:lachlann
+eng:lachrymable --> lat:lacrimabilis --> lat:lacrima
+eng:lachrymation --> lat:lacrimatio --> lat:lacrima
+eng:lachrymose --> lat:lacrimosus --> lat:lacrima
+eng:lackadaisicalness --> eng:lackadaisical
+eng:lackest --> eng:lack
+eng:lacklusterly --> eng:lackluster
+eng:lacklusterness --> eng:lackluster
+eng:Laclauian --> eng:Laclau
+eng:lacmus --> nld:lakmoes
+eng:Laconian --> grc:Λάκων
+eng:laconic --> lat:Laconicus --> grc:Λακωνικός
+eng:laconism --> lat:laconia --> grc:Λακεδαίμων
+eng:lacquer --> fra:lacre --> por:laca --> fas:لاک --> hin:लाख --> san:लक्षं
+eng:lacquerer --> eng:lacquer --> fra:lacre --> por:laca --> fas:لاک --> hin:लाख --> san:लक्षं
+eng:lacquerless --> eng:lacquer --> fra:lacre --> por:laca --> fas:لاک --> hin:लाख --> san:लक्षं
+eng:lacquerlike --> eng:lacquer --> fra:lacre --> por:laca --> fas:لاک --> hin:लाख --> san:लक्षं
+eng:lacquerware --> eng:lacquer --> fra:lacre --> por:laca --> fas:لاک --> hin:लाख --> san:लक्षं
+eng:lacrimal --> lat:lacrima
+eng:lacrosselike --> eng:lacrosse
+eng:lactamase --> eng:lactam
+eng:lactard --> eng:lactose
+eng:lactate --> lat:lactatus
+eng:lacteally --> eng:lacteal
+eng:lactescent --> lat:lactescens
+eng:lactic --> lat:lactis
+eng:lactimide --> eng:imide
+eng:lactivism --> eng:activism --> eng:active --> enm:actif --> fro:actif --> lat:activus
+eng:lactivist --> eng:lactivism --> eng:activism --> eng:active --> enm:actif --> fro:actif --> lat:activus
+eng:lacto- --> lat:lac
+eng:lactobutyrometer --> lat:lac
+eng:lactodensimeter --> eng:densimeter
+eng:lactogenic
+eng:lactoglobulin --> eng:globulin
+eng:lactophilia
+eng:lactotrophic --> eng:lactotroph
+eng:lactucic acid --> eng:Lactuca
+eng:lactucone --> eng:Lactuca
+eng:lactyl --> eng:lactic --> lat:lactis
+eng:lactylate --> eng:lactylic
+eng:lacuna --> lat:lacuna --> lat:lacus
+eng:lacunal --> eng:lacuna --> lat:lacuna --> lat:lacus
+eng:lacustrine --> lat:lacus
+eng:lacwork --> eng:lac --> por:laca --> fas:لاک --> hin:लाख --> san:लक्षं
+eng:lacy --> eng:lace --> fro:las
+eng:lad --> enm:ladde
+eng:ladder --> ang:hlæder
+eng:laddergram --> eng:ladder --> ang:hlæder
+eng:ladderless --> eng:ladder --> ang:hlæder
+eng:ladderlike --> eng:ladder --> ang:hlæder
+eng:laddishness --> eng:laddish
+eng:lade --> ang:hladan
+eng:lademan --> eng:lade --> ang:hladan
+eng:ladied --> eng:lady --> enm:lady
+eng:ladieswear --> eng:ladies
+eng:ladify --> eng:lady --> enm:lady
+eng:Ladino --> lad:לאדינו
+eng:Ladislaus --> lat:Ladislaus
+eng:ladkin --> eng:lad --> enm:ladde
+eng:ladle --> enm:ladel --> ang:hlædel
+eng:ladleful --> eng:ladle --> enm:ladel --> ang:hlædel
+eng:Ladoga --> rus:Ладога --> orv:Ладога
+eng:ladrone --> spa:ladron
+eng:lady --> enm:lady
+eng:ladybird --> eng:bird --> enm:brid --> ang:bridd
+eng:ladybits --> eng:bits
+eng:ladyboy --> eng:boy --> enm:boy
+eng:ladybro --> eng:bro
+eng:ladybug --> eng:bug
+eng:ladyhood --> eng:lady --> enm:lady
+eng:ladyish --> eng:lady --> enm:lady
+eng:ladykilling --> eng:killing --> eng:kill --> enm:killen
+eng:ladykin --> eng:lady --> enm:lady
+eng:ladylike --> eng:lady --> enm:lady
+eng:ladyparts --> eng:lady --> enm:lady
+eng:Laertes --> grc:Λαέρτης
+eng:Laetare Sunday --> lat:laetare
+eng:lævigated --> eng:lævigate
+eng:lævigating --> eng:lævigate
+eng:laevodepression --> eng:depression --> lat:depressio
+eng:laevoelevation --> eng:elevation
+eng:laevoversion --> eng:version --> frm:version --> lat:versio --> lat:verto
+eng:laffer --> eng:laff
+eng:lager --> deu:Lagerbier --> deu:Lager --> goh:legar
+eng:lagerphone --> eng:lager --> deu:Lagerbier --> deu:Lager --> goh:legar
+eng:lagerstätte --> deu:Lagerstätte
+eng:laggard --> eng:lag
+eng:laggardly --> eng:laggard --> eng:lag
+eng:laggardness --> eng:laggard --> eng:lag
+eng:lagger --> eng:lag
+eng:laggingly --> eng:lagging
+eng:laggy --> eng:lag
+eng:lagochiline --> eng:Lagochilus
+eng:lagomorph --> lat:Lagomorpha
+eng:lahmacun --> tur:lahmacun --> ara:لحم عجين
+eng:lai --> enm:lai
+eng:laic --> lat:laicus --> grc:λαϊκός --> grc:λαός
+eng:laically --> eng:laic --> lat:laicus --> grc:λαϊκός --> grc:λαός
+eng:laicize --> eng:laic --> lat:laicus --> grc:λαϊκός --> grc:λαός
+eng:laidbackness --> eng:laidback
+eng:laik --> ang:lác
+eng:lain --> non:løyna
+eng:Laingian --> eng:Laing
+eng:lair --> ang:leġer
+eng:lairdship --> eng:laird
+eng:lairless --> eng:lair --> ang:leġer
+eng:lairlike --> eng:lair --> ang:leġer
+eng:laisser faire --> fra:laisser faire
+eng:laissez faire --> fra:laisser faire
+eng:lait --> enm:lait
+eng:laitand --> enm:laitande
+eng:laity --> lat:laitas
+eng:lake --> ang:lachen
+eng:lakebed --> eng:bed --> enm:bed --> ang:bedd
+eng:lakehouse --> eng:house --> enm:hous
+eng:lakeless --> eng:lake --> ang:lachen
+eng:lakelet --> eng:lake --> ang:lachen
+eng:lakelike --> eng:lake --> ang:lachen
+eng:laker --> eng:lake --> ang:lachen
+eng:lakering --> enm:lakeringe
+eng:lakeshore --> eng:lake --> ang:lachen
+eng:lakeside --> eng:lake --> ang:lachen
+eng:lakewater --> eng:lake --> ang:lachen
+eng:lakeweed --> eng:lake --> ang:lachen
+eng:lakewide --> eng:lake --> ang:lachen
+eng:lakh --> urd:لاکھ --> hin:लाख --> san:लक्षं
+eng:Lakist --> eng:lake --> ang:lachen
+eng:Lakoffian --> eng:Lakoff
+eng:laksa --> msa:laksa
+eng:Lakshmi --> san:लक्ष्मी
+eng:Lalage --> grc:λαλαγέω
+eng:lam --> non:lemja
+eng:lama --> bod:བླ་མ
+eng:lamage --> eng:lame --> ang:lama
+eng:Lamanitish --> eng:Lamanite
+eng:lamantin --> fra:lamantin
+eng:Lamarckist --> eng:Lamarck
+eng:lamasery --> fra:lamaserie --> fra:lama --> bod:བླ་མ
+eng:lamb --> ang:lamb
+eng:lambada --> por:lambada
+eng:lambaster --> eng:lambast
+eng:lambent --> lat:lambens
+eng:lambently --> eng:lambent --> lat:lambens
+eng:lambfold --> eng:fold --> enm:fold
+eng:Lambian --> eng:Lamb
+eng:lambkill --> eng:kill --> enm:killen
+eng:lambless --> eng:lamb --> ang:lamb
+eng:lamblike --> eng:lamb --> ang:lamb
+eng:lambren --> enm:lambren
+eng:lambswool --> eng:'s
+eng:lamburger --> eng:burger
+eng:lamby --> eng:lamb --> ang:lamb
+eng:lame --> ang:lama
+eng:lamebrain --> eng:brain --> enm:brain --> ang:brægen
+eng:lamebrained --> eng:lamebrain --> eng:brain --> enm:brain --> ang:brægen
+eng:lamellula --> lat:lamellula
+eng:lamely --> eng:lame --> ang:lama
+eng:lameness --> eng:lame --> ang:lama
+eng:lament --> fra:lamenter --> lat:lamento
+eng:lamentable --> lat:lamentabilis --> lat:lamentor --> lat:lamenta
+eng:lamentably --> eng:lamentable --> lat:lamentabilis --> lat:lamentor --> lat:lamenta
+eng:lamentful --> eng:lament --> fra:lamenter --> lat:lamento
+eng:lamentingly --> eng:lamenting
+eng:lameo --> eng:lame --> ang:lama
+eng:lames --> fra:lame
+eng:lamestream --> eng:lame --> ang:lama
+eng:lame-stream --> eng:lame --> ang:lama
+eng:lametta --> ita:lametta
+eng:lamina --> lat:lamina
+eng:laminable --> eng:lamina --> lat:lamina
+eng:laminar --> lat:lamina
+eng:laminarly --> eng:laminar --> lat:lamina
+eng:laminator --> eng:laminate
+eng:laminboard --> eng:board --> enm:bord
+eng:lamington --> eng:Lamington
+eng:laminiferous --> eng:lamina --> lat:lamina
+eng:laminitis --> eng:lamina --> lat:lamina
+eng:lamish --> eng:lame --> ang:lama
+eng:lammergeier --> deu:Lämmergeier
+eng:lampas --> fra:lampas
+eng:lampate --> eng:lampic
+eng:lampboard --> eng:board --> enm:bord
+eng:lamper --> eng:lamp
+eng:lampern --> enm:laumproun
+eng:lampic acid --> fra:lampique
+eng:lamping --> eng:lamp
+eng:lampion --> fra:lampion --> ita:lampione --> ita:lampa --> fro:lampe
+eng:lampless --> eng:lamp
+eng:lamplighter --> eng:lamp
+eng:lamplike --> eng:lamp
+eng:lampoon --> fra:lampon
+eng:lampoonable --> eng:lampoon --> fra:lampon
+eng:lampoonry --> eng:lampoon --> fra:lampon
+eng:lamprey --> enm:laumprei
+eng:lampshade --> eng:lamp
+eng:lampshaded --> eng:lampshade --> eng:lamp
+eng:lampwork --> eng:lamp
+eng:lanai --> haw:lanai
+eng:Lanai --> haw:Lanaʻi
+eng:lanary --> lat:lanaria
+eng:Lancasterian --> eng:Lancaster
+eng:lance --> fro:lance --> lat:lancea
+eng:lancefish --> eng:fish --> ang:fiscian
+eng:lancegay --> fro:lancegaye
+eng:lanceless --> eng:lance --> fro:lance --> lat:lancea
+eng:lancelike --> eng:lance --> fro:lance --> lat:lancea
+eng:Lancelot --> fro:Lancelot --> frk:Lanzo
+eng:lancely --> eng:lance --> fro:lance --> lat:lancea
+eng:lancewood --> eng:lance --> fro:lance --> lat:lancea
+eng:land --> enm:land
+eng:landable --> eng:land --> enm:land
+eng:landamman --> deu:Landamman
+eng:land artist --> eng:land art
+eng:landauite --> eng:Landau
+eng:landbound --> eng:bound --> enm:bounde --> fro:bunne --> lat:bodina
+eng:landed --> eng:land --> enm:land
+eng:landed cost --> eng:cost --> enm:cost --> ang:cost --> non:kostr --> gml:kost --> fro:coste --> lat:costa
+eng:landfillable --> eng:landfill
+eng:landflood --> eng:flood --> enm:flod --> ang:flod
+eng:landfyrd --> ang:landfyrd
+eng:landgrab --> eng:grab
+eng:landgrave --> deu:Landgraf
+eng:landladyish --> eng:landlady
+eng:landless --> eng:land --> enm:land
+eng:landlessness --> eng:landless --> eng:land --> enm:land
+eng:landlock --> eng:land --> enm:land
+eng:landlocked --> eng:land --> enm:land
+eng:landlordism --> eng:landlord
+eng:landlordless --> eng:landlord
+eng:landlordry --> eng:landlord
+eng:landlouper --> nld:landlooper
+eng:landlubberly --> eng:landlubber
+eng:landly --> eng:land --> enm:land
+eng:landman --> eng:land --> enm:land
+eng:Landmarkism --> eng:landmark
+eng:Land of the Long White Cloud --> mri:Aotearoa --> mri:ao
+eng:landreeve --> eng:land --> enm:land
+eng:landrush --> eng:land --> enm:land
+eng:landscrip --> eng:land --> enm:land
+eng:landslide --> eng:land --> enm:land
+eng:landwaiter --> eng:land --> enm:land
+eng:landward --> eng:land --> enm:land
+eng:lane --> enm:lane
+eng:laneway --> eng:lane --> enm:lane
+eng:Langkawi --> msa:Langkawi
+eng:langlauf --> deu:Langlauf
+eng:langsat --> msa:langsat
+eng:language --> enm:language --> fro:language
+eng:languaged --> eng:language --> enm:language --> fro:language
+eng:languageless --> eng:language --> enm:language --> fro:language
+eng:languagelessness --> eng:languageless --> eng:language --> enm:language --> fro:language
+eng:languagelike --> eng:language --> enm:language --> fro:language
+eng:Languedoc --> fra:Languedoc
+eng:Languedocian --> eng:Languedoc --> fra:Languedoc
+eng:languid --> lat:languidus --> lat:langueo
+eng:languidly --> eng:languid --> lat:languidus --> lat:langueo
+eng:languidness --> eng:languid --> lat:languidus --> lat:langueo
+eng:languisher --> eng:languish
+eng:languishingly --> eng:languishing
+eng:languishness --> eng:languish
+eng:languorousness --> eng:languorous
+eng:laniariform --> eng:laniary
+eng:laniation --> lat:laniatio
+eng:Lankaran --> fas:لنکران
+eng:lankly --> eng:lank
+eng:lankness --> eng:lank
+eng:lansfordite --> eng:Lansford
+eng:lansquenet --> fra:lansquenet --> deu:Landsknecht
+eng:lantanurate --> eng:lantanuric
+eng:lanterloo --> fra:lanturlu
+eng:lanternless --> eng:lantern
+eng:lanternlike --> eng:lantern
+eng:lanthanite --> eng:lanthanum --> grc:λανθάνω
+eng:lanthanum --> grc:λανθάνω
+eng:lantzman --> yid:לאַנדסמאַן --> yid:לאַנד --> gmh:lant --> goh:lant
+eng:lanugo --> lat:lana
+eng:lanyard --> enm:lanyer --> frm:laniere --> fro:lasniere --> fro:lasne
+eng:Lao --> lao:ລາວ
+eng:Laodicean --> lat:Laodicea --> grc:Λαοδικεια
+eng:lap --> enm:lappen
+eng:laparoscope --> eng:scope
+eng:laparoscopic --> eng:laparoscope --> eng:scope
+eng:laparoscopically --> eng:laparoscopic --> eng:laparoscope --> eng:scope
+eng:laparoscopy
+eng:laparotomy
+eng:lapelled --> eng:lapel
+eng:lapelless --> eng:lapel
+eng:lapful --> eng:lap --> enm:lappen
+eng:lapicide --> lat:lapicida
+eng:lapidarian --> eng:lapidary --> lat:lapidarius --> lat:lapis
+eng:lapidarious --> lat:lapidarius --> lat:lapis
+eng:lapidary --> lat:lapidarius --> lat:lapis
+eng:lapidate --> lat:lapidatus
+eng:lapidation --> lat:lapis
+eng:lapideous --> lat:lapideus
+eng:lapidist --> lat:lapis
+eng:lapin --> frm:laperean
+eng:Laplandish --> eng:Lapland
+eng:laplike --> eng:lap --> enm:lappen
+eng:lapling --> eng:lap --> enm:lappen
+eng:lapmark --> eng:lap --> enm:lappen
+eng:Lapp --> swe:lapp
+eng:Lappic --> eng:Lapp --> swe:lapp
+eng:Lappish --> eng:Lapp --> swe:lapp
+eng:Lappland --> eng:Lapp --> swe:lapp
+eng:lapse --> frm:laps --> lat:lapsus --> lat:labi
+eng:lapsible --> eng:lapse --> frm:laps --> lat:lapsus --> lat:labi
+eng:lapstone --> eng:lap --> enm:lappen
+eng:laptop --> eng:lap --> enm:lappen
+eng:laptopless --> eng:laptop --> eng:lap --> enm:lappen
+eng:laptoplike --> eng:laptop --> eng:lap --> enm:lappen
+eng:Laputan --> eng:Laputa
+eng:lapward --> eng:lap --> enm:lappen
+eng:lapwing --> ang:hlēapewince
+eng:lapwork --> eng:lap --> enm:lappen
+eng:lar --> lat:lar
+eng:larcenously --> eng:larcenous
+eng:larch --> lat:larix --> grc:λάριξ
+eng:larchen --> eng:larch --> lat:larix --> grc:λάριξ
+eng:larchlike --> eng:larch --> lat:larix --> grc:λάριξ
+eng:lard --> fro:lard --> lat:lardum
+eng:lardaceous --> eng:lard --> fro:lard --> lat:lardum
+eng:lardarse --> eng:arse --> ang:ærs
+eng:lardass --> eng:ass --> enm:as --> fro:as --> lat:as
+eng:lardball --> eng:ball --> enm:bal
+eng:larderer --> eng:larder
+eng:lardless --> eng:lard --> fro:lard --> lat:lardum
+eng:lardlike --> eng:lard --> fro:lard --> lat:lardum
+eng:large --> enm:large --> fro:large --> lat:larga
+eng:largeheartedness --> eng:largehearted
+eng:largeish --> eng:large --> enm:large --> fro:large --> lat:larga
+eng:largeleaf --> eng:large --> enm:large --> fro:large --> lat:larga
+eng:largely --> eng:large --> enm:large --> fro:large --> lat:larga
+eng:largemouth --> eng:large --> enm:large --> fro:large --> lat:larga
+eng:largen --> eng:large --> enm:large --> fro:large --> lat:larga
+eng:largenose --> eng:large --> enm:large --> fro:large --> lat:larga
+eng:largess --> fra:largesse --> fro:largesce
+eng:largish --> eng:large --> enm:large --> fro:large --> lat:larga
+eng:largition --> lat:largitio
+eng:lari --> kat:ლარი --> xcl:լար
+eng:Larissa --> grc:Λάρισσα
+eng:lark --> enm:larke
+eng:larkily --> eng:larky --> eng:lark --> enm:larke
+eng:Larkinesque --> eng:Larkin
+eng:Larkinian --> eng:Larkin
+eng:larkish --> eng:lark --> enm:larke
+eng:larklike --> eng:lark --> enm:larke
+eng:larky --> eng:lark --> enm:larke
+eng:larn --> ang:læran
+eng:laroid --> eng:Larus
+eng:LARPer --> eng:LARP
+eng:larrikinism --> eng:larrikin
+eng:larva --> lat:larva --> lat:Lares
+eng:larvacide --> eng:larva --> lat:larva --> lat:Lares
+eng:larvicide --> eng:larva --> lat:larva --> lat:Lares
+eng:larviform --> eng:larva --> lat:larva --> lat:Lares
+eng:larvikite --> eng:Larvik
+eng:laryngectomee --> eng:laryngectomy
+eng:laryngograph
+eng:laryngology --> eng:larynx --> grc:λάρυγξ
+eng:laryngophone
+eng:laryngospasm --> eng:spasm --> fro:spasme --> lat:spasmus --> grc:σπασμός
+eng:laryngotomy --> eng:larynx --> grc:λάρυγξ
+eng:laryngotracheitis --> eng:tracheitis
+eng:laryngotracheobronchitis --> eng:bronchitis --> lat:bronchus
+eng:laryngotracheobronchopneumonitis --> eng:pneumonitis
+eng:larynx --> grc:λάρυγξ
+eng:lasagna --> ita:lasagna
+eng:lascivious --> lat:lasciviosus
+eng:lasciviously --> eng:lascivious --> lat:lasciviosus
+eng:Laserdisc --> eng:disc
+eng:lasergun --> eng:gun
+eng:laserless --> eng:laser
+eng:laserlike --> eng:laser
+eng:laserproof --> eng:laser
+eng:laserpuncture --> eng:laser
+eng:laserwort --> eng:laser
+eng:lash --> fro:lasche
+eng:lasher --> eng:lash --> fro:lasche
+eng:lashingly --> eng:lashing
+eng:lashless --> eng:lash --> fro:lasche
+eng:lashlike --> eng:lash --> fro:lasche
+eng:lashline --> eng:lash --> fro:lasche
+eng:lashwise --> eng:lash --> fro:lasche
+eng:La Spezia --> ita:La Spezia --> lat:Spedia
+eng:lass --> enm:lasse
+eng:lassitude --> fra:lassitude --> lat:lassitudo --> lat:lassus
+eng:lasslorn --> eng:lass --> enm:lasse
+eng:lasso --> spa:lazo
+eng:lassolike --> eng:lasso --> spa:lazo
+eng:last --> ang:hlæst
+eng:laster --> eng:last --> ang:hlæst
+eng:lastingly --> eng:lasting
+eng:lastingness --> eng:lasting
+eng:lastly --> eng:last --> ang:hlæst
+eng:lastness --> eng:last --> ang:hlæst
+eng:lat --> lav:lats
+eng:latah --> msa:latah
+eng:latch --> enm:latche --> enm:lacchen --> ang:læccan
+eng:latchet --> fro:lachet
+eng:latchstring --> eng:latch --> enm:latche --> enm:lacchen --> ang:læccan
+eng:late --> enm:late
+eng:lated --> eng:late --> enm:late
+eng:lateen --> fra:latine
+eng:lateish --> eng:late --> enm:late
+eng:lately --> eng:late --> enm:late
+eng:latency --> eng:latent --> lat:latens --> lat:latere
+eng:latent --> lat:latens --> lat:latere
+eng:laterad --> lat:latus
+eng:lateral --> lat:lateralis --> lat:latus
+eng:laterally --> eng:lateral --> lat:lateralis --> lat:latus
+eng:lateralward --> eng:lateral --> lat:lateralis --> lat:latus
+eng:latered --> eng:later
+eng:lateritic --> eng:laterite
+eng:lateritious --> lat:lateritius
+eng:latero- --> eng:lateral --> lat:lateralis --> lat:latus
+eng:laterodorsal --> eng:dorsal --> lat:dorsalis --> lat:dorsum
+eng:lateropulsion --> eng:pulsion
+eng:laterosphenoid --> eng:sphenoid
+eng:latex --> lat:latex
+eng:latexwear --> eng:latex --> lat:latex
+eng:lath --> enm:laththe
+eng:lathe --> enm:lathen --> ang:laþian
+eng:lathelike --> eng:lathe --> enm:lathen --> ang:laþian
+eng:lather --> enm:lather --> ang:leaþor
+eng:lathework --> eng:lathe --> enm:lathen --> ang:laþian
+eng:lathlike --> eng:lath --> enm:laththe
+eng:lathwork --> eng:lath --> enm:laththe
+eng:lathy --> eng:lath --> enm:laththe
+eng:lathyrism --> eng:Lathyrus
+eng:laticiferous --> lat:latex
+eng:laticlave --> lat:laticlavium
+eng:latifundium --> lat:latifundium
+eng:latimer --> fro:latinier
+eng:Latin --> lat:latinus --> lat:Latium
+eng:Latindom --> eng:Latin --> lat:latinus --> lat:Latium
+eng:Latinism --> eng:Latin --> lat:latinus --> lat:Latium
+eng:Latinity --> lat:Latinitas --> lat:Latinus
+eng:latinly --> eng:Latin --> lat:latinus --> lat:Latium
+eng:Latino-Faliscan --> eng:Faliscan
+eng:latissimus dorsi --> lat:latissimus
+eng:latitation --> lat:latitatio
+eng:latitude --> fra:latitude --> lat:latitudo --> lat:latus
+eng:latitudinarianism --> eng:latitudinarian
+eng:latke --> yid:לאַטקע
+eng:latrant --> lat:latrans
+eng:latrate --> lat:latro
+eng:latred --> enm:latrede --> ang:lætræde
+eng:latrine --> lat:latrina
+eng:latrodectism --> eng:Latrodectus
+eng:latten --> fro:laton --> ara:لاطون --> tur:altın
+eng:latter --> ang:lætra
+eng:latter-day --> eng:day --> enm:day --> ang:dæg
+eng:latterly --> eng:latter --> ang:lætra
+eng:lattice --> enm:latis --> frm:lattis --> fro:lattis --> fro:latte
+eng:latticelike --> eng:lattice --> enm:latis --> frm:lattis --> fro:lattis --> fro:latte
+eng:latticing --> eng:lattice --> enm:latis --> frm:lattis --> fro:lattis --> fro:latte
+eng:Latvian --> eng:Latvia
+eng:Latvianness --> eng:Latvian --> eng:Latvia
+eng:laud --> fro:lauder --> lat:laudo --> lat:laus
+eng:laudable --> eng:laud --> fro:lauder --> lat:laudo --> lat:laus
+eng:laudableness --> eng:laudable --> eng:laud --> fro:lauder --> lat:laudo --> lat:laus
+eng:laudably --> eng:laudable --> eng:laud --> fro:lauder --> lat:laudo --> lat:laus
+eng:laudanine --> eng:laudanum
+eng:laudits --> lat:laudite
+eng:laugh --> enm:laughen --> ang:hlehhan
+eng:laughable --> eng:laugh --> enm:laughen --> ang:hlehhan
+eng:laughathon --> eng:laugh --> enm:laughen --> ang:hlehhan
+eng:laugheth --> eng:laugh --> enm:laughen --> ang:hlehhan
+eng:laughingly --> eng:laughing
+eng:laughingstock --> eng:laughing
+eng:laughing stock --> eng:laughing
+eng:laughless --> eng:laugh --> enm:laughen --> ang:hlehhan
+eng:laughsome --> eng:laugh --> enm:laughen --> ang:hlehhan
+eng:laughster --> eng:laugh --> enm:laughen --> ang:hlehhan
+eng:laughterless --> eng:laughter
+eng:laughworthy --> eng:laugh --> enm:laughen --> ang:hlehhan
+eng:lauhala --> haw:lauhala --> haw:hala
+eng:launce --> ita:lance
+eng:launch --> ang:launchen
+eng:launcher --> eng:launch --> ang:launchen
+eng:launchest --> eng:launch --> ang:launchen
+eng:launderer --> eng:launder
+eng:laundry --> fro:lavanderie
+eng:laundrymaid --> eng:laundry --> fro:lavanderie
+eng:laundryman --> eng:laundry --> fro:lavanderie
+eng:laura --> lat:laura --> grc:λαύρα
+eng:Laurasia --> eng:Eurasia --> eng:Asia --> grc:Ἀσία
+eng:laureate --> lat:laureatus --> lat:laurea --> lat:laureus --> lat:laurus
+eng:laureateship --> eng:laureate --> lat:laureatus --> lat:laurea --> lat:laureus --> lat:laurus
+eng:laurel --> ang:lorrer
+eng:laurestine --> lat:laurustinus
+eng:laurinol --> eng:laurin
+eng:Laurussia --> eng:Laurentia
+eng:lava --> ita:lava
+eng:lavacicle --> eng:icicle --> enm:isykle
+eng:lavafall --> eng:fall --> enm:fallen --> ang:feallan
+eng:lavalike --> eng:lava --> ita:lava
+eng:lavaret --> fra:lavaret --> lat:levaricinus
+eng:lave --> enm:lave --> ang:laf
+eng:lavement --> fra:lavement --> fra:laver --> lat:lavāre
+eng:lavenderish --> eng:lavender
+eng:lavendery --> eng:lavender
+eng:laver --> fro:laveoir --> lat:lavatorium
+eng:laverbread --> eng:bread --> enm:bred
+eng:laverock --> enm:laveroc
+eng:LaVeyan --> eng:LaVey
+eng:Lavinia --> lat:Lavinia
+eng:lavisher --> eng:lavish
+eng:lavishly --> eng:lavish
+eng:lavishment --> eng:lavish
+eng:lavishness --> eng:lavish
+eng:lavoisium --> eng:Lavoisier
+eng:lavy --> eng:lave --> enm:lave --> ang:laf
+eng:law --> ang:hlaw
+eng:lawbreaking --> eng:breaking
+eng:lawfare --> eng:law --> ang:hlaw
+eng:lawful --> enm:laweful
+eng:lawfulness --> eng:lawful --> enm:laweful
+eng:lawgiving --> eng:giving
+eng:lawing --> eng:law --> ang:hlaw
+eng:lawlessly --> eng:lawless
+eng:lawly --> enm:laweliche
+eng:lawmaking --> eng:law --> ang:hlaw
+eng:lawman --> eng:law --> ang:hlaw
+eng:lawmonger --> eng:law --> ang:hlaw
+eng:lawncare --> eng:care --> enm:care --> ang:caru
+eng:lawngrass --> eng:grass --> enm:gras
+eng:lawnlike --> eng:lawn
+eng:lawnmower --> eng:lawn
+eng:lawny --> eng:lawn
+eng:Lawrenson --> eng:Lawrence
+eng:Lawrentian --> eng:Lawrence
+eng:lawyer --> enm:lawyer
+eng:lawyerball --> eng:ball --> enm:bal
+eng:lawyerese --> eng:lawyer --> enm:lawyer
+eng:lawyerless --> eng:lawyer --> enm:lawyer
+eng:lawyerlike --> eng:lawyer --> enm:lawyer
+eng:lawyerly --> eng:lawyer --> enm:lawyer
+eng:lawyerspeak --> eng:lawyer --> enm:lawyer
+eng:lax --> enm:lax --> ang:leax
+eng:laxation --> lat:laxatio
+eng:laxativeness --> eng:laxative
+eng:laxist --> eng:lax --> enm:lax --> ang:leax
+eng:laxity --> fra:laxité --> lat:laxitatem
+eng:laxness --> eng:lax --> enm:lax --> ang:leax
+eng:lay --> enm:laie
+eng:laydown --> eng:down --> ang:dune
+eng:layer --> enm:leyer
+eng:layeredness --> eng:layered
+eng:layeth --> eng:lay --> enm:laie
+eng:layland --> eng:land --> enm:land
+eng:layn --> yid:לייען
+eng:Laysan duck --> eng:Laysan
+eng:layship --> eng:lay --> enm:laie
+eng:laystall --> eng:lay --> enm:laie
+eng:layup --> eng:lay --> enm:laie
+eng:lazaret --> fra:lazaret --> ita:lazzaretto
+eng:lazaretto --> ita:lazzaretto
+eng:laze --> eng:haze
+eng:lazily --> eng:lazy
+eng:laziness --> eng:lazy
+eng:lazurite --> lat:lazur
+eng:lazyish --> eng:lazy
+eng:lazyweb --> eng:Web
+eng:Lchashen --> hye:Լճաշեն --> hye:լիճ
+eng:le --> fra:le --> fro:le
+eng:lea --> enm:legh
+eng:leach --> enm:leche --> ang:læce
+eng:leachable --> eng:leach --> enm:leche --> ang:læce
+eng:leachate --> eng:leach --> enm:leche --> ang:læce
+eng:leachy --> eng:leach --> enm:leche --> ang:læce
+eng:lead --> enm:leed --> ang:lead
+eng:leaden --> enm:leden
+eng:leadenly --> eng:leaden --> enm:leden
+eng:leadenness --> eng:leaden --> enm:leden
+eng:leader --> enm:leder
+eng:leaderette --> eng:leader --> enm:leder
+eng:leaderful --> eng:leader --> enm:leder
+eng:leaderless --> eng:leader --> enm:leder
+eng:leaderlessly --> eng:leaderless --> eng:leader --> enm:leder
+eng:leaderlessness --> eng:leaderless --> eng:leader --> enm:leder
+eng:leaderly --> eng:leader --> enm:leder
+eng:leadership --> eng:leader --> enm:leder
+eng:leadeth --> eng:lead --> enm:leed --> ang:lead
+eng:leading --> ang:lædan
+eng:leadingly --> eng:leading --> ang:lædan
+eng:leadlight --> eng:lead --> enm:leed --> ang:lead
+eng:leadlike --> eng:lead --> enm:leed --> ang:lead
+eng:leadline --> eng:lead --> enm:leed --> ang:lead
+eng:leadman --> eng:lead --> enm:leed --> ang:lead
+eng:lead-out --> eng:lead --> enm:leed --> ang:lead
+eng:leadscrew --> eng:lead --> enm:leed --> ang:lead
+eng:leadwort --> eng:lead --> enm:leed --> ang:lead
+eng:leady --> eng:lead --> enm:leed --> ang:lead
+eng:leaf --> enm:leef --> ang:leaf
+eng:leafage --> eng:leaf --> enm:leef --> ang:leaf
+eng:leafbearing --> eng:bearing
+eng:leafcasting --> eng:casting
+eng:leafcup --> eng:cup --> ang:cuppe --> lat:cuppa --> lat:cupa
+eng:leafcutter --> eng:cutter
+eng:leafcutting --> eng:cutting
+eng:leafen --> eng:leaf --> enm:leef --> ang:leaf
+eng:leafet --> eng:leaf --> enm:leef --> ang:leaf
+eng:leafily --> eng:leafy --> eng:leaf --> enm:leef --> ang:leaf
+eng:leafiness --> eng:leafy --> eng:leaf --> enm:leef --> ang:leaf
+eng:leafless --> eng:leaf --> enm:leef --> ang:leaf
+eng:leaflet --> eng:leaf --> enm:leef --> ang:leaf
+eng:leafletless --> eng:leaflet --> eng:leaf --> enm:leef --> ang:leaf
+eng:leaflike --> eng:leaf --> enm:leef --> ang:leaf
+eng:leafmeal --> eng:leaf --> enm:leef --> ang:leaf
+eng:leafroll --> eng:leaf --> enm:leef --> ang:leaf
+eng:leafspace --> eng:leaf --> enm:leef --> ang:leaf
+eng:leafstalk --> eng:leaf --> enm:leef --> ang:leaf
+eng:leafy --> eng:leaf --> enm:leef --> ang:leaf
+eng:league --> enm:ligg --> frm:ligue --> ita:lega
+eng:leaguer --> eng:league --> enm:ligg --> frm:ligue --> ita:lega
+eng:leaguerer --> eng:leaguer --> eng:league --> enm:ligg --> frm:ligue --> ita:lega
+eng:leaguewide --> eng:league --> enm:ligg --> frm:ligue --> ita:lega
+eng:Leah --> heb:לֵאָה
+eng:leak --> enm:leken
+eng:leakee --> eng:leak --> enm:leken
+eng:leakily --> eng:leaky
+eng:leakless --> eng:leak --> enm:leken
+eng:leakproof --> eng:leak --> enm:leken
+eng:leally --> eng:leal
+eng:lealty --> xno:lealté
+eng:leam --> enm:leme --> ang:leoma
+eng:leamer --> fra:limier
+eng:lean --> enm:lene --> ang:hlæne
+eng:leaneth --> eng:lean --> enm:lene --> ang:hlæne
+eng:leaningly --> eng:leaning
+eng:leanly --> eng:lean --> enm:lene --> ang:hlæne
+eng:leanness --> eng:lean --> enm:lene --> ang:hlæne
+eng:leap --> enm:lepen --> ang:hleapan
+eng:leapest --> eng:leap --> enm:lepen --> ang:hleapan
+eng:leapeth --> eng:leap --> enm:lepen --> ang:hleapan
+eng:leapful --> eng:leap --> enm:lepen --> ang:hleapan
+eng:leapingly --> eng:leaping
+eng:leapling --> eng:leap --> enm:lepen --> ang:hleapan
+eng:learn --> ang:læran
+eng:learnable --> eng:learn --> ang:læran
+eng:learned --> ang:leornian
+eng:learnedly --> eng:learned --> ang:leornian
+eng:learnedness --> eng:learned --> ang:leornian
+eng:learningless --> eng:learning
+eng:learnt --> eng:learn --> ang:læran
+eng:lease --> enm:leas
+eng:leaseable --> eng:lease --> enm:leas
+eng:leaseback --> eng:back --> enm:bak --> ang:bæc
+eng:leash --> enm:leesshe
+eng:leashless --> eng:leash --> enm:leesshe
+eng:leashlike --> eng:leash --> enm:leesshe
+eng:leasing --> eng:lease --> enm:leas
+eng:leastest --> eng:least
+eng:leastness --> eng:least
+eng:leastwise --> eng:least
+eng:leather --> ang:leþer
+eng:leatherbound --> eng:bound --> enm:bounde --> fro:bunne --> lat:bodina
+eng:leathercloth --> eng:cloth --> enm:cloth
+eng:leathercraft --> eng:craft
+eng:leathercrafter --> eng:crafter --> eng:craft
+eng:leathercrafting --> eng:crafting
+eng:leatherdyke --> eng:dyke
+eng:leathergoods --> eng:goods
+eng:leatherhead --> eng:head --> enm:hed
+eng:leatheriness --> eng:leathery
+eng:leatherless --> eng:leather --> ang:leþer
+eng:leatherlike --> eng:leather --> ang:leþer
+eng:leathermaker --> eng:leather --> ang:leþer
+eng:leathermaking --> eng:leather --> ang:leþer
+eng:leathersex --> eng:leather --> ang:leþer
+eng:leatherware --> eng:leather --> ang:leþer
+eng:leatherwear --> eng:leather --> ang:leþer
+eng:leatherwoman --> eng:leather --> ang:leþer
+eng:leatherwork --> eng:leather --> ang:leþer
+eng:leatherworker --> eng:leather --> ang:leþer
+eng:leatherworking --> eng:leather --> ang:leþer
+eng:leatherworks --> eng:leather --> ang:leþer
+eng:leavable --> eng:leave --> enm:leve --> ang:leaf
+eng:leave --> enm:leve --> ang:leaf
+eng:leave behind --> eng:behind --> ang:behindan
+eng:leaven --> enm:levain
+eng:leaveneth --> eng:leaven --> enm:levain
+eng:leavenless --> eng:leaven --> enm:levain
+eng:leavenous --> eng:leaven --> enm:levain
+eng:leavest --> eng:leave --> enm:leve --> ang:leaf
+eng:Lebanese --> eng:Lebanon
+eng:lebenswecker --> deu:Lebenswecker
+eng:leblebi --> tur:leblebi
+eng:lebrikizumab
+eng:lecanomancy --> lat:lecanomantia --> grc:λεκανομαντεία --> grc:λεκάνη --> grc:λέκος
+eng:lecanoric acid --> eng:Lecanora
+eng:Lecco --> ita:Lecco --> lat:Leucum
+eng:lech --> cym:llech
+eng:lecher --> enm:lechour --> fro:lecheor
+eng:lecherous --> enm:lecherous
+eng:lecherously --> eng:lecherous --> enm:lecherous
+eng:lecherousness --> eng:lecherous --> enm:lecherous
+eng:lechy --> eng:lech --> cym:llech
+eng:lectinlike --> eng:lectin
+eng:lection --> fro:lection --> lat:lectionem
+eng:lecture --> lat:lectura --> lat:lectus
+eng:lecturelike --> eng:lecture --> lat:lectura --> lat:lectus
+eng:lecturership --> eng:lecturer
+eng:lectureship --> eng:lecture --> lat:lectura --> lat:lectus
+eng:lectureth --> eng:lecture --> lat:lectura --> lat:lectus
+eng:lede --> enm:lede
+eng:ledeless --> eng:lede --> enm:lede
+eng:ledely --> enm:leodlich
+eng:ledged --> eng:ledge
+eng:ledger --> enm:lygger
+eng:ledgy --> eng:ledge
+eng:ledish --> enm:ledisch
+eng:leech --> enm:leche --> ang:læce
+eng:leechcraft --> enm:lechecraft --> ang:læcecræft
+eng:leechdom --> enm:lechedom --> ang:læcedom
+eng:leecher --> eng:leech --> enm:leche --> ang:læce
+eng:leech-finger --> enm:leche fingir
+eng:leechlike --> eng:leech --> enm:leche --> ang:læce
+eng:leed --> enm:leed --> ang:lead
+eng:Leeds --> ang:Hledes
+eng:leefkyn --> dum:liefkyn
+eng:leekish --> eng:leek
+eng:leeklike --> eng:leek
+eng:leeky --> eng:leek
+eng:leer --> enm:ler
+eng:leerness --> enm:lereness --> ang:lærnes
+eng:lees --> fro:lies
+eng:leese --> ang:liesan
+eng:leesy --> eng:lee
+eng:leetspeak --> eng:leet
+eng:leeward --> eng:lee
+eng:leeway --> eng:lee
+eng:Lefebvrist --> eng:Lefebvre
+eng:Lefebvrite --> eng:Lefebvre
+eng:lefradafiban --> eng:fradafiban
+eng:left --> enm:left
+eng:leftard --> eng:left --> enm:left
+eng:leftfield --> eng:field --> enm:field
+eng:lefthanded --> eng:handed
+eng:leftward --> eng:left --> enm:left
+eng:leftwise --> eng:left --> enm:left
+eng:lefull --> enm:lefull --> enm:leve --> ang:leaf
+eng:leg --> enm:leg --> non:leggr
+eng:legacy --> fro:legacie --> lat:legatia
+eng:legal --> lat:legalis --> lat:lex
+eng:legalese --> eng:legal --> lat:legalis --> lat:lex
+eng:legalise --> eng:legal --> lat:legalis --> lat:lex
+eng:legalism --> eng:legal --> lat:legalis --> lat:lex
+eng:legalizable --> eng:legalize --> eng:legal --> lat:legalis --> lat:lex
+eng:legalize --> eng:legal --> lat:legalis --> lat:lex
+eng:legally --> eng:legal --> lat:legalis --> lat:lex
+eng:legatary --> lat:legatarius
+eng:legateship --> eng:legate
+eng:legation --> lat:legatio
+eng:legator --> lat:legator --> lat:lego --> lat:lex
+eng:legend --> enm:legende --> fro:legende --> lat:legenda --> lat:legendus --> lat:lego --> lat:lex
+eng:legendaire --> fra:légendaire --> fra:légende
+eng:legendarily --> eng:legendary --> eng:legend --> enm:legende --> fro:legende --> lat:legenda --> lat:legendus --> lat:lego --> lat:lex
+eng:legendariness --> eng:legendary --> eng:legend --> enm:legende --> fro:legende --> lat:legenda --> lat:legendus --> lat:lego --> lat:lex
+eng:legendary --> eng:legend --> enm:legende --> fro:legende --> lat:legenda --> lat:legendus --> lat:lego --> lat:lex
+eng:Legendrian --> eng:Legendre
+eng:leger --> fra:léger
+eng:legged --> eng:leg --> enm:leg --> non:leggr
+eng:leggily --> eng:leggy
+eng:legginess --> eng:leggy
+eng:legging --> eng:leg --> enm:leg --> non:leggr
+eng:leghold --> eng:hold --> enm:hold --> ang:hold
+eng:leghole --> eng:hole
+eng:legible --> lat:legibilis
+eng:legibleness --> eng:legible --> lat:legibilis
+eng:legific --> lat:lex
+eng:legioned --> eng:legion
+eng:legionnaire --> fra:légionnaire --> fra:légion
+eng:legislation --> lat:legislatio
+eng:legislatively --> eng:legislative
+eng:legislator --> lat:legislator
+eng:legislatorship --> eng:legislator --> lat:legislator
+eng:legist --> frm:légiste --> lat:legista --> lat:lex
+eng:legitimate --> lat:legitimatus
+eng:legitimately --> eng:legitimate --> lat:legitimatus
+eng:legitimateness --> eng:legitimate --> lat:legitimatus
+eng:legitimation --> lat:legitimationem
+eng:legitimisation --> eng:legitimise
+eng:legitimization --> eng:legitimize
+eng:legitimizer --> eng:legitimize
+eng:leglessness --> eng:legless
+eng:leglike --> eng:leg --> enm:leg --> non:leggr
+eng:lego --> eng:Lego
+eng:legplate --> eng:leg --> enm:leg --> non:leggr
+eng:legume --> fra:légume --> lat:legumen
+eng:legwear --> eng:leg --> enm:leg --> non:leggr
+eng:legwork --> eng:leg --> enm:leg --> non:leggr
+eng:lei --> haw:lei
+eng:Leibnizian --> eng:Leibniz
+eng:Leiden --> lat:Lugdunum Batavorum
+eng:leigh --> enm:legh
+eng:Leila --> heb:לילה
+eng:leisurable --> eng:leisure --> enm:leisir --> xno:leisir
+eng:leisurably --> eng:leisurable --> eng:leisure --> enm:leisir --> xno:leisir
+eng:leisure --> enm:leisir --> xno:leisir
+eng:leisureless --> eng:leisure --> enm:leisir --> xno:leisir
+eng:leisurely --> eng:leisure --> enm:leisir --> xno:leisir
+eng:leisurewear --> eng:leisure --> enm:leisir --> xno:leisir
+eng:leisurist --> eng:leisure --> enm:leisir --> xno:leisir
+eng:leitmotif --> deu:Leitmotiv
+eng:lek --> sqi:lek
+eng:lekgotla --> tsn:lekgotla
+eng:lekker --> afr:lekker --> nld:lekker
+eng:lekvar --> hun:lekvár
+eng:lemalesomab
+eng:leman --> enm:lemman --> enm:leofman
+eng:lemandarin --> eng:lemon --> fro:lymon
+eng:lemma --> grc:λῆμμα --> grc:λαμβάνω
+eng:lemman --> enm:lemman --> enm:leofman
+eng:lemmatisation --> eng:lemmatise
+eng:lemmatiser --> eng:lemmatise
+eng:lemmatization --> eng:lemmatize
+eng:lemmatizer --> eng:lemmatize
+eng:lemminglike --> eng:lemming
+eng:lemniscate --> lat:lemniscatus
+eng:Lemnos --> grc:Λῆμνος
+eng:lemon --> fro:lymon
+eng:lemonade --> eng:lemon --> fro:lymon
+eng:lemonal --> eng:lemon --> fro:lymon
+eng:lemongrass --> eng:grass --> enm:gras
+eng:lemonless --> eng:lemon --> fro:lymon
+eng:lemonlike --> eng:lemon --> fro:lymon
+eng:Lemuel --> heb:למואל
+eng:lemur --> lat:lemurēs
+eng:Lemurian --> eng:Lemuria
+eng:lemurlike --> eng:lemur --> lat:lemurēs
+eng:lemuroid --> eng:lemur --> lat:lemurēs
+eng:lend --> enm:lende --> ang:lendenu
+eng:lendable --> eng:lend --> enm:lende --> ang:lendenu
+eng:lende --> enm:lende --> ang:lendenu
+eng:length --> ang:lengþu
+eng:lengthed --> eng:length --> ang:lengþu
+eng:lengthen --> eng:length --> ang:lengþu
+eng:lengthener --> eng:lengthen --> eng:length --> ang:lengþu
+eng:lengthful --> eng:length --> ang:lengþu
+eng:lengthily --> eng:lengthy --> eng:length --> ang:lengþu
+eng:lengthiness --> eng:lengthy --> eng:length --> ang:lengþu
+eng:lengthless --> eng:length --> ang:lengþu
+eng:lengthwise --> eng:length --> ang:lengþu
+eng:lengthy --> eng:length --> ang:lengþu
+eng:lenient --> lat:leniens
+eng:leniently --> eng:lenient --> lat:leniens
+eng:lenis --> lat:lenis
+eng:lenitive --> lat:lenitivus --> lat:lenitus
+eng:lenitiveness --> eng:lenitive --> lat:lenitivus --> lat:lenitus
+eng:lenitude --> lat:lenitudo --> lat:lenis
+eng:leno --> ita:leno
+eng:lenocinant --> lat:lenocinans
+eng:lens --> lat:lens
+eng:lensless --> eng:lens --> lat:lens
+eng:lenslike --> eng:lens --> lat:lens
+eng:lensmaker --> eng:lens --> lat:lens
+eng:lensmaking --> eng:lens --> lat:lens
+eng:Lenten --> ang:lenten
+eng:Lententide --> eng:Lenten --> ang:lenten
+eng:lentic --> lat:lentus
+eng:lenticular --> lat:lenticularis --> lat:lens
+eng:lenticularly --> eng:lenticular --> lat:lenticularis --> lat:lens
+eng:lentil --> fro:lentille --> lat:lenticula
+eng:lentitude --> lat:lentitudo
+eng:lentivirally --> eng:lentiviral
+eng:lentoid --> eng:lens --> lat:lens
+eng:lentous --> lat:lentus
+eng:Leo --> lat:leo --> grc:λέων
+eng:leod --> enm:leod
+eng:Leomania --> eng:Leo --> lat:leo --> grc:λέων
+eng:León --> spa:León --> lat:Legio
+eng:Leonid --> lat:leo --> grc:λέων
+eng:leoninity --> eng:leonine
+eng:leopard --> fro:lepart
+eng:leopardlike --> eng:leopard --> fro:lepart
+eng:leopardwood --> eng:leopard --> fro:lepart
+eng:leotardlike --> eng:leotard
+eng:lepadoid --> eng:Lepas
+eng:leper --> enm:lepre
+eng:lepid --> lat:lepidus
+eng:lepido- --> grc:λεπίς
+eng:lepidodendroid --> eng:Lepidodendron
+eng:lepidote --> grc:λεπιδωτός
+eng:lepismoid --> eng:Lepisma
+eng:leporine --> lat:lepus
+eng:leprechaun --> gle:leipreachán
+eng:leprosied --> eng:leprosy --> lat:leprosia
+eng:leprosy --> lat:leprosia
+eng:leprosylike --> eng:leprosy --> lat:leprosia
+eng:leprous --> fro:leprous
+eng:leptiform --> eng:leptus
+eng:leptocurare --> eng:curare
+eng:leptogenesis --> eng:genesis --> lat:genesis --> grc:γένεσις
+eng:leptokurtic --> eng:kurtosis --> grc:κύρτωσις --> grc:κυρτός
+eng:leptokurtosis --> eng:kurtosis --> grc:κύρτωσις --> grc:κυρτός
+eng:leptokurtotic --> eng:kurtosis --> grc:κύρτωσις --> grc:κυρτός
+eng:leptomorphic --> eng:morphic
+eng:lepton --> grc:λεπτόν
+eng:leptonless --> eng:lepton --> grc:λεπτόν
+eng:leptophilic --> eng:lepton --> grc:λεπτόν
+eng:leptospirosis --> eng:spirosis
+eng:lere --> enm:leren --> ang:læran
+eng:lesbian --> lat:Lesbiana
+eng:lesbianhood --> eng:lesbian --> lat:Lesbiana
+eng:lesbianic --> eng:lesbian --> lat:Lesbiana
+eng:lesbianish --> eng:lesbian --> lat:Lesbiana
+eng:lesbianism --> eng:lesbian --> lat:Lesbiana
+eng:lesbianization --> eng:lesbian --> lat:Lesbiana
+eng:lesbianize --> eng:lesbian --> lat:Lesbiana
+eng:lesbianness --> eng:lesbian --> lat:Lesbiana
+eng:lesbianship --> eng:lesbian --> lat:Lesbiana
+eng:lesbigay --> eng:bisexual --> eng:sexual --> lat:sexualis
+eng:lesbophobia
+eng:Lesbos --> grc:Λέσβος
+eng:lese majesty --> fra:lèse-majesté
+eng:lese-majesty --> lat:laesa maiestas
+eng:lesionless --> eng:lesion
+eng:lesionlike --> eng:lesion
+eng:less --> ang:læs
+eng:lessee --> xno:lessié
+eng:lessener --> eng:lessen
+eng:lessenest --> eng:lessen
+eng:lesseneth --> eng:lessen
+eng:lesser --> eng:less --> ang:læs
+eng:lesses --> fra:laissées
+eng:lessness --> eng:less --> ang:læs
+eng:lesson --> fro:leçon --> lat:lectio --> lat:lego --> lat:lex
+eng:lessperson --> eng:less --> ang:læs
+eng:let --> enm:leten
+eng:letcha --> eng:let --> enm:leten
+eng:lethal --> lat:letalis --> lat:letum
+eng:lethally --> eng:lethal --> lat:letalis --> lat:letum
+eng:lethargic --> grc:ληθαργικός --> grc:λήθαργος
+eng:lethargically --> eng:lethargic --> grc:ληθαργικός --> grc:λήθαργος
+eng:lethargicness --> eng:lethargic --> grc:ληθαργικός --> grc:λήθαργος
+eng:lethargy --> lat:lethargia --> grc:ληθαργία --> grc:λήθαργος
+eng:Letheed --> eng:Lethe
+eng:letheonize --> eng:letheon
+eng:lethiferous --> lat:lethifer
+eng:Leto --> grc:Λητώ
+eng:Lett --> deu:Lette --> lav:latvis
+eng:letter --> eng:let --> enm:leten
+eng:letterboard --> eng:board --> enm:bord
+eng:letterboxer --> eng:letterbox
+eng:letterless --> eng:letter --> eng:let --> enm:leten
+eng:letterpressed --> eng:letterpress
+eng:letterwise --> eng:letter --> eng:let --> enm:leten
+eng:letterwood --> eng:letter --> eng:let --> enm:leten
+eng:Lettish --> eng:Lett --> deu:Lette --> lav:latvis
+eng:lettre de cachet --> fra:lettre de cachet
+eng:lettuce --> enm:letuse
+eng:lettuceless --> eng:lettuce --> enm:letuse
+eng:lettucelike --> eng:lettuce --> enm:letuse
+eng:lettucey --> eng:lettuce --> enm:letuse
+eng:Letzeburgesh --> ltz:Lëtzebuergesch
+eng:leucaniline --> eng:aniline --> deu:Anilin
+eng:leucitic --> eng:leucite
+eng:leucitoid --> eng:leucite
+eng:leucoanthocyanidin --> eng:anthocyanidin
+eng:leucodelphinidin --> eng:delphinidin
+eng:leucoethiopic --> eng:Ethiopic
+eng:leuconic acid --> eng:croconic
+eng:leucopathy
+eng:leucoplastid --> eng:plastid
+eng:leucoscope
+eng:leucosphere --> eng:sphere --> fro:sphere --> lat:sphera --> lat:sphaera --> grc:σφαῖρα
+eng:leucoxenic --> eng:leucoxene
+eng:leucoxenisation --> eng:leucoxene
+eng:leucoxenization --> eng:leucoxene
+eng:leuenkephalin --> eng:Leu
+eng:leukemia --> deu:Leukämie
+eng:leuko- --> grc:λευκός
+eng:leukocytic --> eng:leukocyte
+eng:leukodystrophic --> eng:leukodystrophy --> eng:dystrophy
+eng:leukodystrophy --> eng:dystrophy
+eng:leukomalacia
+eng:leukopathy
+eng:leukophobia
+eng:leukoreduced --> eng:reduced
+eng:leukoreduction --> eng:reduction --> enm:reduccion --> fro:reducion --> lat:reductio --> lat:reduco
+eng:leukosialin --> eng:sialin
+eng:leukostasis --> eng:stasis
+eng:leukotoxin --> eng:toxin --> lat:toxicum --> grc:τοξικόν --> grc:τοξικός --> grc:τόξον
+eng:leukovirus --> lat:Leukovirus
+eng:levacetylmethadol --> eng:acetylmethadol
+eng:levallorphan --> eng:allorphan
+eng:levant --> fra:levant
+eng:Levant --> fra:levant
+eng:Levantine --> eng:Levant --> fra:levant
+eng:levation --> lat:levatio
+eng:levcromakalim --> eng:cromakalim
+eng:levee --> fra:levé
+eng:level --> enm:level --> fro:livel
+eng:levelheadedness --> eng:levelheaded
+eng:levelism --> eng:level --> enm:level --> fro:livel
+eng:levelless --> eng:level --> enm:level --> fro:livel
+eng:levelly --> eng:level --> enm:level --> fro:livel
+eng:levelness --> eng:level --> enm:level --> fro:livel
+eng:lever --> fra:lever --> lat:levare
+eng:leverage --> eng:lever --> fra:lever --> lat:levare
+eng:leverageable --> eng:leverage --> eng:lever --> fra:lever --> lat:levare
+eng:leverager --> eng:leverage --> eng:lever --> fra:lever --> lat:levare
+eng:leverless --> eng:lever --> fra:lever --> lat:levare
+eng:Levi --> heb:לוי
+eng:leviable --> eng:levy --> xno:leve --> fro:levee
+eng:levier --> eng:levy --> xno:leve --> fro:levee
+eng:levigate --> lat:levigatus
+eng:Levinasian --> eng:Levinas
+eng:levitator --> eng:levitate
+eng:Levite --> eng:Levi --> heb:לוי
+eng:levitically --> eng:levitical
+eng:levoamphetamine --> eng:amphetamine
+eng:levobunolol --> eng:bunolol
+eng:levobupivacaine --> eng:bupivacaine
+eng:levocabastine --> eng:cabastine
+eng:levocarnitine --> eng:carnitine
+eng:levocetirizine --> eng:cetirizine
+eng:levoglucose --> eng:glucose
+eng:levogyrate --> eng:gyrate
+eng:levogyration --> eng:gyration
+eng:levomenthol --> eng:menthol
+eng:levomethamphetamine --> eng:methamphetamine
+eng:levomoramide --> eng:moramide
+eng:levonantradol --> eng:nantradol
+eng:levophenacylmorphan --> eng:phenacylmorphan
+eng:levormeloxifene --> eng:ormeloxifene
+eng:levorotation --> eng:rotation --> lat:rotationem
+eng:levorotatory --> eng:rotatory
+eng:levosalbutamol --> eng:salbutamol
+eng:levosimendan --> eng:simendan
+eng:levulose --> eng:l
+eng:levy --> xno:leve --> fro:levee
+eng:lewd --> enm:leud
+eng:lewdly --> eng:lewd --> enm:leud
+eng:lewdness --> eng:lewd --> enm:leud
+eng:lewisite --> eng:Lewis
+eng:lexatumumab
+eng:lexeme --> lat:lexis --> grc:λέξις --> grc:λέγω
+eng:lexer --> eng:lex
+eng:lexical --> lat:lexis --> grc:λέξις --> grc:λέγω
+eng:lexically --> eng:lexical --> lat:lexis --> grc:λέξις --> grc:λέγω
+eng:lexico- --> grc:λεξικός --> grc:λέξις --> grc:λέγω
+eng:lexicogrammatical --> eng:grammatical --> lat:grammaticalis --> lat:grammatica --> lat:grammaticus --> grc:γραμματικός
+eng:lexicogrammatically --> eng:grammatically --> eng:grammatical --> lat:grammaticalis --> lat:grammatica --> lat:grammaticus --> grc:γραμματικός
+eng:lexicographer --> eng:lexicography
+eng:lexicographic --> eng:lexicography
+eng:lexicographical --> eng:lexicographic --> eng:lexicography
+eng:lexicographically --> eng:lexicographic --> eng:lexicography
+eng:lexicographist --> eng:lexicography
+eng:lexicography
+eng:lexicologically --> eng:lexicological
+eng:lexicologist --> grc:λεξικός --> grc:λέξις --> grc:λέγω
+eng:lexicology --> grc:λεξικός --> grc:λέξις --> grc:λέγω
+eng:lexicometry
+eng:lexiconist --> eng:lexicon
+eng:lexicosemantics --> eng:semantics
+eng:lexicostatistically --> eng:lexicostatistical
+eng:lexicostatistics --> eng:statistics --> deu:Statistik
+eng:lexicosyntactic --> eng:syntactic
+eng:lexigram
+eng:lexigraphy --> eng:lexigraph
+eng:lexis --> grc:λέξις --> grc:λέγω
+eng:lezginka --> rus:лезгинка
+eng:Lhasa --> bod:ལྷ་ས
+eng:li --> cmn:市厘
+eng:liable --> fro:lier --> lat:ligare
+eng:liableness --> eng:liable --> fro:lier --> lat:ligare
+eng:liaison --> fra:liaison --> lat:ligatio
+eng:liar --> enm:lier --> ang:leogere --> ang:leogan
+eng:liard --> fra:liard
+eng:lib --> enm:libbe --> ang:lybb
+eng:libament --> lat:libamentum
+eng:libation --> lat:libatio --> lat:libare
+eng:libecchio --> ita:libeccio
+eng:libel --> fro:libelle --> lat:libellus
+eng:libelist --> eng:libel --> fro:libelle --> lat:libellus
+eng:libellist --> eng:libel --> fro:libelle --> lat:libellus
+eng:libelluloid --> eng:Libellula
+eng:liberalish --> eng:liberal
+eng:liberalizer --> eng:liberalize
+eng:liberally --> eng:liberal
+eng:liberalness --> eng:liberal
+eng:liberate --> lat:liberatus
+eng:liberatingly --> eng:liberating
+eng:liberation --> fra:libération --> lat:liberatio
+eng:liberational --> eng:liberation --> fra:libération --> lat:liberatio
+eng:liberationism --> eng:liberation --> fra:libération --> lat:liberatio
+eng:liberationist --> eng:liberation --> fra:libération --> lat:liberatio
+eng:liberator --> lat:liberator
+eng:libertard --> eng:Libertarian
+eng:libertarianism --> eng:libertarian
+eng:liberticide --> fra:liberticide
+eng:libertine --> lat:libertinus
+eng:libertinism --> eng:libertine --> lat:libertinus
+eng:liberty --> enm:liberte --> fro:liberté --> lat:libertas --> lat:liber
+eng:libertyless --> eng:liberty --> enm:liberte --> fro:liberté --> lat:libertas --> lat:liber
+eng:libidinally --> eng:libidinal
+eng:libidinize --> eng:libido --> lat:libido
+eng:libidinosity --> eng:libidinous --> lat:libidinosus
+eng:libidinous --> lat:libidinosus
+eng:libidinously --> eng:libidinous --> lat:libidinosus
+eng:libido --> lat:libido
+eng:libidoless --> eng:libido --> lat:libido
+eng:libivirumab
+eng:libra --> lat:libra
+eng:Libra --> lat:libra
+eng:libral --> lat:libralis
+eng:librarian --> eng:library --> enm:librarie --> xno:librarie --> fro:librairie --> lat:librarium --> lat:librarius --> lat:liber
+eng:librariana --> eng:library --> enm:librarie --> xno:librarie --> fro:librairie --> lat:librarium --> lat:librarius --> lat:liber
+eng:librarianlike --> eng:librarian --> eng:library --> enm:librarie --> xno:librarie --> fro:librairie --> lat:librarium --> lat:librarius --> lat:liber
+eng:librarianly --> eng:librarian --> eng:library --> enm:librarie --> xno:librarie --> fro:librairie --> lat:librarium --> lat:librarius --> lat:liber
+eng:librarianship --> eng:librarian --> eng:library --> enm:librarie --> xno:librarie --> fro:librairie --> lat:librarium --> lat:librarius --> lat:liber
+eng:library --> enm:librarie --> xno:librarie --> fro:librairie --> lat:librarium --> lat:librarius --> lat:liber
+eng:libraryless --> eng:library --> enm:librarie --> xno:librarie --> fro:librairie --> lat:librarium --> lat:librarius --> lat:liber
+eng:librarylike --> eng:library --> enm:librarie --> xno:librarie --> fro:librairie --> lat:librarium --> lat:librarius --> lat:liber
+eng:libration --> lat:libratio --> lat:libro --> lat:libra
+eng:libriform --> eng:liber
+eng:libtard --> eng:Libertarian
+eng:Libyan --> eng:Libya
+eng:licecide --> eng:lice
+eng:liceity --> lat:licere
+eng:licence --> fro:licence --> lat:licentia --> lat:licens
+eng:licenceless --> eng:licence --> fro:licence --> lat:licentia --> lat:licens
+eng:licensable --> eng:license --> fro:licence --> lat:licentia --> lat:licens
+eng:license --> fro:licence --> lat:licentia --> lat:licens
+eng:licensee --> eng:license --> fro:licence --> lat:licentia --> lat:licens
+eng:licenseless --> eng:license --> fro:licence --> lat:licentia --> lat:licens
+eng:licensor --> eng:license --> fro:licence --> lat:licentia --> lat:licens
+eng:licentious --> lat:licentiosus --> lat:licentia --> lat:licens
+eng:licentiously --> eng:licentious --> lat:licentiosus --> lat:licentia --> lat:licens
+eng:lich --> ang:lic
+eng:lichenic --> eng:lichen
+eng:lichenized --> eng:lichen
+eng:lichenless --> eng:lichen
+eng:lichenlike --> eng:lichen
+eng:lichenography --> eng:lichen
+eng:lichenology --> eng:lichen
+eng:lichenometry --> eng:lichen
+eng:lichyard --> eng:lich --> ang:lic
+eng:licit --> lat:licitus
+eng:licitation --> lat:licitatio
+eng:licitly --> eng:licit --> lat:licitus
+eng:licitness --> eng:licit --> lat:licitus
+eng:lick --> ang:liccian
+eng:lickable --> eng:lick --> ang:liccian
+eng:lickably --> eng:lickable --> eng:lick --> ang:liccian
+eng:lick clean --> eng:clean --> enm:clene --> ang:clæne
+eng:lickerous --> enm:likerous
+eng:lickeroushead --> enm:likeroushed
+eng:lickerousness --> enm:likerousnesse
+eng:lickpenny --> eng:lick --> ang:liccian
+eng:licky --> eng:lick --> ang:liccian
+eng:lid --> ang:hlid
+eng:lidar --> eng:light --> ang:leoht
+eng:lidlessness --> eng:lidless
+eng:lidlike --> eng:lid --> ang:hlid
+eng:lie --> enm:lien --> ang:leogan
+eng:Liebercrat --> eng:Democrat
+eng:Lieberkuhnian --> eng:Lieberkühn
+eng:Liebestod --> deu:Liebestod
+eng:liedertafel --> deu:Liedertafel
+eng:liedlike --> eng:lied
+eng:lief --> ang:leof
+eng:liefsome --> enm:lefsum
+eng:liege --> enm:liege --> xno:lige --> fro:liege --> gmh:ledic
+eng:liegeman --> eng:liege --> enm:liege --> xno:lige --> fro:liege --> gmh:ledic
+eng:liegewoman --> eng:liege --> enm:liege --> xno:lige --> fro:liege --> gmh:ledic
+eng:lien --> frm:lien --> lat:ligamen --> lat:ligo
+eng:lienal --> lat:lien --> grc:σπλήν
+eng:lienor --> eng:lien --> frm:lien --> lat:ligamen --> lat:ligo
+eng:lienteric --> lat:lientericus
+eng:Lienux --> eng:lie --> enm:lien --> ang:leogan
+eng:lier --> enm:lier --> ang:leogere --> ang:leogan
+eng:Lier --> nld:Lier --> nld:lier
+eng:lierne rib --> fra:lierne
+eng:lieth --> eng:lie --> enm:lien --> ang:leogan
+eng:lieu --> fra:lieu --> lat:locum
+eng:lieutenant-colonelcy --> eng:lieutenant-colonel
+eng:lieutenantship --> eng:lieutenant
+eng:life --> enm:lif
+eng:lifecare --> eng:care --> enm:care --> ang:caru
+eng:lifecast --> eng:cast --> enm:casten --> non:kasta
+eng:lifecasting --> eng:casting
+eng:lifechanging --> eng:changing
+eng:life cot --> eng:cot --> hin:खाट
+eng:lifedraining --> eng:draining
+eng:lifeful --> eng:life --> enm:lif
+eng:lifeguard --> eng:guard
+eng:lifehack --> eng:hack --> ang:tohaccian
+eng:lifehacking --> eng:lifehack --> eng:hack --> ang:tohaccian
+eng:lifehold --> eng:hold --> enm:hold --> ang:hold
+eng:lifejacketed --> eng:lifejacket
+eng:lifeless --> eng:life --> enm:lif
+eng:lifelessly --> eng:lifeless --> eng:life --> enm:lif
+eng:lifelessness --> eng:lifeless --> eng:life --> enm:lif
+eng:lifelike --> eng:life --> enm:lif
+eng:lifelong --> eng:life --> enm:lif
+eng:lifelore --> eng:life --> enm:lif
+eng:lifemate --> eng:life --> enm:lif
+eng:lifen --> eng:life --> enm:lif
+eng:lifeness --> eng:life --> enm:lif
+eng:lifepath --> eng:life --> enm:lif
+eng:liferent --> eng:life --> enm:lif
+eng:liferenter --> eng:life --> enm:lif
+eng:liferentrix --> eng:liferenter --> eng:life --> enm:lif
+eng:lifesome --> eng:life --> enm:lif
+eng:lifespring --> eng:life --> enm:lif
+eng:lifestream --> eng:life --> enm:lif
+eng:lifestreaming --> eng:life --> enm:lif
+eng:lifestring --> eng:life --> enm:lif
+eng:lifestyler --> eng:lifestyle
+eng:lifetaker --> eng:life --> enm:lif
+eng:lifetap --> eng:life --> enm:lif
+eng:lifeway --> ang:lifweg
+eng:lifework --> eng:life --> enm:lif
+eng:lifeworthy --> eng:life --> enm:lif
+eng:lift --> enm:lifte
+eng:liftable --> eng:lift --> enm:lifte
+eng:lifted --> eng:lift --> enm:lifte
+eng:lifteth --> eng:lift --> enm:lifte
+eng:liftgate --> eng:gate --> ang:geat
+eng:liftover --> eng:lift --> enm:lifte
+eng:liftshaft --> ang:sceaft
+eng:lig --> enm:liggen
+eng:ligament --> lat:ligamentum --> lat:ligo
+eng:ligand --> lat:ligandus
+eng:ligandless --> eng:ligand --> lat:ligandus
+eng:ligandlike --> eng:ligand --> lat:ligandus
+eng:ligatureless --> eng:ligature
+eng:ligeance --> fro:ligeance
+eng:liger --> eng:lion --> fro:lion --> lat:leo --> grc:λέων
+eng:light --> ang:leoht
+eng:lightable --> eng:light --> ang:leoht
+eng:lightbar --> eng:bar --> enm:barre --> fro:barre
+eng:lightboard --> eng:board --> enm:bord
+eng:lightboat --> eng:boat --> ang:bat
+eng:lightbox --> eng:box --> ang:box
+eng:lightcurve --> eng:curve --> lat:curvus
+eng:lighten --> eng:light --> ang:leoht
+eng:lighterage --> eng:lighter
+eng:lighterman --> eng:lighter
+eng:lighteth --> eng:light --> ang:leoht
+eng:lightfast --> eng:fast --> ang:fæst
+eng:lightfastness --> eng:lightfast --> eng:fast --> ang:fæst
+eng:lightfoot --> eng:foot
+eng:lightful --> eng:light --> ang:leoht
+eng:lightheaded --> eng:headed --> eng:head --> enm:hed
+eng:lightheadedness --> eng:lightheaded --> eng:headed --> eng:head --> enm:hed
+eng:light-headedness --> eng:light-headed
+eng:lightheartedly --> eng:lighthearted
+eng:lighthouse --> eng:house --> enm:hous
+eng:lighthousekeeper --> eng:keeper --> eng:keep --> enm:kepen --> ang:cepan
+eng:lighthouselike --> eng:lighthouse --> eng:house --> enm:hous
+eng:lightish --> eng:light --> ang:leoht
+eng:lightless --> eng:light --> ang:leoht
+eng:lightlike --> eng:light --> ang:leoht
+eng:lightly --> eng:light --> ang:leoht
+eng:lightman --> eng:light --> ang:leoht
+eng:lightmap --> eng:light --> ang:leoht
+eng:lightninglike --> eng:lightning
+eng:lightproof --> eng:light --> ang:leoht
+eng:lightscape --> eng:light --> ang:leoht
+eng:lightship --> eng:light --> ang:leoht
+eng:lightsome --> eng:light --> ang:leoht
+eng:lightsomely --> eng:lightsome --> eng:light --> ang:leoht
+eng:lightsomeness --> eng:lightsome --> eng:light --> ang:leoht
+eng:light spectrum --> eng:light --> ang:leoht
+eng:lightstick --> eng:light --> ang:leoht
+eng:lightstruck --> eng:light --> ang:leoht
+eng:lighttight --> eng:light --> ang:leoht
+eng:lightwave --> eng:light --> ang:leoht
+eng:lightweight --> eng:light --> ang:leoht
+eng:lightwood --> eng:light --> ang:leoht
+eng:lightworker --> eng:light --> ang:leoht
+eng:lighty --> eng:light --> ang:leoht
+eng:ligninolytic --> eng:lignin
+eng:lignitic --> eng:lignite
+eng:lignitiferous --> eng:lignite
+eng:lignous
+eng:ligress --> eng:liger --> eng:lion --> fro:lion --> lat:leo --> grc:λέων
+eng:ligula --> lat:ligula
+eng:ligule --> lat:ligula
+eng:ligustrin --> eng:Ligustrum
+eng:ligustrum --> lat:ligustrum
+eng:likable --> eng:like --> enm:liken --> ang:lician
+eng:likam --> enm:likam
+eng:like --> enm:liken --> ang:lician
+eng:likeable --> eng:like --> enm:liken --> ang:lician
+eng:likeful --> enm:likful
+eng:likejacking --> eng:hijacking
+eng:likeless --> eng:like --> enm:liken --> ang:lician
+eng:likeliness --> enm:liklinesse
+eng:likely --> non:líkligr
+eng:liken --> enm:liken --> ang:lician
+eng:likeness --> eng:like --> enm:liken --> ang:lician
+eng:liker --> eng:like --> enm:liken --> ang:lician
+eng:likeworthy --> eng:like --> enm:liken --> ang:lician
+eng:likish --> eng:like --> enm:liken --> ang:lician
+eng:Likud --> heb:ליכוד
+eng:lilac --> ara:ليلك --> fas:نیلک --> fas:نیل
+eng:lilacin --> eng:lilac --> ara:ليلك --> fas:نیلک --> fas:نیل
+eng:lilacky --> eng:lilac --> ara:ليلك --> fas:نیلک --> fas:نیل
+eng:Lilia --> lat:lilia
+eng:Lilith --> heb:לילית
+eng:lily --> ang:lilie --> lat:lilia
+eng:lilylike --> eng:lily --> ang:lilie --> lat:lilia
+eng:lilypond --> eng:lily --> ang:lilie --> lat:lilia
+eng:lilyturf --> eng:lily --> ang:lilie --> lat:lilia
+eng:lilywort --> eng:lily --> ang:lilie --> lat:lilia
+eng:limaçon --> fra:limaçon --> fra:limace
+eng:liman --> fra:limon --> ita:limone --> ara:ليمون --> fas:لیمو
+eng:Liman --> eng:Lima
+eng:limation --> lat:limatus
+eng:limb --> lat:limbus
+eng:limbate --> lat:limbatus --> lat:limbus
+eng:limberly --> eng:limber
+eng:limbmeal --> eng:limb --> lat:limbus
+eng:limbo --> lat:limbus
+eng:limbolike --> eng:limbo --> lat:limbus
+eng:limbus --> lat:limbus
+eng:lime --> ang:lim
+eng:limeade --> eng:lime --> ang:lim
+eng:limecrete --> eng:concrete --> lat:concretus
+eng:limehound --> eng:hound --> enm:honde --> ang:hund
+eng:limeless --> eng:lime --> ang:lim
+eng:limelight --> eng:light --> ang:leoht
+eng:limelike --> eng:lime --> ang:lim
+eng:limer --> xno:limer --> fro:liem
+eng:Limerickman --> eng:Limerick
+eng:limes --> lat:limes --> lat:limus
+eng:limescaled --> eng:limescale
+eng:lime-twigged --> eng:lime-twig
+eng:limewash --> eng:lime --> ang:lim
+eng:limewood --> eng:lime --> ang:lim
+eng:Limeyland --> eng:Limey
+eng:liminal --> lat:liminalis
+eng:liminess --> eng:limy --> eng:lime --> ang:lim
+eng:limit --> lat:limiten --> fro:limiter --> lat:limitare
+eng:limitable --> eng:limit --> lat:limiten --> fro:limiter --> lat:limitare
+eng:limitaneous --> lat:limitancus
+eng:limitingly --> eng:limiting
+eng:limitive --> eng:limit --> lat:limiten --> fro:limiter --> lat:limitare
+eng:limitless --> eng:limit --> lat:limiten --> fro:limiter --> lat:limitare
+eng:limn --> enm:luminem
+eng:limned --> eng:limn --> enm:luminem
+eng:limno- --> grc:λίμνη
+eng:limnological --> eng:limnology
+eng:limnology
+eng:limolike --> eng:limo
+eng:limonin --> eng:Limonum
+eng:limosis --> grc:λιμός
+eng:limous --> lat:limosus --> lat:limus
+eng:limousin --> fra:limousine
+eng:limousine --> fra:limousine
+eng:limousinelike --> eng:limousine --> fra:limousine
+eng:limp --> enm:limpen --> ang:limpan
+eng:limpard --> eng:limp --> enm:limpen --> ang:limpan
+eng:limpdick --> eng:dick
+eng:limpetlike --> eng:limpet
+eng:limpid --> lat:limpidus
+eng:limpidly --> eng:limpid --> lat:limpidus
+eng:limpingly --> eng:limping
+eng:limpish --> eng:limp --> enm:limpen --> ang:limpan
+eng:limply --> eng:limp --> enm:limpen --> ang:limpan
+eng:limu --> haw:limu
+eng:limy --> eng:lime --> ang:lim
+eng:lin --> enm:linnen --> ang:linnan
+eng:linament --> lat:linamentum
+eng:linchpin --> enm:lynspin --> ang:lynis
+eng:Lincoln --> ang:Lindcoln --> lat:Lindum Colonia
+eng:Lincolnesque --> eng:Lincoln --> ang:Lindcoln --> lat:Lindum Colonia
+eng:Lincolnian --> eng:Lincoln --> ang:Lindcoln --> lat:Lindum Colonia
+eng:linctus --> lat:linctus
+eng:Lindberghian --> eng:Lindbergh
+eng:linden --> ang:linden --> ang:lind
+eng:Lindleyan --> eng:Lindley
+eng:lindqvistite --> eng:Lindqvist
+eng:Lindsey --> ang:Lindesege
+eng:line --> ang:lin
+eng:linea --> lat:linea --> lat:linum
+eng:lineage --> enm:linage --> fro:linage --> fro:ligne
+eng:lineal --> lat:linealis --> lat:linea --> lat:linum
+eng:lineally --> eng:lineal --> lat:linealis --> lat:linea --> lat:linum
+eng:lineament --> lat:lineamentum --> lat:linea --> lat:linum
+eng:linearithmic --> eng:linear
+eng:linearity --> eng:linear
+eng:linearizer --> eng:linearize
+eng:lineation --> lat:lineatio --> lat:lineo --> lat:linea --> lat:linum
+eng:linebacking --> eng:backing --> eng:back --> enm:bak --> ang:bæc
+eng:lineless --> eng:line --> ang:lin
+eng:linelike --> eng:line --> ang:lin
+eng:linemate --> eng:line --> ang:lin
+eng:linener --> eng:linen
+eng:linenlike --> eng:linen
+eng:lineny --> eng:linen
+eng:lineside --> eng:line --> ang:lin
+eng:linesman --> eng:line --> ang:lin
+eng:linespace --> eng:line --> ang:lin
+eng:lineswoman --> eng:line --> ang:lin
+eng:linework --> eng:line --> ang:lin
+eng:lingel --> fra:ligneul
+eng:lingerie --> fra:lingerie --> fra:linge --> lat:lineus --> lat:linum
+eng:lingeringly --> eng:lingering
+eng:linget --> fra:lingot --> eng:ingot --> enm:ingot
+eng:Lingism --> eng:Ling
+eng:lingonberry --> eng:berry --> enm:bery
+eng:linguacious --> lat:linguax
+eng:lingua franca --> ita:lingua franca
+eng:lingual --> lat:linguis --> lat:lingua --> lat:dingua
+eng:linguica --> por:linguiça
+eng:linguistically --> eng:linguistic
+eng:linguistics --> eng:linguist
+eng:lingula --> lat:lingula
+eng:liniment --> lat:linimentum --> lat:linio
+eng:linish --> eng:finish
+eng:linkable --> eng:link
+eng:linkback --> eng:back --> enm:bak --> ang:bæc
+eng:linkboy --> eng:boy --> enm:boy
+eng:linkify --> eng:link
+eng:linkless --> eng:link
+eng:linkrot --> eng:link
+eng:links --> sco:link --> ang:hlinc
+eng:linksman --> eng:links --> sco:link --> ang:hlinc
+eng:linky --> eng:link
+eng:linnet --> fro:linette
+eng:linnorm --> nor:linnorm
+eng:linseed --> ang:linsæd
+eng:lint --> enm:linet --> fro:linette
+eng:lintel --> enm:lyntel --> frm:lintel --> lat:limitaris
+eng:lintfree --> eng:lint --> enm:linet --> fro:linette
+eng:lintuzumab
+eng:lion --> fro:lion --> lat:leo --> grc:λέων
+eng:lionhead cichlid --> eng:cichlid
+eng:lionhead rabbit --> eng:head --> enm:hed
+eng:lionheart --> eng:heart --> enm:herte --> ang:heorte
+eng:lionhood --> eng:lion --> fro:lion --> lat:leo --> grc:λέων
+eng:lionish --> eng:lion --> fro:lion --> lat:leo --> grc:λέων
+eng:lionism --> eng:lion --> fro:lion --> lat:leo --> grc:λέων
+eng:lionize --> eng:lion --> fro:lion --> lat:leo --> grc:λέων
+eng:lionlike --> eng:lion --> fro:lion --> lat:leo --> grc:λέων
+eng:lionly --> eng:lion --> fro:lion --> lat:leo --> grc:λέων
+eng:lionship --> eng:lion --> fro:lion --> lat:leo --> grc:λέων
+eng:lip --> enm:lippe --> ang:lippa
+eng:liparite --> eng:Lipari
+eng:lipidome --> eng:genome
+eng:lipidomics --> eng:lipid
+eng:lipless --> eng:lip --> enm:lippe --> ang:lippa
+eng:liplessly --> eng:lipless --> eng:lip --> enm:lippe --> ang:lippa
+eng:liplessness --> eng:lipless --> eng:lip --> enm:lippe --> ang:lippa
+eng:liplet --> eng:lip --> enm:lippe --> ang:lippa
+eng:liplike --> eng:lip --> enm:lippe --> ang:lippa
+eng:lipoadenoma --> eng:adenoma
+eng:lipoamide --> eng:amide
+eng:lipoapoptosis --> eng:apoptosis --> grc:ἀπόπτωσις
+eng:lipocentric
+eng:lipocyte
+eng:lipodystrophy --> eng:dystrophy
+eng:lipofuscinosis --> eng:lipofuscin
+eng:lipoglycopeptide --> eng:glycopeptide --> eng:peptide --> grc:πεπτός
+eng:lipoidal --> eng:lipoid
+eng:lipometer
+eng:lipometry
+eng:lipooligosaccharide --> eng:oligosaccharide --> eng:saccharide
+eng:lipoperoxidation --> eng:peroxidation
+eng:lipophile
+eng:lipophilic
+eng:lipophobia
+eng:lipopolysaccharide --> eng:polysaccharide
+eng:liposculpture --> eng:sculpture
+eng:lipoteichoic --> eng:teichoic
+eng:lipotoxic --> eng:toxic --> fra:toxique --> lat:toxicus --> grc:τοξικόν --> grc:τοξικός --> grc:τόξον
+eng:lipotoxicity --> eng:toxicity
+eng:lipotropic
+eng:lipotropically --> eng:lipotropic
+eng:lipped --> eng:lip --> enm:lippe --> ang:lippa
+eng:lippen --> enm:lipnen
+eng:lippy --> eng:lip --> enm:lippe --> ang:lippa
+eng:lipread --> eng:lip --> enm:lippe --> ang:lippa
+eng:lip-smackingly --> eng:lip-smacking
+eng:lipstickless --> eng:lipstick
+eng:lipsticky --> eng:lipstick
+eng:liptinitic --> eng:liptinite
+eng:liquable --> lat:liquabilis
+eng:liquefiable --> eng:liquefy --> enm:liquefien --> xno:liquefier --> lat:liquefacere
+eng:liquefy --> enm:liquefien --> xno:liquefier --> lat:liquefacere
+eng:liquescent --> lat:liquescens
+eng:liqueur --> fra:liqueur --> lat:liquor --> lat:liqueo
+eng:liquid --> enm:liquide --> fro:liquide --> lat:liquidus --> lat:liqueo
+eng:liquidless --> eng:liquid --> enm:liquide --> fro:liquide --> lat:liquidus --> lat:liqueo
+eng:liquidlike --> eng:liquid --> enm:liquide --> fro:liquide --> lat:liquidus --> lat:liqueo
+eng:liquidly --> eng:liquid --> enm:liquide --> fro:liquide --> lat:liquidus --> lat:liqueo
+eng:liquidness --> eng:liquid --> enm:liquide --> fro:liquide --> lat:liquidus --> lat:liqueo
+eng:liquidy --> eng:liquid --> enm:liquide --> fro:liquide --> lat:liquidus --> lat:liqueo
+eng:liquify --> eng:liquid --> enm:liquide --> fro:liquide --> lat:liquidus --> lat:liqueo
+eng:liquorice --> fro:licoresse --> lat:liquiritia --> grc:γλυκύρριζα
+eng:liquoricey --> eng:liquorice --> fro:licoresse --> lat:liquiritia --> grc:γλυκύρριζα
+eng:liquorless --> eng:liquor
+eng:lira --> ita:lira --> lat:libra
+eng:lire --> enm:lire
+eng:lirelliform --> eng:lirella
+eng:liripoop --> fro:liripipion
+eng:lirk --> enm:lerke
+eng:lirt --> enm:lirten
+eng:Lisbonite --> eng:Lisbon
+eng:lishey --> eng:lush --> enm:lusch
+eng:liskeardite --> eng:Liskeard
+eng:Lisper --> eng:Lisp
+eng:lispingly --> eng:lisping
+eng:Lisplike --> eng:Lisp
+eng:lispy --> eng:lisp
+eng:liss --> enm:lis
+eng:lisse --> ang:lissian
+eng:lissomely --> eng:lissome
+eng:lissomeness --> eng:lissome
+eng:list --> ang:lystan
+eng:listable --> eng:list --> ang:lystan
+eng:listeme --> eng:list --> ang:lystan
+eng:listen --> enm:listnen
+eng:listenable --> eng:listen --> enm:listnen
+eng:listenership --> eng:listener
+eng:Listerian --> eng:Lister
+eng:Listerism --> eng:Lister
+eng:listicle --> eng:article
+eng:listlessly --> eng:listless
+eng:listlessness --> eng:listless
+eng:listlike --> eng:list --> ang:lystan
+eng:listmaker --> eng:list --> ang:lystan
+eng:listmaking --> eng:list --> ang:lystan
+eng:listserver --> eng:list --> ang:lystan
+eng:listview --> eng:list --> ang:lystan
+eng:listwashing --> eng:list --> ang:lystan
+eng:listwise --> eng:list --> ang:lystan
+eng:Lisztian --> eng:Liszt
+eng:lit --> enm:lihte --> ang:lihtte
+eng:litany --> grc:λιτανεία --> grc:λιτή
+eng:lit de justice --> fra:lit de justice
+eng:lite --> enm:lit --> non:litr
+eng:literal --> fro:literal --> lat:litteralis
+eng:literalism --> eng:literal --> fro:literal --> lat:litteralis
+eng:literalize --> eng:literal --> fro:literal --> lat:litteralis
+eng:literally --> eng:literal --> fro:literal --> lat:litteralis
+eng:literalness --> eng:literal --> fro:literal --> lat:litteralis
+eng:literary --> fra:littéraire --> lat:litterarius
+eng:literate --> lat:litteratus
+eng:literately --> eng:literate --> lat:litteratus
+eng:literati --> lat:literatus
+eng:literation --> lat:littera
+eng:lith --> enm:lith
+eng:litharge --> fro:litarge --> lat:lithargyrus --> grc:λιθαργυρος
+eng:lithe --> enm:lithen --> ang:liþan
+eng:lithely --> eng:lithe --> enm:lithen --> ang:liþan
+eng:lither --> enm:lither
+eng:litherness --> eng:lither --> enm:lither
+eng:lithesome --> eng:lithe --> enm:lithen --> ang:liþan
+eng:lithiasis --> lat:lithiasis --> grc:λιθίασις --> grc:λίθος
+eng:lithify
+eng:lithiowodginite --> eng:wodginite --> eng:Wodgina
+eng:lithium --> lat:lithium
+eng:lithiumlike --> eng:lithium --> lat:lithium
+eng:lithoautotroph --> eng:autotroph
+eng:lithofacies --> eng:facies
+eng:lithogenesis --> eng:genesis --> lat:genesis --> grc:γένεσις
+eng:lithogenous
+eng:lithographer --> eng:lithography
+eng:lithographic --> eng:lithograph
+eng:lithographical --> eng:lithograph
+eng:lithographist --> eng:lithography
+eng:litholatry
+eng:lithologically --> eng:lithological
+eng:lithology
+eng:lithomania
+eng:lithometeor --> eng:meteor
+eng:lithophytic --> eng:lithophyte
+eng:lithosere --> eng:sere --> enm:seer --> ang:sear
+eng:Lithosian --> lat:Lithosia
+eng:lithosphere --> eng:sphere --> fro:sphere --> lat:sphera --> lat:sphaera --> grc:σφαῖρα
+eng:lithostratigraphy --> eng:stratigraphy
+eng:lithotint --> eng:tint
+eng:lithotroph
+eng:lithotrophic
+eng:lithotypy
+eng:lit-house --> eng:house --> enm:hous
+eng:lithozonation --> eng:zonation
+eng:lithozone --> eng:zone --> lat:zona --> grc:ζώνη
+eng:Lithuania Minor --> lit:Mažoji Lietuva
+eng:Lithuanian --> eng:Lithuania
+eng:Lithuanianness --> eng:Lithuanian --> eng:Lithuania
+eng:lithy --> ang:liþig
+eng:litigable --> eng:litigate
+eng:litigation --> eng:litigate
+eng:litigiously --> eng:litigious
+eng:litigiousness --> eng:litigious
+eng:litotes --> grc:λιτότης --> grc:λιτός
+eng:litre --> grc:λίτρα
+eng:litster --> enm:litestere
+eng:litter --> fra:litière --> fra:lit --> lat:lectus
+eng:litterfall --> eng:fall --> enm:fallen --> ang:feallan
+eng:litterless --> eng:litter --> fra:litière --> fra:lit --> lat:lectus
+eng:littermate --> eng:litter --> fra:litière --> fra:lit --> lat:lectus
+eng:littery --> eng:litter --> fra:litière --> fra:lit --> lat:lectus
+eng:little --> enm:litel --> ang:lytel
+eng:littleneck --> eng:little --> enm:litel --> ang:lytel
+eng:littoral --> lat:littoralis --> lat:litoris
+eng:lituiform --> eng:lituus
+eng:lituite --> eng:lituus
+eng:liturate --> lat:lituratus
+eng:liturgic --> eng:liturgy --> lat:liturgia --> grc:λειτουργία
+eng:liturgy --> lat:liturgia --> grc:λειτουργία
+eng:Litvak --> yid:ליתבאַק --> pol:Litwak
+eng:livable --> eng:live --> enm:liven --> ang:libban
+eng:live --> enm:liven --> ang:libban
+eng:livebearer --> eng:bearer --> eng:bear --> enm:bere --> ang:beor
+eng:liveblog --> eng:blog
+eng:live blog --> eng:blog
+eng:live life to the fullest --> lat:vive ut vivas
+eng:livelihood --> enm:liflode --> ang:liflad --> ang:lad
+eng:liveliness --> eng:lively --> ang:liflice
+eng:livelocked --> eng:livelock
+eng:lively --> ang:liflice
+eng:livener --> eng:liven
+eng:liver --> ang:lifer
+eng:livering --> eng:liver --> ang:lifer
+eng:liverish --> eng:liver --> ang:lifer
+eng:liverleaf --> eng:leaf --> enm:leef --> ang:leaf
+eng:liverless --> eng:liver --> ang:lifer
+eng:liverlike --> eng:liver --> ang:lifer
+eng:livermush --> eng:liver --> ang:lifer
+eng:livery --> xno:liveree --> fro:livree
+eng:liveth --> eng:live --> enm:liven --> ang:libban
+eng:liveware --> eng:live --> enm:liven --> ang:libban
+eng:Livia --> lat:Livia
+eng:livid --> lat:lividus --> lat:liveo
+eng:lividity --> eng:livid --> lat:lividus --> lat:liveo
+eng:lividness --> eng:livid --> lat:lividus --> lat:liveo
+eng:livingly --> eng:living
+eng:livingness --> eng:living
+eng:livish --> enm:livish
+eng:livor --> lat:livor
+eng:Livorno --> ita:Livorno --> lat:Liburnum
+eng:livre --> fra:livre --> lat:liber
+eng:lixivial --> lat:lixivius --> lat:lix
+eng:lixiviate --> lat:lixivio --> lat:lixivius --> lat:lix
+eng:lixivium --> lat:lixivium
+eng:lizard --> xno:lusard --> fro:lesard --> lat:lacertus
+eng:lizardfish --> eng:fish --> ang:fiscian
+eng:lizardman --> eng:lizard --> xno:lusard --> fro:lesard --> lat:lacertus
+eng:lizardskin --> eng:lizard --> xno:lusard --> fro:lesard --> lat:lacertus
+eng:lizardy --> eng:lizard --> xno:lusard --> fro:lesard --> lat:lacertus
+eng:LJer --> eng:LJ
+eng:llama --> spa:llama --> lat:flamma
+eng:llamalike --> eng:llama --> spa:llama --> lat:flamma
+eng:Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch --> cym:Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch
+eng:Llanito --> spa:Llanitos
+eng:llano --> spa:llano --> lat:planus --> grc:πλάνος
+eng:Llewellyn --> cym:Llywelyn
+eng:Llewelyn --> cym:Llywelyn
+eng:Lloyd --> cym:llwyd
+eng:lo --> enm:lo
+eng:loa --> hat:lwa
+eng:load --> enm:lode
+eng:loadeth --> eng:load --> enm:lode
+eng:loaf --> enm:lof --> ang:lof
+eng:loafered --> eng:loafer
+eng:loaflike --> eng:loaf --> enm:lof --> ang:lof
+eng:loam --> ang:lam
+eng:loaminess --> eng:loamy --> eng:loam --> ang:lam
+eng:loamy --> eng:loam --> ang:lam
+eng:loan --> enm:lone
+eng:loanmonger --> eng:loan --> enm:lone
+eng:loath --> eng:loth --> enm:loth --> ang:laþ
+eng:loathable --> eng:loathe --> enm:lothe --> ang:laþian
+eng:loathe --> enm:lothe --> ang:laþian
+eng:loatheth --> eng:loathe --> enm:lothe --> ang:laþian
+eng:loathful --> eng:loath --> eng:loth --> enm:loth --> ang:laþ
+eng:loathingly --> eng:loathing
+eng:loathliness --> eng:loathly --> enm:lothli
+eng:loathly --> enm:lothli
+eng:loathsome --> enm:lothsum
+eng:loathsomely --> eng:loathsome --> enm:lothsum
+eng:loathsomeness --> eng:loathsome --> enm:lothsum
+eng:loathy --> eng:loath --> eng:loth --> enm:loth --> ang:laþ
+eng:loave --> enm:lof --> ang:lof
+eng:Lobachevskian --> eng:Lobachevsky
+eng:lobately --> eng:lobate
+eng:lobbier --> eng:lobby
+eng:lobbyism --> eng:lobby
+eng:lobbyist --> eng:lobby
+eng:lobbylike --> eng:lobby
+eng:lobe --> fra:lobe --> lat:lobus --> grc:λοβός
+eng:lobefoot --> eng:foot
+eng:lobelet --> eng:lobe --> fra:lobe --> lat:lobus --> grc:λοβός
+eng:lobelike --> eng:lobe --> fra:lobe --> lat:lobus --> grc:λοβός
+eng:lobelin --> eng:lobelia
+eng:lobola --> xho:lobola
+eng:lobscouse --> deu:Labskaus
+eng:lobscouser --> eng:lobscouse --> deu:Labskaus
+eng:lobster --> enm:lopster --> ang:loppeſtre
+eng:lobsterlike --> eng:lobster --> enm:lopster --> ang:loppeſtre
+eng:lobsterman --> eng:lobster --> enm:lopster --> ang:loppeſtre
+eng:lobsterwoman --> eng:lobster --> enm:lopster --> ang:loppeſtre
+eng:lobulation --> eng:lobule
+eng:lobulette --> eng:lobule
+eng:locale --> fra:local --> lat:localis --> lat:locus --> lat:stlocus
+eng:localhost --> eng:host --> fro:hoste
+eng:localic --> eng:locale --> fra:local --> lat:localis --> lat:locus --> lat:stlocus
+eng:localisable --> eng:localise --> eng:local
+eng:localise --> eng:local
+eng:localism --> eng:local
+eng:locality --> lat:localitas --> lat:locus --> lat:stlocus
+eng:localizable --> eng:localize --> eng:local
+eng:localization --> eng:localize --> eng:local
+eng:localize --> eng:local
+eng:localness --> eng:local
+eng:locate --> lat:locatus
+eng:locater --> eng:locate --> lat:locatus
+eng:location --> lat:locatio --> lat:locare --> lat:locus --> lat:stlocus
+eng:locellate --> lat:locellus
+eng:loch --> fra:looch
+eng:lochan --> gla:lochan --> gla:loch --> sga:loch
+eng:lochia --> lat:lochia --> grc:λοχεία
+eng:lochside --> eng:loch --> fra:looch
+eng:lock --> ang:locc
+eng:lockage --> eng:lock --> ang:locc
+eng:lockbox --> eng:box --> ang:box
+eng:lockdown --> eng:down --> ang:dune
+eng:Lockean --> eng:Locke
+eng:locket --> fra:loquet
+eng:lockkeeper --> eng:keeper --> eng:keep --> enm:kepen --> ang:cepan
+eng:lockless --> eng:lock --> ang:locc
+eng:locklike --> eng:lock --> ang:locc
+eng:lockside --> eng:lock --> ang:locc
+eng:locksmith --> eng:lock --> ang:locc
+eng:lockstitch --> fin:lock
+eng:locky --> eng:lock --> ang:locc
+eng:loco --> spa:loco
+eng:locoman --> eng:loco --> spa:loco
+eng:locomotiveness --> eng:locomotive
+eng:locoum --> tur:lokum
+eng:locoweed --> spa:loco
+eng:Locrian --> lat:Locris
+eng:loculate --> lat:loculatus
+eng:locus --> lat:locus --> lat:stlocus
+eng:locust --> fro:langouste --> lat:locusta
+eng:locusting --> eng:locust --> fro:langouste --> lat:locusta
+eng:locustlike --> eng:locust --> fro:langouste --> lat:locusta
+eng:locution --> lat:locutio --> lat:loqui
+eng:loden --> deu:Loden
+eng:lodeship --> eng:lode
+eng:lodestar --> eng:lode
+eng:lodge --> enm:logge --> fra:loge
+eng:lodgepole --> eng:lodge --> enm:logge --> fra:loge
+eng:lodger --> eng:lodge --> enm:logge --> fra:loge
+eng:lodgest --> eng:lodge --> enm:logge --> fra:loge
+eng:lodgingless --> eng:lodging
+eng:Lodi --> ita:Lodi
+eng:lof --> arn:lof
+eng:lofe --> enm:lofe
+eng:loff --> enm:lof --> ang:lof
+eng:loft --> enm:lofte --> ang:loft
+eng:loftily --> eng:lofty
+eng:lofting --> eng:loft --> enm:lofte --> ang:loft
+eng:loftlike --> eng:loft --> enm:lofte --> ang:loft
+eng:log --> enm:logge --> fra:loge
+eng:Logan --> gla:lagan
+eng:logarithm --> lat:logarithmus
+eng:logarithmetically --> eng:logarithmetic
+eng:loge --> fra:loge
+eng:loggable --> eng:log --> enm:logge --> fra:loge
+eng:loggia --> ita:loggia --> fro:loge
+eng:logic --> fro:logike --> lat:logica --> grc:λογική
+eng:logical --> eng:logic --> fro:logike --> lat:logica --> grc:λογική
+eng:logically --> eng:logical --> eng:logic --> fro:logike --> lat:logica --> grc:λογική
+eng:logician --> eng:logic --> fro:logike --> lat:logica --> grc:λογική
+eng:logicker --> eng:logic --> fro:logike --> lat:logica --> grc:λογική
+eng:logicless --> eng:logic --> fro:logike --> lat:logica --> grc:λογική
+eng:logistics --> grc:λογιστικός --> grc:λόγος
+eng:loglike --> eng:log --> enm:logge --> fra:loge
+eng:loglikelihood --> eng:likelihood
+eng:logman --> eng:log --> enm:logge --> fra:loge
+eng:logo- --> grc:λόγος
+eng:logocentric --> eng:centric --> grc:κεντρικός
+eng:logocentrism --> eng:centrism --> eng:centre
+eng:logodaedalist --> eng:logodaedaly
+eng:logodædalist --> eng:logodædaly
+eng:logogram
+eng:logograph --> eng:graph
+eng:logographer
+eng:logographic --> eng:graphic --> lat:graphicus --> grc:γραφικός --> grc:γραφή --> grc:γράφω
+eng:logography
+eng:logoless --> eng:logo
+eng:logological --> eng:logology
+eng:logology
+eng:logomachy
+eng:logomancy
+eng:logomania
+eng:logomaniac
+eng:logomark --> eng:logo
+eng:logophilia
+eng:logoplegia
+eng:logopœia
+eng:logorrheic --> eng:logorrhea
+eng:logorrhœa
+eng:logorrhœic --> eng:logorrhœa
+eng:logos --> grc:λόγος
+eng:logotype --> eng:type --> lat:typus --> grc:τύπος --> grc:τύπτω
+eng:logroller --> eng:logroll
+eng:logsheet --> eng:log --> enm:logge --> fra:loge
+eng:loin --> enm:loyne --> fro:loigne
+eng:loir --> fra:loir
+eng:Lois --> grc:Λωΐς
+eng:loiter --> dum:loteren
+eng:loiteringly --> eng:loitering
+eng:Lojban --> jbo:lojban.
+eng:Lojbanize --> eng:Lojban --> jbo:lojban.
+eng:lolcat --> eng:cat --> enm:cat
+eng:lolcow --> eng:LOL
+eng:loligo --> lat:loligo
+eng:Lollardism --> eng:Lollard
+eng:lollingly --> eng:lolling
+eng:lollipoplike --> eng:lollipop
+eng:LOLWUT --> eng:lol
+eng:Lom --> bul:Лом
+eng:Lombard --> enm:Lombard
+eng:Lombardic --> eng:Lombard --> enm:Lombard
+eng:Lombardish --> enm:Lombardish
+eng:Lombardy --> lat:Langobardia
+eng:lomentaceous --> eng:loment
+eng:London --> lat:Londinium
+eng:Londoner --> eng:London --> lat:Londinium
+eng:Londonesque --> eng:London --> lat:Londinium
+eng:Londonish --> eng:London --> lat:Londinium
+eng:Londonism --> eng:London --> lat:Londinium
+eng:Londonistan --> eng:London --> lat:Londinium
+eng:londonite --> eng:London --> lat:Londinium
+eng:Londonize --> eng:London --> lat:Londinium
+eng:loneliness --> eng:lonely --> eng:lone
+eng:lonely --> eng:lone
+eng:loneness --> eng:lone
+eng:lonesome --> eng:lone
+eng:lonesomely --> eng:lonesome --> eng:lone
+eng:lonesomeness --> eng:lonesome --> eng:lone
+eng:long --> enm:long
+eng:longa --> lat:longa
+eng:longanimity --> lat:longanimitatem
+eng:longbeak --> eng:beak --> enm:bec
+eng:longbeard --> eng:beard --> enm:berd --> ang:beard
+eng:longboarder --> eng:longboard
+eng:longboat --> eng:boat --> ang:bat
+eng:longbowman --> eng:longbow
+eng:longe --> fra:allonger
+eng:longer --> eng:long --> enm:long
+eng:Longfellowian --> eng:Longfellow
+eng:longfin --> eng:fin --> enm:fin --> ang:finn
+eng:longhand --> eng:hand
+eng:long haul --> eng:haul --> enm:haulen
+eng:longheaded --> eng:headed --> eng:head --> enm:hed
+eng:longhorn --> eng:horn --> ang:horn
+eng:longie --> eng:long --> enm:long
+eng:longingly --> eng:longing
+eng:longitudinally --> eng:longitudinal
+eng:longitudinaly --> eng:longitudinal
+eng:longkang --> msa:longkang
+eng:longleaf --> eng:leaf --> enm:leef --> ang:leaf
+eng:long-legged buzzard --> eng:buzzard --> fra:busart
+eng:longness --> eng:long --> enm:long
+eng:longnose --> eng:long --> enm:long
+eng:longpig --> eng:long --> enm:long
+eng:longsomeness --> eng:longsome
+eng:longspun --> eng:long --> enm:long
+eng:longsuffering --> eng:long --> enm:long
+eng:longterm --> eng:long --> enm:long
+eng:longtime --> eng:long --> enm:long
+eng:longtimer --> eng:longtime --> eng:long --> enm:long
+eng:longueur --> fra:longueur
+eng:long-windedness --> eng:long-winded
+eng:longwise --> eng:long --> enm:long
+eng:loof --> enm:lof --> ang:lof
+eng:loofah --> ara:ليفة
+eng:look --> enm:loken
+eng:lookahead --> eng:ahead --> eng:head --> enm:hed
+eng:lookaside --> eng:aside --> eng:side --> ang:side --> p_gem:sithon
+eng:lookdown --> eng:down --> ang:dune
+eng:looketh --> eng:look --> enm:loken
+eng:lookoff --> eng:look --> enm:loken
+eng:lookover --> eng:look --> enm:loken
+eng:looksism --> eng:looks
+eng:looksist --> eng:looks
+eng:lookswise --> eng:looks
+eng:lookt --> eng:look --> enm:loken
+eng:loom --> enm:lome --> ang:loma
+eng:loomingly --> eng:looming
+eng:loonily --> eng:loony
+eng:looniness --> eng:loony
+eng:loop --> enm:loupe
+eng:loopable --> eng:loop --> enm:loupe
+eng:loopback --> eng:back --> enm:bak --> ang:bæc
+eng:loophole --> eng:hole
+eng:loopingly --> eng:looping
+eng:loopless --> eng:loop --> enm:loupe
+eng:looplight --> eng:light --> ang:leoht
+eng:loopwise --> eng:loop --> enm:loupe
+eng:loos --> enm:los --> fro:los --> lat:laus
+eng:loose --> non:lauss
+eng:loosefill --> eng:fill --> ang:fyllu
+eng:loosely --> eng:loose --> non:lauss
+eng:loosen --> eng:loose --> non:lauss
+eng:looseness --> eng:loose --> non:lauss
+eng:loosey --> eng:loose --> non:lauss
+eng:lootable --> eng:loot
+eng:lop --> enm:loppe --> ang:loppe
+eng:loper --> eng:lope
+eng:lopezite --> eng:López
+eng:lopper --> eng:lop --> enm:loppe --> ang:loppe
+eng:loppet --> nor:løpet
+eng:loppy --> eng:lop --> enm:loppe --> ang:loppe
+eng:lopsidedly --> eng:lopsided
+eng:loquacious --> lat:loquacis
+eng:loquaciously --> eng:loquacious --> lat:loquacis
+eng:lorate --> lat:loratus
+eng:lord --> enm:lord
+eng:lordest --> eng:lord --> enm:lord
+eng:lordeth --> eng:lord --> enm:lord
+eng:lordkin --> eng:lord --> enm:lord
+eng:lordless --> eng:lord --> enm:lord
+eng:lordlike --> eng:lord --> enm:lord
+eng:lordolatry --> eng:lord --> enm:lord
+eng:lordship --> eng:lord --> enm:lord
+eng:lordy --> eng:Lord
+eng:lore --> ang:lār
+eng:lorel --> enm:lorel
+eng:loremaster --> eng:lore --> ang:lār
+eng:loresman --> enm:loresman
+eng:lorette --> fra:lorette
+eng:Lorettine --> eng:Loretto
+eng:lorication --> lat:loricatio
+eng:lorimer --> fro:lormier
+eng:loring --> eng:lore --> ang:lār
+eng:loris --> fra:loris
+eng:lorryful --> eng:lorry
+eng:lorryless --> eng:lorry
+eng:lorryload --> eng:load --> enm:lode
+eng:los --> spa:los --> lat:illos --> lat:ille
+eng:Los Angelization --> eng:Los Angeles
+eng:lose --> ang:losian
+eng:losel --> enm:losel
+eng:losenger --> fro:losengier
+eng:loserdom --> eng:loser
+eng:loserhood --> eng:loser
+eng:loserish --> eng:loser
+eng:loserness --> eng:loser
+eng:losh --> sco:losh
+eng:losingest --> eng:losing
+eng:losingly --> eng:losing
+eng:lossful --> eng:loss
+eng:lossless --> eng:loss
+eng:losslessness --> eng:lossless --> eng:loss
+eng:lossmaker --> eng:loss
+eng:lossmaking --> eng:loss
+eng:loss of face --> eng:lose face
+eng:lossy --> eng:loss
+eng:lostness --> eng:lost
+eng:lot --> ang:hlot
+eng:loth --> enm:loth --> ang:laþ
+eng:lotic --> lat:lotus
+eng:lotion --> lat:lotio
+eng:lottery --> ita:lotteria --> ita:lotto --> fra:lot
+eng:lotterylike --> eng:lottery --> ita:lotteria --> ita:lotto --> fra:lot
+eng:lottomania --> eng:lotto
+eng:loture --> lat:lotura
+eng:lotus --> lat:lotus
+eng:louche --> fra:louche --> fro:lousche --> lat:lusca
+eng:loucheness --> eng:louche --> fra:louche --> fro:lousche --> lat:lusca
+eng:loud --> enm:loud
+eng:loude --> enm:loude
+eng:loudful --> eng:loud --> enm:loud
+eng:loudish --> eng:loud --> enm:loud
+eng:loudly --> eng:loud --> enm:loud
+eng:loudness --> eng:loud --> enm:loud
+eng:lough --> gle:loch --> sga:loch
+eng:Louise --> fra:Louise
+eng:Louis Quatorzian --> eng:Louis Quatorze
+eng:louk --> enm:louk
+eng:loukoumi --> ell:λουκούμι
+eng:loungecore --> eng:lounge
+eng:loungelike --> eng:lounge
+eng:lounger --> eng:lounge
+eng:loungeroom --> eng:lounge
+eng:loungey --> eng:lounge
+eng:loungingly --> eng:lounging
+eng:loungy --> eng:lounge
+eng:loup-garou --> fra:loup-garou --> fro:leu garoul
+eng:lour --> enm:lour
+eng:louringly --> eng:louring
+eng:louse --> enm:lows --> ang:lus
+eng:louseborne --> eng:borne
+eng:louselike --> eng:louse --> enm:lows --> ang:lus
+eng:lousewort --> eng:louse --> enm:lows --> ang:lus
+eng:lousicide --> eng:louse --> enm:lows --> ang:lus
+eng:lousily --> eng:lousy --> eng:louse --> enm:lows --> ang:lus
+eng:lousy --> eng:louse --> enm:lows --> ang:lus
+eng:lout --> ang:lūtan
+eng:loutishness --> eng:loutish
+eng:louty --> eng:lout --> ang:lūtan
+eng:lovable --> eng:love --> enm:love
+eng:lovableness --> eng:lovable --> eng:love --> enm:love
+eng:lovably --> eng:lovable --> eng:love --> enm:love
+eng:lovage --> xno:luvache
+eng:love --> enm:love
+eng:lovebird --> eng:bird --> enm:brid --> ang:bridd
+eng:lovebud --> eng:bud
+eng:lovebug --> eng:bug
+eng:lovedom --> eng:love --> enm:love
+eng:lovee --> eng:love --> enm:love
+eng:lovefest --> eng:love --> enm:love
+eng:loveful --> eng:love --> enm:love
+eng:lovefully --> eng:loveful --> eng:love --> enm:love
+eng:Lovelace --> enm:lufeless
+eng:loveless --> eng:love --> enm:love
+eng:lovelessness --> eng:loveless --> eng:love --> enm:love
+eng:lovelight --> eng:light --> ang:leoht
+eng:lovelike --> eng:love --> enm:love
+eng:loveliness --> eng:lovely --> enm:lovely
+eng:loveling --> eng:love --> enm:love
+eng:lovelorn --> eng:lorn
+eng:lovely --> enm:lovely
+eng:lovemap --> eng:love --> enm:love
+eng:lovemate --> eng:love --> enm:love
+eng:lovemobile --> eng:love --> enm:love
+eng:lovemonger --> eng:love --> enm:love
+eng:loveness --> eng:love --> enm:love
+eng:lover --> enm:lover
+eng:lovered --> eng:lover --> enm:lover
+eng:loverhood --> eng:lover --> enm:lover
+eng:loverless --> eng:lover --> enm:lover
+eng:loverlike --> eng:lover --> enm:lover
+eng:loverwise --> eng:lover --> enm:lover
+eng:loveship --> eng:love --> enm:love
+eng:lovesickness --> eng:lovesick
+eng:lovesome --> enm:lufsom
+eng:lovest --> eng:love --> enm:love
+eng:lovetap --> eng:love --> enm:love
+eng:loveth --> eng:love --> enm:love
+eng:lovewende --> enm:luvewende --> ang:lufwende
+eng:loveworthy --> eng:love --> enm:love
+eng:lovingly --> eng:loving
+eng:lovingness --> eng:loving
+eng:low --> ang:hlaw
+eng:lowballer --> eng:lowball
+eng:lowbie --> eng:low --> ang:hlaw
+eng:lowboy --> eng:boy --> enm:boy
+eng:lowbred --> eng:bred
+eng:lowbush --> eng:bush --> enm:busch
+eng:lowdown --> eng:down --> ang:dune
+eng:Lowellian --> eng:Lowell
+eng:lower --> ang:lowren
+eng:lowerarchy --> eng:lower --> ang:lowren
+eng:loweringly --> eng:lowering
+eng:lowermost --> eng:lower --> ang:lowren
+eng:low-level --> eng:level --> enm:level --> fro:livel
+eng:lowlight --> eng:light --> ang:leoht
+eng:lowlihead --> enm:lowlyhede
+eng:lowlihood --> eng:lowly --> eng:low --> ang:hlaw
+eng:lowlily --> eng:lowly --> eng:low --> ang:hlaw
+eng:lowliness --> eng:lowly --> eng:low --> ang:hlaw
+eng:lowly --> eng:low --> ang:hlaw
+eng:lown --> non:logn
+eng:lowness --> eng:low --> ang:hlaw
+eng:lowpass --> eng:low --> ang:hlaw
+eng:lowrider --> eng:low --> ang:hlaw
+eng:lowth --> eng:low --> ang:hlaw
+eng:lox --> yid:לאַקס --> goh:lahs
+eng:loxodromic --> fra:loxodromique
+eng:loxoscelism --> eng:Loxosceles
+eng:loy --> gle:laighe
+eng:loyal --> fro:loial --> lat:legalis --> lat:lex
+eng:loyally --> eng:loyal --> fro:loial --> lat:legalis --> lat:lex
+eng:loyalness --> eng:loyal --> fro:loial --> lat:legalis --> lat:lex
+eng:loyalty --> fro:loiauté --> fro:loial --> lat:legalis --> lat:lex
+eng:lozenge --> fro:losenge --> pro:lausa
+eng:lozengelike --> eng:lozenge --> fro:losenge --> pro:lausa
+eng:lozengy --> fra:losangé
+eng:Luas --> gle:luas --> sga:lúas
+eng:luau --> haw:lūʻau
+eng:lubberly --> eng:lubber
+eng:lubok --> rus:лубок
+eng:lubricate --> lat:lubricatus
+eng:lubricious --> lat:lubricus
+eng:lubriciously --> eng:lubricious --> lat:lubricus
+eng:Lucan --> gle:Leamhcán
+eng:Lucasian --> eng:Lucas
+eng:lucatumumab
+eng:Lucchese --> ita:Lucchese
+eng:luce --> fro:lus
+eng:lucern --> lat:lucerna --> lat:luceo
+eng:lucerne --> fra:luzerne
+eng:Lucian --> lat:Lucianus
+eng:lucid --> lat:lucidus --> lat:luceo
+eng:lucidity --> eng:lucid --> lat:lucidus --> lat:luceo
+eng:lucidly --> eng:lucid --> lat:lucidus --> lat:luceo
+eng:Lucifer --> lat:lucifer
+eng:Luciferian --> eng:Lucifer --> lat:lucifer
+eng:Luciferianism --> eng:Luciferian --> eng:Lucifer --> lat:lucifer
+eng:Luciferic --> eng:Lucifer --> lat:lucifer
+eng:luciferously --> eng:luciferous
+eng:luciform --> lat:lux
+eng:Lucilian --> lat:lucilianus
+eng:Lucilla --> lat:Lucilla
+eng:Lucille --> fra:Lucille --> lat:Lucilla
+eng:Lucius --> lat:Lucius
+eng:luck --> enm:luk
+eng:luckily --> eng:lucky
+eng:luckiness --> eng:lucky
+eng:luckless --> eng:luck --> enm:luk
+eng:luckling --> eng:luck --> enm:luk
+eng:lucmo --> spa:lúcuma --> que:rukma
+eng:lucrative --> fra:lucratif --> lat:lucrativus --> lat:lucratus
+eng:lucratively --> eng:lucrative --> fra:lucratif --> lat:lucrativus --> lat:lucratus
+eng:lucrativeness --> eng:lucrative --> fra:lucratif --> lat:lucrativus --> lat:lucratus
+eng:Lucretian --> eng:Lucretius --> lat:Lucretius
+eng:Lucretius --> lat:Lucretius
+eng:luctation --> lat:luctatio
+eng:lucubrate --> lat:lucubratus
+eng:lucubrator --> eng:lucubrate --> lat:lucubratus
+eng:lucubratory --> lat:lucubratorius --> lat:lucubro
+eng:luculent --> lat:luculentus
+eng:luculently --> eng:luculent --> lat:luculentus
+eng:lucy --> lat:lucius
+eng:Luddism --> eng:Ludd
+eng:lude --> enm:lude --> ang:hlyd
+eng:ludibund --> lat:ludibundus
+eng:ludic --> lat:ludo
+eng:ludicrosity --> eng:ludicrous
+eng:ludicrously --> eng:ludicrous
+eng:ludification --> lat:ludificatio
+eng:ludificatory --> lat:ludificatorius --> lat:ludificator
+eng:Ludo --> lat:ludo
+eng:ludological --> eng:ludology
+eng:lues --> lat:lues
+eng:Luftwaffe --> deu:Luftwaffe --> deu:Luft
+eng:Luganda --> lug:Oluganda
+eng:luggable --> eng:lug
+eng:luggageless --> eng:luggage
+eng:lugmark --> eng:lug
+eng:Lugosian --> eng:Lugosi
+eng:lugubrious --> lat:lugubris
+eng:lugubriously --> eng:lugubrious --> lat:lugubris
+eng:lugubriousness --> eng:lugubrious --> lat:lugubris
+eng:Luhansk --> ukr:Луганськ
+eng:Lukas --> lat:Lucas
+eng:Lukashenko --> ukr:Лукашенко
+eng:luke --> enm:luke
+eng:lukewarm --> enm:lukewarme
+eng:lukewarmly --> eng:lukewarm --> enm:lukewarme
+eng:lukewarmness --> eng:lukewarm --> enm:lukewarme
+eng:lull --> enm:lullen
+eng:lullabylike --> eng:lullaby
+eng:luller --> eng:lull --> enm:lullen
+eng:lullingly --> eng:lulling
+eng:lulzworthy --> eng:lulz
+eng:lulzy --> eng:lulz
+eng:luma --> hye:լումա --> xcl:լումայ --> syc:ܠܘܡܐ --> grc:νοῦμμος
+eng:lumachel --> ita:lumachella
+eng:lumberingly --> eng:lumbering
+eng:lumberless --> eng:lumber
+eng:lumbric --> lat:lumbricus
+eng:lumbricoid --> eng:Lumbricus
+eng:lumiliximab
+eng:luminaire --> fra:luminaire
+eng:luminary --> lat:luminaria
+eng:luminous --> lat:luminosus --> lat:lumen
+eng:luminously --> eng:luminous --> lat:luminosus --> lat:lumen
+eng:luminousness --> eng:luminous --> lat:luminosus --> lat:lumen
+eng:lump --> enm:lumpe
+eng:lumpectomy --> eng:lump --> enm:lumpe
+eng:lumpenly --> eng:lumpen
+eng:lumper --> eng:lump --> enm:lumpe
+eng:lumpily --> eng:lumpy --> eng:lump --> enm:lumpe
+eng:lumpiness --> eng:lumpy --> eng:lump --> enm:lumpe
+eng:lumpingly --> eng:lumping
+eng:lumpish --> eng:lump --> enm:lumpe
+eng:lumpishly --> eng:lumpish --> eng:lump --> enm:lumpe
+eng:lumpishness --> eng:lumpish --> eng:lump --> enm:lumpe
+eng:lumpy --> eng:lump --> enm:lumpe
+eng:Lumumbist --> eng:Lumumba
+eng:Luna --> lat:luna
+eng:lunar --> lat:lunaris --> lat:luna
+eng:lunarlike --> eng:lunar --> lat:lunaris --> lat:luna
+eng:lunarnaut --> eng:lunar --> lat:lunaris --> lat:luna
+eng:lunarscape --> eng:lunar --> lat:lunaris --> lat:luna
+eng:lunate --> lat:lunatus --> lat:luna
+eng:lunatic --> fro:lunatique --> lat:lunaticus
+eng:lunchless --> eng:lunch
+eng:lunchmate --> eng:lunch
+eng:lunchmeat --> eng:lunch
+eng:lunchpail --> eng:lunch
+eng:lunchtime --> eng:lunch
+eng:lune --> fra:lune --> lat:luna
+eng:lunette --> fra:lunette --> fra:lune --> lat:luna
+eng:lunge --> fra:allonge --> fro:alonge
+eng:lungful --> eng:lung
+eng:lungis --> fro:longis
+eng:lungless --> eng:lung
+eng:lunglessness --> eng:lungless --> eng:lung
+eng:lunglike --> eng:lung
+eng:lungo --> ita:lungo --> lat:longus
+eng:lunkheaded --> eng:headed --> eng:head --> enm:hed
+eng:lunkish --> eng:lunk
+eng:lunner --> eng:dinner --> fro:disner
+eng:lunokhod --> rus:луноход --> rus:луна
+eng:lunomancy --> lat:luna
+eng:lunulet --> eng:lunule
+eng:lupanar --> lat:lupanar --> lat:lupa --> lat:lupus
+eng:lupine --> lat:lupinus --> lat:lupus
+eng:lupinelike --> eng:lupine --> lat:lupinus --> lat:lupus
+eng:lupinin --> eng:lupine --> lat:lupinus --> lat:lupus
+eng:lupinine --> eng:lupin
+eng:luppie --> eng:lesbian --> lat:Lesbiana
+eng:Lupus --> lat:lupus
+eng:lurchingly --> eng:lurching
+eng:lurdane --> frm:lourdin
+eng:lure --> xno:lure --> fro:loirre --> frk:lothr
+eng:lurid --> lat:luridus --> lat:luror
+eng:luridly --> eng:lurid --> lat:luridus --> lat:luror
+eng:luridness --> eng:lurid --> lat:luridus --> lat:luror
+eng:luringly --> eng:luring
+eng:lurkest --> eng:lurk
+eng:lurkingly --> eng:lurking
+eng:lusciously --> eng:luscious
+eng:luser --> eng:loser
+eng:lusern --> fra:loup-cervier
+eng:lush --> enm:lusch
+eng:lushly --> eng:lush --> enm:lusch
+eng:Lusitania
+eng:luskish --> eng:lusk
+eng:Luso- --> lat:Lusitania
+eng:Lusophone --> por:lusófono
+eng:lusorious --> lat:lusorius
+eng:lust --> ang:lust
+eng:luster --> eng:lust --> ang:lust
+eng:lusterlessly --> eng:lusterless
+eng:lusterware --> eng:luster --> eng:lust --> ang:lust
+eng:lustest --> eng:lust --> ang:lust
+eng:lusteth --> eng:lust --> ang:lust
+eng:lustful --> enm:lustful --> ang:lustfull
+eng:lustfully --> enm:lustfully
+eng:lustfulness --> enm:lustfulnesse --> ang:lustfulnes
+eng:lustic --> eng:lust --> ang:lust
+eng:lustihead --> enm:lustyhede
+eng:lustihood --> eng:lusty
+eng:lustily --> eng:lusty
+eng:lustingly --> eng:lusting
+eng:lustless --> eng:lust --> ang:lust
+eng:lustlessness --> eng:lustless --> eng:lust --> ang:lust
+eng:lustmaking --> eng:lust --> ang:lust
+eng:lustre --> lat:lux
+eng:lustrelessly --> eng:lustreless
+eng:lustrical --> lat:lustricus
+eng:lustring --> fra:lustrine
+eng:lustrously --> eng:lustrous
+eng:lustrum --> lat:lustrum
+eng:lusûs naturæ --> lat:lusus naturae --> lat:lusus
+eng:lutarious --> lat:lutarius
+eng:lutation --> lat:lutare
+eng:lute --> frm:lut --> fro:leüt
+eng:lutelike --> eng:lute --> frm:lut --> fro:leüt
+eng:luteo- --> lat:luteus --> lat:lutum --> lat:luo
+eng:luteocobalt --> eng:cobalt --> deu:Kobold
+eng:luteocobaltic --> eng:cobaltic --> eng:cobalt --> deu:Kobold
+eng:luter --> eng:lute --> frm:lut --> fro:leüt
+eng:Lutetia --> lat:Lutetia
+eng:lutetium --> lat:Lutetia
+eng:lutherie --> fra:lutherie
+eng:Lutherism --> eng:Luther
+eng:luthier --> fra:luthier --> fra:luth
+eng:luthiery --> eng:luthier --> fra:luthier --> fra:luth
+eng:lutist --> eng:lute --> frm:lut --> fro:leüt
+eng:lutose --> lat:lutosus
+eng:lutrine --> lat:lutra --> lat:luo
+eng:Lutsk --> ukr:Луцьк
+eng:lutulent --> lat:lutulentus --> lat:lutum --> lat:luo
+eng:Luvian --> eng:Luvia
+eng:luvvy --> eng:luv
+eng:Luwian --> eng:Luwia
+eng:luxate --> lat:luxo
+eng:luxe --> fra:luxe --> lat:luxus
+eng:Luxembourg --> gmh:Luccelemburc --> goh:Lucilinburhuc
+eng:Luxemburger --> eng:Luxemburg
+eng:luxullianite --> eng:Luxullian
+eng:luxuriantly --> eng:luxuriant
+eng:luxurious --> fra:luxurieux --> fra:luxure --> lat:luxuria --> lat:luxus
+eng:luxuriousness --> eng:luxurious --> fra:luxurieux --> fra:luxure --> lat:luxuria --> lat:luxus
+eng:luxurist --> eng:luxury --> enm:luxurie --> fro:luxurie --> lat:luxuria --> lat:luxus
+eng:luxury --> enm:luxurie --> fro:luxurie --> lat:luxuria --> lat:luxus
+eng:lvalue --> eng:l
+eng:Lvov --> rus:Львов
+eng:lycanthrope --> grc:λυκάνθρωπος
+eng:lycanthropic --> eng:lycanthrope --> grc:λυκάνθρωπος
+eng:lycanthropically --> eng:lycanthropic --> eng:lycanthrope --> grc:λυκάνθρωπος
+eng:lycanthropist --> eng:lycanthropy --> grc:λυκανθρωπία
+eng:lycanthropy --> grc:λυκανθρωπία
+eng:lycée --> fra:lycée --> lat:lyceum --> grc:Λύκειον
+eng:lyceum --> grc:Λύκειον
+eng:lych-gate --> eng:gate --> ang:geat
+eng:Lycia --> lat:Lycia --> grc:Λυκία
+eng:Lycian --> eng:Lycia --> lat:Lycia --> grc:Λυκία
+eng:lycine --> eng:Lycium
+eng:lycopodiaceous --> eng:Lycopodiaceae
+eng:Lydia --> grc:Λυδία
+eng:Lydian --> eng:Lydia --> grc:Λυδία
+eng:lye --> ang:leag
+eng:lying --> eng:lie --> enm:lien --> ang:leogan
+eng:lymph --> lat:lympha --> grc:νύμφη
+eng:lymphangiography --> eng:angiography
+eng:lymphlike --> eng:lymph --> lat:lympha --> grc:νύμφη
+eng:lymphoblast --> eng:lymph --> lat:lympha --> grc:νύμφη
+eng:lymphocyte --> eng:lymph --> lat:lympha --> grc:νύμφη
+eng:lymphœdema --> eng:lymph --> lat:lympha --> grc:νύμφη
+eng:lymphography --> eng:lymph --> lat:lympha --> grc:νύμφη
+eng:lymphohistiocytosis --> eng:histiocytosis
+eng:lymphoproliferative --> eng:proliferative
+eng:lymphoreticular --> eng:reticular
+eng:lymphy --> eng:lymph --> lat:lympha --> grc:νύμφη
+eng:Lynchian --> eng:Lynch
+eng:lynchpin --> enm:lynspin --> ang:lynis
+eng:lynx --> enm:lynx --> lat:lynx --> grc:λύγξ
+eng:Lynx --> lat:lynx --> grc:λύγξ
+eng:lynxlike --> eng:lynx --> enm:lynx --> lat:lynx --> grc:λύγξ
+eng:lyonnaise --> fra:lyonnaise
+eng:lyophilizer --> eng:lyophilize
+eng:Lyotardian --> eng:Lyotard
+eng:lyre --> grc:λύρα
+eng:lyrebird --> eng:bird --> enm:brid --> ang:bridd
+eng:lyrelike --> eng:lyre --> grc:λύρα
+eng:lyric --> fra:lyrique
+eng:lyricless --> eng:lyric --> fra:lyrique
+eng:lyriferous --> eng:lyre --> grc:λύρα
+eng:lyrism --> eng:lyre --> grc:λύρα
+eng:lyrist --> eng:lyre --> grc:λύρα
+eng:Lysenkoist --> eng:Lysenko
+eng:lysergic --> eng:ergot --> fra:ergot --> fro:argot
+eng:lysogenic
+eng:lysogenically --> eng:lysogenic
+eng:lysogeny
+eng:lysosomal --> eng:lysosome
+eng:lysosome
+eng:lysosomic --> eng:lysosome

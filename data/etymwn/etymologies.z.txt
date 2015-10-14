@@ -1,0 +1,381 @@
+eng:zaatar --> ara:زعتر
+eng:Zabbaleen --> arz:زبالين
+eng:Zacatecas --> nah:zacatecah --> nah:zacatl
+eng:zaftig --> yid:זאַפֿטיק --> yid:זאַפֿט --> gmh:saft
+eng:zafu --> jpn:座蒲
+eng:Zaghlulist --> eng:Zaghlul
+eng:Zagrebian --> eng:Zagreb
+eng:zaitech --> jpn:財テク
+eng:Zajac --> pol:Zając --> pol:zając
+eng:zajacite --> eng:Zajac --> pol:Zając --> pol:zając
+eng:Zakarpattia --> ukr:Закарпаття
+eng:zakat --> ara:زكاة
+eng:Zamalek --> ara:الزمالك
+eng:Zamboangan --> eng:Zamboanga
+eng:zamindarship --> eng:zamindar
+eng:zamite --> eng:Zamia
+eng:Zamoran --> eng:Zamora
+eng:zanazziite --> eng:Zanazzi
+eng:Zanj --> ara:زنج
+eng:zany --> ita:zanni
+eng:zanyism --> eng:zany --> ita:zanni
+eng:Zapotec --> spa:zapoteca --> nah:Tzapotēcah
+eng:Zapotecan --> eng:Zapotec --> spa:zapoteca --> nah:Tzapotēcah
+eng:zappable --> eng:zap
+eng:Zappaesque --> eng:Zappa
+eng:zappily --> eng:zappy --> eng:zap
+eng:zappy --> eng:zap
+eng:Zaqqum --> ara:زقوم‎
+eng:Zaragoza --> spa:Zaragoza --> ara:سرقسطة --> ita:Caesaraugusta
+eng:Zarathustra --> ave:𐬰𐬀𐬭𐬀𐬚𐬎𐬱𐬙𐬭𐬋
+eng:zarf --> tur:zarf --> ara:ظرف
+eng:Zarina --> tat:Зара
+eng:zastruga --> rus:заструга
+eng:zavaritskite --> eng:Zavaritskii
+eng:zawiya --> ara:زاوية
+eng:zawn --> cor:sâwn
+eng:zax --> enm:sax --> ang:seax
+eng:zayat --> mya:ဇရပ်
+eng:zayde --> yid:זיידע
+eng:zazen --> jpn:座禅
+eng:zdenekite --> eng:Zdenek
+eng:Zealandic --> eng:Zealand
+eng:zealed --> eng:zeal
+eng:zealful --> eng:zeal
+eng:zealless --> eng:zeal
+eng:zealotism --> eng:zealot
+eng:zealotist --> eng:zealot
+eng:zealotry --> eng:zealot
+eng:zealous --> grc:ζήλος --> grc:ζηλόω
+eng:zealously --> eng:zealous --> grc:ζήλος --> grc:ζηλόω
+eng:zealousness --> eng:zealous --> grc:ζήλος --> grc:ζηλόω
+eng:zebi- --> eng:binary --> lat:binarius --> lat:bini
+eng:zebrafish --> eng:fish --> ang:fiscian
+eng:zebralike --> eng:zebra
+eng:zebrawood --> eng:wood --> ang:wudu
+eng:zebrule --> eng:mule
+eng:zebu --> fra:zebu
+eng:Zebul --> heb:זבל
+eng:zed --> grc:ζῆτα
+eng:zeedonk --> eng:donkey
+eng:zeehorse --> eng:horse --> enm:horse
+eng:Zeeland --> nld:Zeeland
+eng:Zeelander --> eng:Zeeland --> nld:Zeeland
+eng:zeitgeber --> deu:Zeitgeber
+eng:zeitgeistily --> eng:zeitgeisty --> eng:zeitgeist
+eng:zeitgeisty --> eng:zeitgeist
+eng:zeitnot --> deu:Zeitnot
+eng:zek --> rus:зэк
+eng:zelatrix --> lat:zelatrix
+eng:Zeldaesque --> eng:Zelda
+eng:zellerite --> eng:Zeller
+eng:zellige --> ara:الزليج
+eng:Zelophehad --> heb:צלפחד
+eng:Zemfira --> rus:Земфира
+eng:zemindarship --> eng:zemindar
+eng:zemstva --> rus:земства
+eng:zemstvo --> rus:земство --> rus:земля
+eng:Zen --> jpn:禅 --> ltc:禅那
+eng:zenith --> enm:senith --> enm:cinit
+eng:zenithal --> eng:zenith --> enm:senith --> enm:cinit
+eng:Zenlike --> eng:Zen --> jpn:禅 --> ltc:禅那
+eng:Zennish --> eng:Zen --> jpn:禅 --> ltc:禅那
+eng:Zenobia --> lat:Zenobia --> grc:Ζηνοβία
+eng:zentai --> jpn:ゼンタイ
+eng:zeolitic --> eng:zeolite
+eng:zeolitiform --> eng:zeolite
+eng:zeolitize --> eng:zeolite
+eng:zeon --> grc:ζέον --> grc:ζέω
+eng:zephyr --> grc:Ζέφυρος
+eng:Zephyr --> grc:Ζέφυρος
+eng:zephyrless --> eng:zephyr --> grc:Ζέφυρος
+eng:zephyrlike --> eng:zephyr --> grc:Ζέφυρος
+eng:zephyrous --> eng:zephyr --> grc:Ζέφυρος
+eng:Zephyrus --> grc:Ζέφυρος
+eng:zephyry --> eng:zephyr --> grc:Ζέφυρος
+eng:zeptobarn --> eng:barn --> enm:barn
+eng:zeptoliter --> eng:liter
+eng:zeptomole --> eng:mole
+eng:zeptosecond --> eng:second --> frm:seconder --> lat:secundo
+eng:zero --> fra:zéro --> ita:zero --> ita:zefiro --> lat:zephirum --> ara:صفر
+eng:zeroable --> eng:zero --> fra:zéro --> ita:zero --> ita:zefiro --> lat:zephirum --> ara:صفر
+eng:zeroary --> eng:zero --> fra:zéro --> ita:zero --> ita:zefiro --> lat:zephirum --> ara:صفر
+eng:zerogon --> eng:zero --> fra:zéro --> ita:zero --> ita:zefiro --> lat:zephirum --> ara:صفر
+eng:zeroless --> eng:zero --> fra:zéro --> ita:zero --> ita:zefiro --> lat:zephirum --> ara:صفر
+eng:zerolike --> eng:zero --> fra:zéro --> ita:zero --> ita:zefiro --> lat:zephirum --> ara:صفر
+eng:zeroness --> eng:zero --> fra:zéro --> ita:zero --> ita:zefiro --> lat:zephirum --> ara:صفر
+eng:zerothly --> eng:zeroth
+eng:zerovalent --> eng:zero --> fra:zéro --> ita:zero --> ita:zefiro --> lat:zephirum --> ara:صفر
+eng:Zeshan --> ara:زشان
+eng:zest --> fra:zeste
+eng:zester --> eng:zest --> fra:zeste
+eng:zestfully --> eng:zestful
+eng:zestfulness --> eng:zestful
+eng:zestily --> eng:zesty
+eng:zestless --> eng:zest --> fra:zeste
+eng:zestlessly --> eng:zestless --> eng:zest --> fra:zeste
+eng:zestlessness --> eng:zestless --> eng:zest --> fra:zeste
+eng:zetetic --> grc:ζητητικός --> grc:ζητέω
+eng:zetetically --> eng:zetetic --> grc:ζητητικός --> grc:ζητέω
+eng:Zetlander --> eng:Zetland
+eng:Zetlandic --> eng:Zetland
+eng:zetta- --> grc:ἑπτά
+eng:zettahertz --> eng:hertz
+eng:zeugma --> grc:ζεῦγμα --> grc:ζεύγνυμι --> grc:ζεῦγος
+eng:Zeus --> grc:Ζεύς
+eng:Zev --> heb:זאב
+eng:Zhukov --> rus:Жуков
+eng:Zhumulangma --> cmn:珠穆朗玛峰
+eng:Zhytomyr --> ukr:Житомир
+eng:ziamet --> tur:zeamet
+eng:ziarat --> urd:زیارت
+eng:Ziegler's water rat --> eng:Ziegler's
+eng:zietrisikite --> eng:Zietrisika
+eng:ziggurat --> akk:ziqqurratu --> akk:zaqāru
+eng:zigzag --> deu:Zickzack
+eng:zigzaggedly --> eng:zigzagged
+eng:zigzaggery --> eng:zigzag --> deu:Zickzack
+eng:zikr --> ara:ذكر
+eng:zilde --> eng:tilde --> spa:tilde --> lat:titulus
+eng:zill --> tur:zil
+eng:zillionfold --> eng:zillion
+eng:Zimbabwe --> sna:dzimba-dze-mabwe
+eng:Zimblish --> eng:English
+eng:Zimmermann --> deu:Zimmermann
+eng:zimzum --> heb:צימצום
+eng:Zinacantán --> spa:Zinacantán
+eng:Zinaida --> rus:Зинаида
+eng:zinc --> deu:Zink --> deu:Zinken
+eng:zincic --> eng:zinc --> deu:Zink --> deu:Zinken
+eng:zincide --> eng:zinc --> deu:Zink --> deu:Zinken
+eng:zinciferous --> eng:zinc --> deu:Zink --> deu:Zinken
+eng:zincify --> eng:zinc --> deu:Zink --> deu:Zinken
+eng:zincless --> eng:zinc --> deu:Zink --> deu:Zinken
+eng:zincode --> eng:zinc --> deu:Zink --> deu:Zinken
+eng:zincograph
+eng:zincographist --> eng:zincography
+eng:zincography
+eng:zincolibethenite --> eng:libethenite
+eng:zincous --> eng:zinc --> deu:Zink --> deu:Zinken
+eng:zincowoodwardite --> eng:woodwardite
+eng:zincworker --> eng:worker
+eng:zinefest --> eng:zine
+eng:zinelike --> eng:zine
+eng:ziner --> eng:zine
+eng:zinester --> eng:zine
+eng:zingiberene --> eng:Zingiber
+eng:zingily --> eng:zingy
+eng:zinginess --> eng:zingy
+eng:zingingly --> eng:zinging
+eng:zink --> deu:Zink --> deu:Zinken
+eng:Zion --> heb:ציון
+eng:Zionazi --> eng:Nazi --> deu:Nazi
+eng:Zionism --> eng:Zion --> heb:ציון
+eng:Zionist --> eng:Zion --> heb:ציון
+eng:Zionistic --> eng:Zionist --> eng:Zion --> heb:ציון
+eng:Zionize --> eng:Zion --> heb:ציון
+eng:zip code --> eng:Zone Improvement Plan
+eng:zipcoded --> eng:zipcode
+eng:Zipfian --> eng:Zipf
+eng:zipless --> eng:zip
+eng:ziplessness --> eng:zipless --> eng:zip
+eng:ziplike --> eng:zip
+eng:ziplocked --> eng:locked
+eng:zippable --> eng:zip
+eng:Zippergate --> eng:zipper
+eng:zipperhead --> eng:head --> enm:hed
+eng:zipperless --> eng:zipper
+eng:zipperlike --> eng:zipper
+eng:zippo --> eng:zip
+eng:Zipporah --> heb:צפרה
+eng:ziptop --> eng:top --> ang:top
+eng:zircofluoride --> eng:fluoride
+eng:zirconiferous --> eng:zircon
+eng:zircosulfate --> eng:sulfate
+eng:zitan --> cmn:紫檀
+eng:zitcom --> eng:sitcom
+eng:zitherlike --> eng:zither
+eng:zitless --> eng:zit
+eng:zitty --> eng:zit
+eng:zizania --> lat:zizania --> grc:ζιζάνια
+eng:zlatogorite --> eng:Zlatogor
+eng:Znanieckian --> eng:Znaniecki
+eng:zoaea --> lat:zoea --> grc:ζωή
+eng:zoarchaeologist --> eng:archaeologist --> eng:archaeology --> grc:ἀρχαιολογία
+eng:zodacite --> eng:Zodac
+eng:zodiacal --> eng:zodiac
+eng:Zoë --> grc:ζωή
+eng:Zohar --> heb:זוהר
+eng:Zoilean --> eng:Zoilus --> grc:Ζωΐλος
+eng:Zoilus --> grc:Ζωΐλος
+eng:zoisitic --> eng:zoisite
+eng:Zolaesque --> eng:Zola
+eng:Zollverein --> deu:Zollverein
+eng:Zoltan --> hun:Zoltán --> hun:szultán --> ota:سلطان --> ara:سلطان
+eng:zombic --> eng:zombie
+eng:zombiehood --> eng:zombie
+eng:zombiesque --> eng:zombie
+eng:zombifying --> eng:zombify
+eng:zombiism --> eng:zombie
+eng:zome --> eng:dome --> lat:doma
+eng:zonality --> eng:zonal
+eng:zone --> lat:zona --> grc:ζώνη
+eng:zoneless --> eng:zone --> lat:zona --> grc:ζώνη
+eng:zone-tailed hawk --> eng:hawk --> enm:hauk --> ang:hafoc
+eng:zonetime --> eng:time --> enm:time
+eng:zonkey --> eng:donkey
+eng:zonoid --> eng:zone --> lat:zona --> grc:ζώνη
+eng:zonula --> lat:zonula
+eng:zonule --> eng:zonula --> lat:zonula
+eng:zonulin --> eng:zonula --> lat:zonula
+eng:zony --> eng:pony
+eng:zooarchaeological --> eng:zooarchaeology --> eng:archaeology --> grc:ἀρχαιολογία
+eng:zooarchaeology --> eng:archaeology --> grc:ἀρχαιολογία
+eng:zooarcheological --> eng:zooarcheology --> eng:archeology --> frm:archéologie --> grc:ἀρχαιολογία
+eng:zooarcheology --> eng:archeology --> frm:archéologie --> grc:ἀρχαιολογία
+eng:zooblast
+eng:zoocentric
+eng:zoocentrism
+eng:zoochemical --> eng:chemical --> eng:chemic --> lat:chemicus
+eng:zoöchemistry --> eng:chemistry
+eng:zoochore
+eng:zoochory
+eng:zoochrome
+eng:zoocidal
+eng:zoocide
+eng:zoodermic --> eng:dermic
+eng:zooecology --> eng:ecology --> deu:Ökologie
+eng:zooerastia
+eng:zooerasty
+eng:zooerythrine --> eng:erythrine
+eng:zoöerythrine --> eng:erythrine
+eng:zooflagellate --> eng:flagellate --> lat:flagellum --> lat:flagrum
+eng:zoogamous
+eng:zoogamy
+eng:zoögamy
+eng:zoogenic
+eng:zoogeny
+eng:zoögeny
+eng:zoogeographically --> eng:zoogeographical
+eng:zoögeographies --> eng:geographies
+eng:zoogeography --> eng:geography
+eng:zoögeography --> eng:geography
+eng:zoogoer --> eng:goer
+eng:zoogoing --> eng:going --> eng:go --> enm:gon --> ang:gan
+eng:zoograft --> eng:graft --> enm:graffe --> fro:greffe --> lat:graphium --> grc:γραφείον
+eng:zoögrapher --> eng:zoögraphy
+eng:zoographist --> eng:zoography
+eng:zoögraphist --> eng:zoögraphy
+eng:zoography
+eng:zookeeping --> eng:keeping
+eng:zoolatry
+eng:zoölatry
+eng:zoolike --> eng:zoo
+eng:zoologist --> eng:zoology
+eng:zoölogy
+eng:zoomable --> eng:zoom
+eng:zoomania
+eng:zoomastigote --> eng:mastigote
+eng:zoomelanin --> eng:melanin
+eng:zoomer --> eng:zoom
+eng:zoomorphism
+eng:zoomy --> eng:zoom
+eng:zoonal --> eng:zoon
+eng:zoonite --> eng:zoon
+eng:zoönite --> eng:zoön
+eng:zooparasite --> eng:parasite --> lat:parasitus --> grc:παράσιτος
+eng:zoöparasitic --> eng:parasitic --> eng:parasite --> lat:parasitus --> grc:παράσιτος
+eng:zoopark --> eng:park --> enm:park --> fro:parc --> lat:parcus
+eng:zoopathology --> eng:pathology
+eng:zoöpathology --> eng:pathology
+eng:zoöphagous
+eng:zoophagy
+eng:zoöphagy
+eng:zoophilism --> eng:zoophilia
+eng:zoophobe
+eng:zoöphobia
+eng:zoophobic
+eng:zoophyte
+eng:zoöphyte
+eng:zoophytoid --> eng:zoophyte
+eng:zoophytology --> eng:zoophyte
+eng:zooplasty --> eng:zoo
+eng:zoopsychology --> eng:psychology --> fra:psychologie --> lat:psychologia
+eng:zooremediation --> eng:remediation --> eng:remediate
+eng:zoosadism --> eng:sadism
+eng:zoosanitary --> eng:sanitary
+eng:zoosemantic --> eng:semantic
+eng:zoosemantics --> eng:semantics
+eng:zoosemiotics --> eng:semiotics
+eng:zoosexual --> eng:sexual --> lat:sexualis
+eng:zoosmosis --> eng:osmosis
+eng:zoospermia
+eng:zoösperms --> eng:sperms
+eng:zoosporangial --> eng:zoosporangia
+eng:zoosporogenesis --> eng:sporogenesis --> eng:spore
+eng:zoosterol --> eng:sterol
+eng:zootheism --> eng:theism
+eng:zootheist --> eng:theist
+eng:zootheistic --> eng:theistic
+eng:zootherapeutic --> eng:therapeutic --> lat:therapeuticus --> grc:θεραπευτικoς --> grc:θεραπευτής --> grc:θεραπεύω --> grc:θεράπων
+eng:zootherapy --> eng:therapy --> grc:θεραπεία --> grc:θεραπεύω --> grc:θεράπων
+eng:zootic --> grc:ζῷον
+eng:zootomist --> eng:zootomy
+eng:zootoxic --> eng:toxic --> fra:toxique --> lat:toxicus --> grc:τοξικόν --> grc:τοξικός --> grc:τόξον
+eng:zootoxin --> eng:toxin --> lat:toxicum --> grc:τοξικόν --> grc:τοξικός --> grc:τόξον
+eng:zootrophic
+eng:zoötrophic
+eng:zootype --> eng:type --> lat:typus --> grc:τύπος --> grc:τύπτω
+eng:zooxanthellate --> eng:zooxanthella
+eng:Zoquean --> eng:Zoque
+eng:zorbing --> eng:zorb
+eng:zorbonaut --> eng:zorb
+eng:zori --> jpn:草履
+eng:zōri --> jpn:草履
+eng:Zorkian --> eng:Zork
+eng:Zoroaster --> grc:Ζωροάστρης --> ave:𐬰𐬀𐬭𐬀𐬚𐬎𐬱𐬙𐬭𐬋
+eng:zorse --> eng:horse --> enm:horse
+eng:zoubekite --> eng:Zoubek
+eng:zoysiagrass --> eng:grass --> enm:gras
+eng:Zubenelgenubi --> ara:الزبن الجنوبي
+eng:Zubeneschamali --> ara:الزبن الشمالية
+eng:zucchetto --> ita:zucchetto
+eng:zucchini --> ita:zucchini
+eng:zucchinilike --> eng:zucchini --> ita:zucchini
+eng:zuchetto --> ita:zucchetto
+eng:Zuckerberg --> deu:Berg
+eng:zugzwang --> deu:Zugzwang
+eng:zulm --> ara:ظلم
+eng:Zulu --> zul:umZulu
+eng:Zuluize --> eng:Zulu --> zul:umZulu
+eng:Zululand --> eng:Zulu --> zul:umZulu
+eng:Zululander --> eng:Zululand --> eng:Zulu --> zul:umZulu
+eng:zurna --> tur:zurna --> fas:سرنای
+eng:zuz --> heb:זוז
+eng:Zweihänder --> deu:Zweihänder
+eng:zwieback --> deu:Zwieback
+eng:zwieselite --> eng:Zwiesel
+eng:Zwinglianism --> eng:Zwinglian
+eng:zwitterionic --> eng:zwitterion
+eng:zydeco --> lou:zydeco
+eng:zyg- --> grc:ζυγόν
+eng:zygo- --> grc:ζυγόν
+eng:zygodactylic --> eng:dactylic
+eng:zygolith
+eng:zygoma --> grc:ζύγωμα --> grc:ζυγόν
+eng:zygomatic --> fra:zygomatique --> grc:ζυγωματικός --> grc:ζύγωμα --> grc:ζυγόν
+eng:zygomorphic
+eng:zygomorphically --> eng:zygomorphic
+eng:zygote --> grc:ζυγωτός --> grc:ζυγός
+eng:zygotic --> eng:zygote --> grc:ζυγωτός --> grc:ζυγός
+eng:zyme --> grc:ζύμη
+eng:zymocidal
+eng:zymogenic
+eng:zymographic --> eng:zymography
+eng:zymographically --> eng:zymographic --> eng:zymography
+eng:zymology
+eng:zymolysis
+eng:zymoplastic --> eng:plastic --> lat:plasticus --> grc:πλαστικός --> grc:πλάσσειν
+eng:zymosterol --> eng:sterol
+eng:zymurgy
+eng:zythum --> lat:zythum --> grc:ζῦθος

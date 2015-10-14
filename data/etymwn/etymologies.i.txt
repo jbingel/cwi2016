@@ -1,0 +1,3842 @@
+eng:i --> ang:ic
+eng:i-
+eng:I --> enm:I --> ang:ic
+eng:iamb --> fra:iambe --> lat:iambus --> grc:ἴαμβος
+eng:iambic --> grc:ἰαμβικός
+eng:iambically --> eng:iambic --> grc:ἰαμβικός
+eng:Ianson --> eng:Ian
+eng:Iapetus --> grc:Ἰαπετός
+eng:Iași --> ron:Iași
+eng:iatraliptics --> lat:iatraliptice
+eng:iatric --> grc:ἰατρός --> grc:ἰάομαι
+eng:iatroepidemic --> eng:epidemic --> fra:épidémique --> fra:épidémie --> lat:epidemia --> grc:ἐπιδήμιος
+eng:iatromathematical --> grc:ἰατρομαθηματικός
+eng:iatromathematician --> eng:mathematician
+eng:iatromathematics --> eng:mathematics --> lat:mathematica --> grc:μαθηματικά --> grc:μάθημα
+eng:iatromechanical --> eng:mechanical
+eng:iatrophysicist --> eng:physicist --> eng:physics --> grc:φυσικός --> grc:φύσις
+eng:iatrotechnique --> eng:technique --> fra:technique --> grc:τεχνικός --> grc:τέχνη
+eng:Iberia --> lat:Iberia --> grc:Ἰβηρία
+eng:ibex --> lat:ibex
+eng:ibis --> lat:ibis --> grc:ἶβις
+eng:Ibiza --> spa:Ibiza --> cat:Eivissa --> ara:يابسة --> lat:Ebusus
+eng:IBMer --> eng:IBM
+eng:ibn --> ara:ابن
+eng:ibogaine --> eng:iboga
+eng:ibotenate --> eng:ibotenic
+eng:Ibrahimic --> eng:Ibrahim
+eng:ibrik --> tur:ibrik --> ara:إبريق --> fas:آبریز
+eng:Ibsenesque --> eng:Ibsen
+eng:Ibsenian --> eng:Ibsen
+eng:Ibycus --> grc:Ἴβυκος
+eng:ice --> enm:is --> ang:is
+eng:iceane --> eng:ice --> enm:is --> ang:is
+eng:iceberg --> deu:Eisberg --> deu:Berg
+eng:iceberglike --> eng:iceberg --> deu:Eisberg --> deu:Berg
+eng:icebergy --> eng:iceberg --> deu:Eisberg --> deu:Berg
+eng:icebird --> eng:bird --> enm:brid --> ang:bridd
+eng:iceblock --> eng:block --> enm:blok --> fro:bloc --> dum:blok
+eng:icebox --> eng:box --> ang:box
+eng:icebreaking --> eng:breaking
+eng:ice-cold --> ang:isceald --> ang:ceald
+eng:ice-creamy --> eng:ice-cream
+eng:iced --> eng:ice --> enm:is --> ang:is
+eng:icedrake --> eng:drake --> enm:drake
+eng:Icelander --> eng:Iceland
+eng:iceless --> eng:ice --> enm:is --> ang:is
+eng:icelike --> eng:ice --> enm:is --> ang:is
+eng:icemaking --> eng:ice --> enm:is --> ang:is
+eng:iceman --> eng:ice --> enm:is --> ang:is
+eng:icemelt --> eng:ice --> enm:is --> ang:is
+eng:icer --> eng:ice --> enm:is --> ang:is
+eng:iceteroid --> eng:asteroid --> grc:ἀστεροειδής
+eng:iceward --> eng:ice --> enm:is --> ang:is
+eng:iceway --> eng:ice --> enm:is --> ang:is
+eng:ice wine --> deu:Eiswein --> deu:Eis --> goh:is
+eng:ich --> enm:ich --> ang:ic
+eng:ich-laut --> deu:ich --> gmh:ich --> goh:ih
+eng:ichneumon --> lat:ichneumon
+eng:ichno- --> grc:ἴχνος
+eng:ichnofossil --> eng:fossil
+eng:ichnogenus --> eng:genus
+eng:ichnogram
+eng:ichnography
+eng:ichnology
+eng:ichoglan --> tur:iç oğlanı
+eng:ichthyo- --> grc:ἰχθύς
+eng:ichthyofauna --> eng:fauna
+eng:ichthyolatry
+eng:ichthyolite
+eng:ichthyologic --> eng:ichthyology
+eng:ichthyological --> eng:ichthyologic --> eng:ichthyology
+eng:ichthyologist --> eng:ichthyology
+eng:ichthyology
+eng:ichthyomancy
+eng:ichthyophagous --> eng:ichthyophage
+eng:ichthyophthiriasis --> eng:Ichthyophthirius
+eng:ichthyoplankton --> eng:plankton --> deu:Plankton
+eng:ichthyosaurus --> eng:saurus
+eng:ichthyosiform --> eng:ichthyosis
+eng:ichthyotoxin --> eng:toxin --> lat:toxicum --> grc:τοξικόν --> grc:τοξικός --> grc:τόξον
+eng:ichthys --> grc:ἰχθύς
+eng:icicle --> enm:isykle
+eng:icicled --> eng:icicle --> enm:isykle
+eng:icily --> eng:icy
+eng:icinglike --> eng:icing
+eng:icing sugar --> eng:icing
+eng:ickle --> enm:ikil
+eng:icon --> lat:icon --> grc:εἰκών
+eng:iconic --> eng:icon --> lat:icon --> grc:εἰκών
+eng:iconically --> eng:iconic --> eng:icon --> lat:icon --> grc:εἰκών
+eng:iconicity --> lat:iconicitas
+eng:iconify --> eng:icon --> lat:icon --> grc:εἰκών
+eng:iconism --> eng:icon --> lat:icon --> grc:εἰκών
+eng:iconization --> eng:iconize
+eng:iconless --> eng:icon --> lat:icon --> grc:εἰκών
+eng:iconlike --> eng:icon --> lat:icon --> grc:εἰκών
+eng:iconographer --> eng:iconography --> eng:icon --> lat:icon --> grc:εἰκών
+eng:iconography --> eng:icon --> lat:icon --> grc:εἰκών
+eng:iconophobic
+eng:icosa- --> grc:εἴκοσι
+eng:icosagon --> grc:εἰκοσάγωνος
+eng:icosahedral
+eng:icosahedrality --> eng:icosahedral
+eng:icosahedron --> grc:εἰκοσάεδρον
+eng:icosasphere --> eng:sphere --> fro:sphere --> lat:sphera --> lat:sphaera --> grc:σφαῖρα
+eng:ICQer --> eng:ICQ
+eng:ictal --> eng:ictus
+eng:icteric --> eng:icterus
+eng:id --> lat:id
+eng:Ida --> grc:Ἴδη
+eng:Idahoan --> eng:Idaho
+eng:Idalian --> eng:Idalium
+eng:idea --> lat:idea --> grc:ἰδέα --> grc:εἴδω
+eng:ideaed --> eng:idea --> lat:idea --> grc:ἰδέα --> grc:εἴδω
+eng:ideal --> fra:idéal --> lat:idealis --> lat:idea --> grc:ἰδέα --> grc:εἴδω
+eng:idealess --> eng:idea --> lat:idea --> grc:ἰδέα --> grc:εἴδω
+eng:idealessness --> eng:idealess --> eng:idea --> lat:idea --> grc:ἰδέα --> grc:εἴδω
+eng:idealise --> fra:idéaliser --> fra:idéal --> lat:idealis --> lat:idea --> grc:ἰδέα --> grc:εἴδω
+eng:idealist --> fra:idéaliste --> lat:idealis --> lat:idea --> grc:ἰδέα --> grc:εἴδω
+eng:idealistic --> eng:idealist --> fra:idéaliste --> lat:idealis --> lat:idea --> grc:ἰδέα --> grc:εἴδω
+eng:idealizable --> eng:idealize --> eng:ideal --> fra:idéal --> lat:idealis --> lat:idea --> grc:ἰδέα --> grc:εἴδω
+eng:idealization --> eng:idealize --> eng:ideal --> fra:idéal --> lat:idealis --> lat:idea --> grc:ἰδέα --> grc:εἴδω
+eng:idealize --> eng:ideal --> fra:idéal --> lat:idealis --> lat:idea --> grc:ἰδέα --> grc:εἴδω
+eng:idealless --> eng:ideal --> fra:idéal --> lat:idealis --> lat:idea --> grc:ἰδέα --> grc:εἴδω
+eng:ideally --> eng:ideal --> fra:idéal --> lat:idealis --> lat:idea --> grc:ἰδέα --> grc:εἴδω
+eng:ideate --> eng:idea --> lat:idea --> grc:ἰδέα --> grc:εἴδω
+eng:ideation --> eng:ideate --> eng:idea --> lat:idea --> grc:ἰδέα --> grc:εἴδω
+eng:ideational --> eng:ideation --> eng:ideate --> eng:idea --> lat:idea --> grc:ἰδέα --> grc:εἴδω
+eng:ideationally --> eng:ideational --> eng:ideation --> eng:ideate --> eng:idea --> lat:idea --> grc:ἰδέα --> grc:εἴδω
+eng:idée --> fra:idée --> lat:idea --> grc:ἰδέα --> grc:εἴδω
+eng:idem --> lat:idem
+eng:identic --> fra:identique --> lat:identicus
+eng:identical --> eng:identic --> fra:identique --> lat:identicus
+eng:identically --> eng:identical --> eng:identic --> fra:identique --> lat:identicus
+eng:identicalness --> eng:identical --> eng:identic --> fra:identique --> lat:identicus
+eng:identifiable --> eng:identify --> fra:identifier --> lat:identificare
+eng:identify --> fra:identifier --> lat:identificare
+eng:identityless --> eng:identity
+eng:identitylessness --> eng:identityless --> eng:identity
+eng:ideogeny
+eng:ideogrammatically --> eng:ideogrammatic
+eng:ideogrammic --> eng:ideogram
+eng:ideographically --> eng:ideographic
+eng:ideography
+eng:ideolog --> fra:idéologue
+eng:ideologue --> fra:idéologue
+eng:ideology --> fra:idéologie
+eng:ideopolitical --> eng:political --> lat:politicus
+eng:IDer --> eng:ID
+eng:ides --> lat:idus
+eng:idioblast
+eng:idiocracy
+eng:idioelectric --> eng:electric --> lat:electricus --> grc:ἤλεκτρον --> grc:ἠλέκτωρ
+eng:idiolatry
+eng:idiolect --> eng:dialect --> grc:διάλεκτος --> grc:διαλέγομαι
+eng:idiolectical --> eng:idiolect --> eng:dialect --> grc:διάλεκτος --> grc:διαλέγομαι
+eng:idiom --> frm:idiome
+eng:idiomatic --> grc:ἰδιωματικός --> grc:ἰδίωμα --> grc:ἰδιούμαι --> grc:ἴδιος
+eng:idiomatical --> eng:idiomatic --> grc:ἰδιωματικός --> grc:ἰδίωμα --> grc:ἰδιούμαι --> grc:ἴδιος
+eng:idiomaticity --> eng:idiomatic --> grc:ἰδιωματικός --> grc:ἰδίωμα --> grc:ἰδιούμαι --> grc:ἴδιος
+eng:idiomatology
+eng:idiomorphic
+eng:idiomuscular --> eng:muscular
+eng:idiopathic
+eng:IDiot --> eng:ID
+eng:idioted --> eng:idiot
+eng:idiothermic --> eng:thermic
+eng:idiotic --> eng:idiot
+eng:idiotical --> eng:idiotic --> eng:idiot
+eng:idiotish --> eng:idiot
+eng:idiotism --> eng:idiot
+eng:idiotize --> eng:idiot
+eng:idiotproof --> eng:idiot
+eng:idiot-proof --> eng:idiot
+eng:idiotry --> eng:idiot
+eng:idiotype --> eng:type --> lat:typus --> grc:τύπος --> grc:τύπτω
+eng:idiotypic --> eng:idiotype --> eng:type --> lat:typus --> grc:τύπος --> grc:τύπτω
+eng:idle --> ang:idel
+eng:idlehead --> enm:idelhed
+eng:idleness --> eng:idle --> ang:idel
+eng:idler --> eng:idle --> ang:idel
+eng:idleth --> eng:idle --> ang:idel
+eng:idli --> tam:இட்லி
+eng:idlike --> eng:id --> lat:id
+eng:idlingly --> eng:idling
+eng:idol --> grc:εἴδωλον --> grc:εἶδος --> grc:εἴδω
+eng:idolater --> fra:idolatre --> lat:idololatra
+eng:idolatress --> eng:idolater --> fra:idolatre --> lat:idololatra
+eng:idolatry --> fro:idolatrie --> lat:idolatria
+eng:idolise --> eng:idol --> grc:εἴδωλον --> grc:εἶδος --> grc:εἴδω
+eng:idolish --> eng:idol --> grc:εἴδωλον --> grc:εἶδος --> grc:εἴδω
+eng:idolism --> eng:idol --> grc:εἴδωλον --> grc:εἶδος --> grc:εἴδω
+eng:idolist --> eng:idol --> grc:εἴδωλον --> grc:εἶδος --> grc:εἴδω
+eng:idolize --> eng:idol --> grc:εἴδωλον --> grc:εἶδος --> grc:εἴδω
+eng:idolizer --> eng:idolize --> eng:idol --> grc:εἴδωλον --> grc:εἶδος --> grc:εἴδω
+eng:idolizingly --> eng:idolizing
+eng:idolomancy --> lat:idolum --> grc:εἴδωλον --> grc:εἶδος --> grc:εἴδω
+eng:idoneous --> lat:idoneus
+eng:Idumean --> eng:Idumea
+eng:idylatry --> lat:idyllium --> grc:εἰδύλλιον
+eng:idyll --> lat:idyllium --> grc:εἰδύλλιον
+eng:idyllically --> eng:idyllic
+eng:i.e. --> lat:i.e.
+eng:if --> enm:yif
+eng:iffiness --> eng:iffy --> eng:if --> enm:yif
+eng:iffy --> eng:if --> enm:yif
+eng:iftar --> ara:إفطار
+eng:igloo --> iku:iglu
+eng:igloolike --> eng:igloo --> iku:iglu
+eng:igneal --> fro:ignel
+eng:igneous --> lat:igneus
+eng:ignescent --> lat:ignescens
+eng:ignite --> lat:ignitus
+eng:ignitible --> eng:ignite --> lat:ignitus
+eng:ignitor --> eng:ignite --> lat:ignitus
+eng:ignoble --> lat:ignobilis --> lat:nobilis --> lat:nosco
+eng:ignobleness --> eng:ignoble --> lat:ignobilis --> lat:nobilis --> lat:nosco
+eng:ignominy --> fra:ignominie --> lat:ignominia
+eng:ignorance --> fro:ignorance --> lat:ignorantia
+eng:Ignorantine --> fra:ignorantin --> fra:ignorant
+eng:ignorantism --> eng:ignorant
+eng:ignorantist --> eng:ignorant
+eng:ignorantly --> eng:ignorant
+eng:ignoranus --> eng:anus
+eng:ignorauntly --> eng:ignoraunt
+eng:ignore --> fra:ignorer --> lat:ignorare
+eng:ignorer --> eng:ignore --> fra:ignorer --> lat:ignorare
+eng:ignorest --> eng:ignore --> fra:ignorer --> lat:ignorare
+eng:ignoreth --> eng:ignore --> fra:ignorer --> lat:ignorare
+eng:ignoscible --> lat:ignoscibilis
+eng:iguana --> spa:iguana --> tnq:iwana
+eng:iguanian --> eng:Iguania
+eng:iguanoid --> eng:iguana --> spa:iguana --> tnq:iwana
+eng:Ihood --> eng:I --> enm:I --> ang:ic
+eng:I-hood --> eng:I --> enm:I --> ang:ic
+eng:ihram --> ara:إحرام
+eng:IJ --> nld:IJ
+eng:ijaza --> ara:اجازة
+eng:ijazah --> ara:اجازة
+eng:ijma --> ara:إجماع
+eng:ijma' --> ara:إجماع
+eng:Ijoid --> eng:Ijo
+eng:ijtihad --> ara:إجتهاد
+eng:ikat --> msa:ikat
+eng:ikebana --> jpn:生け花
+eng:ikey --> eng:Ike
+eng:iland --> enm:iland
+eng:ile --> ang:egl
+eng:ileal --> eng:ileum
+eng:ileally --> eng:ileal --> eng:ileum
+eng:ileitis --> eng:ileum
+eng:ileo- --> eng:ileum
+eng:ileocaecal --> eng:caecal
+eng:ileocolic --> eng:colic
+eng:ileocolitis --> eng:colitis --> eng:colon --> lat:colon --> grc:κόλον
+eng:ileorenal --> eng:renal --> lat:renalis --> lat:renes
+eng:ileostomy
+eng:iliac --> lat:iliacus --> lat:ile
+eng:Iliad --> grc:Ἰλιάς
+eng:ilicic acid --> lat:ilex
+eng:ilicin --> eng:Ilex
+eng:iliococcygeus --> eng:coccygeus
+eng:iliohypogastric --> eng:hypogastric --> eng:gastric --> grc:γαστήρ
+eng:ilioinguinal --> eng:inguinal --> lat:inguinalis --> lat:inguen
+eng:iliolumbar --> eng:lumbar
+eng:iliotibial --> eng:tibial --> lat:tibialis --> lat:tibia
+eng:ilium --> lat:ilium --> lat:ile
+eng:Ilium --> grc:Ἴλιον
+eng:ilk --> enm:ilke --> ang:ilca
+eng:ill-advisedly --> eng:ill-advised
+eng:illapsable --> eng:lapsable
+eng:illapse --> lat:illapsus
+eng:illation --> lat:illatio --> lat:illatus
+eng:illative --> lat:illativus --> lat:illatus
+eng:illatively --> eng:illative --> lat:illativus --> lat:illatus
+eng:illaudable --> lat:illaudabilis
+eng:illaudably --> eng:illaudable --> lat:illaudabilis
+eng:ill-being --> eng:being
+eng:illegalise --> eng:illegal
+eng:illegalism --> eng:ilegal
+eng:illegalize --> eng:illegal
+eng:illegally --> eng:illegal
+eng:illegalness --> eng:illegal
+eng:illeviable --> eng:leviable --> eng:levy --> xno:leve --> fro:levee
+eng:ill-fated --> eng:fated
+eng:ill-fatedly --> eng:fatedly
+eng:ill-favouredness --> eng:ill-favoured
+eng:illiberal --> eng:liberal
+eng:illiberalism --> eng:illiberal --> eng:liberal
+eng:illiberalize --> eng:illiberal --> eng:liberal
+eng:illiberalness --> eng:illiberal --> eng:liberal
+eng:illicit --> fra:illicite --> lat:illicitus
+eng:illicium --> lat:illicio
+eng:illimitable --> eng:limitable --> eng:limit --> lat:limiten --> fro:limiter --> lat:limitare
+eng:illimitableness --> eng:illimitable --> eng:limitable --> eng:limit --> lat:limiten --> fro:limiter --> lat:limitare
+eng:illimitably --> eng:illimitable --> eng:limitable --> eng:limit --> lat:limiten --> fro:limiter --> lat:limitare
+eng:illimitation --> eng:limitation
+eng:illimited --> eng:limited
+eng:illimitedness --> eng:illimited --> eng:limited
+eng:illinition --> lat:illinire
+eng:illiquid --> eng:liquid --> enm:liquide --> fro:liquide --> lat:liquidus --> lat:liqueo
+eng:illish --> eng:ill
+eng:illision --> lat:illisio
+eng:illiteracy --> eng:literacy
+eng:illiteral --> eng:literal --> fro:literal --> lat:litteralis
+eng:illiterature --> eng:literature
+eng:illness --> eng:ill
+eng:illnesslike --> eng:illness --> eng:ill
+eng:illocality --> eng:locality --> lat:localitas --> lat:locus --> lat:stlocus
+eng:illocutionary --> eng:illocution
+eng:illogic --> eng:logic --> fro:logike --> lat:logica --> grc:λογική
+eng:illogical --> eng:logical --> eng:logic --> fro:logike --> lat:logica --> grc:λογική
+eng:illogically --> eng:illogical --> eng:logical --> eng:logic --> fro:logike --> lat:logica --> grc:λογική
+eng:ill-prepared --> eng:prepared
+eng:ill stound --> eng:ill
+eng:ill-treat --> eng:treat --> xno:treter
+eng:illude --> lat:illudo
+eng:illui --> yid:עילוי --> heb:עילוי
+eng:illuminate --> enm:illuminaten
+eng:illuminatest --> eng:illuminate --> enm:illuminaten
+eng:illuminateth --> eng:illuminate --> enm:illuminaten
+eng:illure --> eng:lure --> xno:lure --> fro:loirre --> frk:lothr
+eng:illusionable --> eng:illusion
+eng:illusionary --> eng:illusion
+eng:illusioned --> eng:illusion
+eng:illusionism --> eng:illusion
+eng:illusionistic --> eng:illusionist
+eng:illusionistically --> eng:illusionistic --> eng:illusionist
+eng:illusionless --> eng:illusion
+eng:illusionlike --> eng:illusion
+eng:illusive --> eng:illusion
+eng:illusively --> eng:illusive --> eng:illusion
+eng:illusorily --> eng:illusory
+eng:illusoriness --> eng:illusory
+eng:illustrious --> lat:illustris
+eng:illustrous --> eng:lustrous
+eng:illwisher --> eng:ill
+eng:illy --> eng:ill
+eng:Illyria --> grc:Ἰλλυρία
+eng:ilmajokite --> eng:Ilmajoki
+eng:ilmenium --> eng:Ilmen
+eng:iluy --> yid:עילוי --> heb:עילוי
+eng:imageable --> eng:image
+eng:imageboard --> eng:board --> enm:bord
+eng:imageless --> eng:image
+eng:imagelike --> eng:image
+eng:imagesetter --> eng:image
+eng:imaginable --> eng:imagine --> fro:imaginer --> lat:imaginor --> lat:imaginem
+eng:imaginary --> lat:imaginarius --> lat:imago
+eng:imaginational --> eng:imagination
+eng:imaginationless --> eng:imagination
+eng:imaginatively --> eng:imaginative
+eng:imagine --> fro:imaginer --> lat:imaginor --> lat:imaginem
+eng:Imagineer --> eng:engineer --> enm:engineour --> fro:engignier --> lat:ingeniarius --> lat:ingenium
+eng:imaginitis --> eng:imagine --> fro:imaginer --> lat:imaginor --> lat:imaginem
+eng:imagism --> eng:image
+eng:imagist --> eng:image
+eng:imagistic --> eng:imagist --> eng:image
+eng:imago --> lat:imago
+eng:imam --> ara:امام
+eng:imam bayildi --> tur:imambayıldı
+eng:iman --> ara:ايمان --> ara:امن
+eng:imari --> jpn:伊万里
+eng:imbannered --> eng:banner
+eng:imbar --> eng:bar --> enm:barre --> fro:barre
+eng:imbarn --> eng:barn --> enm:barn
+eng:imbarrassment --> eng:imbarrass
+eng:imbat --> tur:imbat
+eng:imbathe --> eng:bathe --> enm:bathen --> ang:baþian
+eng:imbecilically --> eng:imbecilic
+eng:imbenching --> eng:bench --> ang:benc
+eng:imberb --> fra:imberbe --> lat:imberbis
+eng:imbibement --> eng:imbibe
+eng:imbitter --> eng:bitter --> ang:bitter
+eng:imbitterer --> eng:imbitter --> eng:bitter --> ang:bitter
+eng:imbizo --> zul:imbizo
+eng:imbosk --> eng:bosk --> enm:bosk
+eng:imbound --> eng:bound --> enm:bounde --> fro:bunne --> lat:bodina
+eng:imbow --> eng:bow --> ang:boga
+eng:imbox --> eng:box --> ang:box
+eng:imbricate --> lat:imbricatus
+eng:imbrication --> eng:imbricate --> lat:imbricatus
+eng:imbriferous --> lat:imbrifer --> lat:fero
+eng:Imbros --> grc:Ἴμβρος
+eng:imbrue --> fro:embruer
+eng:imbrued --> eng:imbrue --> fro:embruer
+eng:imbruement --> eng:imbrue --> fro:embruer
+eng:imbrutement --> eng:imbrute
+eng:imbue --> lat:imbuo
+eng:imbuement --> eng:imbue --> lat:imbuo
+eng:imbursement --> eng:imburse
+eng:imciromab
+eng:Imeldific --> eng:Imelda
+eng:imell --> enm:imell
+eng:imitable --> lat:imitabilis
+eng:imitableness --> eng:imitable --> lat:imitabilis
+eng:imitancy --> lat:imitans
+eng:imitate --> lat:imitatus
+eng:imitational --> eng:imitation
+eng:imitator --> eng:imitate --> lat:imitatus
+eng:imitatorship --> eng:imitator --> eng:imitate --> lat:imitatus
+eng:imitatress --> eng:imitator --> eng:imitate --> lat:imitatus
+eng:immalleable --> eng:malleable --> enm:malliable
+eng:immanacle --> eng:manacle
+eng:immanifest --> eng:manifest --> frm:manifeste --> lat:manifestus
+eng:immanity --> lat:immanitas
+eng:Immanuel --> heb:עמנואל
+eng:immarcescible --> frm:inmarcessible
+eng:immarginate --> eng:marginate
+eng:immartial --> eng:martial --> lat:martialis
+eng:immask --> eng:mask --> enm:maske --> ang:max
+eng:immatchable --> eng:matchable --> eng:match --> enm:macche --> ang:mæcca --> ang:gemæcca
+eng:immaterial --> eng:material --> enm:material --> lat:materialis --> lat:materia --> lat:mater
+eng:immaterialism --> eng:immaterial --> eng:material --> enm:material --> lat:materialis --> lat:materia --> lat:mater
+eng:immateriality --> eng:materiality
+eng:immaterialize --> eng:immaterial --> eng:material --> enm:material --> lat:materialis --> lat:materia --> lat:mater
+eng:immaterialness --> eng:immaterial --> eng:material --> enm:material --> lat:materialis --> lat:materia --> lat:mater
+eng:immaturely --> eng:immature
+eng:immatureness --> eng:immature
+eng:immeasurable --> eng:measurable
+eng:immeasurableness --> eng:immeasurable --> eng:measurable
+eng:immeasured --> eng:measured
+eng:immechanical --> eng:mechanical
+eng:immediate --> fro:immediat --> lat:immediatus
+eng:immediately --> eng:immediate --> fro:immediat --> lat:immediatus
+eng:immediateness --> eng:immediate --> fro:immediat --> lat:immediatus
+eng:immediatism --> eng:immediate --> fro:immediat --> lat:immediatus
+eng:immelodious --> eng:melodious
+eng:immense --> lat:immensus
+eng:immensely --> eng:immense --> lat:immensus
+eng:immenseness --> eng:immense --> lat:immensus
+eng:immensurable --> lat:immensurabilis
+eng:immensurate --> eng:mensurate --> lat:mensuratus
+eng:immerge --> eng:merge --> lat:mergere
+eng:immerit --> eng:merit --> enm:merite --> fro:merite --> lat:meritum
+eng:immerited --> eng:merited
+eng:immerse --> lat:immersus
+eng:immersionism --> eng:immersion
+eng:immersionist --> eng:immersion
+eng:immethodically --> eng:immethodical
+eng:immethodicalness --> eng:immethodical
+eng:immetrical --> eng:metrical
+eng:immigrate --> lat:immigratus
+eng:immingle --> eng:mingle
+eng:imminution --> lat:imminutio
+eng:immiseration --> eng:immiserate
+eng:immitigable --> eng:mitigable
+eng:immitigably --> eng:immitigable --> eng:mitigable
+eng:immittance --> eng:admittance
+eng:immixable --> eng:mixable --> eng:mix --> enm:mixen --> ang:mixian
+eng:immixed --> eng:mixed --> eng:mix --> enm:mixen --> ang:mixian
+eng:immobile --> lat:immobilis
+eng:immobilization --> eng:immobilize --> eng:immobile --> lat:immobilis
+eng:immobilize --> eng:immobile --> lat:immobilis
+eng:immoderancy --> lat:immoderantia
+eng:immoderation --> eng:moderation
+eng:immolate --> lat:immolo
+eng:immomentous --> eng:momentous
+eng:immorally --> eng:immoral
+eng:immorigerous --> eng:morigerous
+eng:immortal --> lat:immortalis
+eng:immortalist --> eng:immortal --> lat:immortalis
+eng:immortification --> eng:mortification
+eng:immould --> eng:mould
+eng:immovable --> eng:movable --> eng:move --> enm:moven
+eng:immovableness --> eng:immovable --> eng:movable --> eng:move --> enm:moven
+eng:immune --> lat:immunis
+eng:immunity --> lat:immunitas
+eng:immunizable --> eng:immunize
+eng:immunoablation --> eng:immunoablate
+eng:immunoabsorbent --> eng:absorbent --> lat:absorbens
+eng:immunoabsorption --> eng:absorption
+eng:immunoadjuvant --> eng:adjuvant --> lat:adiuvans
+eng:immunoadsorbent --> eng:adsorbent
+eng:immunoaffinity --> eng:affinity --> fro:affinité
+eng:immunoanalytical --> eng:analytical
+eng:immunoassay --> eng:assay --> xno:assaier
+eng:immunobead --> eng:bead --> ang:gebed
+eng:immunobinding --> eng:binding
+eng:immunoblast
+eng:immunoblot --> eng:blot
+eng:immunoblotting --> eng:blotting
+eng:immunobullous --> eng:bullous
+eng:immunocapture --> eng:capture --> frm:capture
+eng:immunochemistry --> eng:chemistry
+eng:immunochemotherapy --> eng:chemotherapy --> eng:therapy --> grc:θεραπεία --> grc:θεραπεύω --> grc:θεράπων
+eng:immunochromatographic --> eng:chromatographic
+eng:immunochromatography --> eng:chromatography
+eng:immunocompatible --> eng:compatible --> frm:compatible --> lat:compatibilis --> lat:compati
+eng:immunocompetence --> eng:competence
+eng:immunoconjugate --> eng:conjugate
+eng:immunocontraceptive --> eng:contraceptive
+eng:immunocytochemistry --> eng:cytochemistry --> eng:chemistry
+eng:immunodeficiency --> eng:deficiency --> eng:deficit --> fra:déficit --> lat:deficit
+eng:immunodeficient --> eng:deficient --> lat:deficiens
+eng:immunodegradation --> eng:degradation
+eng:immunodepressant --> eng:depressant
+eng:immunodepressive --> eng:depressive
+eng:immunodetectable --> eng:detectable
+eng:immunodetection --> eng:detection
+eng:immunodiagnosis --> eng:diagnosis --> lat:diagnosis --> grc:διάγνωσις
+eng:immunodiagnostic --> eng:diagnostic
+eng:immunodiffusion --> eng:diffusion --> lat:diffusionem
+eng:immunodominance --> eng:dominance
+eng:immunodominant --> eng:dominant --> frm:dominant
+eng:immunoediting --> eng:editing
+eng:immunoelectrophoresis --> eng:electrophoresis
+eng:immunoepidemiologic --> eng:epidemiologic
+eng:immunoepidemiology --> eng:epidemiology
+eng:immunoevasion --> eng:evasion --> lat:evasionem
+eng:immunoevasive --> eng:evasive
+eng:immunoexpression --> eng:expression
+eng:immunofixation --> eng:fixation --> fro:fixation
+eng:immunofluorescence --> eng:fluorescence
+eng:immunogene --> eng:gene --> deu:Gen
+eng:immunogenetic --> eng:genetic
+eng:immunogenetics --> eng:genetics --> grc:γένεσις
+eng:immunogenic
+eng:immunogenically --> eng:immunogenic
+eng:immunogenicity --> eng:immunogenic
+eng:immunoglobulin --> eng:globulin
+eng:immunohistochemically --> eng:immunohistochemical
+eng:immunohistochemistry --> eng:histochemistry
+eng:immunohistological --> eng:histological
+eng:immunohistologically --> eng:immunohistological --> eng:histological
+eng:immunoimaging --> eng:imaging
+eng:immunoinformatic --> eng:informatic
+eng:immunoinformatics --> eng:informatics
+eng:immunoinhibition --> eng:inhibition
+eng:immunoinhibitory --> eng:inhibitory
+eng:immunointensity --> eng:intensity
+eng:immunokinetic --> eng:kinetic --> grc:κινητικός --> grc:κινέω
+eng:immunolocalisation --> eng:localisation
+eng:immunolocalize --> eng:localize --> eng:local
+eng:immunomagnetic --> eng:magnetic
+eng:immunome --> eng:immune --> lat:immunis
+eng:immunometric
+eng:immunomodifier --> eng:modifier
+eng:immunomodulating --> eng:modulating
+eng:immunomodulation --> eng:modulation
+eng:immunomodulatory --> eng:immunomodulator
+eng:immunonephelometric --> eng:nephelometric
+eng:immunoneutralization --> eng:neutralization --> eng:neutral
+eng:immunopathogenesis --> eng:pathogenesis
+eng:immunopathological --> eng:pathological
+eng:immunopathology --> eng:pathology
+eng:immunopeptide --> eng:peptide --> grc:πεπτός
+eng:immunoperoxidase --> eng:peroxidase
+eng:immunopharmacology --> eng:pharmacology
+eng:immunopotentiator --> eng:potentiator
+eng:immunoprecipitant --> eng:precipitant --> fro:precipitant --> lat:praecipitans
+eng:immunoprecipitate --> eng:precipitate --> lat:praecipitatum
+eng:immunoprecipitation --> eng:immunoprecipitate --> eng:precipitate --> lat:praecipitatum
+eng:immunoprevention --> eng:prevention
+eng:immunoproliferation --> eng:proliferation --> eng:proliferate
+eng:immunoproliferative --> eng:proliferative
+eng:immunoprophylaxis --> eng:prophylaxis
+eng:immunoprotection --> eng:protection
+eng:immunoprotective --> eng:protective
+eng:immunoprotein --> eng:protein
+eng:immunoproteome --> eng:proteome --> eng:genome
+eng:immunorecognition --> eng:recognition --> lat:recognitionem
+eng:immunoregulating --> eng:regulating
+eng:immunoresistance --> eng:resistance --> fra:résistance
+eng:immunoscintigraphy --> eng:scintigraphy
+eng:immunoscreening --> eng:screening
+eng:immunosenescence --> eng:senescence --> lat:senescere
+eng:immunoserology --> eng:serology
+eng:immunostimulant --> eng:stimulant
+eng:immunostimulator --> eng:stimulator
+eng:immunosuppress --> eng:suppress --> lat:suppressus
+eng:immunosuppressant --> eng:suppressant
+eng:immunosuppression --> eng:suppression
+eng:immunosuppressive --> eng:suppressive
+eng:immunosuppressor --> eng:suppressor
+eng:immunotherapy --> eng:therapy --> grc:θεραπεία --> grc:θεραπεύω --> grc:θεράπων
+eng:immunotolerance --> eng:tolerance --> frm:tolérance --> lat:tolerantia --> lat:tolerans
+eng:immunotoxicity --> eng:toxicity
+eng:immunotoxin --> eng:toxin --> lat:toxicum --> grc:τοξικόν --> grc:τοξικός --> grc:τόξον
+eng:immunotronics
+eng:immunoturbidimetric --> eng:turbidimetry
+eng:immunovirological --> eng:virological
+eng:immunovirology --> eng:virology
+eng:immusical --> eng:musical
+eng:immutation --> lat:immutatio
+eng:immute --> lat:immutare
+eng:imp --> ang:impa
+eng:impact --> lat:impactus
+eng:impactable --> eng:impact --> lat:impactus
+eng:impactful --> eng:impact --> lat:impactus
+eng:impactfully --> eng:impactful --> eng:impact --> lat:impactus
+eng:impactfulness --> eng:impactful --> eng:impact --> lat:impactus
+eng:impaction --> lat:impingere
+eng:impactless --> eng:impact --> lat:impactus
+eng:impaint --> eng:paint
+eng:impair --> fro:empeirier
+eng:impairedness --> eng:impaired
+eng:impairer --> eng:impair --> fro:empeirier
+eng:impairment --> eng:impair --> fro:empeirier
+eng:impala --> zul:impala
+eng:impalatable --> eng:palatable --> eng:palate
+eng:impale --> lat:impālāre --> lat:palus --> grc:πηλος
+eng:impalement --> eng:impale --> lat:impālāre --> lat:palus --> grc:πηλος
+eng:impaler --> eng:impale --> lat:impālāre --> lat:palus --> grc:πηλος
+eng:impallid --> eng:pallid --> lat:pallidus
+eng:impalm --> eng:palm --> enm:palme --> ang:palm
+eng:impalpable --> eng:palpable
+eng:impanel --> xno:empaneller
+eng:impapyrated --> eng:papyrus --> lat:papyrus --> eng:paper --> xno:paper --> fro:papier
+eng:imparadise --> eng:paradise
+eng:imparl --> fro:emparler
+eng:imparsonee --> fro:empersone
+eng:impart --> enm:imparten --> frm:impartir
+eng:imparteth --> eng:impart --> enm:imparten --> frm:impartir
+eng:impartially --> eng:impartial
+eng:impartialness --> eng:impartial
+eng:impartible --> eng:partible --> lat:partibilis --> lat:partire --> lat:pars
+eng:impartment --> eng:impart --> enm:imparten --> frm:impartir
+eng:impassability --> eng:impassable --> eng:pass --> enm:pas
+eng:impassable --> eng:pass --> enm:pas
+eng:impassableness --> eng:impassable --> eng:pass --> enm:pas
+eng:impasse --> fra:impasse --> fra:passe
+eng:impassibility --> eng:impassable --> eng:pass --> enm:pas
+eng:impassible --> fra:impassible
+eng:impassibleness --> eng:impassible --> fra:impassible
+eng:impassion --> eng:passion
+eng:impassionable --> eng:impassion --> eng:passion
+eng:impassionate --> eng:passionate --> lat:passionatus
+eng:impassioned --> eng:impassion --> eng:passion
+eng:impassively --> eng:impassive
+eng:impastoed --> eng:impasto
+eng:impasture --> eng:pasture --> xno:pastour
+eng:impatiently --> eng:impatient
+eng:impatronize --> eng:patron --> ang:patron
+eng:impave --> eng:pave
+eng:impavid --> lat:impavidus
+eng:impavidness --> eng:impavid --> lat:impavidus
+eng:impeach --> fra:empêcher --> lat:impedicare
+eng:impeachability --> eng:impeachable --> eng:impeach --> fra:empêcher --> lat:impedicare
+eng:impeachable --> eng:impeach --> fra:empêcher --> lat:impedicare
+eng:impeacher --> eng:impeach --> fra:empêcher --> lat:impedicare
+eng:impeachment --> eng:impeach --> fra:empêcher --> lat:impedicare
+eng:impearl --> eng:pearl --> fra:perle --> lat:perla
+eng:impeccable --> lat:impeccabilis
+eng:imped --> eng:imp --> ang:impa
+eng:impedance --> eng:impede --> lat:impedire --> lat:pes
+eng:impede --> lat:impedire --> lat:pes
+eng:impeder --> eng:impede --> lat:impedire --> lat:pes
+eng:impedible --> eng:impede --> lat:impedire --> lat:pes
+eng:impediment --> lat:impedimentum --> lat:impedio --> lat:pes
+eng:impedimental --> eng:impediment --> lat:impedimentum --> lat:impedio --> lat:pes
+eng:impedingly --> eng:impeding
+eng:impedition --> lat:impeditio
+eng:impel --> lat:impello
+eng:impen --> eng:pen --> enm:penne --> ang:penn
+eng:impend --> lat:impendere
+eng:impending --> lat:impendere
+eng:impenetrable --> lat:impenetrabilis
+eng:impenetrableness --> eng:impenetrable --> lat:impenetrabilis
+eng:impenitently --> eng:impenitent
+eng:imperative --> lat:imperativus --> lat:impero
+eng:imperativeness --> eng:imperative --> lat:imperativus --> lat:impero
+eng:imperativist --> eng:imperative --> lat:imperativus --> lat:impero
+eng:imperatorial --> lat:imperatorius --> lat:imperator --> lat:imperare
+eng:imperceivable --> eng:perceivable
+eng:imperceivableness --> eng:imperceivable --> eng:perceivable
+eng:imperceived --> eng:perceived
+eng:imperceptibly --> eng:imperceptible
+eng:imperception --> eng:perception --> fra:perception --> lat:perceptio --> lat:percipio
+eng:imperfect --> eng:perfect --> enm:perfit --> fro:parfit --> lat:perfectus
+eng:imperfectability --> eng:perfectability
+eng:imperfectible --> eng:perfectible --> eng:perfect --> enm:perfit --> fro:parfit --> lat:perfectus
+eng:imperfection --> eng:perfection
+eng:imperfectively --> eng:imperfective
+eng:imperfectly --> eng:imperfect --> eng:perfect --> enm:perfit --> fro:parfit --> lat:perfectus
+eng:imperfectness --> eng:imperfect --> eng:perfect --> enm:perfit --> fro:parfit --> lat:perfectus
+eng:imperial --> lat:imperialis --> lat:imperium --> lat:impero
+eng:imperious --> lat:imperiosus --> lat:imperium --> lat:impero
+eng:imperiousness --> eng:imperious --> lat:imperiosus --> lat:imperium --> lat:impero
+eng:imperium --> lat:imperium --> lat:impero
+eng:impermanence --> eng:permanence --> lat:permanentia --> lat:permaneo
+eng:impermeable --> lat:impermeabilis
+eng:impermissible --> eng:permissible
+eng:impermissibly --> eng:impermissible --> eng:permissible
+eng:impermissive --> eng:permissive
+eng:impermissively --> eng:impermissive --> eng:permissive
+eng:impermissiveness --> eng:impermissive --> eng:permissive
+eng:imperscrutable --> lat:imperscrutabilis
+eng:impersonal --> fra:impersonnel --> fra:personnel
+eng:impersonality --> eng:impersonal --> fra:impersonnel --> fra:personnel
+eng:impersonalize --> eng:impersonal --> fra:impersonnel --> fra:personnel
+eng:impersonator --> eng:impersonate
+eng:impersonification --> eng:personification
+eng:impersuadable --> eng:persuadable
+eng:impersuasible --> eng:persuasible
+eng:impertinence --> fra:impertinence
+eng:imperturbation --> lat:imperturbatio
+eng:imperturbed --> eng:perturbed
+eng:impervious --> lat:impervius
+eng:impest --> eng:pest --> frm:peste --> lat:pestis
+eng:impetigo --> lat:impetigo --> lat:impetere
+eng:impetus --> lat:impetus --> lat:impetere
+eng:impi --> zul:impi
+eng:impictured --> eng:picture --> eng:pycture --> fra:picture --> lat:pictura --> lat:pictum
+eng:impierce --> eng:pierce --> fro:percier
+eng:impierceable --> eng:pierceable --> eng:pierce --> fro:percier
+eng:impignorate --> lat:impignoratus
+eng:impinge --> lat:impingo
+eng:impious --> lat:impius
+eng:impiousness --> eng:impious --> lat:impius
+eng:impishness --> eng:impish
+eng:impiteous --> eng:piteous --> enm:pitous --> fro:piteus
+eng:implacable --> eng:placable --> lat:placabilis
+eng:implacableness --> eng:implacable --> eng:placable --> lat:placabilis
+eng:implacental --> eng:placental
+eng:implant --> lat:implanto
+eng:implantation --> fra:implantation
+eng:implantology --> eng:implant --> lat:implanto
+eng:implate --> eng:plate --> fro:plate --> lat:plata
+eng:implausibleness --> eng:implausible
+eng:impleadable --> eng:pleadable
+eng:impleasing --> eng:pleasing
+eng:impledge --> eng:pledge --> enm:plege --> xno:plege --> fro:plege --> lat:plevium
+eng:implement --> lat:implementum --> lat:impleo
+eng:implementable --> eng:implement --> lat:implementum --> lat:impleo
+eng:implemental --> eng:implement --> lat:implementum --> lat:impleo
+eng:impletion --> lat:impletio
+eng:implex --> lat:implexus
+eng:impliable --> eng:imply --> fro:emplier --> lat:implere
+eng:implicate --> lat:implico --> lat:plico
+eng:implication --> lat:implicationem
+eng:implicitly --> eng:implicit
+eng:implicitness --> eng:implicit
+eng:impliedly --> eng:implied
+eng:impliest --> eng:imply --> fro:emplier --> lat:implere
+eng:implieth --> eng:imply --> fro:emplier --> lat:implere
+eng:implike --> eng:imp --> ang:impa
+eng:imploration --> fra:imploration --> lat:implorationem
+eng:implore --> fra:implorer
+eng:implorer --> eng:implore --> fra:implorer
+eng:imploringness --> eng:imploring
+eng:implosively --> eng:implosive
+eng:implosiveness --> eng:implosive
+eng:implumed --> eng:plumed
+eng:impluvium --> lat:impluvium --> lat:impluit
+eng:imply --> fro:emplier --> lat:implere
+eng:impoliteness --> eng:impolite
+eng:impolitic --> eng:politic --> grc:πολίτης --> grc:πόλις
+eng:impolitickly --> eng:impolitick
+eng:impoliticly --> eng:impolitic --> eng:politic --> grc:πολίτης --> grc:πόλις
+eng:impoliticness --> eng:impolitic --> eng:politic --> grc:πολίτης --> grc:πόλις
+eng:imponderableness --> eng:imponderable
+eng:imponent --> lat:imponens
+eng:impoor --> eng:poor --> enm:povre
+eng:imporosity --> eng:porosity
+eng:imporous --> eng:porous
+eng:import --> ita:importare
+eng:importable --> eng:import --> ita:importare
+eng:importantly --> eng:important
+eng:importantness --> eng:important
+eng:importeth --> eng:import --> ita:importare
+eng:importless --> eng:import --> ita:importare
+eng:importunacy --> eng:importune --> frm:importuner --> lat:importunari --> lat:importunus
+eng:importunate --> fra:importuner
+eng:importunately --> eng:importunate --> fra:importuner
+eng:importune --> frm:importuner --> lat:importunari --> lat:importunus
+eng:importunely --> eng:importune --> frm:importuner --> lat:importunari --> lat:importunus
+eng:importunity --> fra:importunité --> lat:importunitas
+eng:impose --> frm:imposer
+eng:imposement --> eng:impose --> frm:imposer
+eng:imposingness --> eng:imposing
+eng:imposition --> lat:impositio
+eng:impositional --> eng:imposition --> lat:impositio
+eng:impossibility --> lat:impossibilitas
+eng:impossible --> fra:impossible --> lat:impossibilis
+eng:impossibly --> eng:impossible --> fra:impossible --> lat:impossibilis
+eng:impost --> frm:impost --> lat:impositus
+eng:impostorism --> eng:impostor
+eng:impostorship --> eng:impostor
+eng:impostress --> eng:impostor
+eng:impostrix --> eng:impostor
+eng:impostume --> fro:empostume
+eng:impostured --> eng:imposture
+eng:impotent --> lat:impotens
+eng:impoundage --> eng:impound
+eng:impounder --> eng:impound
+eng:impoverish --> fro:empoverir
+eng:impoverishedly --> eng:impoverished
+eng:impoverishedness --> eng:impoverished
+eng:impoverishment --> xno:empoverissement
+eng:impracticable --> eng:practicable --> fra:praticable --> fra:pratiquer
+eng:imprecate --> lat:imprecari
+eng:imprecation --> lat:imprecatio --> lat:imprecor
+eng:imprecisely --> eng:imprecise
+eng:impreciseness --> eng:imprecise
+eng:impregnable --> eng:impregnate
+eng:impregnation --> eng:impregnate
+eng:impreparation --> eng:preparation
+eng:imprescriptible --> eng:prescriptible
+eng:imprescriptibly --> eng:imprescriptible --> eng:prescriptible
+eng:impress --> enm:impressen --> lat:impressus
+eng:impression --> fro:impression --> lat:impressio --> lat:imprimo
+eng:impressionability --> eng:impression --> fro:impression --> lat:impressio --> lat:imprimo
+eng:impressionableness --> eng:impressionable
+eng:impressionably --> eng:impressionable
+eng:impressionism --> fra:impressionisme
+eng:impressionist --> fra:impressionniste
+eng:impressionistically --> eng:impressionistic
+eng:impressionless --> eng:impression --> fro:impression --> lat:impressio --> lat:imprimo
+eng:impressively --> eng:impressive
+eng:impressment --> eng:impress --> enm:impressen --> lat:impressus
+eng:impresst --> eng:impress --> enm:impressen --> lat:impressus
+eng:impreventable --> eng:preventable --> eng:prevent --> enm:preventen --> lat:praeventus
+eng:imprimatur --> lat:imprimatur --> lat:imprimere
+eng:imprimery --> fra:imprimerie --> fra:imprimer
+eng:impriming --> eng:prime --> fra:prime --> lat:primus --> lat:pri
+eng:imprimis --> lat:imprimis
+eng:imprint --> fro:empreinte
+eng:imprinted --> eng:imprint --> fro:empreinte
+eng:imprisonable --> eng:imprison
+eng:imprisoner --> eng:imprison
+eng:imprisonment --> eng:imprison
+eng:improbably --> eng:improbable
+eng:improbation --> lat:improbatio
+eng:improbity --> eng:probity --> fra:probité --> lat:probitas --> lat:probus
+eng:improfitable --> eng:profitable
+eng:improgressive --> eng:progressive
+eng:improlific --> eng:prolific
+eng:imprompt --> eng:prompt --> fra:prompt --> lat:promptus --> lat:promo
+eng:impromptu --> lat:impromptus
+eng:improper --> lat:improprius
+eng:improperation --> lat:improperare
+eng:impropitious --> eng:propitious --> fro:propicius --> lat:propitius
+eng:improportionable --> eng:proportionable
+eng:improportionate --> eng:proportionate
+eng:impropriator --> eng:impropriate
+eng:improsperous --> eng:prosperous --> fro:prosperer --> lat:prosperare
+eng:improvided --> eng:provided
+eng:improvidentially --> eng:improvidential
+eng:improvingly --> eng:improving
+eng:improvisation --> fra:improvisation --> fra:improviser
+eng:improvisatize --> eng:improvisate
+eng:improvisatore --> ita:improvvisatore
+eng:improvision --> eng:improvise
+eng:imprudence --> eng:prudence --> fro:prudence
+eng:imprudent --> lat:imprudens
+eng:imprudently --> eng:imprudent --> lat:imprudens
+eng:impuberty --> eng:puberty --> fro:puberte --> lat:pubertas
+eng:impudency --> lat:impudentia
+eng:impudent --> lat:impudens
+eng:impudently --> eng:impudent --> lat:impudens
+eng:impugn --> lat:impugno
+eng:impugnable --> eng:impugn --> lat:impugno
+eng:impugnment --> eng:impugn --> lat:impugno
+eng:impuissance --> fra:impuissance
+eng:impulse --> lat:impulsus
+eng:impulseless --> eng:impulse --> lat:impulsus
+eng:impulsion --> lat:impulsio
+eng:impunctate --> eng:punctate
+eng:impunctual --> eng:punctual
+eng:impunibly --> eng:impunible
+eng:impunity --> lat:impunitas
+eng:impure --> lat:impurus
+eng:impurely --> eng:impure --> lat:impurus
+eng:impurity --> eng:impure --> lat:impurus
+eng:impurple --> eng:purple --> enm:purpel --> ang:purple
+eng:imputableness --> eng:imputable
+eng:imputation --> lat:imputatio --> lat:imputo
+eng:imputative --> eng:impute --> fra:imputer --> lat:imputo
+eng:imputatively --> eng:imputative --> eng:impute --> fra:imputer --> lat:imputo
+eng:impute --> fra:imputer --> lat:imputo
+eng:imputer --> eng:impute --> fra:imputer --> lat:imputo
+eng:imputrescible --> eng:putrescible
+eng:in --> ang:inne
+eng:in- --> lat:in
+eng:inable --> eng:able --> enm:ablen --> enm:able
+eng:inabstinence --> eng:abstinence
+eng:inacceptable --> eng:acceptable
+eng:inaccordant --> eng:accordant --> eng:acord
+eng:inaccurately --> eng:inaccurate
+eng:inaccurateness --> eng:inaccurate
+eng:inacquaintance --> eng:acquaintance --> fro:acointance
+eng:inactive --> eng:active --> enm:actif --> fro:actif --> lat:activus
+eng:inactively --> eng:inactive --> eng:active --> enm:actif --> fro:actif --> lat:activus
+eng:inactivity --> eng:activity --> frm:activité --> lat:activitas
+eng:inactose --> eng:inactive --> eng:active --> enm:actif --> fro:actif --> lat:activus
+eng:inadeptly --> eng:inadept
+eng:inadeptness --> eng:inadept
+eng:inadequately --> eng:inadequate
+eng:inadequateness --> eng:inadequate
+eng:inadherent --> eng:adherent
+eng:inadhesion --> eng:adhesion --> fra:adhésion
+eng:inadmissibly --> eng:admissible --> frm:admissible
+eng:inadventurous --> eng:adventurous --> enm:aventurous
+eng:inadvisability --> eng:advisability --> eng:advisable
+eng:inadvisableness --> eng:inadvisable
+eng:inadvisably --> eng:inadvisable
+eng:inadvisedly --> eng:inadvised
+eng:inæqual --> eng:æqual
+eng:inaesthetic --> eng:aesthetic
+eng:inæsthetical --> eng:æsthetic
+eng:inaffable --> eng:affable --> fra:affable
+eng:inaffectation --> eng:affectation
+eng:inaffected --> eng:affected
+eng:inaidable --> eng:aidable
+eng:inalienableness --> eng:inalienable
+eng:inalterability --> eng:inalterable --> eng:alterable
+eng:inalterable --> eng:alterable
+eng:inalterableness --> eng:inalterable --> eng:alterable
+eng:inamiable --> eng:amiable --> enm:amyable --> fro:amiable --> lat:amicabilis --> lat:amicus --> lat:amo
+eng:inamissible --> lat:inamissibilis
+eng:inamovable --> eng:amovable
+eng:inamyloid --> eng:amyloid --> eng:amyl
+eng:inane --> lat:inanis
+eng:inangular --> eng:angular --> lat:angularis
+eng:inanimate --> eng:animate --> lat:animatus
+eng:inanimated --> eng:animated
+eng:inanimateness --> eng:inanimate --> eng:animate --> lat:animatus
+eng:inanition --> lat:inanitio --> lat:inanire
+eng:Inanna --> sux:𒀭𒈹
+eng:inapplication --> eng:application --> lat:applicatio --> lat:applico
+eng:inappositeness --> eng:inapposite
+eng:inappreciation --> eng:appreciation --> fra:appréciation
+eng:inapprehensibility --> eng:inapprehensible
+eng:inapprehensive --> eng:apprehensive
+eng:inappropriable --> eng:appropriable
+eng:inappropriate --> eng:appropriate --> enm:appropriaten --> lat:appropriatus
+eng:inappropriately --> eng:inappropriate --> eng:appropriate --> enm:appropriaten --> lat:appropriatus
+eng:inapt --> eng:apt --> fra:apte --> lat:aptus
+eng:inaquate --> lat:inaquatus
+eng:inarable --> eng:arable --> fro:arable
+eng:inarguably --> eng:inarguable
+eng:Inari --> jpn:稲荷
+eng:inartful --> eng:artful --> eng:art
+eng:inartfully --> eng:inartful --> eng:artful --> eng:art
+eng:inarticulability --> eng:inarticulable
+eng:inarticulate --> eng:articulate --> lat:articulatus
+eng:inarticulated --> eng:articulated
+eng:inarticulateness --> eng:inarticulate --> eng:articulate --> lat:articulatus
+eng:inartificial --> eng:artificial
+eng:inattentively --> eng:inattentive
+eng:inattentiveness --> eng:inattentive
+eng:inaudible --> eng:audible
+eng:inaugural --> fra:inaugurer --> lat:augurare
+eng:inaugurally --> eng:inaugural --> fra:inaugurer --> lat:augurare
+eng:inaugurate --> fra:inaugurer --> lat:augurare
+eng:inawe --> eng:awe --> ang:ege
+eng:inband --> eng:band --> enm:band --> ang:beand
+eng:inbeaming --> eng:beaming
+eng:inbeat --> enm:inbeten
+eng:inbeing --> eng:being
+eng:inbelch --> eng:belch --> enm:belchen --> ang:bealcan
+eng:inbend --> eng:bend --> enm:benden --> ang:bendan
+eng:inbetwixt --> eng:betwixt --> ang:betweox
+eng:inbind --> eng:bind --> eng:bindan
+eng:inbland --> enm:inblanden
+eng:inblind --> eng:blind --> ang:blind
+eng:inblow --> enm:inblowen --> ang:inblawan
+eng:inblown --> eng:blown --> enm:blawen --> ang:bláƿan
+eng:inbornness --> eng:inborn
+eng:inborrow --> enm:inborȝ --> ang:inborh
+eng:inbound --> eng:bound --> enm:bounde --> fro:bunne --> lat:bodina
+eng:inbreaking --> eng:breaking
+eng:inbreathe --> enm:inbrethen
+eng:inbreed --> eng:breed
+eng:inbring --> enm:inbringen --> ang:inbringan
+eng:inbuild --> eng:build --> enm:bilden --> ang:byldan
+eng:inburning --> eng:burning
+eng:inburnt --> eng:burnt --> eng:burn --> enm:bernen
+eng:inburst --> eng:burst --> enm:bersten --> ang:berstan
+eng:incalculableness --> eng:incalculable
+eng:incandescent --> lat:incandescens --> lat:incandesco
+eng:incantoning --> eng:canton --> fro:canton
+eng:incapableness --> eng:incapable
+eng:incapacious --> eng:capacious --> lat:capax
+eng:incapsulate --> eng:capsule --> fra:capsule --> lat:capsula --> lat:capsa --> lat:capere
+eng:incarcerable --> eng:incarcerate --> lat:incarceratus
+eng:incarcerate --> lat:incarceratus
+eng:incarnadine --> fra:incarnadine
+eng:incarnatable --> eng:incarnate --> lat:incarnatus
+eng:incarnate --> lat:incarnatus
+eng:incarnation --> enm:incarnacion --> fro:incarnacion --> lat:incarnatio --> lat:incarnari
+eng:incarnational --> eng:incarnation --> enm:incarnacion --> fro:incarnacion --> lat:incarnatio --> lat:incarnari
+eng:incase --> eng:case --> enm:cas --> ang:cas --> fro:cas --> lat:casus
+eng:incask --> eng:cask --> frm:casque
+eng:incautiousness --> eng:incautious
+eng:incavated --> lat:incavatus
+eng:incaved --> eng:cave --> lat:cave
+eng:incaverned --> eng:cavern --> lat:caverna --> lat:cavus
+eng:incelebrity --> eng:celebrity
+eng:incend --> lat:incendere
+eng:incendiarism --> eng:incendiary --> lat:incendiarius --> lat:incendium --> lat:incendo
+eng:incendiary --> lat:incendiarius --> lat:incendium --> lat:incendo
+eng:incense --> fro:encens --> lat:incensum --> lat:incensus --> lat:incendo
+eng:incensement --> eng:incense --> fro:encens --> lat:incensum --> lat:incensus --> lat:incendo
+eng:incenser --> eng:incense --> fro:encens --> lat:incensum --> lat:incensus --> lat:incendo
+eng:incension --> lat:incensio
+eng:incensurable --> eng:censurable
+eng:incentive --> lat:incentivus --> lat:incinere
+eng:incentiveless --> eng:incentive --> lat:incentivus --> lat:incinere
+eng:incentively --> eng:incentive --> lat:incentivus --> lat:incinere
+eng:incentivise --> eng:incentive --> lat:incentivus --> lat:incinere
+eng:incentivization --> eng:incentivize --> eng:incentive --> lat:incentivus --> lat:incinere
+eng:incentivize --> eng:incentive --> lat:incentivus --> lat:incinere
+eng:incertain --> eng:certain --> enm:certain
+eng:incertainty --> fro:incertaineté
+eng:incessantly --> eng:incessant
+eng:incession --> lat:incedere
+eng:incest --> lat:incestus
+eng:incestlike --> eng:incest --> lat:incestus
+eng:incestuous --> eng:incest --> lat:incestus
+eng:inch --> ang:ynce --> lat:uncia --> lat:unus --> lat:oinos
+eng:inchastity --> eng:chastity
+eng:inchingly --> eng:inching
+eng:inchlong --> eng:inch --> ang:ynce --> lat:uncia --> lat:unus --> lat:oinos
+eng:inchoate --> lat:incohatus
+eng:inchoatedness --> eng:inchoated
+eng:inchoately --> eng:inchoate --> lat:incohatus
+eng:inchoateness --> eng:inchoate --> lat:incohatus
+eng:inchwide --> eng:inch --> ang:ynce --> lat:uncia --> lat:unus --> lat:oinos
+eng:incidence --> lat:incidentia --> lat:incidens
+eng:incidency --> eng:incident
+eng:incidentally --> eng:incidental
+eng:incinerable --> eng:incinerate --> lat:incineratus
+eng:incinerate --> lat:incineratus
+eng:incipient --> lat:incipiens
+eng:incipit --> lat:incipit
+eng:incircumspect --> eng:circumspect --> lat:circumspecto --> lat:circum --> lat:circus --> grc:κίρκος
+eng:incisely --> eng:incise
+eng:incision --> lat:incisio
+eng:incisively --> eng:incisive
+eng:incisor --> lat:incisor
+eng:incisura --> lat:incisura
+eng:incisure --> lat:incisura
+eng:incitation --> fra:incitation
+eng:incite --> lat:incitare
+eng:inciter --> eng:incite --> lat:incitare
+eng:incitingly --> eng:inciting
+eng:incivil --> eng:civil --> lat:civilis --> lat:civis
+eng:incivility --> lat:incivilitas --> lat:incivilis
+eng:incivilization --> eng:civilization
+eng:inclamation --> lat:inclamatio
+eng:inclemency --> eng:inclement --> lat:inclemens --> lat:clemens
+eng:inclement --> lat:inclemens --> lat:clemens
+eng:inclemently --> eng:inclement --> lat:inclemens --> lat:clemens
+eng:inclinable --> eng:incline --> fro:encliner --> lat:inclino --> lat:clino
+eng:inclinableness --> eng:inclinable --> eng:incline --> fro:encliner --> lat:inclino --> lat:clino
+eng:incline --> fro:encliner --> lat:inclino --> lat:clino
+eng:inclinedly --> eng:inclined
+eng:incliner --> eng:incline --> fro:encliner --> lat:inclino --> lat:clino
+eng:inclinest --> eng:incline --> fro:encliner --> lat:inclino --> lat:clino
+eng:inclineth --> eng:incline --> fro:encliner --> lat:inclino --> lat:clino
+eng:incliningly --> eng:inclining
+eng:includable --> eng:include
+eng:includible --> eng:include
+eng:inclusionary --> eng:inclusion
+eng:inclusively --> eng:inclusive
+eng:inclusiveness --> eng:inclusive
+eng:inclusivism --> eng:inclusive
+eng:inclusivity --> eng:inclusive
+eng:incoagulable --> eng:coagulable --> eng:coagulate --> lat:coagulo --> lat:coagulum --> lat:cogo --> lat:ago
+eng:incoalescence --> eng:coalescence
+eng:incoercible --> eng:coercible --> eng:coerce --> lat:coercere
+eng:incoexistence --> eng:coexistence
+eng:incogitancy --> lat:incogitantia --> lat:incogitans
+eng:incogitantly --> eng:incogitant
+eng:incogitative --> eng:cogitative
+eng:incognito --> lat:incognitus
+eng:incognizance --> eng:cognizance
+eng:incohærent --> eng:cohærent
+eng:incoherent --> eng:coherent --> lat:cohaerens
+eng:incoherently --> eng:incoherent --> eng:coherent --> lat:cohaerens
+eng:incoherentness --> eng:incoherent --> eng:coherent --> lat:cohaerens
+eng:incohesive --> eng:cohesive
+eng:incolumity --> lat:incolumitas
+eng:incombine --> eng:combine --> frm:combiner --> lat:combinare
+eng:incombustible --> eng:combust --> lat:combūstus
+eng:incomity --> eng:comity --> lat:comitas --> lat:comis
+eng:incommensurably --> eng:incommensurable
+eng:incommixture --> eng:commixture
+eng:incommodious --> eng:commodious
+eng:incommodiously --> eng:incommodious --> eng:commodious
+eng:incommodiousness --> eng:incommodious --> eng:commodious
+eng:incommunicably --> eng:incommunicable
+eng:incommunicated --> eng:communicated
+eng:incommunicating --> eng:communicating
+eng:incommunicative --> eng:communicative
+eng:incommunicatively --> eng:incommunicative --> eng:communicative
+eng:incommunicativeness --> eng:incommunicative --> eng:communicative
+eng:incommutable --> eng:commutable --> eng:commute --> lat:commuto
+eng:incompact --> eng:compact --> lat:compactum
+eng:incompassion --> eng:compassion
+eng:incompassionate --> eng:compassionate
+eng:incompatible --> fra:incompatible
+eng:incompatibleness --> eng:incompatible --> fra:incompatible
+eng:incompleatly --> eng:incompleat
+eng:incompletely --> eng:incomplete
+eng:incompleteness --> eng:incomplete
+eng:incompletion --> eng:completion
+eng:incomplex --> eng:complex --> fra:complexe --> lat:complexus
+eng:incompliable --> eng:compliable --> eng:comply
+eng:incompliant --> eng:compliant
+eng:incomposed --> eng:composed
+eng:incomposite --> lat:incompositus
+eng:incompossible --> eng:compossible --> eng:possible
+eng:incomprehense --> lat:incomprehensus
+eng:incomprehensible --> lat:incomprehensibilis --> lat:comprehensibilis --> lat:comprehendo
+eng:incomprehensibleness --> eng:incomprehensible --> lat:incomprehensibilis --> lat:comprehensibilis --> lat:comprehendo
+eng:incomprehensibly --> eng:incomprehensible --> lat:incomprehensibilis --> lat:comprehensibilis --> lat:comprehendo
+eng:incompressibility --> eng:compressibility
+eng:incompressible --> eng:compressible
+eng:incomputability --> eng:computability
+eng:inconcerning --> eng:concerning --> eng:concern --> lat:concernere
+eng:inconcinnous --> lat:inconcinnus
+eng:inconcluding --> eng:concluding
+eng:inconcocted --> eng:concocted
+eng:inconcurring --> eng:concurring
+eng:incondite --> lat:inconditus
+eng:inconditionate --> eng:conditionate
+eng:inconducive --> eng:conducive
+eng:inconfidence --> eng:confidence --> lat:confidentia --> lat:confido
+eng:inconfident --> eng:confident --> lat:confidens
+eng:inconform --> eng:conform --> enm:conformen --> fro:conformer --> lat:conformare
+eng:inconfused --> eng:confused
+eng:inconfusion --> eng:confusion --> fro:confusion
+eng:inconfutable --> eng:confutable --> eng:confute --> fra:confuter
+eng:incongealable --> lat:incongelabilis --> lat:congelabilis
+eng:incongenial --> eng:congenial
+eng:incongruently --> eng:incongruent
+eng:incongruous --> lat:incongruus --> lat:congruus
+eng:incongruousness --> eng:incongruous --> lat:incongruus --> lat:congruus
+eng:inconnected --> eng:connected
+eng:inconnection --> eng:connection --> fro:connexion --> lat:connexio --> lat:connecto
+eng:inconscious --> eng:conscious --> lat:conscius
+eng:inconsecutive --> eng:consecutive
+eng:inconsecutiveness --> eng:inconsecutive --> eng:consecutive
+eng:inconsequential --> eng:consequential
+eng:inconsequentially --> eng:inconsequential --> eng:consequential
+eng:inconsequently --> eng:inconsequent
+eng:inconsequentness --> eng:inconsequent
+eng:inconsiderable --> eng:considerable
+eng:inconsiderably --> eng:inconsiderable --> eng:considerable
+eng:inconsiderately --> eng:inconsiderate
+eng:inconsiderateness --> eng:inconsiderate
+eng:inconsistentness --> eng:inconsistent
+eng:inconsolable --> eng:consolable --> eng:console --> fra:console
+eng:inconsolableness --> eng:inconsolable --> eng:consolable --> eng:console --> fra:console
+eng:inconsolably --> eng:inconsolable --> eng:consolable --> eng:console --> fra:console
+eng:inconsonant --> eng:consonant --> lat:consonans
+eng:inconspicuously --> eng:conspicuous --> lat:conspicuus --> lat:conspicere
+eng:inconstant --> eng:constant --> lat:constantem
+eng:inconstantly --> eng:inconstant --> eng:constant --> lat:constantem
+eng:inconstaunt --> eng:constaunt
+eng:inconstruable --> eng:construable
+eng:inconsumable --> eng:consumable
+eng:inconsumptible --> lat:inconsumptibilis
+eng:incontestableness --> eng:incontestable
+eng:incontestably --> eng:incontestable
+eng:incontested --> eng:contested
+eng:incontestible --> eng:contestible --> eng:contest --> fro:contester --> lat:contestor
+eng:incontinence --> fra:incontinence
+eng:incontinently --> eng:incontinent
+eng:incontracted --> eng:contracted
+eng:incontradictable --> eng:contradict
+eng:incontrovertible --> eng:controvertible --> eng:controvert
+eng:incontrovertibleness --> eng:incontrovertible --> eng:controvertible --> eng:controvert
+eng:incontrovertibly --> eng:incontrovertible --> eng:controvertible --> eng:controvert
+eng:inconvenient --> frm:inconvenient --> lat:inconvenientem
+eng:inconveniently --> eng:inconvenient --> frm:inconvenient --> lat:inconvenientem
+eng:inconversable --> eng:conversable
+eng:inconversant --> eng:conversant
+eng:inconverted --> eng:converted
+eng:inconvertible --> eng:convertible
+eng:inconvertibleness --> eng:inconvertible --> eng:convertible
+eng:inconvertibly --> eng:inconvertible --> eng:convertible
+eng:inconvincible --> eng:convincible --> eng:convince --> lat:convincere
+eng:inconvincibly --> eng:inconvincible --> eng:convincible --> eng:convince --> lat:convincere
+eng:incoop --> eng:coop --> eng:cooperative
+eng:incoordinate --> eng:coordinate --> lat:coordinatus
+eng:incorporal --> lat:incorporalis
+eng:incorporally --> eng:incorporal --> lat:incorporalis
+eng:incorporator --> eng:incorporate
+eng:incorporealism --> eng:incorporeal
+eng:incorporealist --> eng:incorporeal
+eng:incorporeally --> eng:incorporeal
+eng:incorrect --> eng:correct --> lat:correctus
+eng:incorrectly --> eng:incorrect --> eng:correct --> lat:correctus
+eng:incorrectness --> eng:incorrect --> eng:correct --> lat:correctus
+eng:incorrespondence --> eng:correspondence
+eng:incorresponding --> eng:corresponding
+eng:incorrigibility --> eng:incorrigible
+eng:incorrigibleness --> eng:incorrigible
+eng:incorrodible --> eng:corrodible --> eng:corrode
+eng:incorrupt --> eng:corrupt
+eng:incorruptibleness --> eng:incorruptible
+eng:incorruption --> eng:corruption --> fra:corruption --> lat:corruptio
+eng:incorruptive --> lat:incorruptivus
+eng:incorruptly --> eng:incorrupt --> eng:corrupt
+eng:Incoterm --> eng:commerce --> fra:commerce --> frm:commerce --> lat:commercium
+eng:increaseful --> eng:increase
+eng:increaser --> eng:increase
+eng:increasest --> eng:increase
+eng:incredible --> lat:incredibilis
+eng:incredibly --> eng:incredible --> lat:incredibilis
+eng:incredulous --> lat:incredulus --> lat:credulus --> lat:credo
+eng:incredulously --> eng:incredulous --> lat:incredulus --> lat:credulus --> lat:credo
+eng:incremate --> eng:cremate --> lat:cremare
+eng:increment --> lat:incrementum
+eng:incrementer --> eng:increment --> lat:incrementum
+eng:incrementor --> eng:increment --> lat:incrementum
+eng:increpation --> lat:increpatio
+eng:increst --> eng:crest --> enm:creste --> fro:creste --> lat:crista
+eng:incroachment --> eng:incroach
+eng:incruental --> lat:incruentus
+eng:incrustment --> eng:incrust
+eng:incrystallizable --> eng:crystallizable --> eng:crystallize --> eng:crystal --> ang:cristal --> lat:crystallum --> grc:κρύσταλλοσ
+eng:incubate --> lat:incubatus
+eng:incubation --> lat:incubationem
+eng:incubously --> eng:incubous
+eng:incubus --> lat:incubus --> lat:incubo --> lat:cubo --> lat:cubus --> grc:κύβος
+eng:inculcate --> lat:inculcatus
+eng:inculpableness --> eng:inculpable
+eng:inculpably --> eng:inculpable
+eng:inculpate --> lat:inculpare
+eng:incult --> lat:incultus
+eng:incultivated --> eng:cultivated
+eng:incultivation --> eng:cultivation --> eng:cultivate --> lat:cultivatus
+eng:incumbently --> eng:incumbent
+eng:incumberingly --> eng:incumbering
+eng:incumbrancer --> eng:incumbrance
+eng:incunable --> fra:incunable --> lat:incunabula
+eng:incunabulum --> lat:incunabula
+eng:incurability --> eng:incurable
+eng:incurableness --> eng:incurable
+eng:incuriosity --> eng:incurious
+eng:incuriously --> eng:incurious
+eng:incurrable --> eng:incur
+eng:incurrent --> lat:incurrens
+eng:incurtain --> eng:curtain --> fro:cortine --> lat:cortina --> lat:cortem
+eng:incurved --> eng:curved
+eng:incus --> lat:incus --> lat:incudo
+eng:incuse --> lat:incusus
+eng:incut --> eng:cut --> enm:cutten
+eng:indaba --> zul:indaba
+eng:indagate --> lat:indagatus
+eng:indagation --> lat:indagationem
+eng:indagatrix --> lat:indāgātrix
+eng:indamaged --> eng:damaged
+eng:indart --> eng:dart
+eng:indeavoureth --> eng:indeavour
+eng:indebt --> enm:endetten
+eng:indebtedly --> eng:indebted
+eng:indebtedness --> eng:indebted
+eng:indeciduous --> eng:deciduous --> lat:deciduus --> lat:decido
+eng:indecipherability --> eng:indecipherable
+eng:indecision --> fra:indécision
+eng:indecisiveness --> eng:indecisive
+eng:indeclinably --> eng:indeclinable
+eng:indecomposability --> eng:indecomposable
+eng:indecorousness --> eng:indecorous
+eng:indecorum --> lat:indecorum
+eng:indeed --> enm:indede
+eng:indeedy --> eng:indeed --> enm:indede
+eng:indefatigable --> lat:indefatigabilis
+eng:indefeasibility --> eng:indefeasible
+eng:indefectible --> eng:defectible --> eng:defect --> enm:defaicte --> lat:defectus --> lat:deficere
+eng:indefective --> eng:defective
+eng:indefensible --> eng:defensible --> eng:defense
+eng:indefensive --> eng:defensive
+eng:indefensively --> eng:indefensive --> eng:defensive
+eng:indeficiency --> eng:deficiency --> eng:deficit --> fra:déficit --> lat:deficit
+eng:indeficient --> lat:indeficiens
+eng:indefinable --> eng:definable --> eng:define --> enm:definen --> fro:definer
+eng:indefinably --> eng:indefinable --> eng:definable --> eng:define --> enm:definen --> fro:definer
+eng:indefinitely --> eng:indefinite
+eng:indegree --> eng:degree --> fro:degré
+eng:indehiscent --> eng:dehiscent --> lat:dehiscentem
+eng:indel --> eng:deletion
+eng:indelectable --> eng:delectable --> lat:delectare
+eng:indeliberately --> eng:indeliberate
+eng:indelicateness --> eng:indelicate
+eng:indelve --> enm:indelven
+eng:indemnify --> lat:indemnis
+eng:indemnity --> frm:indemnité --> lat:indemnitas --> lat:indemnis
+eng:indentedly --> eng:indented
+eng:indenter --> eng:indent
+eng:independency --> eng:independent --> eng:dependent
+eng:independent --> eng:dependent
+eng:Independentism --> eng:independent --> eng:dependent
+eng:independently --> eng:independent --> eng:dependent
+eng:indeposable --> eng:deposable
+eng:indepthly --> eng:in depth
+eng:indescribable --> eng:describe --> enm:descriven --> fro:descrivre --> lat:describo
+eng:indescriptive --> eng:descriptive --> eng:descriptivus
+eng:indesert --> eng:desert --> fra:déserter --> lat:desertare --> lat:desertus --> lat:deserere
+eng:indesinently --> eng:indesinent
+eng:indestructibleness --> eng:indestructible
+eng:indestructibly --> eng:indestructible
+eng:indetectable --> eng:detectable
+eng:indeterminateness --> eng:indeterminate
+eng:indeterministic --> eng:deterministic
+eng:indevirginate --> eng:devirginate
+eng:indevout --> eng:devout
+eng:index --> lat:index --> lat:indico
+eng:indexable --> eng:index --> lat:index --> lat:indico
+eng:indexation --> eng:index --> lat:index --> lat:indico
+eng:indexical --> eng:index --> lat:index --> lat:indico
+eng:indexicality --> eng:indexical --> eng:index --> lat:index --> lat:indico
+eng:indexless --> eng:index --> lat:index --> lat:indico
+eng:indexlike --> eng:index --> lat:index --> lat:indico
+eng:indexterity --> eng:dexterity --> lat:dexteritas
+eng:India --> lat:India --> grc:Ἰνδία --> grc:Ἰνδός --> peo:𐏃𐎡𐎯𐎢𐏁 --> san:सिन्धु
+eng:Indianan --> eng:Indiana
+eng:Indianeer --> eng:Indian
+eng:Indianize --> eng:Indian
+eng:Indian potato --> eng:Indian
+eng:indical --> lat:index --> lat:indico
+eng:indicanuria --> eng:indican
+eng:indicate --> lat:indicatus
+eng:indication --> lat:indicatio --> lat:indico
+eng:indicative --> lat:indicativus --> lat:indico
+eng:indicativeness --> eng:indicative --> lat:indicativus --> lat:indico
+eng:indicator --> lat:indicator --> lat:indico
+eng:indicium --> lat:indicium --> lat:index --> lat:indico
+eng:indict --> xno:enditer --> fro:enditer --> lat:indicto
+eng:indicter --> eng:indict --> xno:enditer --> fro:enditer --> lat:indicto
+eng:in dictione --> lat:in dictione
+eng:indie --> eng:independent --> eng:dependent
+eng:Indies --> lat:India --> grc:Ἰνδία --> grc:Ἰνδός --> peo:𐏃𐎡𐎯𐎢𐏁 --> san:सिन्धु
+eng:indietronica --> eng:electronica
+eng:indifferency --> lat:indifferentia
+eng:indifferentiable --> eng:differentiable --> eng:differentiate
+eng:indifferentist --> eng:indifferent
+eng:indifferently --> eng:indifferent
+eng:indifferentness --> eng:indifferent
+eng:indigene --> frm:indigène --> lat:indigena
+eng:indigenization --> eng:indigenous --> lat:indigenus
+eng:indigenous --> lat:indigenus
+eng:indigenousness --> eng:indigenous --> lat:indigenus
+eng:indigested --> eng:digested
+eng:indigestedness --> eng:indigested --> eng:digested
+eng:indigestible --> eng:digestible --> eng:digest --> enm:digesten --> lat:digestus
+eng:indigestibleness --> eng:indigestible --> eng:digestible --> eng:digest --> enm:digesten --> lat:digestus
+eng:indigitation --> eng:indigitate
+eng:indiglucin --> eng:glucin
+eng:indign --> frm:indigne --> lat:indignus --> lat:dignus
+eng:indignant --> lat:indignans
+eng:indignantly --> eng:indignant --> lat:indignans
+eng:indignly --> eng:indign --> frm:indigne --> lat:indignus --> lat:dignus
+eng:indigo --> spa:indico
+eng:indigobird --> eng:bird --> enm:brid --> ang:bridd
+eng:indigogen --> eng:indigo --> spa:indico
+eng:indigometry --> eng:indigo --> spa:indico
+eng:indihumin --> eng:humin
+eng:indilatory --> eng:dilatory
+eng:indiminishable --> eng:diminishable --> eng:diminish --> fro:diminuer
+eng:indin --> eng:indigo --> spa:indico
+eng:indirect --> eng:direct --> lat:directus
+eng:indirected --> eng:directed
+eng:indirectly --> eng:indirect --> eng:direct --> lat:directus
+eng:indisciplinable --> eng:disciplinable --> eng:discipline
+eng:indiscipline --> eng:discipline
+eng:indiscoverable --> eng:discoverable --> eng:discover --> fro:descovrir --> fro:covrir --> lat:cooperire
+eng:indiscovery --> eng:discovery
+eng:indiscreet --> eng:discreet --> fro:discret --> lat:discretus --> lat:discerno
+eng:indiscriminating --> eng:discriminating
+eng:indiscriminatingly --> eng:indiscriminating --> eng:discriminating
+eng:indiscussed --> eng:discussed
+eng:indiscussible --> eng:discussible
+eng:indispensable --> lat:indispensabilis
+eng:indispersed --> eng:dispersed
+eng:indisposable --> eng:disposable --> eng:dispose --> fro:disposer
+eng:indisposedness --> eng:indisposed
+eng:indisputable --> eng:disputable --> eng:dispute --> enm:disputen --> fro:desputer --> lat:disputare
+eng:indisputably --> eng:indisputable --> eng:disputable --> eng:dispute --> enm:disputen --> fro:desputer --> lat:disputare
+eng:indisputed --> eng:disputed
+eng:indissolubleness --> eng:indissoluble
+eng:indissolubly --> eng:indissoluble
+eng:indissolvable --> eng:dissolvable
+eng:indissolvableness --> eng:indissolvable --> eng:dissolvable
+eng:indistillable --> eng:distillable
+eng:indistinctive --> eng:distinctive
+eng:indistinctiveness --> eng:indistinctive --> eng:distinctive
+eng:indistinctly --> eng:indistinct
+eng:indistinguishable --> eng:distinguishable --> eng:distinguish --> enm:distingwen --> fro:distinguer --> lat:distinguere
+eng:indistinguished --> eng:distinguished
+eng:indistinguishing --> eng:distinguishing
+eng:indisturbance --> eng:disturbance
+eng:inditement --> eng:indite
+eng:inditer --> eng:indite
+eng:indivertible --> eng:divertible
+eng:individed --> eng:divided
+eng:individual --> lat:individualis --> lat:individuum
+eng:individualise --> eng:individual --> lat:individualis --> lat:individuum
+eng:individualizable --> eng:individualize
+eng:individualizer --> eng:individualize
+eng:individually --> eng:individual --> lat:individualis --> lat:individuum
+eng:individuator --> eng:individuate
+eng:individuity --> lat:individuitas
+eng:individuum --> lat:individuum
+eng:indivinity --> eng:divinity --> lat:divinitas --> lat:divinus --> lat:divus
+eng:indivisibility --> eng:indivisible --> eng:divisible --> lat:divisibilis
+eng:indivisible --> eng:divisible --> lat:divisibilis
+eng:Indo-Briton --> eng:Briton --> fro:Breton --> lat:Britto
+eng:indocible --> lat:indocibilis
+eng:indocility --> eng:indocile
+eng:Indo-Europeanist --> eng:Indo-European
+eng:indogen --> eng:indigo --> spa:indico
+eng:indogenide --> eng:indogen --> eng:indigo --> spa:indico
+eng:Indo-Germanic --> eng:Germanic --> lat:Germanicus
+eng:indoleacetic --> eng:acetic --> fra:acétique --> lat:acetum --> lat:aceo
+eng:indolency --> lat:indolentia
+eng:indolent --> lat:indolentem
+eng:indolequinone --> eng:indole
+eng:indoles --> lat:indoles
+eng:indolin --> eng:indol
+eng:indolyl --> eng:indole
+eng:indomitableness --> eng:indomitable
+eng:indoorsy --> eng:indoors
+eng:Indo-Portuguese --> eng:Portuguese --> por:português --> por:Portugal --> lat:Portus Cale
+eng:indorsation --> eng:indorse
+eng:indorsement --> eng:indorse
+eng:indoxylic --> eng:indoxyl
+eng:Indra --> san:इन्द्र
+eng:indubious --> lat:indubius
+eng:indubitableness --> eng:indubitable
+eng:induce --> enm:enducen --> lat:inducere
+eng:inductile --> eng:ductile --> lat:ductilis --> lat:duco
+eng:induction --> eng:induce --> enm:enducen --> lat:inducere
+eng:inductional --> eng:induction --> eng:induce --> enm:enducen --> lat:inducere
+eng:inductionism --> eng:induction --> eng:induce --> enm:enducen --> lat:inducere
+eng:induement --> eng:indue
+eng:induhvidual --> eng:duh
+eng:indulgement --> eng:indulge
+eng:indulgence --> fra:indulgence
+eng:indulgingly --> eng:indulging
+eng:induna --> zul:induna
+eng:Indus --> lat:Sindus
+eng:industrial --> eng:industry --> fra:industrie --> lat:industria --> lat:industrius
+eng:industrialisation --> eng:industrialise --> eng:industrial --> eng:industry --> fra:industrie --> lat:industria --> lat:industrius
+eng:industrialise --> eng:industrial --> eng:industry --> fra:industrie --> lat:industria --> lat:industrius
+eng:industrialiser --> eng:industrialise --> eng:industrial --> eng:industry --> fra:industrie --> lat:industria --> lat:industrius
+eng:industrialization --> eng:industrialize --> eng:industrial --> eng:industry --> fra:industrie --> lat:industria --> lat:industrius
+eng:industrialize --> eng:industrial --> eng:industry --> fra:industrie --> lat:industria --> lat:industrius
+eng:industrializer --> eng:industrialize --> eng:industrial --> eng:industry --> fra:industrie --> lat:industria --> lat:industrius
+eng:industrious --> lat:industriosus
+eng:industry --> fra:industrie --> lat:industria --> lat:industrius
+eng:industrywide --> eng:industry --> fra:industrie --> lat:industria --> lat:industrius
+eng:industrywise --> eng:industry --> fra:industrie --> lat:industria --> lat:industrius
+eng:indutive --> lat:indutus
+eng:indwell --> eng:dwell --> non:dvelja
+eng:indweller --> eng:indwell --> eng:dwell --> non:dvelja
+eng:indwelling --> eng:dwelling
+eng:indy --> eng:Indianapolis
+eng:inearth --> eng:earth --> enm:erthe --> ang:eorþe
+eng:inebriate --> lat:inebriare
+eng:inebriated --> lat:inebriatus
+eng:ineffableness --> eng:ineffable
+eng:ineffaceably --> eng:ineffaceable
+eng:ineffective --> eng:effective
+eng:ineffectuall --> eng:effectuall
+eng:ineffectualness --> eng:ineffectual
+eng:ineffervescence --> eng:effervescence --> fra:effervescence
+eng:ineffervescent --> eng:effervescent --> lat:effervesco
+eng:inefficaciously --> eng:inefficacious
+eng:inefficiency --> eng:efficiency --> lat:efficientia
+eng:inefficient --> eng:efficient
+eng:inelaborate --> lat:inelaboratus
+eng:inelastic --> eng:elastic --> lat:elasticus
+eng:inelegant --> eng:elegant --> frm:elegant
+eng:ineloquent --> eng:eloquent --> lat:eloquens
+eng:ineloquently --> eng:ineloquent --> eng:eloquent --> lat:eloquens
+eng:ineluctable --> lat:ineluctabilis
+eng:ineluctably --> eng:ineluctable --> lat:ineluctabilis
+eng:ineludible --> eng:eludible --> eng:elude --> lat:eludo --> lat:e --> lat:et
+eng:inembryonate --> eng:embryonate
+eng:inenumerable --> eng:enumerable
+eng:inept --> fra:inepte --> lat:ineptus
+eng:inequable --> eng:equable --> lat:aequabilis --> lat:aequo --> lat:aequus
+eng:inequal --> eng:equal --> lat:aequalis --> lat:aequus
+eng:inequality --> fro:inequalité --> lat:inaequalitas --> lat:aequalitas --> lat:aequalis --> lat:aequus
+eng:inequally --> eng:inequal --> eng:equal --> lat:aequalis --> lat:aequus
+eng:inequidistant --> eng:equidistant
+eng:inequity --> eng:equity
+eng:inequivalve --> eng:equivalve
+eng:ineradicably --> eng:ineradicable
+eng:inergetic --> eng:energetic --> grc:ἐνεργητικός --> grc:ἐνεργέω --> grc:ἐνεργός
+eng:inerrable --> lat:inerrabilis
+eng:inerrableness --> eng:inerrable --> lat:inerrabilis
+eng:inerrably --> eng:inerrable --> lat:inerrabilis
+eng:inerrancy --> eng:inerrant
+eng:inerratic --> eng:erratic --> fro:erratique --> lat:erraticus --> lat:erratus
+eng:inert --> fra:inerte --> lat:iners --> lat:ars
+eng:inertia --> lat:inertia --> lat:iners --> lat:ars
+eng:inertialess --> eng:inertia --> lat:inertia --> lat:iners --> lat:ars
+eng:inertinitic --> eng:inertinite
+eng:inertly --> eng:inert --> fra:inerte --> lat:iners --> lat:ars
+eng:inertness --> eng:inert --> fra:inerte --> lat:iners --> lat:ars
+eng:inescapable --> eng:escapable --> eng:escape
+eng:inescapableness --> eng:inescapable --> eng:escapable --> eng:escape
+eng:inescapably --> eng:inescapable --> eng:escapable --> eng:escape
+eng:inescate --> lat:inescatus
+eng:inescation --> lat:inescatio
+eng:I-ness --> eng:I --> enm:I --> ang:ic
+eng:Inessa --> rus:Инесса
+eng:inessential --> eng:essential --> lat:essentialis --> lat:esse
+eng:inessentially --> eng:inessential --> eng:essential --> lat:essentialis --> lat:esse
+eng:inessive --> eng:essive
+eng:inesthetic --> eng:esthetic
+eng:inestimable --> fra:inestimable --> fra:estimer
+eng:inevidence --> eng:evidence
+eng:inevident --> eng:evident
+eng:inevitable --> lat:inevitabilis --> lat:evitabilis --> lat:evitare
+eng:inevitably --> eng:inevitable --> lat:inevitabilis --> lat:evitabilis --> lat:evitare
+eng:inexactly --> eng:inexact
+eng:inexactness --> eng:exactness --> eng:exact
+eng:inexcitable --> eng:excitable
+eng:inexcludable --> eng:excludeable
+eng:inexcusableness --> eng:inexcusable
+eng:inexecutable --> eng:executable
+eng:inexecution --> eng:execution --> fro:execution --> lat:executio
+eng:inexertion --> eng:exertion
+eng:inexhausted --> eng:exhausted
+eng:inexhaustedly --> eng:inexhausted --> eng:exhausted
+eng:inexhaustible --> eng:exhaustible
+eng:inexist --> eng:exist --> lat:existo
+eng:inexistence --> eng:existence --> fro:existence --> lat:existentia
+eng:inexistent --> eng:existent --> lat:existens --> lat:existere
+eng:inexorable --> lat:inexorabilis
+eng:inexorableness --> eng:inexorable --> lat:inexorabilis
+eng:inexorably --> eng:inexorable --> lat:inexorabilis
+eng:inexpansible --> eng:expansible
+eng:inexpectant --> eng:expectant
+eng:inexpectation --> eng:expectation --> lat:expectationem
+eng:inexpected --> eng:expected
+eng:inexpectedly --> eng:inexpected --> eng:expected
+eng:inexpediently --> eng:inexpedient
+eng:inexperience --> fra:inexpérience --> lat:inexperientia
+eng:inexperiencedly --> eng:inexperienced
+eng:inexpertise --> eng:expertise --> fra:expertise
+eng:inexpiably --> eng:inexpiable
+eng:inexpiate --> lat:inexpiatus
+eng:inexplainable --> eng:explainable --> eng:explain --> enm:explanen --> fro:explaner --> lat:explanō
+eng:inexplicability --> eng:inexplicable
+eng:inexplicableness --> eng:inexplicable
+eng:inexplicably --> eng:inexplicable
+eng:inexplicitly --> eng:inexplicit
+eng:inexplicitness --> eng:inexplicit
+eng:inexplorable --> eng:explorable --> eng:explore
+eng:inexplosive --> eng:explosive
+eng:inexposure --> eng:exposure
+eng:inexpressibles --> eng:inexpressible
+eng:inexpressive --> eng:expressive
+eng:inexpressiveness --> eng:inexpressive --> eng:expressive
+eng:inexpugnable --> eng:expugn --> fra:expugner --> lat:expugnare
+eng:inexpugnably --> eng:inexpugnable --> eng:expugn --> fra:expugner --> lat:expugnare
+eng:inextended --> eng:extended
+eng:inextendible --> eng:extendible
+eng:inextension --> eng:extension
+eng:inextensional --> eng:extensional
+eng:inexterminable --> lat:inexterminabilis
+eng:inextinct --> lat:inextinctus
+eng:inextinguishably --> eng:inextinguishable
+eng:inextricableness --> eng:inextricable
+eng:Inez --> spa:Inés --> fra:Agnès
+eng:infall --> eng:fall --> enm:fallen --> ang:feallan
+eng:infallible --> lat:infallibilis
+eng:infallibleness --> eng:infallible --> lat:infallibilis
+eng:infamita --> ita:infamità
+eng:infamize --> eng:infamy --> lat:infamia --> lat:infamis
+eng:infamously --> eng:infamous
+eng:infamousness --> eng:infamous
+eng:infamy --> lat:infamia --> lat:infamis
+eng:infandous --> lat:infandus
+eng:infang --> eng:fang --> enm:fang
+eng:infangthief --> enm:infangthef --> ang:infangeneþeof
+eng:infant --> lat:infantem
+eng:infanta --> spa:infanta
+eng:infantcare --> eng:care --> enm:care --> ang:caru
+eng:infanthood --> eng:infant --> lat:infantem
+eng:infanticide --> eng:infant --> lat:infantem
+eng:infantilely --> eng:infantile
+eng:infantilist --> eng:infantile
+eng:infantilization --> eng:infantilize --> eng:infantile
+eng:infantilize --> eng:infantile
+eng:infantize --> eng:infant --> lat:infantem
+eng:infantlike --> eng:infant --> lat:infantem
+eng:infantly --> eng:infant --> lat:infantem
+eng:infantry --> frm:infanterie
+eng:infantryman --> eng:infantry --> frm:infanterie
+eng:infare --> enm:infer --> ang:infær
+eng:infaring --> eng:infare --> enm:infer --> ang:infær
+eng:infashionable --> eng:fashionable
+eng:infaunal --> eng:infauna
+eng:infeasibility --> eng:feasibility --> enm:faisible --> xno:faisable
+eng:infeasible --> eng:feasible --> fro:faisable
+eng:infeasibleness --> eng:infeasible --> eng:feasible --> fro:faisable
+eng:infect --> lat:infectus
+eng:infectest --> eng:infect --> lat:infectus
+eng:infecteth --> eng:infect --> lat:infectus
+eng:infectible --> eng:infect --> lat:infectus
+eng:infectiousness --> eng:infectious
+eng:infective --> eng:infect --> lat:infectus
+eng:infectiveness --> eng:infective --> eng:infect --> lat:infectus
+eng:infecund --> eng:fecund --> lat:fecundus
+eng:infelicitous --> eng:felicitous --> lat:felicitas --> lat:felix
+eng:infelicitously --> eng:infelicitous --> eng:felicitous --> lat:felicitas --> lat:felix
+eng:infelicitousness --> eng:infelicitous --> eng:felicitous --> lat:felicitas --> lat:felix
+eng:infelonious --> eng:felonious --> eng:felony --> fro:felonie --> fro:felon
+eng:infelt --> eng:felt --> ang:feled
+eng:infer --> lat:inferō
+eng:inferentialism --> eng:inferential
+eng:inferentialist --> eng:inferential
+eng:inferentially --> eng:inferential
+eng:inferiorly --> eng:inferior
+eng:inferno --> ita:inferno --> lat:infernus --> lat:inferus
+eng:inferoseptal --> eng:septal
+eng:inferrest --> eng:infer --> lat:inferō
+eng:inferreth --> eng:infer --> lat:inferō
+eng:infertile --> eng:fertile
+eng:infertilely --> eng:infertile --> eng:fertile
+eng:infester --> eng:infest
+eng:infesteth --> eng:infest
+eng:infestivity --> eng:festivity
+eng:infestuous --> lat:infestus
+eng:infibulation --> lat:infibulo
+eng:infidelity --> eng:fidelity
+eng:infield --> eng:field --> enm:field
+eng:infile --> eng:file --> ang:feol
+eng:infilm --> eng:film --> enm:filme --> ang:filmen
+eng:infinite --> lat:infinitus --> lat:finitus
+eng:infinitely --> eng:infinite --> lat:infinitus --> lat:finitus
+eng:infiniteness --> eng:infinite --> lat:infinitus --> lat:finitus
+eng:infinitism --> eng:infinite --> lat:infinitus --> lat:finitus
+eng:infinity --> lat:infinitas
+eng:infinityfold --> eng:infinity --> lat:infinitas
+eng:infirmary --> lat:infirmaria --> lat:infirmus
+eng:infirmly --> eng:infirm
+eng:infirmness --> eng:infirm
+eng:infixation --> eng:infix
+eng:inflamedness --> eng:inflamed
+eng:inflamingly --> eng:inflaming
+eng:inflammableness --> eng:inflammable
+eng:inflammably --> eng:inflammab
+eng:inflatable --> eng:inflate --> lat:inflatus
+eng:inflate --> lat:inflatus
+eng:inflatingly --> eng:inflating
+eng:inflationism --> eng:inflation
+eng:inflationist --> eng:inflation
+eng:inflect --> lat:inflecto
+eng:inflectable --> eng:inflect --> lat:inflecto
+eng:inflectionally --> eng:inflectional
+eng:inflectionless --> eng:inflection
+eng:inflesh --> eng:flesh --> ang:flæsc
+eng:inflexible --> eng:flexible --> lat:flexibilis --> lat:flecto
+eng:inflexibly --> eng:inflexible --> eng:flexible --> lat:flexibilis --> lat:flecto
+eng:inflexionally --> eng:inflexional
+eng:inflexionless --> eng:inflexion
+eng:inflicter --> eng:inflict
+eng:inflictest --> eng:inflict
+eng:inflicteth --> eng:inflict
+eng:inflorescence --> lat:inflorescentia
+eng:inflow --> eng:flow --> ang:flowan
+eng:influenceable --> eng:influence
+eng:influencee --> eng:influence
+eng:influenceless --> eng:influence
+eng:influentialness --> eng:influential
+eng:influenza --> ita:influenza --> lat:influentia --> lat:influens
+eng:influenzalike --> eng:influenza --> ita:influenza --> lat:influentia --> lat:influens
+eng:influx --> lat:influxus --> lat:influo
+eng:influxion --> lat:influxio
+eng:info- --> eng:information --> xno:informacioun
+eng:Infobahn --> eng:Autobahn
+eng:infobesity --> eng:info
+eng:infobot --> eng:bot --> eng:bottom --> ang:botm
+eng:infocracy
+eng:infoganda --> eng:information --> xno:informacioun
+eng:infoglut --> eng:glut --> lat:gluttio --> lat:gluttus
+eng:infographic --> eng:graphic --> lat:graphicus --> grc:γραφικός --> grc:γραφή --> grc:γράφω
+eng:infold --> eng:fold --> enm:fold
+eng:infomania --> eng:info
+eng:infomercial --> eng:commercial --> eng:commerce --> fra:commerce --> frm:commerce --> lat:commercium
+eng:infonaut --> eng:info
+eng:infopreneurial --> eng:infopreneur
+eng:inforcement --> eng:inforce
+eng:inform --> enm:informen
+eng:informalize --> eng:informal
+eng:informally --> eng:informal
+eng:informant --> lat:informans
+eng:information --> xno:informacioun
+eng:informational --> eng:information --> xno:informacioun
+eng:informationally --> eng:information --> xno:informacioun
+eng:informationless --> eng:information --> xno:informacioun
+eng:informationlessness --> eng:informationless --> eng:information --> xno:informacioun
+eng:informed --> eng:formed
+eng:informedness --> eng:informed --> eng:formed
+eng:informee --> eng:inform --> enm:informen
+eng:informercial --> eng:commercial --> eng:commerce --> fra:commerce --> frm:commerce --> lat:commercium
+eng:informidable --> lat:informidabilis
+eng:informingly --> eng:informing
+eng:informity --> lat:informitas
+eng:infortune --> lat:infortunium
+eng:infoscape --> eng:scape --> lat:scapus
+eng:infoshop --> eng:info
+eng:infosociety --> eng:info
+eng:infosphere --> eng:info
+eng:infostructure --> eng:info
+eng:infotainment --> eng:entertainment
+eng:infotech --> eng:info
+eng:infotisement --> eng:advertisement --> frm:advertissement
+eng:infotopia --> eng:information --> xno:informacioun
+eng:infra- --> lat:infra
+eng:infraaxillary --> eng:axillary
+eng:infrabranchial --> eng:branchial
+eng:infraclavicular --> eng:clavicular
+eng:infraction --> lat:infractio
+eng:infrafamilial --> eng:familial
+eng:infrageneric --> eng:generic
+eng:infragrant --> eng:fragrant --> lat:fragrans
+eng:infragranular --> eng:granular --> eng:granule --> lat:granulum
+eng:infrahuman --> eng:human --> frm:humain --> lat:humanus --> lat:homo --> lat:hemo
+eng:infrahyoid --> eng:hyoid --> fra:hyoïde
+eng:infralabial --> eng:labial
+eng:infralapsarian --> eng:lapsus
+eng:infralittoral --> eng:littoral --> lat:littoralis --> lat:litoris
+eng:infralow --> eng:low --> ang:hlaw
+eng:inframammary --> eng:mammary
+eng:inframarginal --> eng:marginal
+eng:inframaxillary --> eng:maxillary
+eng:inframedian --> eng:median --> frm:median --> lat:medianus --> lat:medius
+eng:inframesenteric --> eng:mesenteric
+eng:inframesocolic --> eng:mesocolic
+eng:inframundane --> eng:mundane --> lat:mundanus
+eng:infranatant --> eng:natant
+eng:infrangible --> fro:infrangible
+eng:infraocular --> eng:ocular --> lat:ocularis --> lat:oculus
+eng:infraorbital --> eng:orbital
+eng:infraparticle --> eng:particle --> frm:particule
+eng:infraphylum --> eng:phylum --> lat:phylum --> grc:φῦλον
+eng:infraposition --> eng:position --> fra:position --> lat:positio --> lat:ponere
+eng:infrarealism --> eng:realism
+eng:infrared --> lat:infra
+eng:infrascapular --> eng:scapular --> lat:scapulare --> lat:scapula
+eng:infrasonically --> eng:infrasonic
+eng:infrasound --> eng:sound --> ang:sund
+eng:infraspinal --> eng:spinal --> lat:spīnālis --> lat:spīna
+eng:infraspinate --> eng:spinate
+eng:infrastapedial --> eng:stapedial
+eng:infrasternal --> eng:sternal --> eng:sternum
+eng:infrastructuralist --> eng:infrastructural
+eng:infratemporal --> eng:temporal --> enm:temporal --> fro:temporal --> lat:temporalis --> lat:tempora
+eng:infraterritorial --> eng:territorial
+eng:infratrochlear --> eng:trochlear --> lat:trochlea
+eng:infravision --> eng:vision --> lat:visio
+eng:infrigidation --> lat:infrigidatio
+eng:infringe --> lat:infringere
+eng:infringingly --> eng:infringing
+eng:infructuose --> lat:infructuosus --> lat:fructuosus --> lat:fructus --> lat:fruor
+eng:infrugal --> eng:frugal
+eng:infulminate --> eng:fulminate --> lat:fulminatus
+eng:infundibulated --> eng:infundibulum --> lat:infundibulum --> lat:infundo
+eng:infundibuliform --> lat:infundere
+eng:infundibuloma --> eng:infundibulum --> lat:infundibulum --> lat:infundo
+eng:infundibulum --> lat:infundibulum --> lat:infundo
+eng:infuriable --> eng:infuriate
+eng:infusion --> lat:infusio --> lat:infundo
+eng:infusionism --> eng:infusion --> lat:infusio --> lat:infundo
+eng:infusionist --> eng:infusion --> lat:infusio --> lat:infundo
+eng:ing --> ang:ing
+eng:ingang --> enm:ingang --> ang:ingang
+eng:ingate --> eng:gate --> ang:geat
+eng:ingather --> enm:ingaderen
+eng:ingenerably --> eng:ingenerable
+eng:ingenerate --> lat:ingeneratus
+eng:ingenious --> lat:ingeniosus
+eng:ingeniously --> eng:ingenious --> lat:ingeniosus
+eng:ingenite --> lat:ingenitus
+eng:ingenuity --> lat:ingenuitas
+eng:ingenuously --> eng:ingenuous
+eng:ingeny --> lat:ingenium
+eng:ingerminate --> eng:germinate
+eng:Ingersollian --> eng:Ingersoll
+eng:ingest --> lat:ingerere
+eng:ingester --> eng:ingest --> lat:ingerere
+eng:inglobe --> eng:globe
+eng:ingloriousness --> eng:inglorious
+eng:inglut --> eng:glut --> lat:gluttio --> lat:gluttus
+eng:ingot --> enm:ingot
+eng:ingotlike --> eng:ingot --> enm:ingot
+eng:ingracious --> eng:gracious
+eng:ingrafter --> eng:ingraft
+eng:ingrained --> eng:ingrain
+eng:ingrate --> lat:ingratus --> lat:gratus
+eng:ingrateful --> eng:ingrate --> lat:ingratus --> lat:gratus
+eng:ingrately --> eng:ingrate --> lat:ingratus --> lat:gratus
+eng:ingrave --> eng:grave --> enm:grave
+eng:ingredient --> lat:ingrediens --> lat:ingredior
+eng:ingression --> eng:ingress
+eng:ingroove --> eng:groove --> enm:groof
+eng:ingrowth --> eng:growth --> eng:grow --> enm:growen --> ang:growan
+eng:inguilty --> eng:guilty --> enm:gilty
+eng:inguinal --> lat:inguinalis --> lat:inguen
+eng:inguinolabial --> eng:labial
+eng:ingustable --> lat:ingustabilis
+eng:inhabit --> fro:enhabiter --> lat:inhabitare
+eng:inhabitable --> eng:inhabit --> fro:enhabiter --> lat:inhabitare
+eng:inhabitant --> fro:inhabitant --> lat:inhabitans
+eng:inhabitativeness --> eng:inhabitative
+eng:inhabiter --> eng:inhabit --> fro:enhabiter --> lat:inhabitare
+eng:inhabitest --> eng:inhabit --> fro:enhabiter --> lat:inhabitare
+eng:inhabitiveness --> eng:inhabitive
+eng:inhabitress --> eng:inhabitor
+eng:inhæred --> eng:inhære
+eng:inhæring --> eng:inhære
+eng:inhale --> lat:inhalare
+eng:inhalest --> eng:inhale --> lat:inhalare
+eng:inhaleth --> eng:inhale --> lat:inhalare
+eng:inhancement --> eng:inhance
+eng:inharmonic --> eng:harmonic
+eng:inharmonious --> eng:harmonious
+eng:inharmoniousness --> eng:inharmonious --> eng:harmonious
+eng:inharmony --> eng:harmony
+eng:inhearse --> eng:hearse --> fro:herce --> lat:hirpex
+eng:inheart --> eng:heart --> enm:herte --> ang:heorte
+eng:inhere --> lat:inhaerere
+eng:inherent --> lat:inhaerentem
+eng:inherently --> eng:inherent --> lat:inhaerentem
+eng:inherit --> fro:enheriter --> lat:inhereditare
+eng:inheritably --> eng:inheritable
+eng:inheriter --> eng:inherit --> fro:enheriter --> lat:inhereditare
+eng:inheritor --> eng:inherit --> fro:enheriter --> lat:inhereditare
+eng:inhiation --> lat:inhiatio
+eng:inhibit --> lat:inhibitus
+eng:inhibitable --> eng:inhibit --> lat:inhibitus
+eng:inhive --> eng:hive --> enm:hyfe --> ang:hyf
+eng:inhold --> eng:hold --> enm:hold --> ang:hold
+eng:inholder --> eng:inhold --> eng:hold --> enm:hold --> ang:hold
+eng:inholding --> eng:holding
+eng:inhomogenous --> eng:homogenous
+eng:inhoop --> eng:hoop --> enm:hoop
+eng:inhospitable --> eng:hospitable
+eng:inhospitableness --> eng:inhospitable --> eng:hospitable
+eng:inhumate --> lat:inhumatus --> lat:humatus
+eng:inhumation --> eng:inhume
+eng:inial --> eng:inion
+eng:inimaginable --> eng:imaginable --> eng:imagine --> fro:imaginer --> lat:imaginor --> lat:imaginem
+eng:inimicable --> eng:amicable
+eng:inimicitious --> lat:inimicitia --> lat:inimicus
+eng:inimicous --> lat:inimicus
+eng:inimitable --> lat:inimitabilis
+eng:inimitableness --> eng:inimitable --> lat:inimitabilis
+eng:iniquitous --> eng:iniquity --> enm:iniquite --> lat:iniquitas --> lat:iniquus --> lat:aequus
+eng:iniquity --> enm:iniquite --> lat:iniquitas --> lat:iniquus --> lat:aequus
+eng:inirritable --> eng:irritable --> eng:irritate --> lat:irritatus
+eng:inirritative --> eng:irritative
+eng:initialese --> eng:initial
+eng:initialisation --> eng:initialise
+eng:initialiser --> eng:initialise
+eng:initialism --> eng:initial
+eng:initializable --> eng:initialize
+eng:initialization --> eng:initialize
+eng:initializer --> eng:initialize
+eng:initially --> eng:initial
+eng:initiate --> lat:initiatus
+eng:initiative --> fra:initiative
+eng:injectable --> eng:inject
+eng:injectiveness --> eng:injective
+eng:injera --> tir:እንጀራ
+eng:injoint --> eng:joint
+eng:injucundity --> lat:injucunditas
+eng:injudicable --> eng:judicable --> lat:judicabilis
+eng:injudicial --> eng:judicial --> lat:iudicialis --> lat:iudicium --> lat:iudex
+eng:injudiciously --> eng:injudicious
+eng:injudiciousness --> eng:injudicious
+eng:injun --> eng:Indian
+eng:injunctional --> eng:injunction
+eng:injurable --> eng:injure --> eng:injury --> xno:injurie --> lat:iniuria
+eng:injure --> eng:injury --> xno:injurie --> lat:iniuria
+eng:injuriousness --> eng:injurious
+eng:injury --> xno:injurie --> lat:iniuria
+eng:injust --> eng:just --> eng:juste --> lat:iustus
+eng:injustice --> fra:injustice --> lat:iniustitia --> lat:iniustus
+eng:ink --> fro:enque --> lat:encaustum --> grc:ἔγκαυστον
+eng:inkball --> eng:ball --> enm:bal
+eng:inkberry --> eng:berry --> enm:bery
+eng:inker --> eng:ink --> fro:enque --> lat:encaustum --> grc:ἔγκαυστον
+eng:inkhorn --> enm:inkhorn --> enm:horn
+eng:inkhornism --> eng:inkhorn --> enm:inkhorn --> enm:horn
+eng:inkily --> eng:inky
+eng:inkjet --> eng:ink --> fro:enque --> lat:encaustum --> grc:ἔγκαυστον
+eng:inkless --> eng:ink --> fro:enque --> lat:encaustum --> grc:ἔγκαυστον
+eng:inklessly --> eng:inkless --> eng:ink --> fro:enque --> lat:encaustum --> grc:ἔγκαυστον
+eng:inklike --> eng:ink --> fro:enque --> lat:encaustum --> grc:ἔγκαυστον
+eng:inkneed --> eng:in --> ang:inne
+eng:inknot --> eng:knot
+eng:inkosi --> zul:inkosi
+eng:inkspot --> eng:ink --> fro:enque --> lat:encaustum --> grc:ἔγκαυστον
+eng:inkwell --> eng:ink --> fro:enque --> lat:encaustum --> grc:ἔγκαυστον
+eng:inlace --> eng:lace --> fro:las
+eng:inlander --> eng:inland
+eng:inlandish --> eng:inland
+eng:inlay --> eng:lay --> enm:laie
+eng:inlayer --> eng:inlay --> eng:lay --> enm:laie
+eng:inlead --> enm:inleden --> ang:inlædan
+eng:inleague --> eng:league --> enm:ligg --> frm:ligue --> ita:lega
+eng:inleak --> eng:leak --> enm:leken
+eng:inlet --> enm:inlate --> enm:inleten
+eng:inlight --> enm:inlighten --> ang:inlihtan --> ang:lihtan
+eng:inlighted --> enm:inlighted --> ang:inlihted
+eng:inlinable --> eng:inline
+eng:inlive --> eng:live --> enm:liven --> ang:libban
+eng:inlock --> eng:lock --> ang:locc
+eng:inlook --> eng:look --> enm:loken
+eng:inly --> ang:inlic
+eng:inmacy --> eng:inmate --> eng:inn --> ang:inn
+eng:INMARSAT --> eng:international
+eng:inmate --> eng:inn --> ang:inn
+eng:inmeat --> enm:inmete
+eng:inmeats --> eng:in --> ang:inne
+eng:inmew --> eng:mew --> enm:mewe --> ang:mæw
+eng:inmigration --> eng:migration
+eng:inmove --> eng:move --> enm:moven
+eng:inn --> ang:inn
+eng:innate --> lat:innatus
+eng:innated --> eng:innate --> lat:innatus
+eng:innately --> eng:innate --> lat:innatus
+eng:innatism --> eng:innate --> lat:innatus
+eng:innatist --> eng:innate --> lat:innatus
+eng:innavigable --> lat:innavigabilis
+eng:innecessary --> eng:necessary --> enm:necessarye --> fro:necessaire --> lat:necessarius --> lat:necesse
+eng:innermostly --> eng:innermost
+eng:innerness --> eng:inner
+eng:innervation --> eng:innervate
+eng:innerve --> eng:nerve
+eng:inneth --> enm:inneth --> ang:inneþ
+eng:innew --> eng:new --> enm:newe --> ang:niwe
+eng:innholder --> eng:holder
+eng:innie --> eng:in --> ang:inne
+eng:innitency --> lat:inniti
+eng:innkeeper --> eng:inn --> ang:inn
+eng:innkeeping --> eng:inn --> ang:inn
+eng:innless --> eng:inn --> ang:inn
+eng:innlike --> eng:inn --> ang:inn
+eng:innocence --> fra:innocence --> lat:innocens
+eng:innocency --> lat:innocentia
+eng:innocently --> eng:innocent
+eng:innocuous --> lat:innocuus
+eng:innocuously --> eng:innocuous --> lat:innocuus
+eng:innodate --> lat:innodatus
+eng:innovation --> lat:innovatio --> lat:innovo --> lat:in
+eng:innovational --> eng:innovation --> lat:innovatio --> lat:innovo --> lat:in
+eng:innovatively --> eng:innovative
+eng:innubilous --> lat:innubilus
+eng:innumerability --> lat:innumerabilitas
+eng:innumerable --> eng:numerable --> lat:numerabilis --> lat:numerus
+eng:innumerableness --> eng:innumerable --> eng:numerable --> lat:numerabilis --> lat:numerus
+eng:innumerate --> eng:numerate --> lat:numeratus
+eng:innutritive --> eng:nutritive --> frm:nutritif --> lat:nutritivus
+eng:innyard --> eng:inn --> ang:inn
+eng:inobedient --> lat:inoboediens
+eng:inobservant --> lat:inobservans
+eng:inobtainable --> eng:obtainable
+eng:inocarpin --> eng:Inocarpus
+eng:inoccupation --> eng:occupation --> enm:occupacioun --> frm:occupation --> lat:occupatio
+eng:inoculable --> eng:inoculate --> enm:inoculate --> lat:inoculatus
+eng:inoculate --> enm:inoculate --> lat:inoculatus
+eng:inodorous --> eng:odorous --> eng:odor --> enm:odour --> xno:odour --> fro:odor --> lat:odor
+eng:inoffensive --> eng:offensive --> fra:offensif
+eng:inoffensively --> eng:inoffensive --> eng:offensive --> fra:offensif
+eng:inofficial --> eng:official --> fro:official --> lat:officium
+eng:inofficially --> eng:inofficial --> eng:official --> fro:official --> lat:officium
+eng:inofficiously --> eng:inofficious
+eng:inoperancy --> eng:operant
+eng:inoperative --> eng:operative
+eng:inoperativeness --> eng:inoperative --> eng:operative
+eng:inopinable --> lat:inopinabilis
+eng:inopportune --> eng:opportune --> lat:opportunus --> lat:ob
+eng:inopportuneness --> eng:inopportune --> eng:opportune --> lat:opportunus --> lat:ob
+eng:inopportunity --> eng:opportunity
+eng:inoppressive --> eng:oppressive
+eng:inopulent --> eng:opulent
+eng:inorder --> eng:in --> ang:inne
+eng:inordinate --> lat:inordinatus --> lat:ordinatus
+eng:inordinately --> eng:inordinate --> lat:inordinatus --> lat:ordinatus
+eng:inordinateness --> eng:inordinate --> lat:inordinatus --> lat:ordinatus
+eng:inordination --> lat:inordinatio
+eng:inorganize --> eng:organize --> lat:organizare --> lat:organum --> grc:ὄργανον
+eng:inorthodox --> eng:orthodox --> lat:orthodoxus --> grc:ὀρθόδοξος
+eng:inotropic
+eng:inotuzumab ozogamicin
+eng:inoxidized --> eng:oxidized
+eng:inoxidizing --> eng:oxidizing
+eng:input --> enm:inputten
+eng:inputtable --> eng:input --> enm:inputten
+eng:inputter --> eng:input --> enm:inputten
+eng:inqilab --> ara:إنقلاب --> ara:قلب
+eng:inquest --> fro:enqueste
+eng:inquestionable --> eng:question --> enm:question --> xno:questiun --> fro:question --> lat:quaestionem
+eng:inquietation --> lat:inquietatio
+eng:inquietness --> eng:inquiet
+eng:inquiline --> lat:inquilinus
+eng:inquination --> lat:inquinatio
+eng:inquirable --> eng:inquire --> lat:inquiro
+eng:inquire --> lat:inquiro
+eng:inquiry --> enm:enquery
+eng:inquisitorial --> eng:inquisitor
+eng:inquisitorially --> eng:inquisitorial --> eng:inquisitor
+eng:inquisitrix --> eng:inquisitor
+eng:inquorate --> eng:quorate
+eng:inrail --> eng:rail --> ang:hrægl
+eng:inreconcilable --> eng:reconcilable
+eng:inrichment --> eng:inrich
+eng:inro --> jpn:印籠
+eng:inrō --> jpn:印籠
+eng:inrun --> eng:in --> ang:inne
+eng:inrunning --> eng:running
+eng:insafety --> eng:safety --> fro:sauveté
+eng:insalubrious --> eng:salubrious --> lat:salus
+eng:insane --> lat:insanus
+eng:insaneness --> eng:insane --> lat:insanus
+eng:insangu --> zul:insangu
+eng:insanitation --> eng:sanitation
+eng:insatiableness --> eng:insatiable
+eng:insatiately --> eng:insatiate
+eng:insatiateness --> eng:insatiate
+eng:insatisfaction --> eng:satisfaction --> lat:satisfactio --> lat:satisfactus
+eng:inscription --> lat:inscriptionem
+eng:inscriptional --> eng:inscription --> lat:inscriptionem
+eng:inscriptionally --> eng:inscriptional --> eng:inscription --> lat:inscriptionem
+eng:inscriptionist --> eng:inscription --> lat:inscriptionem
+eng:inscroll --> eng:scroll
+eng:inscrutableness --> eng:inscrutable
+eng:inscrutably --> eng:inscrutable
+eng:insect --> lat:insectum --> lat:insecare
+eng:insectan --> eng:insect --> lat:insectum --> lat:insecare
+eng:insectarium --> eng:insect --> lat:insectum --> lat:insecare
+eng:insectation --> lat:insectatio
+eng:insectdom --> eng:insect --> lat:insectum --> lat:insecare
+eng:insected --> eng:insect --> lat:insectum --> lat:insecare
+eng:insecticide --> eng:insect --> lat:insectum --> lat:insecare
+eng:insectless --> eng:insect --> lat:insectum --> lat:insecare
+eng:insectlike --> eng:insect --> lat:insectum --> lat:insecare
+eng:insectoid --> eng:insect --> lat:insectum --> lat:insecare
+eng:insectologic --> eng:insectology
+eng:insectologist --> eng:insectology
+eng:insectproof --> eng:insect --> lat:insectum --> lat:insecare
+eng:insecty --> eng:insect --> lat:insectum --> lat:insecare
+eng:insecution --> lat:insecutio
+eng:inseducible --> eng:seducible
+eng:insee --> eng:see --> enm:seen --> ang:seon
+eng:inseminate --> lat:inseminatus
+eng:insend --> enm:insenden --> ang:insendan
+eng:insense --> eng:sense --> enm:sense --> fro:sens
+eng:insensible --> lat:insensibilis --> lat:sensibilis --> lat:sentire
+eng:insensibleness --> eng:insensible --> lat:insensibilis --> lat:sensibilis --> lat:sentire
+eng:insensitive --> eng:sensitive --> frm:sensitif --> lat:sensitivus
+eng:insensuous --> eng:sensuous
+eng:inseparable --> eng:separable
+eng:inseparableness --> eng:inseparable --> eng:separable
+eng:inseparably --> eng:inseparable --> eng:separable
+eng:inseparate --> lat:inseparatus
+eng:inseparately --> eng:inseparate --> lat:inseparatus
+eng:insert --> lat:insertus
+eng:insertest --> eng:insert --> lat:insertus
+eng:inserteth --> eng:insert --> lat:insertus
+eng:insession --> lat:insessio
+eng:inset --> enm:insetten --> ang:insettan
+eng:inseverable --> eng:severable
+eng:inshaded --> eng:shaded
+eng:inshave --> eng:in --> ang:inne
+eng:inshelled --> eng:shell --> enm:schelle
+eng:inshipped --> eng:ship --> enm:ship
+eng:insidely --> eng:inside
+eng:insideness --> eng:inside
+eng:inside-outness --> eng:inside out
+eng:insider --> eng:inside
+eng:insiderdom --> eng:insider --> eng:inside
+eng:insiderish --> eng:insider --> eng:inside
+eng:insiderism --> eng:insider --> eng:inside
+eng:insiderness --> eng:insider --> eng:inside
+eng:insidery --> eng:insider --> eng:inside
+eng:insidious --> lat:insidiosus --> lat:insidiae
+eng:insidiously --> eng:insidious --> lat:insidiosus --> lat:insidiae
+eng:insight --> enm:insight
+eng:insightless --> eng:insight --> enm:insight
+eng:insignia --> lat:insignia
+eng:insignificative --> lat:insignificativus
+eng:insincere --> lat:insincerus
+eng:insincerely --> eng:insincere --> lat:insincerus
+eng:insinewed --> eng:sinew --> enm:sinewe
+eng:insinuate --> lat:insinuo
+eng:insinuatingly --> eng:insinuating
+eng:insinuation --> lat:insinuatio --> lat:insinuo
+eng:insinuator --> lat:insinuator --> lat:insinuo
+eng:insinuendo --> eng:innuendo
+eng:insipid --> lat:insipidus
+eng:insipidity --> eng:insipid --> lat:insipidus
+eng:insipidly --> eng:insipid --> lat:insipidus
+eng:insipidness --> eng:insipid --> lat:insipidus
+eng:insistent --> lat:insistens
+eng:insister --> eng:insist
+eng:insition --> lat:insitio
+eng:inslave --> eng:slave
+eng:insleeper --> eng:sleeper --> eng:sleep --> enm:sleep --> ang:slæp
+eng:insnarer --> eng:insnare
+eng:insnarl --> eng:snarl --> enm:snarlen
+eng:insociably --> eng:insociable
+eng:insolate --> lat:insolatus
+eng:insolence --> lat:insolentia
+eng:insoluble --> lat:insolubilis --> lat:solubilis
+eng:insolubleness --> eng:insoluble --> lat:insolubilis --> lat:solubilis
+eng:insolvency --> eng:insolvent
+eng:insomnious --> lat:insomniosus
+eng:insonorous --> eng:sonorous --> lat:sonorus
+eng:insooth --> eng:in --> ang:inne
+eng:insouciance --> fra:insouciance
+eng:insouciant --> fra:insouciant
+eng:insoul --> eng:soul
+eng:inspan --> eng:in --> ang:inne
+eng:inspect --> lat:inspectum
+eng:inspecter --> eng:inspect --> lat:inspectum
+eng:inspectingly --> eng:inspecting
+eng:inspection --> lat:inspectio
+eng:inspectional --> eng:inspection --> lat:inspectio
+eng:inspective --> lat:inspectivus
+eng:inspectorship --> eng:inspector
+eng:inspectress --> eng:inspector
+eng:inspersion --> lat:inspersio
+eng:inspirable --> eng:inspire --> fro:enspirer --> lat:inspirare
+eng:inspiration --> fro:inspiration --> lat:inspirationem --> lat:inspiratus
+eng:inspirational --> eng:inspiration --> fro:inspiration --> lat:inspirationem --> lat:inspiratus
+eng:inspirationally --> eng:inspirational --> eng:inspiration --> fro:inspiration --> lat:inspirationem --> lat:inspiratus
+eng:inspirationist --> eng:inspiration --> fro:inspiration --> lat:inspirationem --> lat:inspiratus
+eng:inspiratrix --> eng:inspirator
+eng:inspire --> fro:enspirer --> lat:inspirare
+eng:inspirest --> eng:inspire --> fro:enspirer --> lat:inspirare
+eng:inspireth --> eng:inspire --> fro:enspirer --> lat:inspirare
+eng:inspiriting --> eng:inspirit
+eng:inspiritingly --> eng:inspiriting --> eng:inspirit
+eng:instability --> eng:stability
+eng:instableness --> eng:instable
+eng:install --> enm:installen --> lat:installo
+eng:installability --> eng:install --> enm:installen --> lat:installo
+eng:installational --> eng:installation
+eng:installationlike --> eng:installation
+eng:installfest --> eng:install --> enm:installen --> lat:installo
+eng:instance --> fra:instance --> lat:instantia
+eng:instanciate --> eng:instance --> fra:instance --> lat:instantia
+eng:instant --> enm:instant --> fro:instant --> lat:instans
+eng:instantaneously --> eng:instantaneous
+eng:instantaneousness --> eng:instantaneous
+eng:instantiator --> eng:instantiate
+eng:instantly --> eng:instant --> enm:instant --> fro:instant --> lat:instans
+eng:instanton --> eng:instant --> enm:instant --> fro:instant --> lat:instans
+eng:instar --> eng:star --> enm:sterre --> ang:steorra
+eng:instate --> eng:state --> lat:status --> lat:stare
+eng:instauntly --> eng:instaunt
+eng:instead --> eng:in --> ang:inne
+eng:insteep --> eng:steep --> ang:steap
+eng:instigatingly --> eng:instigating
+eng:instigator --> lat:instigator
+eng:instill --> lat:instillo
+eng:instiller --> eng:instill --> lat:instillo
+eng:instillment --> eng:instill --> lat:instillo
+eng:instimulate --> lat:instimulatus
+eng:instinct --> lat:instinctus
+eng:instinctively --> eng:instinctive
+eng:institution --> fro:institution --> lat:institutio --> lat:instituere
+eng:institutional --> eng:institution --> fro:institution --> lat:institutio --> lat:instituere
+eng:institutionalist --> eng:institutional --> eng:institution --> fro:institution --> lat:institutio --> lat:instituere
+eng:institutionary --> eng:institution --> fro:institution --> lat:institutio --> lat:instituere
+eng:institutionwide --> eng:institution --> fro:institution --> lat:institutio --> lat:instituere
+eng:institutist --> eng:institute
+eng:institutively --> eng:institutive
+eng:instop --> eng:stop --> enm:stoppe --> ang:stoppa
+eng:instream --> eng:stream --> enm:streem
+eng:instreaming --> eng:streaming
+eng:instrengthen --> eng:strengthen --> eng:strength --> ang:strengþu
+eng:instruct --> lat:instruo
+eng:instructionless --> eng:instruction
+eng:instructorship --> eng:instructor
+eng:instructress --> eng:instructor
+eng:instrument --> lat:instrumentum --> lat:instruo
+eng:instrumentality --> eng:instrumental
+eng:instrumentally --> eng:instrumental
+eng:instrumentist --> eng:instrument --> lat:instrumentum --> lat:instruo
+eng:instrumentlike --> eng:instrument --> lat:instrumentum --> lat:instruo
+eng:instyle --> eng:style --> fra:estile --> lat:stilus
+eng:insubjection --> eng:subjection
+eng:insubmergible --> eng:submergible
+eng:insubmission --> eng:submission
+eng:insubmissive --> eng:submissive
+eng:insubordinately --> eng:insubordinate
+eng:insubstantial --> eng:substantial --> fro:substantiel
+eng:insuccation --> lat:insucare
+eng:insuccess --> eng:success --> lat:successus
+eng:insuck --> eng:suck --> enm:souken --> ang:sucan
+eng:insucking --> eng:in --> ang:inne
+eng:insudate --> lat:insudatus
+eng:insuetude --> lat:insuetudo
+eng:insufferable --> eng:sufferable --> eng:suffer --> enm:suffren --> xno:suffrir --> lat:suffero
+eng:insufferableness --> eng:insufferable --> eng:sufferable --> eng:suffer --> enm:suffren --> xno:suffrir --> lat:suffero
+eng:insufferably --> eng:insufferable --> eng:sufferable --> eng:suffer --> enm:suffren --> xno:suffrir --> lat:suffero
+eng:insufficient --> eng:sufficient --> lat:sufficiens
+eng:insufficiently --> eng:insufficient --> eng:sufficient --> lat:sufficiens
+eng:insular --> lat:insularis --> lat:insula
+eng:insularism --> eng:insular --> lat:insularis --> lat:insula
+eng:insularly --> eng:insular --> lat:insularis --> lat:insula
+eng:insulate --> lat:insulatus
+eng:insulationist --> eng:insulation
+eng:insulinemia --> eng:insulin
+eng:insulinlike --> eng:insulin
+eng:insulsity --> lat:insulsitas
+eng:insult --> lat:insultare
+eng:insultable --> eng:insult --> lat:insultare
+eng:insultathon --> eng:insult --> lat:insultare
+eng:insulteth --> eng:insult --> lat:insultare
+eng:insultingness --> eng:insulting
+eng:insultive --> eng:insult --> lat:insultare
+eng:insultment --> eng:insult --> lat:insultare
+eng:insuperable --> lat:insuperabilis
+eng:insupportable --> eng:supportable --> eng:support --> fro:supporter
+eng:insupportableness --> eng:insupportable --> eng:supportable --> eng:support --> fro:supporter
+eng:insupportably --> eng:insupportable --> eng:supportable --> eng:support --> fro:supporter
+eng:insupposable --> eng:supposable
+eng:insuppressible --> eng:suppressible
+eng:insurancelike --> eng:insurance
+eng:insurancer --> eng:insurance
+eng:insurgent --> lat:insurgentem
+eng:insurmountableness --> eng:insurmountable
+eng:insusceptive --> eng:susceptive
+eng:insusurration --> lat:insusurratio
+eng:inswinging --> eng:in --> ang:inne
+eng:inswung --> eng:in --> ang:inne
+eng:intactivist --> eng:activist --> eng:active --> enm:actif --> fro:actif --> lat:activus
+eng:intailment --> eng:intail
+eng:intaker --> eng:intake
+eng:intalk --> eng:talk --> enm:talken
+eng:intaminated --> lat:intaminatus
+eng:intastable --> eng:tastable --> eng:taste --> enm:tasten --> fro:taster
+eng:integer --> lat:integer
+eng:integerness --> eng:integer --> lat:integer
+eng:integral --> lat:integralis --> lat:integer
+eng:integralness --> eng:integral --> lat:integralis --> lat:integer
+eng:integrate --> lat:integratus
+eng:integrationist --> eng:integration
+eng:integrative --> eng:integrate --> lat:integratus
+eng:integrity --> lat:integritas --> lat:integer
+eng:integument --> lat:integumentum
+eng:intellect --> lat:intellectus --> lat:intellego
+eng:intellected --> eng:intellect --> lat:intellectus --> lat:intellego
+eng:intellectively --> eng:intellective
+eng:intellectualism --> eng:intellectual
+eng:intellectualist --> eng:intellectual
+eng:intelligence --> fro:intelligence
+eng:intelligencer --> eng:intelligence --> fro:intelligence
+eng:intelligencing --> eng:intelligence --> fro:intelligence
+eng:intelligent --> lat:intelligens
+eng:intelligential --> eng:intelligence --> fro:intelligence
+eng:intelligentially --> eng:intelligential --> eng:intelligence --> fro:intelligence
+eng:intelligently --> eng:intelligent --> lat:intelligens
+eng:intelligible --> lat:intelligibilis
+eng:intelligibleness --> eng:intelligible --> lat:intelligibilis
+eng:intelligibly --> eng:intelligible --> lat:intelligibilis
+eng:intemerate --> lat:intemeratus
+eng:intemerateness --> eng:intemerate --> lat:intemeratus
+eng:intemperament --> eng:temperament
+eng:intemperant --> lat:intemperans
+eng:intemperate --> eng:temperate --> lat:temperatus
+eng:intemperately --> eng:intemperate --> eng:temperate --> lat:temperatus
+eng:intemperateness --> eng:intemperate --> eng:temperate --> lat:temperatus
+eng:intempestive --> lat:intempestivus
+eng:intempestively --> eng:intempestive --> lat:intempestivus
+eng:intenable --> eng:tenable
+eng:intencely --> eng:intence
+eng:intend --> enm:entend
+eng:intender --> eng:intend --> enm:entend
+eng:intendest --> eng:intend --> enm:entend
+eng:intendeth --> eng:intend --> enm:entend
+eng:intendiment --> lat:intendimentum
+eng:intense --> frm:intense --> lat:intensus
+eng:intensely --> eng:intense --> frm:intense --> lat:intensus
+eng:intensifier --> eng:intensify
+eng:intension --> lat:intensio --> lat:intensus
+eng:intensionally --> eng:intension --> lat:intensio --> lat:intensus
+eng:intensively --> eng:intensive
+eng:intentionalistically --> eng:intentionalistic
+eng:intentionless --> eng:intention
+eng:intentive --> enm:ententif
+eng:intentively --> eng:intentive --> enm:ententif
+eng:intentiveness --> eng:intentive --> enm:ententif
+eng:inter --> fra:enterrer
+eng:inter- --> lat:inter --> lat:volvere
+eng:interactant --> eng:interact
+eng:interaction --> eng:action --> enm:accion --> fro:action --> lat:actio --> lat:actum --> lat:ago
+eng:interactionism --> eng:interaction --> eng:action --> enm:accion --> fro:action --> lat:actio --> lat:actum --> lat:ago
+eng:interactionless --> eng:interaction --> eng:action --> enm:accion --> fro:action --> lat:actio --> lat:actum --> lat:ago
+eng:interactiveness --> eng:interactive
+eng:interactome --> eng:interact
+eng:interactor --> eng:interact
+eng:interadditive --> eng:additive --> lat:additivus
+eng:interagency --> eng:agency --> eng:agentia --> lat:agens
+eng:interagent --> eng:agent --> lat:agens
+eng:interaggregate --> eng:aggregate --> lat:aggregatus
+eng:interallelic --> eng:allele --> deu:Allel
+eng:interalveolar --> eng:alveolar
+eng:interambulacrum --> eng:ambulacrum --> lat:ambulacrum --> lat:ambulo
+eng:Interamerican --> eng:American --> eng:America --> eng:Americus
+eng:interanimate --> eng:animate --> lat:animatus
+eng:interannual --> eng:annual
+eng:interarm --> eng:arm --> enm:arm --> ang:earm
+eng:interarrival --> eng:arrival --> eng:arrive --> fro:ariver
+eng:interassay --> eng:assay --> xno:assaier
+eng:interastrocytic --> eng:astrocyte
+eng:interatom --> eng:atom --> fro:atome --> lat:atomus --> grc:άτομος
+eng:interatomically --> eng:interatomic
+eng:interauricular --> eng:auricular --> lat:auricularis --> lat:auris
+eng:interaxillary --> eng:axillary
+eng:interaxis --> eng:axis --> lat:axis
+eng:interbacterial --> eng:bacterial
+eng:interband --> eng:band --> enm:band --> ang:beand
+eng:interbank --> eng:bank --> enm:bank
+eng:interbeat --> eng:beat --> enm:beten --> ang:beatan
+eng:interbedded --> eng:bedded
+eng:interbeing --> eng:being
+eng:interbinary --> eng:binary --> lat:binarius --> lat:bini
+eng:interblend --> eng:blend --> enm:blenden
+eng:interblock --> eng:block --> enm:blok --> fro:bloc --> dum:blok
+eng:interblot --> eng:blot
+eng:interbody --> eng:body --> enm:body
+eng:interborough --> eng:borough --> ang:burh
+eng:interbrachial --> eng:brachial
+eng:interbrain --> eng:brain --> enm:brain --> ang:brægen
+eng:interbranch --> eng:branch --> fro:branche --> lat:branca
+eng:interbranchial --> eng:branchial
+eng:interbred --> eng:bred
+eng:interbreeder --> eng:interbreed
+eng:interbring --> eng:bring --> enm:bringen --> ang:bringan
+eng:interbud --> eng:bud
+eng:interbuilding --> eng:building
+eng:interburst --> eng:burst --> enm:bersten --> ang:berstan
+eng:intercalary --> lat:intercalarius --> lat:intercalaris --> lat:intercalo
+eng:intercalate --> lat:intercalatus
+eng:intercamp --> eng:camp --> enm:camp --> ang:camp --> lat:campus
+eng:intercampus --> eng:campus --> lat:campus
+eng:intercanthal --> eng:canthal
+eng:intercapillary --> eng:capillary --> lat:capillaris --> lat:capillus --> lat:caput
+eng:intercapped --> eng:cap --> enm:cappe --> ang:cæppe --> lat:cappa
+eng:intercardinal --> eng:cardinal --> fra:cardinal --> lat:cardinalis --> lat:cardo --> lat:carduus
+eng:intercarotid --> eng:carotid
+eng:intercarpal --> eng:carpal
+eng:intercarrier --> eng:carrier
+eng:intercartel --> eng:cartel --> fra:cartel --> ita:cartello
+eng:intercartilaginous --> eng:cartilaginous
+eng:intercaste --> eng:caste
+eng:intercave --> eng:cave --> lat:cave
+eng:intercavernous --> eng:cavernous
+eng:intercavitary --> eng:cavitary
+eng:intercell --> eng:cell
+eng:intercellularly --> eng:intercellular
+eng:intercentral --> eng:central --> lat:centralis --> lat:centrum --> grc:κέντρον --> grc:κεντέω
+eng:intercentrum --> eng:centrum
+eng:interceptive --> eng:intercept
+eng:intercessional --> eng:intercession
+eng:intercessory --> eng:intercession
+eng:interchain --> eng:chain --> enm:chaine --> fro:chaine
+eng:interchangeably --> eng:interchangeable
+eng:interchangement --> eng:interchange
+eng:interchannel --> eng:channel --> fro:chenel --> lat:canalis --> lat:canna --> grc:κάννα --> akk:𒄀 --> sux:𒄀𒈾
+eng:interchapter --> eng:chapter --> enm:chapiter --> fro:chapitre
+eng:interchromatin --> eng:chromatin --> deu:Chromatin
+eng:interchromosomal --> eng:chromosomal --> eng:chromosome
+eng:interchromosome --> eng:chromosome
+eng:interchurch --> eng:church --> enm:chirche --> ang:cirice
+eng:intercitizenship --> eng:citizenship --> eng:citizen
+eng:intercity --> eng:city --> enm:cite --> fro:cité --> lat:civitas --> lat:civis
+eng:interclan --> eng:clan --> gla:clann --> sga:cland --> owl:plant --> lat:planta
+eng:interclass --> eng:class --> fra:classe --> lat:classis
+eng:interclavicle --> eng:clavicle --> lat:clavicula --> lat:clavis
+eng:interclose --> eng:close --> enm:closen
+eng:intercloud --> eng:cloud --> enm:cloud
+eng:interclub --> eng:club --> enm:clubbe --> non:klubba
+eng:interclump --> eng:clump
+eng:interclusion --> lat:interclusio
+eng:intercluster --> eng:cluster --> enm:cluster
+eng:intercoastal --> eng:coastal
+eng:intercoccygeal --> eng:coccygeal
+eng:intercoil --> eng:coil --> frm:coillir --> lat:colligere
+eng:intercollege --> eng:college --> fro:college --> lat:collegium --> lat:collega --> lat:lego --> lat:lex
+eng:intercolline --> eng:colline --> fra:colline --> ita:collina
+eng:intercollision --> eng:collision --> lat:collisio --> lat:collidere
+eng:intercolonial --> eng:colonial --> eng:colony --> lat:colonia --> lat:colonus --> lat:colo --> lat:colum
+eng:intercolonially --> eng:intercolonial --> eng:colonial --> eng:colony --> lat:colonia --> lat:colonus --> lat:colo --> lat:colum
+eng:intercolumn --> eng:column --> enm:columne
+eng:intercolumnar --> eng:columnar
+eng:intercolumniation --> eng:columniation
+eng:intercombination --> eng:combination
+eng:intercome --> eng:come --> enm:comen
+eng:intercoming --> eng:coming --> eng:come --> enm:comen
+eng:intercommon --> fro:entrecommuner
+eng:intercommunal --> eng:communal --> lat:communalis --> lat:communis --> lat:comoine
+eng:intercommunion --> eng:communion
+eng:intercommunity --> eng:community --> fro:communité
+eng:intercommuting --> eng:commuting
+eng:intercompartmental --> eng:compartmental --> eng:compartment
+eng:intercomprehensible --> eng:comprehensible
+eng:intercondylar --> eng:condylar
+eng:interconference --> eng:conference
+eng:interconfessional --> eng:confessional
+eng:interconnectivity --> eng:interconnective
+eng:interconnexion --> eng:connexion --> fro:connexion --> lat:connexio --> lat:connecto
+eng:interconsonantal --> eng:consonantal --> eng:consonant --> lat:consonans
+eng:interconsonantally --> eng:interconsonantal --> eng:consonantal --> eng:consonant --> lat:consonans
+eng:intercontact --> eng:contact --> lat:contactus
+eng:intercontinental --> eng:continental
+eng:interconvertibility --> eng:convertibility
+eng:interconvertible --> eng:convertible
+eng:intercooler --> eng:cooler
+eng:intercorporate --> eng:corporate --> lat:corporatus
+eng:intercorrelate --> eng:correlate
+eng:intercorrelation --> eng:correlation
+eng:intercostally --> eng:intercostal
+eng:intercountry --> eng:country --> enm:contree --> fro:contree
+eng:intercrater --> eng:crater
+eng:intercrop --> eng:crop --> ang:cropp
+eng:intercross --> eng:cross --> enm:cross
+eng:interculturally --> eng:intercultural
+eng:intercuneiform --> eng:cuneiform
+eng:intercur --> lat:intercurrere
+eng:intercurrent --> eng:current --> enm:curraunt --> fro:curant
+eng:intercurrently --> eng:intercurrent --> eng:current --> enm:curraunt --> fro:curant
+eng:intercuspal --> eng:cuspal --> eng:cusp
+eng:intercut --> eng:cut --> enm:cutten
+eng:intercutaneous --> eng:cutaneous
+eng:intercycle --> eng:cycle --> lat:cyclus --> grc:κύκλος
+eng:interdash --> eng:dash
+eng:interday --> eng:day --> enm:day --> ang:dæg
+eng:interdeal --> eng:deal --> enm:dele --> ang:dæl
+eng:interdefinable --> eng:definable --> eng:define --> enm:definen --> fro:definer
+eng:interdendrimer --> eng:dendrimer
+eng:interdentil --> eng:dentil --> fra:dentille
+eng:interdepartmental --> eng:department --> fra:département
+eng:interdependentness --> eng:interdependent
+eng:interdevour --> eng:devour --> xno:devourer
+eng:interdialectal --> eng:dialectal --> eng:dialect --> grc:διάλεκτος --> grc:διαλέγομαι
+eng:interdict --> enm:entrediten --> fro:entredire --> lat:interdicere
+eng:interdigit --> eng:digit --> lat:digitus
+eng:interdigital --> eng:digital --> lat:digitalis --> lat:digitus
+eng:interdigitate --> eng:digitate --> lat:digitatus --> lat:digitus
+eng:interdigitation --> eng:digitation --> eng:digitate --> lat:digitatus --> lat:digitus
+eng:interdimensional --> eng:dimensional --> eng:dimension --> lat:dimensio
+eng:interdimer --> eng:dimer
+eng:interdimeric --> eng:dimeric --> eng:dimer
+eng:interdistributional --> eng:distributional
+eng:interdistrict --> eng:district --> fra:district --> lat:districtus
+eng:interdomain --> eng:domain --> enm:demeine
+eng:interdome --> eng:dome --> lat:doma
+eng:interdunal --> eng:dunal --> eng:dune
+eng:interedition --> eng:edition --> lat:editio --> lat:edere
+eng:interelectrode --> eng:electrode
+eng:interelectronic --> eng:electronic --> lat:electrinus --> grc:ἤλεκτρον --> grc:ἠλέκτωρ
+eng:interepimeral --> eng:epimeral
+eng:interequinoctial --> eng:equinoctial
+eng:intereruptive --> eng:eruptive
+eng:interestable --> eng:interest
+eng:interestedly --> eng:interested
+eng:interestedness --> eng:interested
+eng:interester --> eng:ester
+eng:interesterify --> eng:esterify --> eng:ester
+eng:interestest --> eng:interest
+eng:interesteth --> eng:interest
+eng:interesting --> eng:interest
+eng:interestingness --> eng:interesting --> eng:interest
+eng:interestless --> eng:interest
+eng:Intereuropean --> eng:European --> fra:Européen
+eng:interevent --> eng:event --> lat:eventus --> lat:evenio --> lat:e --> lat:et
+eng:interfaceless --> eng:interface
+eng:interfacer --> eng:interface
+eng:interfaction --> eng:faction --> eng:fact --> lat:factum
+eng:interfactional --> eng:factional --> eng:faction --> eng:fact --> lat:factum
+eng:interfactorial --> eng:factorial
+eng:interfamilial --> eng:familial
+eng:interfamily --> eng:family --> lat:familia --> lat:famula
+eng:interfascicular --> eng:fascicular
+eng:interfemale --> eng:female --> fro:femele --> lat:femella
+eng:interfere --> fro:entreferir
+eng:interferingly --> eng:interfering
+eng:interferometer --> eng:interfere --> fro:entreferir
+eng:interferon --> eng:interfere --> fro:entreferir
+eng:interfix --> eng:fix --> fro:fixer
+eng:interfleet --> eng:fleet --> enm:flet --> ang:flet
+eng:interflow --> eng:flow --> ang:flowan
+eng:interfold --> eng:fold --> enm:fold
+eng:interfoliaceous --> eng:foliaceous
+eng:interfollicular --> eng:follicular
+eng:interform --> eng:form --> enm:forme --> fro:forme --> lat:forma --> grc:μόρφα
+eng:interframe --> eng:frame --> enm:framen
+eng:interfretted --> eng:fretted
+eng:interfulgent --> lat:interfulgentem
+eng:interfuse --> eng:fuse
+eng:intergalactic --> eng:galactic
+eng:intergalactically --> eng:intergalactic --> eng:galactic
+eng:interganglionic --> eng:ganglionic
+eng:intergemmal --> eng:gemmal --> eng:gemma --> lat:gemma
+eng:intergender --> eng:gender --> enm:gendren
+eng:intergene --> eng:gene --> deu:Gen
+eng:intergenerational --> eng:generational --> eng:generation --> eng:generacioun --> fro:generacion --> lat:generatio --> lat:generare
+eng:intergenerationally --> eng:intergenerational --> eng:generational --> eng:generation --> eng:generacioun --> fro:generacion --> lat:generatio --> lat:generare
+eng:intergenetic --> eng:genetic
+eng:intergeniculate --> eng:geniculate --> lat:geniculatus --> lat:geniculum
+eng:intergenotypic --> eng:genotypic
+eng:intergern --> eng:gern
+eng:interglacial --> eng:glacial --> fra:glacial --> lat:glacialis
+eng:interglacially --> eng:interglacial --> eng:glacial --> fra:glacial --> lat:glacialis
+eng:interglobular --> eng:globular
+eng:intergluteal --> eng:gluteal --> eng:gluteus --> grc:γλουτός
+eng:intergrain --> eng:grain --> fro:grain --> lat:granum
+eng:intergraven --> eng:graven
+eng:intergrow --> eng:grow --> enm:growen --> ang:growan
+eng:intergrown --> eng:grown
+eng:interhaemal --> eng:haemal
+eng:interhemispheric --> eng:hemispheric
+eng:interhemispherical --> eng:hemispherical
+eng:interhospital --> eng:hospital --> fro:hospital --> lat:hospitalis --> lat:hospes
+eng:interhuman --> eng:human --> frm:humain --> lat:humanus --> lat:homo --> lat:hemo
+eng:interhyal
+eng:interictal --> eng:ictal --> eng:ictus
+eng:interictally --> eng:interictal --> eng:ictal --> eng:ictus
+eng:interilluminate --> eng:illuminate --> enm:illuminaten
+eng:interim --> lat:interim
+eng:interinstitutional --> eng:institutional --> eng:institution --> fro:institution --> lat:institutio --> lat:instituere
+eng:interionic --> eng:ionic --> eng:ion --> grc:ἰόν
+eng:interior --> lat:interior
+eng:interiority --> eng:interior --> lat:interior
+eng:interiorize --> eng:interior --> lat:interior
+eng:interiorly --> eng:interior --> lat:interior
+eng:interiorscape --> eng:interior --> lat:interior
+eng:interitem --> eng:item
+eng:interjaculate --> eng:jaculate
+eng:interject --> lat:interiectus
+eng:interjection --> fro:interjection --> lat:interiectionem
+eng:interjectionally --> eng:interjection --> fro:interjection --> lat:interiectionem
+eng:interjectionary --> eng:interjection --> fro:interjection --> lat:interiectionem
+eng:interjectively --> eng:interjective
+eng:interjoin --> eng:join --> fro:joindre --> lat:iungo
+eng:interjoist --> eng:joist --> fro:giste
+eng:interjudge --> eng:judge --> fro:juge
+eng:interjunction --> lat:interjunctus
+eng:interknit --> eng:knit --> enm:knitten --> ang:cnyttan
+eng:interknot --> eng:knot
+eng:interknow --> eng:know --> enm:knowen --> ang:cnawan
+eng:interknowledge --> eng:knowledge --> enm:knowleche
+eng:interlace --> enm:entrelacen --> xno:entrelacer
+eng:interladder --> eng:ladder --> ang:hlæder
+eng:interlamellar --> eng:lamellar
+eng:interlaminar --> eng:laminar --> lat:lamina
+eng:interlanguage --> eng:language --> enm:language --> fro:language
+eng:interlapse --> eng:lapse --> frm:laps --> lat:lapsus --> lat:labi
+eng:interleague --> eng:league --> enm:ligg --> frm:ligue --> ita:lega
+eng:interlegislative --> eng:legislative
+eng:interlevel --> eng:level --> enm:level --> fro:livel
+eng:interlexeme --> eng:lexeme --> lat:lexis --> grc:λέξις --> grc:λέγω
+eng:interlexemic --> eng:lexemic
+eng:interlexical --> eng:lexical --> lat:lexis --> grc:λέξις --> grc:λέγω
+eng:interlibrary --> eng:library --> enm:librarie --> xno:librarie --> fro:librairie --> lat:librarium --> lat:librarius --> lat:liber
+eng:interlinearly --> eng:interlinear
+eng:interlineation --> eng:interlineate
+eng:interlinguistics --> eng:linguistics --> eng:linguist
+eng:interlining --> eng:lining
+eng:interlink --> eng:link
+eng:interlobar --> eng:lobar
+eng:interlobular --> eng:lobular
+eng:interlocation --> eng:location --> lat:locatio --> lat:locare --> lat:locus --> lat:stlocus
+eng:interlock --> eng:lock --> ang:locc
+eng:interlocutional --> eng:interlocution
+eng:interlocutor --> fra:interlocutoire --> lat:interlocutorium
+eng:interlucation --> lat:interlucatio
+eng:interlude --> lat:ludo
+eng:interluder --> eng:interlude --> lat:ludo
+eng:interluency --> lat:interluens
+eng:interlunar --> eng:lunar --> lat:lunaris --> lat:luna
+eng:intermale --> eng:male --> enm:male
+eng:intermandibular --> eng:mandibular
+eng:intermarker --> eng:marker
+eng:intermarriage --> eng:marriage --> fro:mariage --> fro:marier --> lat:marito --> lat:maritus --> lat:mas
+eng:intermarriageable --> eng:marriageable
+eng:intermarrier --> eng:intermarry
+eng:intermaxillary --> eng:maxillary
+eng:intermean --> eng:mean --> enm:meene --> fro:meien
+eng:intermeation --> lat:intermeare
+eng:intermeddle --> xno:entremedler
+eng:intermeddler --> eng:intermeddle --> xno:entremedler
+eng:intermeddlesome --> eng:intermeddle --> xno:entremedler
+eng:intermede --> fra:intermède
+eng:intermedial --> eng:medial --> lat:medialis --> lat:medius
+eng:intermediate --> lat:intermediatus
+eng:intermediation --> eng:intermediate --> lat:intermediatus
+eng:intermedious --> lat:intermedius
+eng:intermembral --> eng:membral --> eng:member --> enm:membre --> fro:membre --> lat:membrum
+eng:intermembrane --> eng:membrane --> lat:membrana --> lat:membrum
+eng:intermembranous --> eng:membranous --> fra:membraneux --> lat:membraneus --> lat:membrana --> lat:membrum
+eng:intermention --> eng:mention --> fro:mention --> lat:mentio --> lat:mens
+eng:intermesenteric --> eng:mesenteric
+eng:intermesh --> eng:mesh --> enm:mesche
+eng:intermeshing --> eng:meshing
+eng:intermetacarpal --> eng:metacarpal
+eng:intermetallic --> eng:metallic --> lat:metallicus --> lat:metallum --> grc:μέταλλον --> grc:μέταλλευειν
+eng:intermetatarsal --> eng:metatarsal
+eng:intermezzo --> ita:intermezzo
+eng:intermigration --> eng:migration
+eng:interminableness --> eng:interminable
+eng:interminably --> eng:interminable
+eng:interminate --> eng:terminate --> lat:terminatus
+eng:intermination --> lat:interminatio
+eng:intermine --> eng:mine --> ang:min
+eng:intermingledness --> eng:intermingled
+eng:interminiband --> eng:miniband --> eng:band --> enm:band --> ang:beand
+eng:interministerial --> eng:ministerial
+eng:intermissionless --> eng:intermission
+eng:intermit --> lat:intermittere
+eng:intermittent --> lat:intermittens
+eng:intermittently --> eng:intermittent --> lat:intermittens
+eng:intermittingly --> eng:intermitting
+eng:intermix --> eng:mix --> enm:mixen --> ang:mixian
+eng:intermixedly --> eng:intermixed
+eng:intermixingly --> eng:intermixing
+eng:intermobility --> eng:mobility --> lat:mobilitas
+eng:intermodel --> eng:model --> frm:modelle --> ita:modello --> lat:modellus
+eng:intermodillion --> eng:modillion
+eng:intermodulation --> eng:modulation
+eng:intermonolayer --> eng:monolayer
+eng:intermonomer --> eng:monomer
+eng:intermonsoon --> eng:monsoon --> ara:موسم
+eng:intermontane --> eng:montane --> lat:montanus
+eng:intermountain --> eng:mountain
+eng:intermundane --> eng:mundane --> lat:mundanus
+eng:intermural --> eng:mural --> lat:muralis --> lat:murus
+eng:intermuscular --> eng:muscular
+eng:intermutation --> eng:mutation
+eng:intermutual --> eng:mutual --> frm:mutuel --> lat:mutuus --> lat:muto
+eng:intermyofibrillar --> eng:myofibrillar
+eng:intern --> lat:interner --> lat:interne --> lat:internus --> lat:inter --> lat:volvere
+eng:internal --> lat:internalis
+eng:internalisation --> eng:internalise
+eng:internalism --> eng:internal --> lat:internalis
+eng:internalist --> eng:internal --> lat:internalis
+eng:internalistically --> eng:internalistic
+eng:internalizer --> eng:internalize
+eng:internally --> eng:internal --> lat:internalis
+eng:internasal --> eng:nasal --> lat:nasalis
+eng:internationality --> eng:international
+eng:internationally --> eng:international
+eng:internationalness --> eng:international
+eng:internecine --> lat:internecīvus
+eng:internecion --> lat:internecio
+eng:interneoglacial --> eng:neoglacial
+eng:internetable --> eng:Internet
+eng:internetless --> eng:internet
+eng:Internetter --> eng:Internet
+eng:interneural --> eng:neural
+eng:interneuronal --> eng:neuron
+eng:interneurons --> eng:neuron
+eng:internship --> eng:intern --> lat:interner --> lat:interne --> lat:internus --> lat:inter --> lat:volvere
+eng:internucleon --> eng:nucleon
+eng:internucleoside --> eng:nucleoside
+eng:internuncial --> eng:nuncial
+eng:internuncioship --> eng:internuncio
+eng:internym
+eng:interobserver --> eng:observer
+eng:interocclusal --> eng:occlusal
+eng:interocular --> eng:ocular --> lat:ocularis --> lat:oculus
+eng:interoperability --> eng:interoperable --> eng:interoperate --> eng:operate --> lat:operatus
+eng:interoperable --> eng:interoperate --> eng:operate --> lat:operatus
+eng:interoperate --> eng:operate --> lat:operatus
+eng:interoperative --> eng:operative
+eng:interoperator --> eng:operator
+eng:interoperculum --> eng:operculum --> lat:operire
+eng:interorgan --> eng:organ --> lat:organum --> grc:ὄργανον
+eng:interosculant --> eng:osculant --> lat:osculans
+eng:interosculate --> eng:osculate
+eng:interosseous --> eng:osseous
+eng:interpair --> eng:pair --> fro:paire --> lat:paria
+eng:interpale --> eng:pale
+eng:interpalpebral --> eng:palpebral
+eng:interpandemic --> eng:pandemic --> lat:pandemus --> grc:πάνδημος
+eng:interparietal --> eng:parietal
+eng:interparliamentary --> eng:parliamentary
+eng:interparochial --> eng:parochial
+eng:interparoxysmal --> eng:paroxysmal
+eng:interparty --> eng:party --> eng:partie
+eng:interpatient --> eng:patient --> lat:patiens
+eng:interpause --> eng:pause --> frm:pause --> lat:pausa --> grc:παῦσις --> grc:παύω
+eng:interpeduncular --> eng:peduncular
+eng:interpel --> lat:interpello
+eng:interpellate --> lat:interpello
+eng:interpenetrate --> eng:penetrate --> lat:penetratus
+eng:interpenetration --> eng:penetration --> frm:pénétration
+eng:interpeptide --> eng:peptide --> grc:πεπτός
+eng:interpersonal --> eng:personal --> enm:personal
+eng:interpersonally --> eng:interpersonal --> eng:personal --> enm:personal
+eng:interpetiolar --> eng:petiolar
+eng:interphotoreceptor --> eng:photoreceptor
+eng:interphylum --> eng:phylum --> lat:phylum --> grc:φῦλον
+eng:interpilaster --> eng:pilaster --> frm:pilastre --> ita:pilastro
+eng:interpixel --> eng:pixel
+eng:interplace --> eng:place --> enm:place --> ang:plæse
+eng:interplane --> eng:plane --> fro:plane --> lat:platanus --> grc:πλάτανος --> grc:πλατύς
+eng:interplanetary --> eng:planetary
+eng:interplant --> eng:plant --> enm:planten --> ang:plantian --> lat:plantare
+eng:interplatform --> eng:platform
+eng:interplayer --> eng:player --> enm:playere --> ang:plegere
+eng:interplea --> eng:plea
+eng:interplead --> eng:plead --> enm:pleden
+eng:interpleader --> eng:interplead --> eng:plead --> enm:pleden
+eng:interpledge --> eng:pledge --> enm:plege --> xno:plege --> fro:plege --> lat:plevium
+eng:interploidy --> eng:ploidy
+eng:interpoint --> eng:point --> enm:point --> fro:point --> lat:punctum
+eng:Interpol --> eng:international
+eng:interpolator --> eng:interpolate
+eng:interpopulation --> eng:population --> lat:populatio --> lat:populare --> lat:populus
+eng:interposable --> eng:interpose
+eng:interposer --> eng:interpose
+eng:interposit --> lat:interpositus
+eng:interposition --> eng:position --> fra:position --> lat:positio --> lat:ponere
+eng:interpret --> enm:interpreten --> fro:enterpreter --> lat:interpretor
+eng:interpretability --> eng:interpretable
+eng:interpretament --> lat:interpretamentum
+eng:interpretational --> eng:interpretation
+eng:interpretationally --> eng:interpretational --> eng:interpretation
+eng:interpretership --> eng:interpreter
+eng:interpretess --> eng:interpreter
+eng:interprismatic --> eng:prismatic
+eng:interprocedural --> eng:procedural --> eng:procedure --> fro:procedure
+eng:interprocess --> eng:process --> fro:procés --> lat:processus
+eng:interprocessor --> eng:processor
+eng:interprofessional --> eng:professional
+eng:interprotein --> eng:protein
+eng:interprotocol --> eng:protocol --> frm:protocolle
+eng:interprotomer --> eng:protomer --> eng:oligomer
+eng:interprovincial --> eng:provincial --> lat:provincialis
+eng:interpsychic --> eng:psychic --> grc:ψυχικός --> grc:ψυχή --> grc:ψύχω
+eng:interpubic --> eng:pubic --> eng:pubis
+eng:interpulmonary --> eng:pulmonary --> lat:pulmonarius
+eng:interpunction --> lat:interpunctio --> lat:punctio --> lat:punctus
+eng:interpupil --> eng:pupil --> xno:pupille --> lat:pupillus
+eng:interquark --> eng:quark --> deu:Quark
+eng:interquartile --> eng:quartile
+eng:interqubit --> eng:qubit --> eng:bit
+eng:interquery --> eng:query
+eng:interracialism --> eng:interracial
+eng:interracialize --> eng:interracial
+eng:interracially --> eng:interracial
+eng:interradial --> eng:radial
+eng:interramal --> eng:ramal --> eng:ramus --> lat:ramus
+eng:interrater --> eng:rater --> eng:rate --> enm:raten --> non:hrata
+eng:interreact --> eng:react
+eng:interreaction --> eng:reaction --> fro:reaction --> lat:reactio --> lat:actio --> lat:actum --> lat:ago
+eng:interreceptor --> eng:receptor
+eng:interreducible --> eng:reducible
+eng:interreflection --> eng:reflection --> frm:reflexion
+eng:interregent --> eng:regent --> fro:regent
+eng:interrelated --> eng:related
+eng:interrelatedness --> eng:interrelated --> eng:related
+eng:interrelational --> eng:inter --> fra:enterrer
+eng:interreligious --> eng:religious --> xno:relegius
+eng:interrenal --> eng:renal --> lat:renalis --> lat:renes
+eng:interrer --> eng:inter --> fra:enterrer
+eng:interresidue --> eng:residue
+eng:interrogate --> lat:interrogatus
+eng:interrogatee --> eng:interrogate --> lat:interrogatus
+eng:interrogatingly --> eng:interrogating
+eng:interrogatively --> eng:interrogative
+eng:interrogator --> eng:interrogate --> lat:interrogatus
+eng:interrogatrix --> eng:interrogator --> eng:interrogate --> lat:interrogatus
+eng:interrow --> eng:row --> ang:raw
+eng:interrupt --> lat:interruptus --> lat:interrumpere
+eng:interruptable --> eng:interrupt --> lat:interruptus --> lat:interrumpere
+eng:interruptible --> eng:interrupt --> lat:interruptus --> lat:interrumpere
+eng:interruptionless --> eng:interruption
+eng:interruptive --> eng:interrupt --> lat:interruptus --> lat:interrumpere
+eng:interruptless --> eng:interrupt --> lat:interruptus --> lat:interrumpere
+eng:interscale --> eng:scale --> enm:scale --> ang:scealu
+eng:interscapular --> eng:scapular --> lat:scapulare --> lat:scapula
+eng:interschool --> eng:school --> enm:schole
+eng:interseasonal --> eng:seasonal
+eng:intersect --> lat:intersecare
+eng:intersection --> lat:intersectio
+eng:intersectional --> eng:intersection --> lat:intersectio
+eng:intersectionalism --> eng:intersectional --> eng:intersection --> lat:intersectio
+eng:intersegment --> eng:segment --> lat:segmentum --> lat:secare
+eng:intersensor --> eng:sensor
+eng:interseptal --> eng:septal
+eng:intersert --> lat:intersertus
+eng:interservice --> eng:service --> fro:servise --> lat:servitium --> lat:servus
+eng:intersesamoid --> eng:sesamoid
+eng:interset --> eng:set --> enm:set
+eng:intersheet --> eng:sheet
+eng:intershine --> eng:shine --> enm:schinen
+eng:intershock --> eng:shock
+eng:intershow --> eng:show --> enm:schewen
+eng:intersidereal --> eng:sidereal --> lat:sidereus
+eng:intersocial --> eng:social --> frm:social --> lat:socialis --> lat:socius --> lat:sequor
+eng:intersocially --> eng:intersocial --> eng:social --> frm:social --> lat:socialis --> lat:socius --> lat:sequor
+eng:intersocietal --> eng:societal --> eng:society --> fro:societé --> lat:societas --> lat:socius --> lat:sequor
+eng:intersomitic --> eng:somitic
+eng:intersong --> eng:song --> ang:sang
+eng:intersource --> eng:source --> enm:sours --> fro:sorse
+eng:interspace --> eng:space --> xno:space
+eng:interspecific --> eng:specific --> fro:specifique --> lat:specificus
+eng:interspersal --> eng:intersperse --> lat:interspersus
+eng:intersperse --> lat:interspersus
+eng:intersphere --> eng:sphere --> fro:sphere --> lat:sphera --> lat:sphaera --> grc:σφαῖρα
+eng:interspike --> eng:spike
+eng:interspinal --> eng:spinal --> lat:spīnālis --> lat:spīna
+eng:interspiration --> lat:interspiratio
+eng:interstack --> eng:stack
+eng:interstacked --> eng:stacked
+eng:interstacking --> eng:stacking
+eng:interstadial --> eng:stadial --> lat:stadialis --> lat:stadium --> grc:στάδιον --> grc:στάδιος
+eng:interstage --> eng:stage --> enm:stage --> fro:estage --> fro:ester --> lat:esto --> lat:sto
+eng:interstellar --> eng:stellar --> lat:stellaris --> lat:stella
+eng:interstep --> eng:step --> ang:stepe
+eng:interstereocilia --> eng:stereocilia
+eng:interstereocilial --> eng:stereocilial
+eng:intersternal --> eng:sternal --> eng:sternum
+eng:intersticed --> eng:interstice
+eng:interstitial --> eng:interstitium --> lat:interstitium
+eng:interstitially --> eng:interstitial --> eng:interstitium --> lat:interstitium
+eng:interstitium --> lat:interstitium
+eng:interstrain --> eng:strain --> ang:streon
+eng:interstratification --> eng:stratification --> eng:stratum --> lat:stratum --> lat:stratus
+eng:interstratify --> eng:stratify
+eng:interstring --> eng:string --> enm:string
+eng:interstroke --> eng:stroke --> enm:stroken
+eng:intersubjectively --> eng:intersubjective
+eng:intersubjectiveness --> eng:intersubjective
+eng:intersubstitute --> eng:substitute --> lat:substitutum
+eng:intersubtype --> eng:subtype
+eng:intersubunit --> eng:subunit --> eng:unit
+eng:intersuck --> eng:suck --> enm:souken --> ang:sucan
+eng:intersurvey --> eng:survey --> fro:sourveoir --> lat:supervideo
+eng:intersymbol --> eng:symbol
+eng:intertalk --> eng:talk --> enm:talken
+eng:intertangle --> eng:tangle
+eng:intertank --> eng:tank --> por:tanque --> guj:tankh
+eng:intertarsal --> eng:tarsal
+eng:intertemporally --> eng:intertemporal
+eng:interterminal --> eng:terminal --> fra:terminal --> lat:terminalis
+eng:interterritorial --> eng:territorial
+eng:interterritorially --> eng:interterritorial --> eng:territorial
+eng:intertestamental --> eng:testament
+eng:intertext --> eng:text --> fro:texte --> lat:textus --> lat:texere
+eng:intertextually --> eng:intertextual
+eng:intertexture --> eng:texture --> fra:texture --> lat:textura --> lat:textus --> lat:texere
+eng:interthoracic --> eng:thoracic --> grc:θωρακικός --> grc:θώραξ
+eng:interthread --> eng:thread --> enm:threed
+eng:intertie --> eng:tie --> ang:teag
+eng:intertown --> eng:town
+eng:intertrack --> eng:track
+eng:intertraffic --> eng:traffic --> fra:trafic
+eng:intertranslation --> eng:translation --> lat:translatio --> lat:transfero
+eng:intertranspicuous --> eng:transpicuous
+eng:intertransverse --> eng:transverse
+eng:intertribal --> eng:tribal
+eng:intertrigo --> lat:intertrigo
+eng:intertrimer --> eng:trimer
+eng:intertrochanter --> eng:trochanter --> grc:τροχαντήρ
+eng:intertrochanteric --> eng:trochanteric
+eng:intertropical --> eng:tropical --> eng:tropic --> lat:tropicus --> grc:τροπικός --> grc:τροπή
+eng:intertube --> eng:tube --> frm:tube --> lat:tubus
+eng:intertubular --> eng:tubular
+eng:intertwiningly --> eng:intertwining
+eng:intertwist --> eng:twist
+eng:intertype --> eng:type --> lat:typus --> grc:τύπος --> grc:τύπτω
+eng:interungulate --> eng:ungulate --> lat:ungulatus --> lat:ungula --> lat:unguis
+eng:interunion --> eng:union --> fro:union --> lat:unionem --> lat:unus --> lat:oinos
+eng:interuniversity --> eng:university
+eng:interuser --> eng:user --> enm:user
+eng:intervaginal --> eng:vaginal --> eng:vagina --> lat:vagina
+eng:interval --> fro:intervalle
+eng:intervallic --> eng:intervallum
+eng:intervalometer --> eng:interval --> fro:intervalle
+eng:intervary --> eng:vary --> enm:varien --> fro:varier --> lat:vario --> lat:varius
+eng:intervehicle --> eng:vehicle --> fra:véhicule --> lat:vehiculum --> lat:vehere
+eng:intervein --> eng:vein
+eng:interveined --> eng:veined
+eng:intervener --> eng:intervene
+eng:intervenose --> eng:venose
+eng:intervenous --> eng:venous
+eng:interventional --> eng:intervention
+eng:interventive --> eng:intervene
+eng:intervert --> lat:interverto
+eng:interview --> xno:entreveue
+eng:interviewee --> eng:interview --> xno:entreveue
+eng:interview-worthy --> eng:interview --> xno:entreveue
+eng:intervisible --> eng:visible
+eng:intervisit --> eng:visit --> lat:visito
+eng:intervital --> eng:vital
+eng:intervocalic --> eng:vocalic
+eng:intervocalically --> eng:intervocalic --> eng:vocalic
+eng:intervolution --> lat:inter --> lat:volvere
+eng:intervolve --> lat:inter --> lat:volvere
+eng:intervortex --> eng:vortex
+eng:intervoxel --> eng:voxel --> eng:pixel
+eng:interwave --> eng:wave --> enm:waven --> ang:wafian
+eng:interweavingly --> eng:interweaving
+eng:interweb --> eng:Internet
+eng:interwiki --> eng:wiki --> haw:wikiwiki
+eng:interwind --> eng:wind --> ang:windan
+eng:interword --> eng:word --> enm:word --> ang:word
+eng:interwork --> eng:work --> ang:weorc
+eng:interworking --> eng:working
+eng:interworld --> eng:world --> enm:world --> ang:woruld
+eng:interwovenness --> eng:interwoven
+eng:interwreathe --> eng:wreathe
+eng:interzonal --> eng:zonal
+eng:interzoo --> eng:zoo
+eng:intestine --> lat:intestinum
+eng:intestinelike --> eng:intestine --> lat:intestinum
+eng:intetumumab
+eng:intext --> eng:in --> ang:inne
+eng:intexticated --> eng:intoxicated
+eng:intextured --> eng:textured
+eng:in the land of the blind, the one-eyed man is king --> lat:in regione caecorum rex est luscus
+eng:in the works --> eng:in --> ang:inne
+eng:inthrill --> eng:thrill --> ang:þyrlian
+eng:inthronization --> lat:inthronizatio
+eng:inthronize --> lat:inthronisare
+eng:intifada --> ara:انتفاضة
+eng:intimate --> lat:intimare
+eng:intimately --> eng:intimate --> lat:intimare
+eng:intimation --> lat:intimatio
+eng:intimidate --> lat:intimidatus
+eng:intimidatory --> eng:intimidate --> lat:intimidatus
+eng:into --> ang:into
+eng:intolerable --> eng:tolerable --> eng:tolerate --> lat:toleratus --> lat:tolero
+eng:intolerableness --> eng:intolerable --> eng:tolerable --> eng:tolerate --> lat:toleratus --> lat:tolero
+eng:intolerably --> eng:intolerable --> eng:tolerable --> eng:tolerate --> lat:toleratus --> lat:tolero
+eng:intolerated --> eng:tolerated
+eng:intonement --> eng:intone
+eng:intoningly --> eng:intoning
+eng:intort --> lat:intortus
+eng:intoxicate --> lat:intoxicātus
+eng:intoxicatedlike --> eng:intoxicated
+eng:intoxicatedness --> eng:intoxicated
+eng:intoxicatingly --> eng:intoxicating
+eng:intra- --> lat:intra
+eng:intraabdominal --> eng:abdominal
+eng:intraamniotic --> eng:amniotic
+eng:intraarterial --> eng:arterial
+eng:intraarterially --> eng:intraarterial --> eng:arterial
+eng:intraarticular --> eng:articular
+eng:intraatomic --> eng:atomic
+eng:intraaxillary --> eng:axillary
+eng:intraband --> eng:band --> enm:band --> ang:beand
+eng:intrabank --> eng:bank --> enm:bank
+eng:intrabinary --> eng:binary --> lat:binarius --> lat:bini
+eng:intrabuccal --> eng:buccal
+eng:intrabuilding --> eng:building
+eng:intracampus --> eng:campus --> lat:campus
+eng:intracapsular --> eng:capsular
+eng:intracarotid --> eng:carotid
+eng:intracarpal --> eng:carpal
+eng:intracartilaginous --> eng:cartilaginous
+eng:intracavernosal --> eng:cavernosal
+eng:intracavernous --> eng:cavernous
+eng:intracavitary --> eng:cavitary
+eng:intracavity --> eng:cavity --> lat:cavitas --> lat:cavus
+eng:intracell --> eng:cell
+eng:intracellular --> eng:cellular
+eng:intracerebellar --> eng:cerebellar
+eng:intracerebroventricular --> eng:cerebroventricular --> eng:ventricular
+eng:intracervical --> eng:cervical --> lat:cervix
+eng:intrachromosomal --> eng:chromosomal --> eng:chromosome
+eng:intracisternal --> eng:cisternal
+eng:intraclade --> eng:clade --> grc:κλάδος
+eng:intraclan --> eng:clan --> gla:clann --> sga:cland --> owl:plant --> lat:planta
+eng:intraclass --> eng:class --> fra:classe --> lat:classis
+eng:intracloud --> eng:cloud --> enm:cloud
+eng:intraclub --> eng:club --> enm:clubbe --> non:klubba
+eng:intracluster --> eng:cluster --> enm:cluster
+eng:intracolic --> eng:colic
+eng:intracolonial --> eng:colonial --> eng:colony --> lat:colonia --> lat:colonus --> lat:colo --> lat:colum
+eng:intracomponent --> eng:component --> lat:componens
+eng:intraconference --> eng:conference
+eng:intracordal --> eng:cordal
+eng:intracorporal --> eng:corporal --> lat:corporalis
+eng:intracorporeal --> eng:corporeal --> lat:corporeus --> lat:corpus
+eng:intracorporeally --> eng:intracorporeal --> eng:corporeal --> lat:corporeus --> lat:corpus
+eng:intracorpuscular --> eng:corpuscular
+eng:intracostal --> eng:costal
+eng:intracranially --> eng:intracranial
+eng:intracrater --> eng:crater
+eng:intracrustal --> eng:crustal --> eng:crust
+eng:intracrystal --> eng:crystal --> ang:cristal --> lat:crystallum --> grc:κρύσταλλοσ
+eng:intractable --> eng:tractable --> lat:tractabilis --> lat:tracto
+eng:intractile --> eng:tractile --> lat:trahere
+eng:intracycle --> eng:cycle --> lat:cyclus --> grc:κύκλος
+eng:intracystic --> eng:cystic
+eng:intracytosolic --> eng:cytosolic
+eng:intradermal --> eng:dermal
+eng:intradialectal --> eng:dialectal --> eng:dialect --> grc:διάλεκτος --> grc:διαλέγομαι
+eng:intradimer --> eng:dimer
+eng:intradistrict --> eng:district --> fra:district --> lat:districtus
+eng:intradivision --> eng:division --> lat:divisio --> lat:divido
+eng:intradot --> eng:dot --> ang:dott
+eng:intraduct --> eng:duct --> lat:ductus
+eng:intraductal --> eng:ductal
+eng:intraerythrocytic --> eng:erythrocytic
+eng:intraexon --> eng:exon
+eng:intraexonic --> eng:exonic
+eng:intrafactional --> eng:factional --> eng:faction --> eng:fact --> lat:factum
+eng:intrafamilial --> eng:familial
+eng:intrafamily --> eng:family --> lat:familia --> lat:famula
+eng:intrafascicular --> eng:fascicular
+eng:intrafebrile --> eng:febrile --> lat:febrilis --> lat:febris
+eng:intraflagellar --> eng:flagellar
+eng:intrafoliaceous --> eng:foliaceous
+eng:intrafollicular --> eng:follicular
+eng:intraframe --> eng:frame --> enm:framen
+eng:intragap --> eng:gap --> non:gap
+eng:intragastric --> eng:gastric --> grc:γαστήρ
+eng:intragemmal --> eng:gemmal --> eng:gemma --> lat:gemma
+eng:intragender --> eng:gender --> enm:gendren
+eng:intrageneric --> eng:generic
+eng:intraglandular --> eng:glandular
+eng:intragluteal --> eng:gluteal --> eng:gluteus --> grc:γλουτός
+eng:intragluteally --> eng:intragluteal --> eng:gluteal --> eng:gluteus --> grc:γλουτός
+eng:intragovernmental --> eng:governmental --> eng:government --> enm:governement --> fro:governement --> lat:gubernatio --> grc:κυβερνισμός
+eng:intragrain --> eng:grain --> fro:grain --> lat:granum
+eng:intragranular --> eng:granular --> eng:granule --> lat:granulum
+eng:intraguild --> eng:guild --> enm:gilde --> non:gildi
+eng:intrahepatic --> eng:hepatic --> lat:hepaticus --> grc:ἡπατικός --> grc:ἧπαρ
+eng:intrahippocampal --> eng:hippocampal
+eng:intrahospital --> eng:hospital --> fro:hospital --> lat:hospitalis --> lat:hospes
+eng:intrahost --> eng:host --> fro:hoste
+eng:intrahyphal --> eng:hyphal
+eng:intraileal --> eng:ileal --> eng:ileum
+eng:intraileally --> eng:intraileal --> eng:ileal --> eng:ileum
+eng:intraindividual --> eng:individual --> lat:individualis --> lat:individuum
+eng:intraislet --> eng:islet --> frm:islette
+eng:intrajugular --> eng:jugular --> lat:jugularis --> lat:iugulum --> lat:iugum
+eng:intralaminar --> eng:laminar --> lat:lamina
+eng:intralaryngeal --> eng:laryngeal
+eng:intralayer --> eng:layer --> enm:leyer
+eng:intraleague --> eng:league --> enm:ligg --> frm:ligue --> ita:lega
+eng:intralexemic --> eng:lexemic
+eng:intraligamentous --> eng:ligamentous
+eng:intralinguistic --> eng:linguistic
+eng:intralobular --> eng:lobular
+eng:intramacrophage --> eng:macrophage
+eng:intramatrix --> eng:matrix --> fro:matrice --> lat:matricem
+eng:intramaxillary --> eng:maxillary
+eng:intramembrane --> eng:membrane --> lat:membrana --> lat:membrum
+eng:intrameningeal --> eng:meningeal
+eng:intramercurial --> eng:Mercurial
+eng:intramitochondrial --> eng:mitochondrial --> eng:mitochondria
+eng:intramode --> eng:mode --> fra:mode --> lat:modus
+eng:intramonthly --> eng:monthly --> eng:month --> enm:month
+eng:intramundane --> eng:mundane --> lat:mundanus
+eng:intramurally --> eng:intramural
+eng:intranasal --> eng:nasal --> lat:nasalis
+eng:intraneural --> eng:neural
+eng:intraneuritic --> eng:neuritic
+eng:intraneuronal --> eng:neuronal
+eng:intranight --> eng:night --> enm:night
+eng:intranodal --> eng:nodal
+eng:intransigent --> fra:intransigeant --> spa:intransigente
+eng:intransigently --> eng:intransigent --> fra:intransigeant --> spa:intransigente
+eng:intransitively --> eng:intransitive
+eng:intransmissible --> eng:transmissible
+eng:intransmutable --> eng:transmutable
+eng:intraobserver --> eng:observer
+eng:intra-octaval --> eng:octaval --> eng:octave --> lat:octavus --> lat:octo
+eng:intraocularly --> eng:intraocular
+eng:intraoffice --> eng:office --> xno:office
+eng:intraoral --> eng:oral --> lat:oralis --> lat:os
+eng:intraorbital --> eng:orbital
+eng:intraosseous --> eng:osseous
+eng:intraosseously --> eng:intraosseous --> eng:osseous
+eng:intraovarian --> eng:ovarian
+eng:intrapair --> eng:pair --> fro:paire --> lat:paria
+eng:intrapancreatic --> eng:pancreatic
+eng:intraparenchymal --> eng:parenchymal
+eng:intraparty --> eng:party --> eng:partie
+eng:intrapatient --> eng:patient --> lat:patiens
+eng:intrapelvic --> eng:pelvic
+eng:intraperitoneal --> eng:peritoneal
+eng:intraperitoneally --> eng:intraperitoneal --> eng:peritoneal
+eng:intrapersonal --> eng:personal --> enm:personal
+eng:intrapetiolar --> eng:petiolar
+eng:intrapipette --> eng:pipette --> fra:pipette --> fra:pipe
+eng:intraplantar --> eng:plantar --> lat:planta
+eng:intraplate --> eng:plate --> fro:plate --> lat:plata
+eng:intraplatform --> eng:platform
+eng:intrapleural --> eng:pleural
+eng:intrapolaron --> eng:polaron
+eng:intrapopulation --> eng:population --> lat:populatio --> lat:populare --> lat:populus
+eng:intrapreneur --> eng:entrepreneur --> fra:entrepreneur
+eng:intrapulmonary --> eng:pulmonary --> lat:pulmonarius
+eng:intrapulse --> eng:pulse --> lat:pulsus --> lat:pellere
+eng:intraquartile --> eng:quartile
+eng:intraquery --> eng:query
+eng:intraracial --> eng:racial
+eng:intrarectal --> eng:rectal
+eng:intraregional --> eng:regional
+eng:intraresidue --> eng:residue
+eng:intraretinal --> eng:retinal
+eng:intraschool --> eng:school --> enm:schole
+eng:intraseasonal --> eng:seasonal
+eng:intraset --> eng:set --> enm:set
+eng:intrasex --> eng:sex
+eng:intrasexual --> eng:sexual --> lat:sexualis
+eng:intrasite --> eng:site
+eng:intrasocietal --> eng:societal --> eng:society --> fro:societé --> lat:societas --> lat:socius --> lat:sequor
+eng:intraspecies --> eng:species --> lat:species
+eng:intrasplenic --> eng:splenic
+eng:intrasporal --> eng:sporal
+eng:intrasquad --> eng:squad --> fra:escouade
+eng:intrasubband --> eng:subband
+eng:intrasubunit --> eng:subunit --> eng:unit
+eng:intrasyllabic --> eng:syllabic --> lat:syllabicus --> grc:συλλαβικός --> grc:συλλαβή --> grc:συλλαμβάνω
+eng:intrasynovial --> eng:synovial
+eng:intrasystem --> eng:system
+eng:intrateam --> eng:team --> enm:teme --> ang:team
+eng:intratelomeric --> eng:telomeric
+eng:intraterritorial --> eng:territorial
+eng:intratesticular --> eng:testicular --> lat:testicularis --> lat:testiculum
+eng:intratextual --> eng:textual
+eng:intrathecally --> eng:intrathecal
+eng:intrathymic --> eng:thymic
+eng:intratracheally --> eng:intratracheal
+eng:intratropical --> eng:tropical --> eng:tropic --> lat:tropicus --> grc:τροπικός --> grc:τροπή
+eng:intratumor --> eng:tumor --> fro:tumour --> lat:tumor --> lat:tumeo
+eng:intratympanic --> eng:tympanic
+eng:intraunion --> eng:union --> fro:union --> lat:unionem --> lat:unus --> lat:oinos
+eng:intraurethral --> eng:urethral
+eng:intrauterine --> eng:uterine
+eng:intravacuolar --> eng:vacuolar
+eng:intra-vaginal --> eng:vaginal --> eng:vagina --> lat:vagina
+eng:intravaginally --> eng:intravaginal
+eng:intravalvular --> eng:valvular --> lat:valvularum
+eng:intravenous --> eng:venous
+eng:intraverbal --> eng:verbal
+eng:intravesical --> eng:vesical
+eng:intravital --> eng:vital
+eng:intravitreous --> eng:vitreous --> lat:vitreus --> lat:vitrum
+eng:intravoxel --> eng:voxel --> eng:pixel
+eng:intrazonal --> eng:zonal
+eng:intreatable --> eng:treatable --> eng:treat --> xno:treter
+eng:intrenchant --> eng:trenchant
+eng:intrepid --> lat:intrepidus --> lat:trepidus
+eng:intrepidity --> eng:intrepid --> lat:intrepidus --> lat:trepidus
+eng:intricable --> frm:intricable
+eng:intricate --> lat:intricatus
+eng:intricateness --> eng:intricate --> lat:intricatus
+eng:intricoes --> eng:intrico
+eng:intrinsic --> lat:intrinsecus
+eng:intrinsically --> eng:intrinsic --> lat:intrinsecus
+eng:intrinsicalness --> eng:intrinsical
+eng:introcession --> lat:introcedere
+eng:introducement --> eng:introduce
+eng:introducer --> eng:introduce
+eng:introducible --> eng:introduce
+eng:introduction --> fro:introduction
+eng:introductionless --> eng:introduction --> fro:introduction
+eng:introductorily --> eng:introductory
+eng:introgress --> lat:introgredior
+eng:introgression --> eng:introgress --> lat:introgredior
+eng:introit --> fra:introït
+eng:introitus --> lat:introitus --> lat:introeo
+eng:introitus vaginarum --> eng:introitus --> lat:introitus --> lat:introeo
+eng:intromitter --> eng:intromit
+eng:intron --> eng:intragenic
+eng:introspectionist --> eng:introspection
+eng:introspectiveness --> eng:introspective
+eng:introvenient --> lat:introveniens
+eng:introvertedly --> eng:introverted
+eng:introvertly --> eng:introvert
+eng:intrudingly --> eng:intruding
+eng:intrunk --> eng:trunk --> enm:trunke --> fro:tronc --> lat:truncus
+eng:intrusional --> eng:intrusion
+eng:intrusionist --> eng:intrusion
+eng:intrusively --> eng:intrusive
+eng:intrust --> eng:trust --> enm:truste --> non:traust
+eng:intuitable --> eng:intuit
+eng:intuition --> lat:intuitio --> lat:intueri
+eng:intuitionalism --> eng:intuitional
+eng:intuitionistically --> eng:intuitionistic
+eng:intuitionless --> eng:intuition --> lat:intuitio --> lat:intueri
+eng:intuitivism --> eng:intuitive
+eng:intumesce --> lat:intumesco
+eng:intumescent --> lat:intumescens
+eng:intumulated --> lat:intumulatus --> lat:tumulatus
+eng:inturbidate --> eng:turbid
+eng:inturgescence --> lat:inturgescens
+eng:intussusception --> fra:intussusception
+eng:intwine --> eng:twine --> enm:twine
+eng:intwist --> eng:twist
+eng:Inuk --> iku:ᐃᓄᒃ
+eng:inukshuk --> iku:ᐃᓄᒃᓱᒃ
+eng:Inuktitut --> iku:iu
+eng:inulin --> eng:Inula
+eng:inuloid --> eng:inulin --> eng:Inula
+eng:inumbrate --> lat:inumbratus
+eng:inunction --> lat:inunctio --> lat:inunctus
+eng:inundate --> lat:inundo --> lat:undo --> lat:unda
+eng:inundation --> lat:inundatio --> lat:inundo --> lat:undo --> lat:unda
+eng:inunderstanding --> eng:understanding
+eng:Inupiak --> ipk:Iñupiaq
+eng:inurbanely --> eng:inurbane
+eng:inurbaneness --> eng:inurbane
+eng:inure --> eng:ure
+eng:inurn --> eng:urn --> lat:urna --> lat:uro
+eng:inust --> lat:inurere
+eng:invade --> lat:invado --> lat:vado --> lat:vadum
+eng:invader --> eng:invade --> lat:invado --> lat:vado --> lat:vadum
+eng:invalescence --> lat:invalescens
+eng:invalid --> lat:invalidus --> lat:validus --> lat:valeo
+eng:invalidate
+eng:invalidhood --> eng:invalid --> lat:invalidus --> lat:validus --> lat:valeo
+eng:invalidism --> eng:invalid --> lat:invalidus --> lat:validus --> lat:valeo
+eng:invalidly --> eng:invalid --> lat:invalidus --> lat:validus --> lat:valeo
+eng:invalidness --> eng:invalid --> lat:invalidus --> lat:validus --> lat:valeo
+eng:invalorous --> eng:valorous --> fro:valeureux
+eng:invaluably --> eng:invaluable
+eng:invariable --> eng:variable --> fra:variable --> lat:variabilis
+eng:invariableness --> eng:invariable --> eng:variable --> fra:variable --> lat:variabilis
+eng:invariably --> eng:invariable --> eng:variable --> fra:variable --> lat:variabilis
+eng:invariantly --> eng:invariant
+eng:invasion --> frm:invasion --> lat:invasionem
+eng:invasionary --> eng:invasion --> frm:invasion --> lat:invasionem
+eng:invasively --> eng:invasive
+eng:invection --> lat:invectio
+eng:invective --> lat:invectivus --> lat:invectus
+eng:invectively --> eng:invective --> lat:invectivus --> lat:invectus
+eng:inveigh --> lat:inveho --> lat:veho
+eng:inveigher --> eng:inveigh --> lat:inveho --> lat:veho
+eng:inveiglement --> eng:inveigle
+eng:inveil --> eng:veil
+eng:invendible --> lat:invendibilis
+eng:invent --> enm:inventen --> fra:inventer --> lat:inventus
+eng:inventest --> eng:invent --> enm:inventen --> fra:inventer --> lat:inventus
+eng:inventeth --> eng:invent --> enm:inventen --> fra:inventer --> lat:inventus
+eng:inventful --> eng:invent --> enm:inventen --> fra:inventer --> lat:inventus
+eng:inventible --> eng:invent --> enm:inventen --> fra:inventer --> lat:inventus
+eng:inventioneer --> eng:invention
+eng:inventively --> eng:inventive
+eng:inventorship --> eng:inventor
+eng:inventory --> fra:inventaire --> lat:inventorium --> lat:inventarium
+eng:inventoryless --> eng:inventory --> fra:inventaire --> lat:inventorium --> lat:inventarium
+eng:inveracity --> eng:veracity --> fro:veracitie --> lat:veracitas --> lat:verax
+eng:inverecund --> lat:inverecundus --> lat:verecundus --> lat:vereor
+eng:inverisimilitude --> eng:verisimilitude --> lat:verisimilitudo
+eng:inverity --> eng:verity --> xno:verité --> lat:veritas
+eng:Inverness-shire --> eng:Inverness
+eng:inversely --> eng:inverse
+eng:inversionless --> eng:inversion
+eng:invertedly --> eng:inverted
+eng:invertibility --> eng:invertible --> eng:invert
+eng:invertible --> eng:invert
+eng:invertive --> eng:invert
+eng:invest --> eng:investigate
+eng:investable --> eng:invest --> eng:investigate
+eng:investest --> eng:invest --> eng:investigate
+eng:investeth --> eng:invest --> eng:investigate
+eng:investigability --> eng:investigate
+eng:investigationally --> eng:investigational
+eng:investigative --> eng:investigate
+eng:investment --> eng:invest --> eng:investigate
+eng:investor --> eng:invest --> eng:investigate
+eng:inveterate --> lat:inveteratus
+eng:inveterately --> eng:inveterate --> lat:inveteratus
+eng:inveterateness --> eng:inveterate --> lat:inveteratus
+eng:inveteration --> lat:inveteratio
+eng:inviability --> eng:viability
+eng:invidious --> lat:invidiosus --> lat:invidia --> lat:invidere
+eng:invidiously --> eng:invidious --> lat:invidiosus --> lat:invidia --> lat:invidere
+eng:invigilator --> eng:invigilate
+eng:invigoratingly --> eng:invigorating
+eng:invigorator --> eng:invigorate
+eng:invillaged --> eng:village --> fra:village --> ita:villaggio
+eng:invincible --> lat:invincibilis --> lat:vincibilis --> lat:vincere
+eng:invincibly --> eng:invincible --> lat:invincibilis --> lat:vincibilis --> lat:vincere
+eng:inviolability --> lat:inviolabilitas
+eng:inviolable --> lat:inviolabilis
+eng:inviolableness --> eng:inviolable --> lat:inviolabilis
+eng:inviolably --> eng:inviolable --> lat:inviolabilis
+eng:inviolate --> lat:inviolatus --> lat:violatus
+eng:inviolateness --> eng:inviolate --> lat:inviolatus --> lat:violatus
+eng:invirile --> eng:virile --> lat:virilis
+eng:invirility --> eng:virility --> lat:virīlitās
+eng:inviscate --> lat:inviscatus
+eng:inviscerate --> lat:invisceratus
+eng:invisibly --> eng:invisible
+eng:invitational --> eng:invitation
+eng:invitationally --> eng:invitational --> eng:invitation
+eng:inviteth --> eng:invite
+eng:invitingness --> eng:inviting
+eng:invitrifiable --> eng:vitrifiable
+eng:invitro --> eng:intro
+eng:invocational --> eng:invocation
+eng:invoiceable --> eng:invoice
+eng:invoicer --> eng:invoice
+eng:invokable --> eng:invoke --> enm:invoken --> frm:invoquer --> lat:invocare
+eng:invoke --> enm:invoken --> frm:invoquer --> lat:invocare
+eng:invoker --> eng:invoke --> enm:invoken --> frm:invoquer --> lat:invocare
+eng:invokingly --> eng:invoking
+eng:involucred --> eng:involucre
+eng:involuntarily --> eng:involuntary --> eng:voluntary
+eng:involuntariness --> eng:involuntary --> eng:voluntary
+eng:involuntary --> eng:voluntary
+eng:involute --> lat:involutus
+eng:involution --> lat:involutio
+eng:involve --> lat:involvere
+eng:involvedness --> eng:involved
+eng:involvement --> eng:involve --> lat:involvere
+eng:invulgar --> eng:vulgar
+eng:invulnerable --> lat:invulnerabilis --> lat:in
+eng:invulnerableness --> eng:invulnerable --> lat:invulnerabilis --> lat:in
+eng:invulnerably --> eng:invulnerable --> lat:invulnerabilis --> lat:in
+eng:inwander --> eng:wander --> enm:wandren
+eng:inward --> ang:inneweard
+eng:inwardly --> eng:inward --> ang:inneweard
+eng:inwardness --> eng:inward --> ang:inneweard
+eng:inwheel --> eng:wheel --> enm:whele --> ang:hweogol
+eng:inwit --> enm:inwit
+eng:inwith --> eng:in --> ang:inne
+eng:inwomb --> eng:womb --> ang:wamb
+eng:inwone --> enm:inwonen
+eng:inwood --> eng:wood --> ang:wudu
+eng:inwork --> eng:work --> ang:weorc
+eng:inworld --> eng:in --> ang:inne
+eng:inworn --> eng:worn --> ang:geworen
+eng:inyanga --> zul:inyanga
+eng:iodhydrin --> eng:chlorhydrin
+eng:iodiferous --> eng:iodine --> fra:iode --> grc:ἰώδης
+eng:iodine --> fra:iode --> grc:ἰώδης
+eng:iodisation --> eng:iodise
+eng:iodization --> eng:iodize
+eng:iodizer --> eng:iodize
+eng:iodoacetate --> eng:acetate --> lat:acetum --> lat:aceo
+eng:iodoacetic --> eng:acetic --> fra:acétique --> lat:acetum --> lat:aceo
+eng:iodocholesterol --> eng:cholesterol --> eng:sterol
+eng:iodocyanopindolol --> eng:pindolol
+eng:iododoxorubicin --> eng:doxorubicin
+eng:iodoform
+eng:iodomethane --> eng:methane
+eng:iodometry
+eng:iodophenol --> eng:phenol
+eng:iodophilia
+eng:iodophilic
+eng:iodophor
+eng:iodoquinine --> eng:quinine --> spa:quina --> que:kina
+eng:iodosilane --> eng:silane
+eng:iodosulfite --> eng:sulfite
+eng:iodotherapy --> eng:therapy --> grc:θεραπεία --> grc:θεραπεύω --> grc:θεράπων
+eng:iodothyronine --> eng:thyronine
+eng:ion --> grc:ἰόν
+eng:ionic --> eng:ion --> grc:ἰόν
+eng:Ionic --> grc:ιωνικός
+eng:ionically --> eng:ionic --> eng:ion --> grc:ἰόν
+eng:ionisation --> eng:ionise --> eng:ion --> grc:ἰόν
+eng:ionise --> eng:ion --> grc:ἰόν
+eng:ioniser --> eng:ionise --> eng:ion --> grc:ἰόν
+eng:ionization --> eng:ionize --> eng:ion --> grc:ἰόν
+eng:ionize --> eng:ion --> grc:ἰόν
+eng:ionome --> eng:ion --> grc:ἰόν
+eng:ionomer
+eng:ionopause --> eng:pause --> frm:pause --> lat:pausa --> grc:παῦσις --> grc:παύω
+eng:ionosphere
+eng:iota --> grc:ἰῶτα
+eng:iothalamate --> eng:iothalamic
+eng:iotization --> eng:iotize
+eng:Iowa --> fra:Aiouez
+eng:iowaite --> eng:Iowa --> fra:Aiouez
+eng:Iowan --> eng:Iowa --> fra:Aiouez
+eng:ioxaglate --> eng:ioxaglic
+eng:ioxitalamate --> eng:ioxitalamic
+eng:Iphigenia --> grc:Ἰφιγένεια
+eng:iPhone --> eng:phone
+eng:iPod --> eng:pod
+eng:iPodification --> eng:iPod --> eng:pod
+eng:Ipoh --> msa:Ipoh --> msa:ipuh
+eng:ipsative --> lat:ipse
+eng:ipsatize --> eng:ipsative --> lat:ipse
+eng:ipsedixitism --> eng:ipse dixit
+eng:ipsilaterally --> eng:ipsilateral
+eng:Iqaluit --> ike:ᐃᖃᓗᐃᑦ
+eng:irade --> tur:irade --> ara:إرادة
+eng:Irani --> fas:ایرانی
+eng:Iranic --> eng:Iran
+eng:iranite --> eng:Iran
+eng:iraqite --> eng:Iraq
+eng:irascible --> fra:irascible --> lat:irascibilis --> lat:irascor --> lat:ira
+eng:irascibleness --> eng:irascible --> fra:irascible --> lat:irascibilis --> lat:irascor --> lat:ira
+eng:irate --> lat:iratus --> lat:irasci --> lat:ira
+eng:irateness --> eng:irate --> lat:iratus --> lat:irasci --> lat:ira
+eng:iratumumab
+eng:IRCer --> eng:IRC
+eng:IRCop --> eng:IRC
+eng:ire --> enm:ire --> fro:ire --> lat:ira
+eng:irefully --> eng:ireful
+eng:irefulness --> eng:ireful
+eng:Irelander --> eng:Ireland
+eng:Irenæus --> grc:Εἰρηναῖος --> grc:εἰρήνη
+eng:irenarch --> lat:irenarcha
+eng:Irene --> fra:Irène
+eng:irenic --> grc:είρηνικος --> grc:εἰρήνη
+eng:iridic
+eng:iridiferous --> eng:iridium --> grc:ἶρις
+eng:iridium --> grc:ἶρις
+eng:iridocorneal --> eng:corneal
+eng:iridodiagnosis --> eng:diagnosis --> lat:diagnosis --> grc:διάγνωσις
+eng:iridodialysis --> eng:dialysis
+eng:iridotasis --> eng:tasis --> lat:tasix
+eng:Irigarayan --> eng:Irigaray
+eng:iriscope --> eng:iris
+eng:Irish --> enm:Irisce --> ang:Īras --> non:írar --> sga:Ériu
+eng:Irishism --> eng:Irish --> enm:Irisce --> ang:Īras --> non:írar --> sga:Ériu
+eng:Irishlike --> eng:Irish --> enm:Irisce --> ang:Īras --> non:írar --> sga:Ériu
+eng:Irishly --> eng:Irish --> enm:Irisce --> ang:Īras --> non:írar --> sga:Ériu
+eng:Irishman --> eng:Irish --> enm:Irisce --> ang:Īras --> non:írar --> sga:Ériu
+eng:Irishness --> eng:Irish --> enm:Irisce --> ang:Īras --> non:írar --> sga:Ériu
+eng:Irishry --> eng:Irish --> enm:Irisce --> ang:Īras --> non:írar --> sga:Ériu
+eng:Irishy --> eng:Irish --> enm:Irisce --> ang:Īras --> non:írar --> sga:Ériu
+eng:irislike --> eng:iris
+eng:irk --> enm:irken --> non:yrkja
+eng:irksome --> enm:irkesome
+eng:irksomely --> eng:irksome --> enm:irkesome
+eng:ironable --> eng:iron
+eng:ironbound --> eng:bound --> enm:bounde --> fro:bunne --> lat:bodina
+eng:ironclad --> eng:clad
+eng:ironic --> eng:irony --> eng:iron
+eng:ironically --> eng:ironic --> eng:irony --> eng:iron
+eng:ironicalness --> eng:ironical
+eng:ironish --> eng:iron
+eng:ironist --> eng:irony --> eng:iron
+eng:ironize --> eng:irony --> eng:iron
+eng:ironlike --> eng:iron
+eng:ironmaker --> eng:iron
+eng:ironman --> eng:iron
+eng:ironmine --> eng:iron
+eng:ironmonger --> eng:iron
+eng:ironmongeress --> eng:ironmonger --> eng:iron
+eng:iron-sick --> eng:iron
+eng:Ironside --> eng:iron
+eng:ironsmith --> eng:iron
+eng:ironware --> eng:iron
+eng:ironweed --> eng:iron
+eng:ironwort --> eng:iron
+eng:irony --> eng:iron
+eng:irori --> jpn:いろり
+eng:irous --> fro:iros
+eng:irradiate --> lat:irradiatus
+eng:irrational --> lat:irrationalis
+eng:irrationally --> eng:irrational --> lat:irrationalis
+eng:irrationalness --> eng:irrational --> lat:irrationalis
+eng:irrealism --> eng:irreal
+eng:irrebuttable --> eng:rebuttable
+eng:irreceptive --> eng:receptive
+eng:irreclaimable --> eng:reclaimable --> eng:reclaim --> xno:reclaimer
+eng:irrecognition --> eng:recognition --> lat:recognitionem
+eng:irreconcilably --> eng:irreconcilable
+eng:irreconcile --> eng:reconcile --> lat:reconcilio
+eng:irreconciliation --> eng:reconciliation --> lat:reconciliatio --> lat:reconciliare
+eng:irrecordable --> eng:recordable --> eng:record --> enm:recorden --> fro:record --> fro:recorder --> lat:recordari
+eng:irrecoverableness --> eng:irrecoverable
+eng:irrecoverably --> eng:irrecoverable
+eng:irrecuperably --> eng:irrecuperable
+eng:irrecusable --> eng:recusable
+eng:irredeemableness --> eng:irredeemable
+eng:irredentism --> eng:irredentist
+eng:Irredentist --> ita:irredentista --> ita:irredento --> ita:redento
+eng:irreducible --> eng:reducible
+eng:irreducibleness --> eng:irreducible --> eng:reducible
+eng:irreferential --> eng:referential --> eng:referent --> eng:refer
+eng:irreflection --> eng:reflection --> frm:reflexion
+eng:irreflective --> eng:reflective --> eng:reflect
+eng:irreformable --> eng:reformable --> eng:reform
+eng:irrefragably --> eng:irrefragable
+eng:irrefrangibly --> eng:irrefrangible
+eng:irrefusable --> eng:refusable --> eng:refuse --> fra:refuser
+eng:irrefutable --> lat:irrefutabilis
+eng:irrefutableness --> eng:irrefutable --> lat:irrefutabilis
+eng:irrefutably --> eng:irrefutable --> lat:irrefutabilis
+eng:irregeneration --> eng:regeneration
+eng:irregular --> fro:irreguler --> lat:irregularis --> lat:regularis --> lat:regula --> lat:rego
+eng:irregularist --> eng:irregular --> fro:irreguler --> lat:irregularis --> lat:regularis --> lat:regula --> lat:rego
+eng:irregularly --> eng:irregular --> fro:irreguler --> lat:irregularis --> lat:regularis --> lat:regula --> lat:rego
+eng:irrejectable --> eng:rejectable --> eng:reject
+eng:irrelapsable --> eng:relapsable
+eng:irrelation --> eng:relation --> xno:relacioun --> fro:relacion --> lat:relationem
+eng:irrelatively --> eng:irrelative
+eng:irrelephant --> eng:elephant --> enm:elefant
+eng:irrelevantly --> eng:irrelevant
+eng:irrelievable --> eng:relievable --> eng:relieve --> fro:relever --> lat:relevo --> lat:levo --> lat:levis --> grc:λεῖος
+eng:irreligion --> fra:irréligion --> fra:religion
+eng:irreligiously --> eng:irreligious
+eng:irreligiousness --> eng:irreligious
+eng:irremediable --> eng:remediable
+eng:irremediableness --> eng:irremediable --> eng:remediable
+eng:irremediably --> eng:irremediable --> eng:remediable
+eng:irremission --> eng:remission
+eng:irremissive --> eng:remissive
+eng:irremovably --> eng:irremovable
+eng:irrenowned --> eng:renowned
+eng:irreparable --> eng:reparable
+eng:irreparably --> eng:irreparable --> eng:reparable
+eng:irrepealable --> eng:repealable
+eng:irrepentance --> eng:repentance
+eng:irreplaceability --> eng:irreplaceable --> eng:replaceable --> eng:replace
+eng:irreplaceable --> eng:replaceable --> eng:replace
+eng:irreplaceably --> eng:irreplaceable --> eng:replaceable --> eng:replace
+eng:irrepleviable --> eng:repleviable --> eng:replevy
+eng:irreplicability --> eng:replicability
+eng:irreplicable --> eng:replicable --> eng:replica
+eng:irrepresentable --> eng:representable
+eng:irrepressible --> eng:repressible
+eng:irrepressibleness --> eng:irrepressible --> eng:repressible
+eng:irrepressibly --> eng:irrepressible --> eng:repressible
+eng:irreproachableness --> eng:irreproachable
+eng:irreproachably --> eng:irreproachable
+eng:irreprovableness --> eng:irreprovable
+eng:irreptitious --> lat:irrepere
+eng:irresilient --> eng:resilient
+eng:irresistance --> eng:resistance --> fra:résistance
+eng:irresistible --> eng:resistible
+eng:irresistibleness --> eng:irresistible --> eng:resistible
+eng:irresistibly --> eng:irresistible --> eng:resistible
+eng:irresolubleness --> eng:irresoluble
+eng:irresoluteness --> eng:irresolute
+eng:irresolvable --> eng:resolvable --> eng:resolve
+eng:irresolvableness --> eng:irresolvable --> eng:resolvable --> eng:resolve
+eng:irresolvedly --> eng:irresolved
+eng:irrespective --> eng:respective
+eng:irresponsible --> eng:responsible --> fra:responsable --> lat:responsus --> lat:respondere
+eng:irresponsibly --> eng:irresponsible --> eng:responsible --> fra:responsable --> lat:responsus --> lat:respondere
+eng:irresponsive --> eng:responsive
+eng:irrestrainable --> eng:restrainable --> eng:restrain --> frm:restraindre --> lat:restringo --> lat:stringo
+eng:irresuscitably --> eng:irresuscitable
+eng:irretractile --> eng:retractile
+eng:irretrievableness --> eng:irretrievable
+eng:irretrievably --> eng:irretrievable
+eng:irreturnable --> eng:returnable
+eng:irrevealable --> eng:revealable --> eng:reveal --> fra:révéler
+eng:irreverend --> eng:reverend
+eng:irreverent --> eng:reverent
+eng:irreverently --> eng:irreverent --> eng:reverent
+eng:irreversible --> eng:reversible
+eng:irreversibleness --> eng:irreversible --> eng:reversible
+eng:irreversibly --> eng:irreversible --> eng:reversible
+eng:irrevisable --> eng:revisable --> eng:revise
+eng:irrevocability --> eng:irrevocable
+eng:irrevocably --> eng:irrevocable
+eng:irrevoluble --> eng:revoluble
+eng:irrhythmic --> eng:rhythmic
+eng:irrigatable --> eng:irrigate --> lat:irrigare
+eng:irrigate --> lat:irrigare
+eng:irrigational --> eng:irrigation
+eng:irrisible --> eng:risible --> fra:risible --> lat:risibilis --> lat:rideo
+eng:irrision --> lat:irrisio
+eng:irritability --> lat:irritabilitas
+eng:irritable --> eng:irritate --> lat:irritatus
+eng:irritably --> eng:irritable --> eng:irritate --> lat:irritatus
+eng:irritainment --> eng:entertainment
+eng:irritate --> lat:irritatus
+eng:irritatingly --> eng:irritating
+eng:irritation --> lat:irritatio
+eng:irritatory --> eng:irritate --> lat:irritatus
+eng:irrotationally --> eng:irrotational
+eng:irrubrical --> eng:rubrical --> eng:rubric
+eng:irrugate --> lat:irrugatus
+eng:irrumate --> lat:irrumo
+eng:irrumatio --> lat:irrumatio
+eng:irrumation --> lat:irrumatio
+eng:irrupt --> lat:irrumpere
+eng:irruption --> lat:irruptio
+eng:Irvingian --> eng:Irving
+eng:Irvingism --> eng:Irving
+eng:Irvingite --> eng:Irving
+eng:Isaac --> heb:יִצְחָק
+eng:isamiashi --> jpn:''[[forward]] [[step]] [[out]]''
+eng:Isan --> tha:อีสาน
+eng:Isauria --> grc:Ἰσαυρία
+eng:isba --> rus:изба
+eng:ischemia --> grc:ἴσχω
+eng:ischiocapsular --> eng:capsular
+eng:ischiopubic --> eng:pubic --> eng:pubis
+eng:ischiorectal --> eng:rectal
+eng:ischury --> lat:ischuria
+eng:isentropic --> eng:entropic
+eng:isentropically --> eng:isentropic --> eng:entropic
+eng:Isernia --> ita:Isernia --> lat:Aesernia
+eng:I-ship --> eng:I --> enm:I --> ang:ic
+eng:ishkhan --> hye:իշխան
+eng:Ishmael --> heb:יִשְׁמָעֵאל
+eng:Ishmaelitish --> eng:Ishmaelite
+eng:Ishtar --> akk:𒀭𒈹
+eng:Isidorian --> eng:Isidore
+eng:Isis --> grc:Ἶσις
+eng:Islam --> ara:اسلام
+eng:Islamicize --> eng:Islamic
+eng:Islamification --> eng:Islam --> ara:اسلام
+eng:Islamism --> eng:Islam --> ara:اسلام
+eng:Islamist --> eng:Islam --> ara:اسلام
+eng:Islamite --> eng:Islam --> ara:اسلام
+eng:Islamitic --> eng:Islamite --> eng:Islam --> ara:اسلام
+eng:Islamitish --> eng:Islamite --> eng:Islam --> ara:اسلام
+eng:Islamofascism --> eng:facism
+eng:Islamofascist --> eng:facist
+eng:Islamology --> eng:Islam --> ara:اسلام
+eng:Islamonazism --> eng:Nazism --> eng:Nazi --> deu:Nazi
+eng:Islamophile
+eng:Islamophilia
+eng:Islamophobe
+eng:Islamophobia
+eng:Islamophobic
+eng:islander --> eng:island
+eng:islandful --> eng:island
+eng:islandwide --> eng:island
+eng:islandy --> eng:island
+eng:Isle of Wight --> ang:Wiht
+eng:islet --> frm:islette
+eng:Ismaelian --> eng:Ismael
+eng:Ismaelite --> eng:Ismael
+eng:isness --> eng:is
+eng:isn't --> eng:is
+eng:iso- --> grc:ἴσος
+eng:isoacceptor --> eng:acceptor --> eng:accept
+eng:isoalkane --> eng:alkane --> eng:alkyl
+eng:isoamidone --> eng:amidone
+eng:isoanethole --> eng:anethole
+eng:isoantigen --> eng:antigen --> fra:antigène --> fra:gène
+eng:isobaric --> eng:isobar
+eng:isobarometric --> eng:barometric
+eng:isoborneol --> eng:borneol
+eng:isobutylmethylxanthine --> eng:butyl
+eng:isobutyraldehyde --> eng:butyraldehyde
+eng:isobutyrate --> eng:butyrate
+eng:isobutyric --> eng:butyric
+eng:isocapacitary --> eng:capacitary
+eng:isocausal --> eng:causal --> lat:causalis
+eng:isocedrane --> eng:cedrane
+eng:isocetane --> eng:cetane
+eng:isochasm --> eng:chasm --> lat:chasma --> grc:χάσμα --> grc:χάσκω
+eng:isochasmic --> eng:chasmic --> eng:chasm --> lat:chasma --> grc:χάσμα --> grc:χάσκω
+eng:isochemical --> eng:chemical --> eng:chemic --> lat:chemicus
+eng:isochore
+eng:isochorismate --> eng:chorismate
+eng:isochromosome --> eng:chromosome
+eng:isochronal --> eng:isochron
+eng:isocline
+eng:isocolon --> grc:ἰσόκωλον
+eng:isoconfigurational --> eng:configurational
+eng:isocontour --> eng:contour
+eng:isocrymal --> eng:isocryme
+eng:isocurvature --> eng:curvature
+eng:isocyanic --> eng:cyanic --> eng:cyan --> grc:κύανος
+eng:isocyanoacetate --> eng:cyanoacetate
+eng:isodensity --> eng:density
+eng:isodesmosine --> eng:desmosine
+eng:isodimorphic --> eng:dimorphic
+eng:isodimorphism --> eng:dimorphism
+eng:isodimorphous --> eng:dimorphous
+eng:isodisperse --> eng:disperse --> fra:disperser --> lat:dispersus
+eng:isodispersion --> eng:dispersion
+eng:isodoublet --> eng:doublet
+eng:isodulcite --> eng:dulcite --> lat:dulcis
+eng:isodynamic --> eng:dynamic --> fra:dynamique --> grc:δυναμικός --> grc:δύναμις --> grc:δύναμαι
+eng:isoelectric --> eng:electric --> lat:electricus --> grc:ἤλεκτρον --> grc:ἠλέκτωρ
+eng:isoenergetic --> eng:energetic --> grc:ἐνεργητικός --> grc:ἐνεργέω --> grc:ἐνεργός
+eng:isoenthalpic --> eng:enthalpic
+eng:isoentropic --> eng:entropic
+eng:isoexcitation --> eng:excitation
+eng:isofemale --> eng:female --> fro:femele --> lat:femella
+eng:isofrequency --> eng:frequency --> lat:frequentia --> lat:frequens
+eng:isofunctional --> eng:functional --> eng:function --> frm:function --> fra:fonction --> lat:functio --> lat:fungor
+eng:isofuran --> eng:furan
+eng:isogametic
+eng:isogloss
+eng:isoglutamine --> eng:glutamine --> eng:amine --> eng:ammonia
+eng:isognathous
+eng:isogonal --> eng:isogon
+eng:isogonic --> eng:isogon
+eng:isography
+eng:isogroup --> eng:group --> fra:groupe --> ita:gruppo
+eng:isohedral
+eng:isohexadecane --> eng:hexadecane
+eng:isohumulone --> eng:humulone
+eng:isohydric --> eng:hydric
+eng:isohyetal --> eng:isohyet
+eng:isohypsal --> eng:isohypse
+eng:isoindene --> eng:indene
+eng:isoindole --> eng:indole
+eng:isokinetically --> eng:isokinetic
+eng:isolatable --> eng:isolate
+eng:isolatedly --> eng:isolated
+eng:isolation --> eng:isolate
+eng:isolator --> eng:isolate
+eng:isolecithal
+eng:isolect --> eng:lect
+eng:isolectin --> eng:lectin
+eng:isoliquiritigenin --> eng:liquiritigenin
+eng:isolobally --> eng:isolobal
+eng:isomalathion --> eng:malathion
+eng:isomaltase --> eng:maltase --> eng:malt --> ang:mealt
+eng:isomer
+eng:isomerous
+eng:isomethadone --> eng:methadone
+eng:isometric --> grc:ἰσομέτρητος
+eng:isometrically --> eng:isometric --> grc:ἰσομέτρητος
+eng:isomonodromic --> eng:monodromic
+eng:isomonodromy --> eng:monodromy
+eng:isomorph
+eng:isomorphic
+eng:isomorphism
+eng:isomultiplet --> eng:multiplet
+eng:isonicotine --> eng:nicotine --> fra:nicotine
+eng:isonuclear --> eng:nuclear --> eng:nucleus --> lat:nucleus
+eng:isonym
+eng:isooctane --> eng:octane
+eng:isooctanol --> eng:octanol
+eng:isoorientin --> eng:orientin
+eng:iso-osmotic --> eng:osmotic
+eng:isoparaffin --> eng:paraffin --> lat:paraffinum
+eng:isoparametric --> eng:parametric
+eng:isopathy
+eng:isopentenyl --> eng:isopentene
+eng:isopepsin --> eng:pepsin
+eng:isoperimetric --> eng:perimetric
+eng:isophotal --> eng:isophote
+eng:isophthalamide --> eng:phthalamide
+eng:isopleth
+eng:isopodous --> eng:isopod
+eng:isopolity --> grc:ἰσοπολιτεία --> grc:ἰσοπολίτης
+eng:isopotential --> eng:potential --> lat:potentialis --> lat:potentia --> lat:potens
+eng:isopropanol --> eng:propanol
+eng:isopropylacetone --> eng:acetone
+eng:isopropylbenzene --> eng:benzene
+eng:isoprotein --> eng:protein
+eng:isorhythm --> eng:rhythm --> lat:rhythmus --> grc:ῥυθμός --> grc:ῥέω
+eng:isorhythmic --> eng:isorhythm --> eng:rhythm --> lat:rhythmus --> grc:ῥυθμός --> grc:ῥέω
+eng:isorhythmically --> eng:isorhythmic --> eng:isorhythm --> eng:rhythm --> lat:rhythmus --> grc:ῥυθμός --> grc:ῥέω
+eng:isorotation --> eng:rotation --> lat:rotationem
+eng:isorotational --> eng:rotational --> eng:rotation --> lat:rotationem
+eng:isosafrole --> eng:safrole
+eng:isoscaling --> eng:scaling
+eng:isosceles --> grc:ἰσοσκελής
+eng:isoschaftoside --> eng:schaftoside
+eng:isoschizomer --> eng:schizomer
+eng:isosmotic --> eng:osmotic
+eng:isospecific --> eng:specific --> fro:specifique --> lat:specificus
+eng:isospectral --> eng:spectral
+eng:isospectrality --> eng:spectrality
+eng:isospin --> eng:spin --> ang:spinnan
+eng:isostatically --> eng:isostatic
+eng:isostrain --> eng:strain --> ang:streon
+eng:isostress --> eng:stress --> enm:destresse
+eng:isostructure --> eng:structure --> fra:structure --> lat:structura --> lat:struo
+eng:isosurface --> eng:surface
+eng:isosymmetric --> eng:symmetric --> lat:symmetria --> grc:συμμετρία --> grc:σύμμετρος
+eng:isotheral --> eng:isothere
+eng:isothermobathic --> eng:isothermobath
+eng:isothiazolidine --> eng:thiazolidine
+eng:isothiourea --> eng:thiourea
+eng:isotonic --> eng:tonic --> grc:τονικός --> grc:τόνος --> grc:τείνω
+eng:isotonically --> eng:isotonic --> eng:tonic --> grc:τονικός --> grc:τόνος --> grc:τείνω
+eng:isotopomeric --> eng:isotopomer
+eng:isotriplet --> eng:triplet
+eng:isotrivial --> eng:trivial --> lat:trivialis --> lat:trivium --> lat:via
+eng:isotropically --> eng:isotropic
+eng:isotropy
+eng:isotypical --> eng:typical --> lat:typicalis --> lat:typicus --> grc:τυπικός
+eng:isouric acid --> eng:uric
+eng:isovaleric --> eng:valeric
+eng:isovaleryl --> eng:valeryl
+eng:isoventiloquinone --> eng:ventiloquinone
+eng:isovitexin --> eng:vitexin
+eng:isoxazolidine --> eng:oxazolidine
+eng:isozymic --> eng:isozyme
+eng:Israel --> heb:ישראל
+eng:issuably --> eng:issuable
+eng:issue --> fro:issue
+eng:issueless --> eng:issue --> fro:issue
+eng:Istanbulite --> eng:Istanbul
+eng:isthmectomy --> eng:isthmus
+eng:Istria --> lat:Histria
+eng:itacolumite --> eng:Itacolumi
+eng:itaconate --> eng:itaconic
+eng:ital --> eng:vital
+eng:Italian --> lat:Italianus --> lat:Italia
+eng:Italianate --> eng:Italian --> lat:Italianus --> lat:Italia
+eng:Italianist --> eng:Italian --> lat:Italianus --> lat:Italia
+eng:italicise --> eng:italic
+eng:italicize --> eng:italic
+eng:Italish --> eng:Italy --> enm:Italy
+eng:italophone
+eng:Italy --> enm:Italy
+eng:itchiness --> eng:itchy
+eng:itchingly --> eng:itching
+eng:itchless --> eng:itch
+eng:itemizable --> eng:itemize
+eng:itemizer --> eng:itemize
+eng:iterate --> lat:itero --> lat:iterum
+eng:iteration --> lat:iteratio --> lat:itero --> lat:iterum
+eng:iterator --> eng:iterate --> lat:itero --> lat:iterum
+eng:Ithaca --> grc:Ἰθάκα
+eng:ithand --> enm:ithand
+eng:ithe --> enm:ithe
+eng:ithergates --> sco:ithergates
+eng:ithyphallic --> lat:ithyphallicus --> grc:ἰθύφαλλος
+eng:itinerancy --> eng:itinerant --> lat:itinerans
+eng:itinerant --> lat:itinerans
+eng:itinerantly --> eng:itinerant --> lat:itinerans
+eng:itinerary --> lat:itinerarius
+eng:iTouch --> eng:iPod --> eng:pod
+eng:its --> eng:'s
+eng:it's --> eng:'s
+eng:it'sn't --> eng:it's --> eng:'s
+eng:Ivan --> rus:Иван
+eng:Ivano-Frankivsk --> ukr:Iвано-Франківськ
+eng:I'ven't --> eng:I've
+eng:Ivorianness --> eng:Ivorian
+eng:ivorine --> fro:ivorin
+eng:ivoroid --> eng:ivory --> enm:ivorie --> xno:ivurie
+eng:ivory --> enm:ivorie --> xno:ivurie
+eng:ivorylike --> eng:ivory --> enm:ivorie --> xno:ivurie
+eng:Ivrit --> heb:עִבְרִית
+eng:ivy --> enm:ivi --> ang:ifig
+eng:iwan --> fas:ایوان
+eng:iwis --> enm:iwis --> ang:gewiss
+eng:Iwo Jima --> jpn:硫黄島
+eng:Ixion --> lat:Ixion --> grc:Ἰξίων
+eng:Izanagi --> jpn:伊邪那岐
+eng:Izanami --> jpn:伊邪那美
+eng:izba --> rus:изба
+eng:izle --> ang:ysel
+eng:izmel --> heb:אזמל --> grc:σμίλη
+eng:Izmirian --> eng:Izmir
+eng:izori --> jpn:''[[backwards]] [[body]] [[drop]]''
+eng:Iztaccíhuatl --> spa:Iztaccíhuatl

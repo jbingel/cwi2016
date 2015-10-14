@@ -1,0 +1,3961 @@
+eng:raajmahal --> hin:राजमहल
+eng:rabab --> ara:رباب
+eng:rabbi --> lat:rabbi --> grc:ῥαββί --> heb:רבי --> heb:רב
+eng:rabbit --> enm:rabet
+eng:rabbitat --> eng:habitat --> lat:habitat
+eng:rabbitbrush --> eng:brush --> enm:brusshe --> fro:broisse
+eng:rabbitdom --> eng:rabbit --> enm:rabet
+eng:rabbithood --> eng:rabbit --> enm:rabet
+eng:rabbitless --> eng:rabbit --> enm:rabet
+eng:rabbitlike --> eng:rabbit --> enm:rabet
+eng:rabbitpox --> eng:pox --> enm:pokkes
+eng:rabbit-proof --> eng:rabbit --> enm:rabet
+eng:Rabia --> ara:ربيع
+eng:rabidly --> eng:rabid
+eng:rabies --> lat:rabies --> lat:rabio
+eng:rabis --> hye:ռաբիս
+eng:rabiz --> hye:ռաբիզ
+eng:raccoon --> eng:arocoun --> pim:ärähkun
+eng:raccoonish --> eng:raccoon --> eng:arocoun --> pim:ärähkun
+eng:raccoonlike --> eng:raccoon --> eng:arocoun --> pim:ärähkun
+eng:race --> frm:race --> ita:razza --> goh:reiza
+eng:racebending --> eng:bending
+eng:race-bending --> eng:bending
+eng:racebike --> eng:bike --> eng:bicycle
+eng:racegoer --> eng:goer
+eng:racegoing --> eng:going --> eng:go --> enm:gon --> ang:gan
+eng:racelike --> eng:race --> frm:race --> ita:razza --> goh:reiza
+eng:racemate --> eng:racemic --> fra:racémique
+eng:raceme --> lat:racemus
+eng:racemed --> eng:raceme --> lat:racemus
+eng:racemelike --> eng:raceme --> lat:racemus
+eng:racemic --> fra:racémique
+eng:racemiform --> eng:raceme --> lat:racemus
+eng:racemose --> lat:racemosus --> lat:racemus
+eng:racerlike --> eng:racer
+eng:Rachel --> heb:רָחֵל
+eng:rachitic --> eng:rachitis
+eng:racialist --> eng:racial
+eng:racialize --> eng:racial
+eng:racially --> eng:racial
+eng:racily --> eng:racy
+eng:racingly --> eng:racing
+eng:raciology --> eng:race --> frm:race --> ita:razza --> goh:reiza
+eng:racism --> fra:racisme --> fra:race --> ita:razza --> goh:reiza
+eng:racistly --> eng:racist
+eng:rack --> ang:reccan
+eng:rackable --> eng:rack --> ang:reccan
+eng:rackan --> enm:rakente
+eng:racket --> enm:raket
+eng:racketeer --> eng:racket --> enm:raket
+eng:racketer --> eng:racket --> enm:raket
+eng:rackety --> eng:racket --> enm:raket
+eng:rackle --> enm:rakyl
+eng:Rackmanism --> eng:Rackman
+eng:rackmount --> eng:mount --> enm:mounten --> xno:mounter --> fro:monter --> lat:montare
+eng:rack-renter --> eng:rack rent
+eng:rackwork --> eng:rack --> ang:reccan
+eng:raclage --> fra:raclage
+eng:raclette --> fra:raclette --> fra:racler --> oci:rasclar
+eng:racquet --> fra:requette --> ara:راحة
+eng:racquetless --> eng:racquet --> fra:requette --> ara:راحة
+eng:racquetlike --> eng:racquet --> fra:requette --> ara:راحة
+eng:rada --> pol:rada
+eng:radargram --> eng:radar
+eng:Radder --> eng:Radcliffe
+eng:Radha --> san:राधा
+eng:radially --> eng:radial
+eng:radiansphere --> eng:radian
+eng:radiantly --> eng:radiant
+eng:radiantness --> eng:radiant
+eng:radiate --> lat:radiatus
+eng:radiately --> eng:radiate --> lat:radiatus
+eng:radiatiform --> eng:radiate --> lat:radiatus
+eng:radiation --> lat:radiatio
+eng:radiationlike --> eng:radiation --> lat:radiatio
+eng:radiationproof --> eng:radiation --> lat:radiatio
+eng:radiator --> eng:radiate --> lat:radiatus
+eng:radiatorless --> eng:radiator --> eng:radiate --> lat:radiatus
+eng:radical --> fra:radical --> lat:radicalis --> lat:radix --> grc:ῥάδιξ
+eng:radicalism --> eng:radical --> fra:radical --> lat:radicalis --> lat:radix --> grc:ῥάδιξ
+eng:radicality --> eng:radical --> fra:radical --> lat:radicalis --> lat:radix --> grc:ῥάδιξ
+eng:radicalizable --> eng:radicalize
+eng:radicalness --> eng:radical --> fra:radical --> lat:radicalis --> lat:radix --> grc:ῥάδιξ
+eng:radicle --> lat:radicula
+eng:radio --> lat:radius
+eng:radio- --> lat:radius
+eng:radioactinium --> eng:actinium
+eng:radioactivity --> eng:radioactive
+eng:radioaluminium --> eng:aluminium --> lat:alumen
+eng:radioaluminum --> eng:aluminum
+eng:radioantimony --> eng:antimony
+eng:radioargon --> eng:argon --> grc:ἀργόν
+eng:radioarsenic --> eng:arsenic --> enm:arsenik --> frm:arsenic --> lat:arsenicum --> grc:ἀρσενικόν
+eng:radioassay --> eng:assay --> xno:assaier
+eng:radiobarium --> eng:barium --> eng:baryta
+eng:radiobenzene --> eng:benzene
+eng:radioberyllium --> eng:beryllium --> grc:βήρυλλος
+eng:radiobiological --> eng:biological
+eng:radiobismuth --> eng:bismuth
+eng:radioboron --> eng:boron
+eng:radiobromine --> eng:bromine --> fra:brome --> grc:βρῶμος
+eng:radiocadmium --> eng:cadmium --> grc:Καδμεία --> grc:Κάδμος
+eng:radiocaesium --> eng:caesium --> lat:caesius
+eng:radiocalcium --> eng:calcium
+eng:radiocarbon --> eng:carbon --> lat:carbo
+eng:radiocardiogram --> eng:cardiogram
+eng:radiocardiography --> eng:cardiography
+eng:radiocarpal --> eng:carpal
+eng:radiocerium --> eng:cerium --> eng:Ceres --> lat:Ceres
+eng:radiocesium --> eng:cesium
+eng:radiochemotherapy --> eng:chemotherapy --> eng:therapy --> grc:θεραπεία --> grc:θεραπεύω --> grc:θεράπων
+eng:radiochlorine --> eng:chlorine --> grc:χλωρός
+eng:radiochromium --> eng:chromium
+eng:radiochronologic --> eng:chronologic --> eng:chronology
+eng:radiocobalt --> eng:cobalt --> deu:Kobold
+eng:radiocomplex --> eng:complex --> fra:complexe --> lat:complexus
+eng:radiocomplexation --> eng:complexation
+eng:radiocontrast --> eng:contrast --> fra:contraster --> ita:contrastare --> ita:stare --> lat:stare
+eng:radiocopper --> eng:copper --> enm:coper --> ang:coper
+eng:radiodysprosium --> eng:dysprosium --> grc:δυσπρόσιτος
+eng:radioecology --> eng:ecology --> deu:Ökologie
+eng:radioerbium --> eng:erbium --> swe:Ytterby
+eng:radioethanol --> eng:ethanol
+eng:radioeuropium --> eng:europium
+eng:radioflash --> eng:flash
+eng:radiofluorine --> eng:fluorine
+eng:radiogadolinium --> eng:gadolinium --> fin:Gadolin
+eng:radiogallium --> eng:gallium --> lat:Gallia
+eng:radiogenesis --> eng:genesis --> lat:genesis --> grc:γένεσις
+eng:radiogenic --> eng:radio --> lat:radius
+eng:radiogermanium --> eng:germanium
+eng:radiogold --> eng:gold
+eng:radiogram --> eng:gramophone
+eng:radiograph
+eng:radiography
+eng:radiohafnium --> eng:hafnium --> lat:Hafnia
+eng:radioheliograph --> eng:heliograph
+eng:radiohelium --> eng:helium --> lat:helium --> grc:ἥλιος
+eng:radiohydrogen --> eng:hydrogen --> fra:hydrogène
+eng:radioimmunoassay --> eng:immunoassay --> eng:assay --> xno:assaier
+eng:radioimmunoconjugate --> eng:immunoconjugate --> eng:conjugate
+eng:radioimmunodetection --> eng:immunodetection --> eng:detection
+eng:radioimmunoscintigraphy --> eng:immunoscintigraphy --> eng:scintigraphy
+eng:radioindium --> eng:indium
+eng:radioinsensitive --> eng:insensitive --> eng:sensitive --> frm:sensitif --> lat:sensitivus
+eng:radioiodide --> eng:iodide
+eng:radioiodine --> eng:iodine --> fra:iode --> grc:ἰώδης
+eng:radioiridium --> eng:iridium --> grc:ἶρις
+eng:radioiron --> eng:iron
+eng:radiokrypton --> eng:krypton
+eng:radiolanthanum --> eng:lanthanum --> grc:λανθάνω
+eng:radiolead --> eng:lead --> enm:leed --> ang:lead
+eng:radioless --> eng:radio --> lat:radius
+eng:radiolithium --> eng:lithium --> lat:lithium
+eng:radiologist --> eng:radiology
+eng:radioluminescence --> eng:luminescence
+eng:radiolysis
+eng:radiomagnesium --> eng:magnesium --> lat:magnesium --> lat:Magnesia --> grc:Μαγνησία
+eng:radiomanganese --> eng:manganese --> fra:manganèse --> ita:manganese
+eng:radiomarked --> eng:marked
+eng:radiomercury --> eng:mercury --> eng:Mercury --> lat:Mercurius
+eng:radiometer
+eng:radiomolybdenum --> eng:molybdenum --> grc:μόλυβδος
+eng:radionecrotic --> eng:necrotic
+eng:radioneon --> eng:neon --> grc:νέον
+eng:radionickel --> eng:nickel --> swe:nickel --> swe:kopparnickel
+eng:radionics --> eng:electronics
+eng:radioniobium --> eng:niobium --> eng:Niobe
+eng:radionitrogen --> eng:nitrogen --> fra:nitrogène
+eng:radionuclide --> eng:nuclide
+eng:radioosmium --> eng:osmium
+eng:radiooxygen --> eng:oxygen --> fra:oxygène
+eng:radiopalladium --> eng:palladium --> eng:Pallas
+eng:radiopalmar --> eng:palmar
+eng:radiopeptide --> eng:peptide --> grc:πεπτός
+eng:radiophosphorus --> eng:phosphorus --> lat:phosphorus --> grc:φωσφόρος
+eng:radiophotoluminescence --> eng:photoluminescence --> eng:luminescence
+eng:radioplatinum --> eng:platinum --> spa:platina --> fra:platine
+eng:radiopotassium --> eng:potassium
+eng:radioprotectant --> eng:protectant
+eng:radioprotection --> eng:protection
+eng:radioprotective --> eng:protective
+eng:radioracemization --> eng:racemization
+eng:radioresponse --> eng:response
+eng:radiorhenium --> eng:rhenium --> lat:Rhenus
+eng:radiorubidium --> eng:rubidium
+eng:radiosamarium --> eng:samarium
+eng:radioscandium --> eng:scandium --> eng:Scandia
+eng:radioscopic
+eng:radioscopy
+eng:radioselenium --> eng:selenium
+eng:radiosensitize --> eng:sensitize --> eng:sensitive --> frm:sensitif --> lat:sensitivus
+eng:radiosensitizer --> eng:sensitizer --> eng:sensitize --> eng:sensitive --> frm:sensitif --> lat:sensitivus
+eng:radiosensitizing --> eng:sensitizing
+eng:radiosilicon --> eng:silicon --> eng:silica --> gle:silex
+eng:radiosilver --> eng:silver --> enm:silver
+eng:radiosodium --> eng:sodium
+eng:radiostrontium --> eng:strontium --> sco:Strontian
+eng:radiosulfur --> eng:sulfur
+eng:radiosulphur --> eng:sulphur
+eng:radiosymmetric --> eng:symmetric --> lat:symmetria --> grc:συμμετρία --> grc:σύμμετρος
+eng:radiosymmetry --> eng:symmetry --> lat:symmetria --> grc:συμμετρία --> grc:σύμμετρος
+eng:radiotantalum --> eng:tantalum
+eng:radiotelecommunication --> eng:radio --> lat:radius
+eng:radiotelegraph --> eng:telegraph --> fra:télégraphe
+eng:radiotelegrapher --> eng:telegrapher --> eng:telegraph --> fra:télégraphe
+eng:radiotelegraphy --> eng:telegraphy
+eng:radiotelephone --> eng:radio --> lat:radius
+eng:radiotelephony --> eng:telephony --> eng:telephone
+eng:radiotelescope --> eng:telescope
+eng:radiotellurium --> eng:tellurium --> lat:tellus
+eng:radioterbium --> eng:terbium --> swe:Ytterby
+eng:radiothallium --> eng:thallium --> grc:θαλλός
+eng:radiothon --> eng:radio --> lat:radius
+eng:radiothorium --> eng:thorium --> eng:Thor
+eng:radiothulium --> eng:thulium
+eng:radiotin --> eng:tin --> ang:tin
+eng:radiotitanium --> eng:titanium --> eng:Titan --> grc:Τιτάν
+eng:radiotoxic --> eng:radioactive
+eng:radiotoxicological --> eng:toxicological
+eng:radiotoxicology --> eng:toxicology --> fra:toxicologie
+eng:radiotungsten --> eng:tungsten
+eng:radioulnar --> eng:ulnar
+eng:radiovanadium --> eng:vanadium
+eng:radioxenon --> eng:xenon --> grc:ξένον
+eng:radioytterbium --> eng:ytterbium --> swe:Ytterby
+eng:radioyttrium --> eng:yttrium --> swe:Ytterby
+eng:radiozinc --> eng:zinc --> deu:Zink --> deu:Zinken
+eng:radiozirconium --> eng:zirconium
+eng:radipraxy --> lat:radicalis --> lat:radix --> grc:ῥάδιξ
+eng:radish --> ang:redic
+eng:radishlike --> eng:radish --> ang:redic
+eng:radius --> lat:radius
+eng:radix --> lat:radix --> grc:ῥάδιξ
+eng:radonproof --> eng:radon
+eng:radula --> lat:radula --> lat:rado
+eng:rafale --> fra:rafale
+eng:raffle --> enm:rafle --> fro:rafle
+eng:raffler --> eng:raffle --> enm:rafle --> fro:rafle
+eng:rafivirumab
+eng:raftered --> eng:rafter
+eng:rafterless --> eng:rafter
+eng:raftlike --> eng:raft
+eng:raftmate --> eng:mate
+eng:rag --> non:rǫgg
+eng:ragalike --> eng:raga
+eng:rage --> fro:raige
+eng:rageaholic --> eng:rage --> fro:raige
+eng:rageful --> eng:rage --> fro:raige
+eng:ragefully --> eng:rageful --> eng:rage --> fro:raige
+eng:ragefulness --> eng:rageful --> eng:rage --> fro:raige
+eng:rageholic --> eng:rage --> fro:raige
+eng:rageless --> eng:rage --> fro:raige
+eng:ragelike --> eng:rage --> fro:raige
+eng:ragequit --> eng:quit --> xno:quiter
+eng:ragequitter --> eng:ragequit --> eng:quit --> xno:quiter
+eng:ragest --> eng:rage --> fro:raige
+eng:raggare --> swe:raggare
+eng:raggedly --> eng:ragged
+eng:raggy --> eng:rag --> non:rǫgg
+eng:raghead --> eng:head --> enm:hed
+eng:raghorn --> eng:horn --> ang:horn
+eng:raglike --> eng:rag --> non:rǫgg
+eng:Ragnarok --> non:ragnarǫk --> non:regin
+eng:ragout --> fra:ragoût
+eng:ragstone --> eng:rag --> non:rǫgg
+eng:ragtimer --> eng:ragtime
+eng:ragtimey --> eng:ragtime
+eng:ragtop --> eng:rag --> non:rǫgg
+eng:ragu --> ita:ragù
+eng:ragweed --> eng:rag --> non:rǫgg
+eng:ragwork --> eng:rag --> non:rǫgg
+eng:ragworm --> eng:rag --> non:rǫgg
+eng:ragwort --> eng:rag --> non:rǫgg
+eng:Rahab --> heb:רחב
+eng:Rahu --> san:राहु
+eng:Rāhu --> san:राहु
+eng:raid --> sco:raid --> ang:rad
+eng:raik --> enm:rake --> non:rák
+eng:rail --> ang:hrægl
+eng:rail-based --> eng:based
+eng:railbird --> eng:bird --> enm:brid --> ang:bridd
+eng:railbuff --> eng:buff --> eng:buffe --> frm:buffle
+eng:railcar --> eng:car --> enm:carre --> xno:carre --> lat:carra
+eng:railingless --> eng:railing
+eng:railingly --> eng:railing
+eng:railless --> eng:rail --> ang:hrægl
+eng:railman --> eng:rail --> ang:hrægl
+eng:railroader --> eng:railroad
+eng:railroadiana --> eng:railroad
+eng:railside --> eng:rail --> ang:hrægl
+eng:railway --> eng:rail --> ang:hrægl
+eng:railwayana --> eng:railway --> eng:rail --> ang:hrægl
+eng:railwayless --> eng:railway --> eng:rail --> ang:hrægl
+eng:railwaylike --> eng:railway --> eng:rail --> ang:hrægl
+eng:railyard --> eng:rail --> ang:hrægl
+eng:rain --> enm:reyn
+eng:rainboot --> eng:boot --> enm:boote
+eng:rainbow --> ang:regnboga --> ang:boga
+eng:rainbowfish --> eng:fish --> ang:fiscian
+eng:rainbowish --> eng:rainbow --> ang:regnboga --> ang:boga
+eng:rainbowlike --> eng:rainbow --> ang:regnboga --> ang:boga
+eng:rainbowy --> eng:rainbow --> ang:regnboga --> ang:boga
+eng:rainburn --> eng:burn --> enm:bernen
+eng:raincloud --> eng:cloud --> enm:cloud
+eng:raincoat --> eng:coat --> enm:coate
+eng:raincoated --> eng:raincoat --> eng:coat --> enm:coate
+eng:raincoatless --> eng:raincoat --> eng:coat --> enm:coate
+eng:raindrift --> eng:drift --> enm:drift
+eng:Raines --> xno:Reins
+eng:rainfall --> eng:fall --> enm:fallen --> ang:feallan
+eng:rainforest --> eng:forest --> enm:forest --> fro:forest --> lat:foresta
+eng:rainily --> eng:rainy --> eng:rain --> enm:reyn
+eng:rainjacket --> eng:jacket --> frm:jacquet
+eng:rainlessly --> eng:rainless
+eng:rainlessness --> eng:rainless
+eng:rainlike --> eng:rain --> enm:reyn
+eng:rainpants --> eng:pants
+eng:rainproof --> eng:rain --> enm:reyn
+eng:rainscape --> eng:rain --> enm:reyn
+eng:rainshadow --> eng:rain --> enm:reyn
+eng:rainshower --> eng:rain --> enm:reyn
+eng:rainsoaked --> eng:rain --> enm:reyn
+eng:rainstormy --> eng:rainstorm
+eng:raintight --> eng:rain --> enm:reyn
+eng:raintop --> eng:rain --> enm:reyn
+eng:rainwash --> eng:rain --> enm:reyn
+eng:rainwater --> eng:rain --> enm:reyn
+eng:rainwear --> eng:rain --> enm:reyn
+eng:rainworm --> eng:rain --> enm:reyn
+eng:rainy --> eng:rain --> enm:reyn
+eng:raisable --> eng:raise --> enm:raisen
+eng:raise --> enm:raisen
+eng:raiser --> eng:raise --> enm:raisen
+eng:raisin --> fro:raisin --> lat:racemus
+eng:raisinless --> eng:raisin --> fro:raisin --> lat:racemus
+eng:raisinlike --> eng:raisin --> fro:raisin --> lat:racemus
+eng:raisiny --> eng:raisin --> fro:raisin --> lat:racemus
+eng:raison d'etre --> fra:raison d'être
+eng:raison d'être --> fra:raison d'être
+eng:raisonné --> fra:raisonné
+eng:raiyat --> urd:رعیت --> fas:رعیت --> ara:رعية
+eng:Rajab --> ara:رجب
+eng:rajah --> hin:राजा --> san:राजन्
+eng:rajahship --> eng:rajah --> hin:राजा --> san:राजन्
+eng:rake --> ang:raca
+eng:rakeable --> eng:rake --> ang:raca
+eng:rakehelly --> eng:rakehell
+eng:rakery --> eng:rake --> ang:raca
+eng:rakestale --> eng:rake --> ang:raca
+eng:Raku --> jpn:楽
+eng:rakuware --> jpn:楽焼
+eng:rale --> fra:râle --> fra:râler
+eng:rally --> fra:railler
+eng:rallygoer --> eng:goer
+eng:rallyingly --> eng:rallying
+eng:ram --> ang:ramm
+eng:Rama --> san:रमा
+eng:Rāma --> san:राम
+eng:ramada --> spa:ramada
+eng:Ramadan --> ara:رمضان --> ara:ارتمض
+eng:ramal --> eng:ramus --> lat:ramus
+eng:rambade --> fra:rambade
+eng:rambutan --> msa:rambutan
+eng:Rameau --> fra:Rameau
+eng:ramekin --> fra:ramequin
+eng:ramen --> jpn:ラーメン
+eng:rameous --> lat:rameus
+eng:ramie --> msa:rami
+eng:ramification --> frm:ramification
+eng:ramify --> fra:ramifier
+eng:Ramirez --> spa:Ramírez --> spa:Ramiro
+eng:ramline --> eng:line --> ang:lin
+eng:rammish --> eng:ram --> ang:ramm
+eng:rammishness --> eng:rammish --> eng:ram --> ang:ramm
+eng:rammy --> eng:ram --> ang:ramm
+eng:Ramona --> spa:Ramona
+eng:ramose --> lat:rāmōsus
+eng:ramp --> fra:rampe
+eng:rampage --> enm:ramp --> fro:ramper
+eng:rampageous --> eng:rampage --> enm:ramp --> fro:ramper
+eng:rampart --> fra:rempart --> fro:remparer
+eng:rampartless --> eng:rampart --> fra:rempart --> fro:remparer
+eng:rampartlike --> eng:rampart --> fra:rempart --> fro:remparer
+eng:rampless --> eng:ramp --> fra:rampe
+eng:ramraid --> eng:raid --> sco:raid --> ang:rad
+eng:ramsons --> ang:hramsan
+eng:ramucirumab
+eng:ramulose --> lat:ramulosus
+eng:ramus --> lat:ramus
+eng:Ran --> heb:רן
+eng:rancescent --> lat:rancescens
+eng:ranchburger --> eng:ranch
+eng:ranchette --> eng:ranch
+eng:ranchhand --> eng:hand
+eng:ranchland --> eng:land --> enm:land
+eng:ranchlike --> eng:ranch
+eng:ranchwoman --> eng:ranch
+eng:rancid --> lat:rancidus --> lat:ranceo
+eng:rancorously --> eng:rancorous
+eng:rancourously --> eng:rancourous
+eng:Randian --> eng:Rand
+eng:Randianism --> eng:Randian --> eng:Rand
+eng:randily --> eng:randy
+eng:randiness --> eng:randy
+eng:randing --> eng:rand
+eng:random --> enm:raundon --> fro:randon --> fro:randir
+eng:randomer --> eng:random --> enm:raundon --> fro:randon --> fro:randir
+eng:randomish --> eng:random --> enm:raundon --> fro:randon --> fro:randir
+eng:randomity --> eng:random --> enm:raundon --> fro:randon --> fro:randir
+eng:randomizable --> eng:randomize
+eng:randomly --> eng:random --> enm:raundon --> fro:randon --> fro:randir
+eng:randomness --> eng:random --> enm:raundon --> fro:randon --> fro:randir
+eng:randomosity --> eng:random --> enm:raundon --> fro:randon --> fro:randir
+eng:randomwise --> eng:random --> enm:raundon --> fro:randon --> fro:randir
+eng:Randroid --> eng:Rand
+eng:range --> enm:rengen --> fro:renger --> fro:rang --> goh:hring
+eng:rangefinding --> eng:finding
+eng:rangering --> eng:ranger
+eng:rangily --> eng:rangy
+eng:rani --> hin:रानी --> san:राज्ञी --> san:राजन्
+eng:ranine --> lat:rana
+eng:rank --> enm:rank --> ang:ranc
+eng:rankism --> eng:rank --> enm:rank --> ang:ranc
+eng:ranklingly --> eng:rankling
+eng:rankly --> eng:rank --> enm:rank --> ang:ranc
+eng:rann --> gle:rann --> sga:rann
+eng:ranny --> lat:araneus mus
+eng:ransack --> enm:ransaken --> non:rannsakka
+eng:ransacker --> eng:ransack --> enm:ransaken --> non:rannsakka
+eng:ransomable --> eng:ransom
+eng:ransomer --> eng:ransom
+eng:ransomware --> eng:ransom
+eng:rant --> nld:ranten
+eng:Ranterism --> eng:Ranter
+eng:rantingly --> eng:ranting
+eng:ranunculus --> lat:ranunculus
+eng:rap --> enm:rap
+eng:rapability --> eng:rape --> enm:rape --> fro:raper
+eng:rapable --> eng:rape --> enm:rape --> fro:raper
+eng:rapakivi --> fin:rapakivi --> fin:kivi
+eng:Rapa Nui --> rap:Rapa Nui
+eng:rapcore --> eng:rap --> enm:rap
+eng:rape --> enm:rape --> fro:raper
+eng:rapee --> eng:rape --> enm:rape --> fro:raper
+eng:rapefest --> eng:rape --> enm:rape --> fro:raper
+eng:rapeful --> eng:rape --> enm:rape --> fro:raper
+eng:rapelike --> eng:rape --> enm:rape --> fro:raper
+eng:rapeseed --> eng:rape --> enm:rape --> fro:raper
+eng:rapey --> eng:rape --> enm:rape --> fro:raper
+eng:Raphaelesque --> eng:Raphael
+eng:Raphaelism --> eng:Raphael
+eng:raphania --> eng:Raphanus
+eng:rapid --> lat:rapidus --> lat:rapio
+eng:rapidly --> eng:rapid --> lat:rapidus --> lat:rapio
+eng:rapiered --> eng:rapier
+eng:rapierlike --> eng:rapier
+eng:rapinous --> eng:rapine
+eng:rapism --> eng:rape --> enm:rape --> fro:raper
+eng:rapist --> eng:rape --> enm:rape --> fro:raper
+eng:raplike --> eng:rap --> enm:rap
+eng:rapmeister --> eng:meister --> deu:Meister --> fro:maistre --> lat:magister
+eng:rapophile --> eng:rap --> enm:rap
+eng:rappage --> eng:rap --> enm:rap
+eng:rapparee --> gle:rapaire
+eng:rappel --> fra:rappeler
+eng:rapscallionly --> eng:rapscallion
+eng:rapt --> lat:raptor --> lat:rapere
+eng:raptness --> eng:rapt --> lat:raptor --> lat:rapere
+eng:raptor --> lat:raptor --> lat:rapere
+eng:raptorious --> lat:raptorius
+eng:raptorlike --> eng:raptor --> lat:raptor --> lat:rapere
+eng:rapture --> lat:raptura
+eng:rapturist --> eng:rapture --> lat:raptura
+eng:rapturize --> eng:rapture --> lat:raptura
+eng:rapturousness --> eng:rapturous
+eng:raptus --> lat:raptus
+eng:rara avis --> lat:rara avis
+eng:rare --> enm:rare --> fro:rare
+eng:rarefy --> eng:rare --> enm:rare --> fro:rare
+eng:rareish --> eng:rare --> enm:rare --> fro:rare
+eng:rarely --> eng:rare --> enm:rare --> fro:rare
+eng:rareripe --> eng:rare --> enm:rare --> fro:rare
+eng:rarify --> eng:rare --> enm:rare --> fro:rare
+eng:ras --> amh:ራስ
+eng:Ras Algethi --> ara:رأس الجاثي
+eng:rascaldom --> eng:rascal
+eng:rascaless --> eng:rascal
+eng:rascality --> eng:rascal
+eng:rascally --> eng:rascal
+eng:rascette --> frm:rachette
+eng:rash --> enm:rash
+eng:rashguard --> eng:guard
+eng:rashlike --> eng:rash --> enm:rash
+eng:rashling --> eng:rash --> enm:rash
+eng:rashly --> eng:rash --> enm:rash
+eng:rashy --> eng:rash --> enm:rash
+eng:raspberrying --> eng:raspberry
+eng:raspberryish --> eng:raspberry
+eng:raspberrylike --> eng:raspberry
+eng:raspily --> eng:raspy --> eng:rasp
+eng:raspiness --> eng:raspy --> eng:rasp
+eng:raspingly --> eng:rasping
+eng:rasplike --> eng:rasp
+eng:Rasputinesque --> eng:Rasputin
+eng:raspy --> eng:rasp
+eng:rassolnik --> rus:рассольник
+eng:Rastafarian --> eng:Rastafari
+eng:Rastafarianism --> eng:Rastafarian --> eng:Rastafari
+eng:Rastaman --> eng:Rastafari
+eng:rastaquouère --> fra:rastaquouère
+eng:rasterize --> eng:raster
+eng:rasterizer --> eng:rasterize --> eng:raster
+eng:rasure --> xno:rasure
+eng:rat --> enm:rat
+eng:ratatouille --> fra:ratatouille --> oci:ratatolha
+eng:ratbag --> eng:bag --> enm:bagge --> non:baggi
+eng:ratcatcher --> eng:catcher
+eng:ratchetlike --> eng:ratchet
+eng:ratchety --> eng:ratchet
+eng:rate --> enm:raten --> non:hrata
+eng:rateable --> eng:rate --> enm:raten --> non:hrata
+eng:rateless --> eng:rate --> enm:raten --> non:hrata
+eng:ratepayer --> eng:payer --> eng:pay --> enm:payen --> fro:paier --> lat:pacare --> lat:paco --> lat:pax
+eng:ratepaying --> eng:paying --> eng:pay --> enm:payen --> fro:paier --> lat:pacare --> lat:paco --> lat:pax
+eng:rater --> eng:rate --> enm:raten --> non:hrata
+eng:ratfish --> eng:fish --> ang:fiscian
+eng:rath --> sga:ráth
+eng:rathel --> enm:rathelen
+eng:rather --> enm:rather
+eng:ratherish --> eng:rather --> enm:rather
+eng:rathole --> eng:hole
+eng:Rati --> san:रति
+eng:ratifiable --> eng:ratify --> lat:ratifico --> lat:ratus
+eng:ratify --> lat:ratifico --> lat:ratus
+eng:ratio --> lat:ratio --> lat:ratus
+eng:ratiocination --> fra:ratiocination --> lat:ratiocinatio
+eng:ratiocinatively --> eng:ratiocinative
+eng:ration --> fra:ration
+eng:rationable --> eng:ration --> fra:ration
+eng:rational --> fro:rational --> lat:rationale
+eng:rationalise --> eng:rational --> fro:rational --> lat:rationale
+eng:rationalism --> eng:rational --> fro:rational --> lat:rationale
+eng:rationalistical --> eng:rationalistic
+eng:rationality --> fra:rationalité --> fra:rationnel
+eng:rationalizability --> eng:rationalize
+eng:rationalizable --> eng:rationalize
+eng:rationalizer --> eng:rationalize
+eng:rationally --> eng:rational --> fro:rational --> lat:rationale
+eng:rationalness --> eng:rational --> fro:rational --> lat:rationale
+eng:rationer --> eng:ration --> fra:ration
+eng:ratless --> eng:rat --> enm:rat
+eng:Ratna --> san:रत्न --> san:राति
+eng:ratproof --> eng:rat --> enm:rat
+eng:ratsbane --> eng:bane
+eng:ratskin --> eng:rat --> enm:rat
+eng:rattan --> msa:rotan
+eng:ratteen --> fra:ratine --> fro:rastin --> lat:raster
+eng:ratter --> eng:rat --> enm:rat
+eng:rattily --> eng:ratty --> eng:rat --> enm:rat
+eng:rattiness --> eng:ratty --> eng:rat --> enm:rat
+eng:rattish --> eng:rat --> enm:rat
+eng:rattlebox --> eng:box --> ang:box
+eng:rattlehead --> eng:head --> enm:hed
+eng:rattleheaded --> eng:headed --> eng:head --> enm:hed
+eng:rattlepate --> eng:pate
+eng:rattler --> eng:rattle
+eng:rattlesnake --> eng:rattle
+eng:rattletrap --> eng:rattle
+eng:rattleweed --> eng:rattle
+eng:rattlewings --> eng:rattle
+eng:rattlingly --> eng:rattling
+eng:ratty --> eng:rat --> enm:rat
+eng:raucity --> lat:rausitas
+eng:raucous --> lat:raucus
+eng:raucously --> eng:raucous --> lat:raucus
+eng:raunchfest --> eng:raunch
+eng:ravage --> fra:ravage
+eng:rave --> fro:raver
+eng:ravel --> nld:ravelen --> nld:rafel
+eng:raven --> ang:hræfn
+eng:ravener --> eng:raven --> ang:hræfn
+eng:raveningly --> eng:ravening
+eng:ravenlike --> eng:raven --> ang:hræfn
+eng:ravenly --> eng:raven --> ang:hræfn
+eng:Ravenna --> ita:Ravenna --> lat:Ravenna
+eng:ravenous --> fro:ravineus
+eng:ravenously --> eng:ravenous --> fro:ravineus
+eng:ravewear --> eng:rave --> fro:raver
+eng:ravingly --> eng:raving
+eng:raviolo --> ita:raviolo
+eng:raw --> enm:raw
+eng:rawhide --> eng:hide --> ang:hyd
+eng:rawish --> eng:raw --> enm:raw
+eng:rawly --> eng:raw --> enm:raw
+eng:rawness --> eng:raw --> enm:raw
+eng:rax --> enm:raxen
+eng:raxibacumab
+eng:raxle --> enm:raxlen
+eng:rayah --> tur:reaya --> ara:ra‘iyah
+eng:raycaster --> eng:caster
+eng:raying --> eng:ray
+eng:raylessness --> eng:rayless
+eng:raylike --> eng:ray
+eng:rayproof --> eng:ray
+eng:raze --> fro:raser
+eng:razer --> eng:raze --> fro:raser
+eng:razor --> fro:rasour
+eng:razorable --> eng:razor --> fro:rasour
+eng:razorfish --> eng:fish --> ang:fiscian
+eng:razorless --> eng:razor --> fro:rasour
+eng:razorlike --> eng:razor --> fro:rasour
+eng:re --> lat:re
+eng:reaccelerate --> eng:accelerate
+eng:reaccelerated --> eng:accelerated
+eng:reaccentuate --> eng:accentuate
+eng:reaccess --> eng:access
+eng:reacclimate --> eng:acclimate
+eng:reaccumulate --> eng:accumulate
+eng:reaccumulated --> eng:accumulated
+eng:reaccumulation --> eng:accumulation
+eng:reaccuse --> eng:accuse
+eng:reaccustom --> eng:accustom --> fro:acoustumer
+eng:reach --> enm:rechen --> ang:ræcan
+eng:reachability --> eng:reachable --> eng:reach --> enm:rechen --> ang:ræcan
+eng:reachable --> eng:reach --> enm:rechen --> ang:ræcan
+eng:reachless --> eng:reach --> enm:rechen --> ang:ræcan
+eng:reacht --> eng:reach --> enm:rechen --> ang:ræcan
+eng:reacknowledge --> eng:acknowledge
+eng:reacquaint --> eng:acquaint --> enm:aqueinten
+eng:reacquisition --> eng:acquisition
+eng:reaction --> fro:reaction --> lat:reactio --> lat:actio --> lat:actum --> lat:ago
+eng:reactionary --> fra:réactionnaire
+eng:reactionless --> eng:reaction --> fro:reaction --> lat:reactio --> lat:actio --> lat:actum --> lat:ago
+eng:reactivatable --> eng:reactivate
+eng:reactivator --> eng:reactivate
+eng:reactively --> eng:reactive
+eng:reactiveness --> eng:reactive
+eng:read --> ang:rædan
+eng:readability --> eng:readable --> eng:read --> ang:rædan
+eng:readable --> eng:read --> ang:rædan
+eng:readahead --> eng:ahead --> eng:head --> enm:hed
+eng:readaholic --> eng:read --> ang:rædan
+eng:readaptation --> eng:adaptation --> fra:adaptation --> lat:adaptatio
+eng:readback --> eng:back --> enm:bak --> ang:bæc
+eng:readd --> eng:add --> lat:addere
+eng:readdicted --> eng:addicted
+eng:readdicting --> eng:addicting --> eng:addict --> lat:addictus
+eng:readdiction --> eng:addiction --> eng:addict --> lat:addictus
+eng:readdition --> eng:addition
+eng:readdressable --> eng:readdress
+eng:readee --> eng:read --> ang:rædan
+eng:readerdom --> eng:reader
+eng:readerless --> eng:reader
+eng:readership --> eng:reader
+eng:readily --> eng:ready --> enm:redy
+eng:readiness --> eng:ready --> enm:redy
+eng:reading --> eng:read --> ang:rædan
+eng:readjourn --> eng:adjourn --> fro:ajorner
+eng:readjust --> eng:adjust --> frm:adjuster
+eng:readjuster --> eng:readjust --> eng:adjust --> frm:adjuster
+eng:readme --> eng:me --> enm:me --> ang:me
+eng:readminister --> eng:administer --> enm:admynistren --> fro:aminister --> lat:administrare
+eng:readmit --> eng:admit --> enm:admitten
+eng:readoption --> eng:readopt
+eng:readorn --> eng:adorn --> enm:aournen --> fro:aorner --> lat:adornare
+eng:readthrough --> eng:read --> ang:rædan
+eng:readvance --> eng:advance --> fro:avancer --> lat:abante --> lat:''[[ab]] [[ante]]''
+eng:readvertise --> eng:advertise
+eng:readworthy --> eng:read --> ang:rædan
+eng:ready --> enm:redy
+eng:reaf --> enm:ref
+eng:reaffirmance --> eng:affirmance
+eng:Reaganesque --> eng:Reagan
+eng:Reaganomics --> eng:Reagan
+eng:reagree --> eng:agree --> fro:agreer --> fra:a gré
+eng:reair --> eng:air --> enm:air --> xno:aeir
+eng:real --> fro:reel --> lat:realis --> lat:res
+eng:realia --> lat:realia
+eng:realigner --> eng:realign
+eng:realise --> eng:real --> fro:reel --> lat:realis --> lat:res
+eng:realist --> eng:real --> fro:reel --> lat:realis --> lat:res
+eng:realisticness --> eng:realistic
+eng:realizer --> eng:realize
+eng:realizingly --> eng:realizing
+eng:reallege --> eng:allege --> enm:aleggen --> xno:aleger
+eng:reallot --> eng:allot --> fro:aloter
+eng:really --> eng:real --> fro:reel --> lat:realis --> lat:res
+eng:realm --> fro:reaume --> fro:real --> lat:regalis --> lat:rex
+eng:realmless --> eng:realm --> fro:reaume --> fro:real --> lat:regalis --> lat:rex
+eng:realpolitician --> eng:politician --> eng:politic --> grc:πολίτης --> grc:πόλις
+eng:realpolitikal --> eng:realpolitik
+eng:realpolitiker --> eng:realpolitik
+eng:realspace --> eng:real --> fro:reel --> lat:realis --> lat:res
+eng:ream --> enm:reeme --> fro:raime
+eng:reamer --> eng:ream --> enm:reeme --> fro:raime
+eng:reamplification --> eng:amplification --> lat:amplificatio
+eng:reamplified --> eng:amplified
+eng:reamplify --> eng:amplify --> enm:amplifyen --> fro:amplifier --> lat:amplificare
+eng:reamputation --> eng:amputation --> eng:amputate --> lat:amputo
+eng:reanalyse --> eng:analyse
+eng:reanalysis --> eng:analysis --> lat:analysis --> grc:ἀνάλυσις --> grc:ἀναλύω
+eng:reangle --> eng:angle --> enm:anglelen --> enm:angel --> ang:angel
+eng:reanneal --> eng:anneal --> enm:anelen
+eng:reannex --> eng:annex --> fra:annexe --> lat:annexus --> lat:annecto
+eng:reannotate --> eng:annotate
+eng:reanoint --> eng:anoint --> fro:enoint
+eng:reanswer --> eng:answer --> enm:answere
+eng:reap --> enm:repen --> ang:ripan
+eng:reapparel --> eng:apparel --> fro:appareiller
+eng:reappear --> eng:appear --> enm:apperen
+eng:reappointee --> eng:reappoint
+eng:reappointment --> eng:appointment --> frm:apointement
+eng:reappraisal --> eng:appraisal
+eng:reapproach --> eng:approach --> enm:approchen
+eng:reapproval --> eng:approval --> eng:approve
+eng:reapprove --> eng:approve
+eng:rear --> enm:rere --> ang:hrer
+eng:rearchitect --> eng:architect --> fra:architecte --> grc:ἀρχιτέκτων
+eng:reard --> enm:rerd --> ang:reord
+eng:rearguard --> eng:guard
+eng:reargue --> eng:argue --> fro:arguer --> lat:arguere
+eng:reargument --> eng:argument
+eng:rearm --> eng:arm --> enm:arm --> ang:earm
+eng:rearrange --> eng:arrange --> enm:arengen
+eng:rearrangeable --> eng:rearrange --> eng:arrange --> enm:arengen
+eng:rearranger --> eng:rearrange --> eng:arrange --> enm:arengen
+eng:rearseat --> eng:rear --> enm:rere --> ang:hrer
+eng:rearticulate --> eng:articulate --> lat:articulatus
+eng:rearward --> eng:rear --> enm:rere --> ang:hrer
+eng:reascendance --> eng:ascendance
+eng:reascension --> eng:ascension --> lat:ascensio
+eng:reascent --> eng:ascent
+eng:reask --> eng:ask --> enm:aske
+eng:reason --> xno:raisun --> fro:raison
+eng:reasonable --> fro:resnable --> lat:rationabilis
+eng:reasonably --> eng:reasonable --> fro:resnable --> lat:rationabilis
+eng:reasonest --> eng:reason --> xno:raisun --> fro:raison
+eng:reasoneth --> eng:reason --> xno:raisun --> fro:raison
+eng:reasonist --> eng:reason --> xno:raisun --> fro:raison
+eng:reassault --> eng:assault
+eng:reassemblage --> eng:assemblage --> fra:assemblage
+eng:reassembly --> eng:assembly --> enm:assemblee --> xno:asemblee
+eng:reassess --> eng:assess --> fro:assesser --> lat:assessare
+eng:reassessment --> eng:assessment --> eng:assess --> fro:assesser --> lat:assessare
+eng:reassignable --> eng:reassign
+eng:reassimilate --> eng:assimilate --> lat:assimulatus
+eng:reassimilation --> eng:assimilation
+eng:reassociate --> eng:associate
+eng:reassume --> eng:assume --> lat:assumo
+eng:reassure --> fro:rasseürer --> fro:asseürer --> fro:seür --> lat:securus
+eng:reassurer --> eng:reassure --> fro:rasseürer --> fro:asseürer --> fro:seür --> lat:securus
+eng:reata --> spa:reata
+eng:reattract --> eng:attract --> lat:attractus
+eng:reattribute --> eng:attribute
+eng:reattribution --> eng:attribution --> eng:attribute
+eng:reattune --> eng:attune
+eng:reauction --> eng:auction --> lat:augere
+eng:reaudition --> eng:audition --> lat:auditio --> lat:audio
+eng:reaugment --> eng:augment
+eng:reaugmentation --> eng:augmentation --> fro:augmentacion --> lat:augmentatio
+eng:reave --> enm:reven --> ang:reafian
+eng:rebag --> eng:bag --> enm:bagge --> non:baggi
+eng:rebagger --> eng:rebag --> eng:bag --> enm:bagge --> non:baggi
+eng:rebandage --> eng:bandage --> fra:bande --> pro:banda
+eng:rebanish --> eng:banish
+eng:rebaptism --> eng:baptism --> grc:βαπτισμός --> grc:βαπτίζω --> grc:βάπτω
+eng:rebar --> eng:bar --> enm:barre --> fro:barre
+eng:rebarbarize --> eng:barbarize
+eng:rebarbative --> fra:rébarbatif --> fra:rebarber
+eng:rebaseline --> eng:baseline --> eng:base --> fro:bas --> lat:bassus
+eng:rebate --> fro:rabatre --> fra:batre
+eng:rebated --> eng:rebate --> fro:rabatre --> fra:batre
+eng:rebbetzin --> yid:רביצין
+eng:rebear --> eng:bear --> enm:bere --> ang:beor
+eng:rebec --> fra:rebec
+eng:rebegin --> eng:begin --> enm:beginnen --> ang:beginnan
+eng:Rebekah --> heb:רבקה
+eng:rebel --> fro:rebelle --> lat:rebellis --> lat:rebello
+eng:rebeldom --> eng:rebel --> fro:rebelle --> lat:rebellis --> lat:rebello
+eng:rebelieve --> eng:believe --> enm:beleven --> ang:belæfan
+eng:rebelleth --> eng:rebel --> fro:rebelle --> lat:rebellis --> lat:rebello
+eng:rebellow --> eng:bellow --> enm:belwen --> ang:bylgian
+eng:rebetiko --> ell:ρεμπέτικο
+eng:rebid --> eng:bid
+eng:rebill --> eng:bill --> ang:bil
+eng:rebiopsy --> eng:biopsy --> fra:biopsie
+eng:rebirth --> eng:birth
+eng:rebiting --> eng:biting
+eng:rebleach --> eng:bleach --> enm:bleche --> ang:blæc
+eng:rebleed --> eng:bleed --> ang:bledan
+eng:Reblochon --> fra:reblocher
+eng:reblock --> eng:block --> enm:blok --> fro:bloc --> dum:blok
+eng:reblog --> eng:blog
+eng:reblogger --> eng:blogger
+eng:rebloom --> eng:bloom --> ang:bloma
+eng:rebloomer --> eng:rebloom --> eng:bloom --> ang:bloma
+eng:reblossom --> eng:blossom --> enm:blosme
+eng:rebluff --> eng:bluff
+eng:rebond --> eng:bond --> enm:bond
+eng:rebook --> eng:book --> enm:book --> ang:boc
+eng:reboot --> eng:boot --> enm:boote
+eng:rebootable --> eng:reboot --> eng:boot --> enm:boote
+eng:reborn --> eng:born
+eng:reborrow --> eng:borrow --> ang:borg
+eng:rebottle --> eng:bottle --> enm:bottle
+eng:rebottler --> eng:rebottle --> eng:bottle --> enm:bottle
+eng:rebound --> fro:rebondir
+eng:rebounder --> eng:rebound --> fro:rebondir
+eng:rebrace --> eng:brace --> fro:brace --> lat:bracchia
+eng:rebrand --> eng:brand --> ang:brand
+eng:rebrander --> eng:rebrand --> eng:brand --> ang:brand
+eng:rebreak --> eng:break --> enm:breken --> ang:brecan
+eng:rebreathe --> eng:breathe --> enm:brethen --> enm:breth
+eng:rebribe --> eng:bribe
+eng:rebrick --> eng:brick --> fra:brique
+eng:rebrightening --> eng:brightening
+eng:rebroadcast --> eng:broadcast
+eng:rebud --> eng:bud
+eng:rebuffer --> eng:buffer --> eng:buff --> eng:buffe --> frm:buffle
+eng:rebuffingly --> eng:rebuffing
+eng:rebuilder --> eng:rebuild
+eng:rebukable --> eng:rebuke --> enm:rebuken --> xno:rebuker
+eng:rebuke --> enm:rebuken --> xno:rebuker
+eng:rebukeful --> eng:rebuke --> enm:rebuken --> xno:rebuker
+eng:rebuker --> eng:rebuke --> enm:rebuken --> xno:rebuker
+eng:rebukest --> eng:rebuke --> enm:rebuken --> xno:rebuker
+eng:rebulb --> eng:bulb --> frm:bulbe --> lat:bulbus --> grc:βολβός
+eng:rebus --> fra:rébus --> lat:rebus
+eng:rebuslike --> eng:rebus --> fra:rébus --> lat:rebus
+eng:rebuttal --> eng:rebut
+eng:rebutter --> eng:butter --> eng:butt
+eng:rebutton --> eng:button --> fro:boton
+eng:rebuy --> eng:buy --> enm:byen
+eng:recalcification --> eng:calcification --> eng:calcify
+eng:recalcitrant --> lat:recalcitrans
+eng:recalescence --> lat:recalescere
+eng:recalk --> eng:calk
+eng:recall --> eng:call --> enm:callen
+eng:re-call --> eng:call --> enm:callen
+eng:recallable --> eng:recall --> eng:call --> enm:callen
+eng:recallment --> eng:recall --> eng:call --> enm:callen
+eng:recamier --> fra:récamier
+eng:recan --> eng:can --> enm:can --> ang:can
+eng:recanalisation --> eng:recanalise --> eng:canalise --> eng:canal --> lat:canalis --> lat:canna --> grc:κάννα --> akk:𒄀 --> sux:𒄀𒈾
+eng:recanalise --> eng:canalise --> eng:canal --> lat:canalis --> lat:canna --> grc:κάννα --> akk:𒄀 --> sux:𒄀𒈾
+eng:recanalization --> eng:recanalize --> eng:canalize --> eng:canal --> lat:canalis --> lat:canna --> grc:κάννα --> akk:𒄀 --> sux:𒄀𒈾
+eng:recanalize --> eng:canalize --> eng:canal --> lat:canalis --> lat:canna --> grc:κάννα --> akk:𒄀 --> sux:𒄀𒈾
+eng:recanvass --> eng:canvass
+eng:recapitulate --> lat:recapitulatus
+eng:recapitulationist --> eng:recapitulation
+eng:recapper --> eng:recap
+eng:recaption --> eng:caption
+eng:recarbonize --> eng:carbonize
+eng:recarriage --> eng:carriage --> fro:cariage --> fro:carier
+eng:recarry --> eng:carry --> enm:carrien --> xno:carier
+eng:recarve --> eng:carve --> enm:kerven --> ang:ceorfan
+eng:recast --> eng:cast --> enm:casten --> non:kasta
+eng:recaster --> eng:recast --> eng:cast --> enm:casten --> non:kasta
+eng:recategorise --> eng:category --> frm:categorie --> lat:categoria --> grc:κατηγορία --> grc:κατηγορέω
+eng:recategorize --> eng:categorize
+eng:recatholicization --> eng:catholicization
+eng:recaulk --> eng:caulk --> fro:cauquer --> lat:calico
+eng:recede --> frm:receder --> lat:recedere
+eng:recedingly --> eng:receding
+eng:receiptless --> eng:receipt
+eng:receiptor --> eng:receipt
+eng:receivable --> eng:receive --> enm:receiven --> fro:recever --> lat:recipere
+eng:receive --> enm:receiven --> fro:recever --> lat:recipere
+eng:receiveable --> eng:receive --> enm:receiven --> fro:recever --> lat:recipere
+eng:receivedness --> eng:received
+eng:receivedst --> eng:received
+eng:receivership --> eng:receiver
+eng:recelebrate --> eng:celebrate
+eng:recellularization --> eng:cellularization
+eng:recency --> lat:recentia --> lat:recens
+eng:recension --> lat:recensio --> lat:recenseo --> lat:censeo
+eng:recensionist --> eng:recension --> lat:recensio --> lat:recenseo --> lat:censeo
+eng:recensor --> eng:censor --> lat:censor --> lat:censo
+eng:recent --> lat:recens
+eng:recenter --> eng:center --> fra:centre --> lat:centrum --> grc:κέντρον --> grc:κεντέω
+eng:recentish --> eng:recent --> lat:recens
+eng:recently --> eng:recent --> lat:recens
+eng:recentralize --> eng:centralize
+eng:recentre --> eng:centre
+eng:receptacle --> lat:receptaculum --> lat:recepto
+eng:receptible --> lat:receptibilis
+eng:reception --> lat:receptio --> lat:recipio
+eng:receptiveness --> eng:receptive
+eng:recertify --> eng:certify
+eng:recess --> lat:recessus
+eng:recessional --> eng:recession
+eng:recessionista --> eng:fashionista
+eng:recessionlike --> eng:recession
+eng:recessionproof --> eng:recession
+eng:recessively --> eng:recessive
+eng:Rechabite --> eng:Rechab
+eng:rechain --> eng:chain --> enm:chaine --> fro:chaine
+eng:rechalk --> eng:chalk --> ang:cealc
+eng:rechallenge --> eng:challenge --> fro:chalonge --> lat:calumnia
+eng:rechange --> eng:change
+eng:rechannel --> eng:channel --> fro:chenel --> lat:canalis --> lat:canna --> grc:κάννα --> akk:𒄀 --> sux:𒄀𒈾
+eng:recharacterize --> eng:characterize --> lat:characterizare --> grc:χαρακτηρίζω --> grc:χαρακτήρ --> grc:χαράσσω
+eng:rechart --> eng:chart --> frm:charte --> lat:charta --> grc:χάρτης --> grc:χαράσσω
+eng:rechase --> eng:chase --> fro:chacier --> lat:captiare
+eng:rechauffe --> fra:réchauffé
+eng:rechill --> eng:chill --> ang:cele
+eng:rechime --> eng:chime --> lat:cymbalum --> grc:κύμβαλον
+eng:rechipping --> eng:chipping
+eng:rechoose --> eng:choose --> enm:chose
+eng:rechoreograph --> eng:choreograph
+eng:rechosen --> eng:chosen
+eng:rechurn --> eng:churn --> ang:ċyrin
+eng:recidivistically --> eng:recidivistic
+eng:recidivous --> lat:recidivus --> lat:recido
+eng:recipe --> lat:recipio
+eng:recipelike --> eng:recipe --> lat:recipio
+eng:reciprocal --> lat:reciprocus
+eng:reciprocalness --> eng:reciprocal --> lat:reciprocus
+eng:reciprocate --> lat:reciprocātus
+eng:reciprocation --> eng:reciprocate --> lat:reciprocātus
+eng:reciprocatively --> eng:reciprocative
+eng:reciproque --> fra:réciproque --> lat:reciprocus
+eng:recircuit --> eng:circuit --> enm:circuit --> fro:circuit --> lat:circuitus
+eng:recirculate --> eng:circulate --> lat:circulatus
+eng:recision --> lat:recisio
+eng:recitative --> lat:recitativo --> lat:recitare --> lat:recito
+eng:recitativelike --> eng:recitative --> lat:recitativo --> lat:recitare --> lat:recito
+eng:recitatively --> eng:recitative --> lat:recitativo --> lat:recitare --> lat:recito
+eng:recite --> lat:recitare --> lat:recito
+eng:reciter --> eng:recite --> lat:recitare --> lat:recito
+eng:reck --> enm:recken
+eng:reckful --> eng:reck --> enm:recken
+eng:reckfulness --> eng:reckful --> eng:reck --> enm:recken
+eng:reckless --> enm:rekles
+eng:recklessness --> enm:reklesnes --> ang:receleasnes
+eng:reckmaster --> eng:master --> ang:mægester --> lat:magister
+eng:reckon --> enm:rekenen
+eng:reclaim --> xno:reclaimer
+eng:reclaimable --> eng:reclaim --> xno:reclaimer
+eng:reclaimer --> eng:reclaim --> xno:reclaimer
+eng:reclaimless --> eng:reclaim --> xno:reclaimer
+eng:reclasp --> eng:clasp
+eng:reclassify --> eng:classify --> fra:classifier --> fra:classe --> lat:classis
+eng:reclean --> eng:clean --> enm:clene --> ang:clæne
+eng:reclimb --> eng:climb --> enm:climben --> ang:climban
+eng:recline --> lat:reclinare
+eng:recliner --> eng:recline --> lat:reclinare
+eng:recloak --> eng:cloak
+eng:reclock --> eng:clock
+eng:reclog --> eng:clog --> enm:clog
+eng:reclosable --> eng:close --> enm:closen
+eng:reclose --> eng:close --> enm:closen
+eng:recloser --> eng:reclose --> eng:close --> enm:closen
+eng:reclosure --> eng:closure --> fro:closure --> lat:clausura --> lat:clausus
+eng:reclothe --> eng:clothe --> enm:clothen --> ang:claþian
+eng:recluse --> fro:reclus
+eng:reclusely --> eng:recluse --> fro:reclus
+eng:recluseness --> eng:recluse --> fro:reclus
+eng:reclusion --> eng:recluse --> fro:reclus
+eng:reclusively --> eng:reclusive
+eng:reclusory --> lat:reclosorium
+eng:recoat --> eng:coat --> enm:coate
+eng:recock --> eng:cock --> enm:cock
+eng:recoct --> lat:recoctus
+eng:recognition --> lat:recognitionem
+eng:recognizability --> eng:recognize --> lat:recognoscere
+eng:recognizableness --> eng:recognizable
+eng:recognizance --> eng:recognize --> lat:recognoscere
+eng:recognization --> eng:recognize --> lat:recognoscere
+eng:recognize --> lat:recognoscere
+eng:recohere --> eng:cohere
+eng:recoherence --> eng:coherence --> frm:coherence --> lat:cohaerentia
+eng:recoil --> fro:reculer
+eng:recoiler --> eng:recoil --> fro:reculer
+eng:recoilingly --> eng:recoiling
+eng:recoin --> eng:coin
+eng:recoinage --> eng:coinage --> eng:coin
+eng:recollar --> eng:collar --> enm:coler --> fro:coler --> lat:collare --> lat:collaris
+eng:recollect --> eng:collect --> enm:collecten --> fro:collecter --> lat:collectare
+eng:recollection --> eng:collection
+eng:recollimation --> eng:collimation
+eng:recollision --> eng:collision --> lat:collisio --> lat:collidere
+eng:recolonize --> eng:colonize
+eng:recolor --> eng:color --> enm:color --> xno:colur --> fro:colour
+eng:recolour --> eng:colour --> enm:color --> xno:colur --> fro:colour
+eng:recomfort --> xno:recomforter
+eng:recommitment --> eng:recommit
+eng:recommittal --> eng:commital
+eng:recompact --> eng:compact --> lat:compactum
+eng:recompenser --> eng:recompense
+eng:recompete --> eng:compete
+eng:recompilable --> eng:recompile --> eng:compile --> fro:compiler --> lat:compilo
+eng:recompile --> eng:compile --> fro:compiler --> lat:compilo
+eng:recomplicate --> eng:complicate --> lat:complicatus
+eng:recomposer --> eng:recompose
+eng:recomposition --> eng:composition --> lat:compositio --> lat:compono
+eng:reconceive --> eng:conceive --> enm:conceiven --> fro:concevoir
+eng:reconception --> eng:conception --> enm:conceptioun --> fro:conception --> lat:conceptio --> lat:conceptus --> lat:concipere
+eng:reconceptualization --> eng:reconceptualize
+eng:reconcilability --> eng:reconcilable
+eng:reconcile --> lat:reconcilio
+eng:reconcilement --> eng:reconcile --> lat:reconcilio
+eng:reconciliation --> lat:reconciliatio --> lat:reconciliare
+eng:reconcilingly --> eng:reconciling
+eng:recondite --> lat:reconditus
+eng:recondition --> eng:condition --> lat:conditio --> lat:condicio --> lat:condico
+eng:reconditioner --> eng:recondition --> eng:condition --> lat:conditio --> lat:condicio --> lat:condico
+eng:reconditory --> lat:reconditorium
+eng:reconduct --> eng:conduct --> lat:conductus
+eng:reconductor --> eng:conductor --> lat:conductor --> lat:conduco --> lat:duco
+eng:reconfigurability --> eng:reconfigurable --> eng:reconfigure
+eng:reconfigurable --> eng:reconfigure
+eng:recongregate --> eng:congregate --> lat:congregatus
+eng:reconjoin --> eng:conjoin --> fro:conjoindre --> lat:coniungo
+eng:reconjure --> eng:conjure
+eng:reconnaissance --> fra:reconnaissance
+eng:reconnectable --> eng:reconnect
+eng:reconnection --> eng:connection --> fro:connexion --> lat:connexio --> lat:connecto
+eng:reconnexion --> eng:connexion --> fro:connexion --> lat:connexio --> lat:connecto
+eng:reconnoiter --> fra:reconnoître --> lat:recognoscere
+eng:reconnoitre --> fra:reconnoître --> lat:recognoscere
+eng:reconquer --> frm:reconquerir
+eng:Reconquista --> spa:reconquista
+eng:reconsenting --> eng:consenting
+eng:reconsolidate --> eng:consolidate --> lat:consolidare --> lat:solidus
+eng:reconsolidation --> eng:reconsolidate --> eng:consolidate --> lat:consolidare --> lat:solidus
+eng:reconstructionism --> eng:reconstruction
+eng:reconsult --> eng:consult --> fra:consulter --> lat:consultare
+eng:recontinue --> eng:continue --> frm:continuer --> lat:continuare
+eng:recontour --> eng:contour
+eng:recontraction --> eng:contraction --> lat:contractio --> lat:contraho
+eng:reconverge --> eng:converge --> lat:convergere
+eng:reconversion --> eng:conversion
+eng:reconvey --> eng:convey --> fro:conveier --> lat:convio --> lat:via
+eng:reconvict --> eng:convict --> xno:convicter --> lat:convictus
+eng:reconviction --> eng:conviction --> xno:conviction --> lat:convictio --> lat:convictus
+eng:recopier --> eng:recopy
+eng:recopyright --> eng:copyright
+eng:record --> enm:recorden --> fro:record --> fro:recorder --> lat:recordari
+eng:recordability --> eng:recordable --> eng:record --> enm:recorden --> fro:record --> fro:recorder --> lat:recordari
+eng:recordable --> eng:record --> enm:recorden --> fro:record --> fro:recorder --> lat:recordari
+eng:recorder --> xno:recordour --> fro:recordeor --> lat:recordator --> lat:recordor
+eng:recordership --> eng:recorder --> xno:recordour --> fro:recordeor --> lat:recordator --> lat:recordor
+eng:recordkeeper --> eng:keeper --> eng:keep --> enm:kepen --> ang:cepan
+eng:recordkeeping --> eng:keeping
+eng:recordlike --> eng:record --> enm:recorden --> fro:record --> fro:recorder --> lat:recordari
+eng:recordset --> eng:record --> enm:recorden --> fro:record --> fro:recorder --> lat:recordari
+eng:recork --> eng:cork --> enm:cork
+eng:recost --> eng:cost --> enm:cost --> ang:cost --> non:kostr --> gml:kost --> fro:coste --> lat:costa
+eng:recouch --> eng:couch --> eng:quitch --> ang:cwice --> gml:kweke
+eng:recounter --> eng:recount
+eng:recountment --> eng:recount
+eng:recouper --> eng:recoup
+eng:recouple --> eng:couple --> fro:cople --> lat:copula
+eng:recoupment --> eng:recoup
+eng:recourse --> fro:recours --> lat:recursus
+eng:recourseful --> eng:recourse --> fro:recours --> lat:recursus
+eng:recover --> eng:cover --> enm:coveren --> fro:covrir --> lat:cooperire
+eng:re-cover --> eng:cover --> enm:coveren --> fro:covrir --> lat:cooperire
+eng:recoverableness --> eng:recoverable
+eng:recoveree --> eng:recover --> eng:cover --> enm:coveren --> fro:covrir --> lat:cooperire
+eng:recoveror --> eng:recover --> eng:cover --> enm:coveren --> fro:covrir --> lat:cooperire
+eng:recraft --> eng:craft
+eng:recrawl --> eng:crawl --> enm:crawlen --> non:krafla
+eng:recreatest --> eng:recreate
+eng:recreateth --> eng:recreate
+eng:recreation --> fra:récréation --> lat:recreatio
+eng:recreationally --> eng:recreational
+eng:recreationist --> eng:recreation --> fra:récréation --> lat:recreatio
+eng:recreator --> eng:recreate
+eng:recriminator --> eng:recriminate
+eng:recriticality --> eng:criticality
+eng:recross --> eng:cross --> enm:cross
+eng:recrown --> eng:crown --> lat:corona --> grc:κορώνη
+eng:recrudescence --> lat:recrudescere
+eng:recruit --> fra:recruter
+eng:recruitee --> eng:recruit --> fra:recruter
+eng:recruitment --> eng:recruit --> fra:recruter
+eng:recrumple --> eng:crumple
+eng:rectally --> eng:rectal
+eng:rectify --> fro:rectifier --> lat:rectificare --> lat:rectus
+eng:rectilineally --> eng:rectilineal
+eng:rectilinearly --> eng:rectilinear
+eng:rectiserial --> eng:serial
+eng:rectoabdominal --> eng:abdominal
+eng:rectoanal --> eng:anal
+eng:rectocele
+eng:rectococcygeal --> eng:coccygeal
+eng:rectogenital --> eng:genital
+eng:rectoperineal --> eng:perineal
+eng:rectoress --> eng:rector
+eng:rectourethral --> eng:urethral
+eng:rectouterine --> eng:uterine
+eng:rectovesical --> eng:vesical
+eng:rectovulvar --> eng:vulvar
+eng:rectum --> lat:rectum
+eng:recultivate --> eng:cultivate --> lat:cultivatus
+eng:recultivation --> eng:cultivation --> eng:cultivate --> lat:cultivatus
+eng:recumbently --> eng:recumbent
+eng:recuperate --> lat:recuperātus
+eng:recuperation --> lat:recuperatio
+eng:recur --> lat:recurro
+eng:recurrence --> eng:recurrent --> lat:recurrens
+eng:recurrent --> lat:recurrens
+eng:recurringly --> eng:recurring
+eng:recursant --> lat:recursans
+eng:recursion --> lat:recursio --> lat:recurro
+eng:recursiveness --> eng:recursive
+eng:recursivity --> eng:recursive
+eng:recussion --> lat:recutire
+eng:recut --> eng:cut --> enm:cutten
+eng:recycle --> eng:cycle --> lat:cyclus --> grc:κύκλος
+eng:recyclist --> eng:recycle --> eng:cycle --> lat:cyclus --> grc:κύκλος
+eng:recyclization --> eng:recyclize --> eng:cyclize --> eng:cycle --> lat:cyclus --> grc:κύκλος
+eng:recyclize --> eng:cyclize --> eng:cycle --> lat:cyclus --> grc:κύκλος
+eng:red --> ang:hreddan
+eng:redact --> fro:redacter --> lat:redactus
+eng:redactable --> eng:redact --> fro:redacter --> lat:redactus
+eng:redaction --> lat:redactio --> lat:redigere
+eng:redan --> fra:redan
+eng:redargue --> fra:rédarguer
+eng:redargution --> lat:redargutio
+eng:redate --> eng:date --> fra:date
+eng:redback --> eng:Red
+eng:red-backed hawk --> eng:back --> enm:bak --> ang:bæc
+eng:redbait --> eng:bait --> enm:bait
+eng:Redbeard --> eng:beard --> enm:berd --> ang:beard
+eng:redberry --> eng:berry --> enm:bery
+eng:redbone --> eng:bone --> enm:bon --> ang:ban
+eng:redbud --> eng:bud
+eng:red chip --> eng:Red China
+eng:red-crested pochard --> eng:crested
+eng:redcurrant --> eng:currant
+eng:redden --> eng:red --> ang:hreddan
+eng:reddenest --> eng:redden --> eng:red --> ang:hreddan
+eng:reddeneth --> eng:redden --> eng:red --> ang:hreddan
+eng:reddish --> eng:red --> ang:hreddan
+eng:reddition --> lat:redditio
+eng:redditive --> lat:redditivus
+eng:reddour --> fra:raideur --> fra:raide --> fro:''[[reit]], [[redde]]''
+eng:reddy --> eng:red --> ang:hreddan
+eng:rede --> ang:ræd
+eng:redecide --> eng:decide
+eng:redeck --> eng:deck --> dum:dekken
+eng:redeclare --> eng:declare --> fra:déclarer --> lat:declarare
+eng:redeconvolve --> eng:deconvolve --> eng:convolve --> lat:convolvere
+eng:redeemable --> eng:redeem
+eng:redeemableness --> eng:redeemable --> eng:redeem
+eng:redefault --> eng:default
+eng:redefinability --> eng:redefinable --> eng:redefine
+eng:redefinable --> eng:redefine
+eng:redefiner --> eng:redefine
+eng:redeless --> eng:rede --> ang:ræd
+eng:redelete --> eng:delete --> lat:deletus
+eng:redeliberate --> eng:deliberate --> lat:deliberatus
+eng:redeliver --> eng:deliver
+eng:redelivery --> eng:delivery
+eng:redemise --> eng:demise --> lat:demissa
+eng:redemonstrate --> eng:demonstrate --> lat:demonstro
+eng:redemptionist --> eng:redemption
+eng:Redemptorist --> fra:Rédemptoriste --> ita:Redentorista
+eng:redenominate --> eng:denominate
+eng:redented --> fro:redent
+eng:rederivation --> eng:derivation
+eng:rederive --> eng:derive --> enm:deriven --> fro:deriver --> lat:derivare
+eng:redescend --> eng:descend --> enm:decenden --> fro:descendre --> lat:descendere
+eng:redesignable --> eng:redesign
+eng:redesigner --> eng:redesign
+eng:redetect --> eng:detect --> lat:detectus
+eng:redeveloper --> eng:redevelop
+eng:Redfella --> eng:Red
+eng:redfin --> eng:fin --> enm:fin --> ang:finn
+eng:redfinch --> eng:finch --> ang:finċ
+eng:redfish --> eng:fish --> ang:fiscian
+eng:red guard --> eng:guard
+eng:redhead --> eng:head --> enm:hed
+eng:redheadedness --> eng:redheaded
+eng:redhibitory --> lat:redhibitorius
+eng:redhorse --> eng:horse --> enm:horse
+eng:rediagonalize --> eng:diagonalize --> eng:diagonal --> lat:diagonalis --> grc:διαγώνιος
+eng:redial --> eng:dial
+eng:redifferentiate --> eng:differentiate
+eng:redifferentiation --> eng:differentiation
+eng:redimension --> eng:dimension --> lat:dimensio
+eng:redimensionable --> eng:redimension --> eng:dimension --> lat:dimensio
+eng:rediminish --> eng:diminish --> fro:diminuer
+eng:redingote --> fra:redingote --> eng:riding-coat
+eng:redintegrate --> lat:redintegro
+eng:redintegration --> lat:redintegratus
+eng:redirect --> eng:direct --> lat:directus
+eng:redirectable --> eng:redirect --> eng:direct --> lat:directus
+eng:redirector --> eng:redirect --> eng:direct --> lat:directus
+eng:redisburse --> eng:disburse --> fro:desbourser
+eng:rediscount --> eng:discount
+eng:rediscussion --> eng:discussion --> fra:discussion --> lat:discussionem --> lat:discutere
+eng:redisperse --> eng:disperse --> fra:disperser --> lat:dispersus
+eng:redisposal --> eng:disposal
+eng:redispute --> eng:dispute --> enm:disputen --> fro:desputer --> lat:disputare
+eng:redisseize --> eng:disseize --> eng:seize
+eng:redistill --> eng:distill
+eng:redistributor --> eng:redistribute
+eng:redistrict --> eng:district --> fra:district --> lat:districtus
+eng:redition --> lat:reditio
+eng:redivivus --> lat:redivivus
+eng:redleg --> eng:leg --> enm:leg --> non:leggr
+eng:redlink --> eng:link
+eng:redly --> eng:red --> ang:hreddan
+eng:Redmondian --> eng:Redmond
+eng:redmouth --> eng:mouth --> enm:mouth --> ang:muþ
+eng:red-necked buzzard --> eng:buzzard --> fra:busart
+eng:redneckery --> eng:redneck
+eng:redneckish --> eng:redneck
+eng:redneckism --> eng:redneck
+eng:rednecky --> eng:redneck
+eng:redness --> eng:red --> ang:hreddan
+eng:rednosed --> eng:nosed
+eng:redo --> eng:do --> enm:don --> ang:don
+eng:redoable --> eng:redo --> eng:do --> enm:don --> ang:don
+eng:redocumentation --> eng:documentation
+eng:redoer --> eng:redo --> eng:do --> enm:don --> ang:don
+eng:redolently --> eng:redolent
+eng:redology --> eng:red --> ang:hreddan
+eng:redouble --> eng:double
+eng:redoubt --> fra:redoute --> ita:ridotta
+eng:redoubtable --> fra:redoutable --> fra:redouter
+eng:redound --> fra:rédonder --> lat:redundo --> lat:undo --> lat:unda
+eng:redownload --> eng:download --> eng:load --> enm:lode
+eng:redpoll --> eng:poll --> enm:pol
+eng:redraw --> eng:draw --> enm:drawen
+eng:redrawer --> eng:redraw --> eng:draw --> enm:drawen
+eng:redress --> eng:dress
+eng:redresser --> eng:redress --> eng:dress
+eng:redressless --> eng:redress --> eng:dress
+eng:redrill --> eng:drill --> dum:drillen
+eng:redroot --> eng:red --> ang:hreddan
+eng:redrum --> eng:drum
+eng:redshank --> eng:red --> ang:hreddan
+eng:redshirt --> eng:red --> ang:hreddan
+eng:red-shouldered hawk --> eng:hawk --> enm:hauk --> ang:hafoc
+eng:redskirt --> eng:red --> ang:hreddan
+eng:redstart --> eng:red --> ang:hreddan
+eng:redstreak --> eng:red --> ang:hreddan
+eng:redtail --> eng:red --> ang:hreddan
+eng:red-tapism --> eng:red tape
+eng:red-tapist --> eng:red tape
+eng:redthroat --> eng:red --> ang:hreddan
+eng:reduce --> lat:reducere
+eng:reducement --> eng:reduce --> lat:reducere
+eng:reducibleness --> eng:reducible
+eng:reduction --> enm:reduccion --> fro:reducion --> lat:reductio --> lat:reduco
+eng:reductiveness --> eng:reductive
+eng:redundance --> lat:redundantia
+eng:redundant --> lat:redundans
+eng:reduplication --> eng:duplication
+eng:reduvid --> lat:reduvia
+eng:redux --> lat:reducere
+eng:redward --> eng:red --> ang:hreddan
+eng:redwards --> eng:red --> ang:hreddan
+eng:redware --> eng:red --> ang:hreddan
+eng:redweed --> eng:red --> ang:hreddan
+eng:redwood --> eng:red --> ang:hreddan
+eng:redwork --> eng:red --> ang:hreddan
+eng:redworm --> eng:red --> ang:hreddan
+eng:redye --> eng:dye --> enm:deie --> ang:deag
+eng:ree --> enm:rei
+eng:Reebless --> eng:Reeb
+eng:reedbird --> eng:bird --> enm:brid --> ang:bridd
+eng:reedbuck --> eng:buck --> enm:buc --> ang:bucca
+eng:reeded --> eng:reed
+eng:reedgrass --> eng:grass --> enm:gras
+eng:reedify --> eng:edify
+eng:reedist --> eng:reed
+eng:re-edit --> eng:edit
+eng:reedless --> eng:reed
+eng:reedlike --> eng:reed
+eng:reedling --> eng:reed
+eng:reedmace --> eng:mace
+eng:reëducating --> eng:educate --> lat:educatus
+eng:reedwork --> eng:reed
+eng:reef --> enm:ref
+eng:reefal --> eng:reef --> enm:ref
+eng:reefer --> eng:reef --> enm:ref
+eng:reefy --> eng:reef --> enm:ref
+eng:reekingly --> eng:reeking
+eng:reelect --> eng:elect --> lat:electus
+eng:reelection --> eng:election --> xno:eleccioun
+eng:reeler --> eng:reel
+eng:reeligible --> eng:eligible --> frm:eligible --> lat:eligibilis --> lat:eligo
+eng:reelin --> eng:reel
+eng:reelingly --> eng:reeling
+eng:reelless --> eng:reel
+eng:reem --> heb:ראם
+eng:reembody --> eng:embody
+eng:reëmbrace --> eng:embrace --> enm:embracen --> fro:embracier
+eng:reemergent --> eng:emergent
+eng:reemphasize --> eng:emphasize
+eng:reënable --> eng:enable --> eng:able --> enm:ablen --> enm:able
+eng:reenact --> eng:enact --> enm:enacten
+eng:reenactable --> eng:reenact --> eng:enact --> enm:enacten
+eng:reenaction --> eng:enaction
+eng:reenactment --> eng:enact --> enm:enacten
+eng:re-encode --> eng:encode
+eng:re-encounter --> eng:encounter
+eng:reencourage --> eng:encourage --> enm:encoragen --> xno:encoragier --> fro:encoragier --> fro:corage --> lat:cor
+eng:reendothelialization --> eng:endothelialization
+eng:reendow --> eng:endow --> xno:endover
+eng:reenergize --> eng:energize
+eng:reenforce --> eng:enforce --> fro:enforcier --> lat:infortiare
+eng:re-enforce --> eng:enforce --> fro:enforcier --> lat:infortiare
+eng:reengagement --> eng:engagement --> fra:engagement --> fra:engager
+eng:reengrave --> eng:engrave --> eng:grave --> enm:grave
+eng:reenjoy --> eng:enjoy --> fro:enjoir --> lat:gaudere
+eng:reenjoyment --> eng:enjoyment --> eng:enjoy --> fro:enjoir --> lat:gaudere
+eng:reenkindle --> eng:enkindle
+eng:reenslave --> eng:enslave --> eng:slave
+eng:reenthrone --> eng:enthrone
+eng:reentrance --> eng:entrance --> frm:entrance
+eng:reentrant --> eng:entrant
+eng:reentre --> eng:entre
+eng:reentry --> eng:entry --> fro:entree
+eng:reenvision --> eng:envision
+eng:reepithelialization --> eng:epithelialization
+eng:reequip --> eng:equip --> fra:équiper
+eng:reequipped --> eng:equip --> fra:équiper
+eng:reequipping --> eng:equip --> fra:équiper
+eng:reerect --> eng:erect
+eng:re-escalation --> eng:escalation
+eng:reestablisher --> eng:reestablish
+eng:reestate --> eng:estate --> xno:astat --> fro:estat --> lat:status --> lat:stare
+eng:reesterification --> eng:esterification
+eng:reesterify --> eng:esterify --> eng:ester
+eng:Reeth --> ang:rith
+eng:re-evaluate --> eng:evaluate
+eng:reëxamining --> eng:reëxamine
+eng:reexchange --> eng:exchange --> enm:eschaunge --> xno:eschaunge --> fro:eschange --> fro:eschanger
+eng:reexhibit --> eng:exhibit --> lat:exhibitus
+eng:reexpel --> eng:expel
+eng:reexperience --> eng:experience
+eng:reexplaining --> eng:explain --> enm:explanen --> fro:explaner --> lat:explanō
+eng:reexplanation --> eng:explanation --> lat:explanatio
+eng:reexport --> eng:export --> lat:exportare
+eng:reexportation --> eng:exportation
+eng:reexposure --> eng:exposure
+eng:reexpress --> eng:express --> fra:exprès --> lat:expressus
+eng:reëxpressed --> eng:express --> fra:exprès --> lat:expressus
+eng:re-extend --> eng:extend --> lat:extendo
+eng:reëxtend --> eng:extend --> lat:extendo
+eng:reextracted --> eng:extracted
+eng:refabricate --> eng:fabricate --> lat:fabricatus
+eng:reface --> eng:face
+eng:refactorize --> eng:factorize
+eng:refamiliarise --> eng:familiar
+eng:refamiliarize --> eng:familiar
+eng:refarming --> eng:farming
+eng:refashioner --> eng:refashion
+eng:refashionment --> eng:refashion
+eng:refatten --> eng:fatten --> eng:fat
+eng:refax --> eng:fax --> eng:facsimile
+eng:refback --> eng:back --> enm:bak --> ang:bæc
+eng:refection --> fra:réfection --> lat:refectio --> lat:reficio
+eng:refeed --> eng:feed --> enm:feden --> ang:fedan
+eng:refel --> lat:refellere
+eng:referable --> eng:refer
+eng:reference --> eng:refer
+eng:referenceable --> eng:reference --> eng:refer
+eng:referenceless --> eng:reference --> eng:refer
+eng:referendary --> lat:referendarius
+eng:referendum --> lat:referendus --> lat:refero
+eng:referent --> eng:refer
+eng:referential --> eng:referent --> eng:refer
+eng:referentiality --> eng:referential --> eng:referent --> eng:refer
+eng:referentially --> eng:referential --> eng:referent --> eng:refer
+eng:referentless --> eng:referent --> eng:refer
+eng:referer --> eng:referrer --> eng:refer
+eng:referral --> eng:refer
+eng:referrer --> eng:refer
+eng:referrible --> lat:refero
+eng:reffo --> eng:refugee --> fra:réfugié
+eng:refigure --> eng:figure --> enm:figure --> fro:figure
+eng:refile --> eng:file --> ang:feol
+eng:refillable --> eng:refill
+eng:refiller --> eng:refill
+eng:refinable --> eng:refine
+eng:refinancer --> eng:refinance
+eng:refind --> eng:find --> ang:findan
+eng:refinedness --> eng:refined
+eng:refinisher --> eng:refinish
+eng:refitment --> eng:refit
+eng:refitter --> eng:refit
+eng:refix --> eng:fix --> fro:fixer
+eng:reflag --> eng:flag --> enm:flag
+eng:reflame --> eng:flame --> enm:flaume
+eng:reflash --> eng:flash
+eng:reflation --> eng:reflate
+eng:reflationary --> eng:reflation --> eng:reflate
+eng:reflectible --> eng:reflect
+eng:reflectingly --> eng:reflecting
+eng:reflection --> frm:reflexion
+eng:reflectionally --> eng:reflectional
+eng:reflectionless --> eng:reflection --> frm:reflexion
+eng:reflective --> eng:reflect
+eng:reflectoporn --> eng:porn
+eng:reflector --> eng:reflect
+eng:reflectorize --> eng:reflector --> eng:reflect
+eng:reflectorless --> eng:reflector --> eng:reflect
+eng:reflex --> lat:reflexus
+eng:reflexional --> eng:reflexion
+eng:reflexionally --> eng:reflexional --> eng:reflexion
+eng:reflexive --> lat:reflexivus --> lat:reflexus
+eng:reflexively --> eng:reflexive --> lat:reflexivus --> lat:reflexus
+eng:reflexiveness --> eng:reflexive --> lat:reflexivus --> lat:reflexus
+eng:reflexivity --> eng:reflexive --> lat:reflexivus --> lat:reflexus
+eng:reflexmate --> eng:mate
+eng:reflip --> eng:flip --> eng:flippant
+eng:reflood --> eng:flood --> enm:flod --> ang:flod
+eng:refloor --> eng:floor
+eng:reflourish --> eng:flourish --> ang:florisshen
+eng:reflow --> eng:flow --> ang:flowan
+eng:reflowable --> eng:reflow --> eng:flow --> ang:flowan
+eng:reflower --> eng:flower --> enm:flour --> xno:flur --> fro:flor --> lat:florem
+eng:refluous --> lat:refluus
+eng:refluxer --> eng:reflux
+eng:refly --> eng:fly --> enm:flien --> ang:fleogan
+eng:refold --> eng:fold --> enm:fold
+eng:refoliation --> eng:foliation
+eng:refollow --> eng:follow
+eng:refoment --> eng:foment --> fro:fomenter --> lat:fomentare --> lat:fomentum
+eng:reforestation --> eng:forest --> enm:forest --> fro:forest --> lat:foresta
+eng:reforestize --> eng:forest --> enm:forest --> fro:forest --> lat:foresta
+eng:reforger --> eng:reforge
+eng:reformable --> eng:reform
+eng:reformate --> eng:reform
+eng:re-formation --> eng:formation --> fra:formation --> lat:formatio --> lat:formo --> lat:forma --> grc:μόρφα
+eng:reformattable --> eng:reformat
+eng:reformatter --> eng:reformat
+eng:refortification --> eng:fortification --> lat:fortificatio
+eng:reforward --> eng:forward --> enm:foreward --> ang:foreweard
+eng:refossion --> lat:refodere
+eng:refound --> eng:found --> frm:fondre
+eng:refounder --> eng:refound --> eng:found --> frm:fondre
+eng:refoveate --> eng:foveate --> eng:fovea --> lat:fovea
+eng:refraction --> eng:refract
+eng:refractive --> eng:refract
+eng:refractively --> eng:refractive --> eng:refract
+eng:refractiveness --> eng:refractive --> eng:refract
+eng:refractometer
+eng:refractometric
+eng:refractometry
+eng:refractor --> eng:refract
+eng:refractorily --> eng:refractory --> lat:refractarius
+eng:refractory --> lat:refractarius
+eng:refracture --> eng:fracture
+eng:refragable --> lat:refragabilis
+eng:refrain --> fra:refrain --> fro:refraindre
+eng:refrainer --> eng:refrain --> fra:refrain --> fro:refraindre
+eng:refrainest --> eng:refrain --> fra:refrain --> fro:refraindre
+eng:refrainment --> eng:refrain --> fra:refrain --> fro:refraindre
+eng:reframe --> eng:frame --> enm:framen
+eng:reframer --> eng:reframe --> eng:frame --> enm:framen
+eng:refresh --> fro:refrescher
+eng:refreshable --> eng:refresh --> fro:refrescher
+eng:refreshful --> eng:refresh --> fro:refrescher
+eng:refreshingly --> eng:refreshing
+eng:refret --> fro:refret
+eng:refrigeratorlike --> eng:refrigerator
+eng:refruiting --> eng:fruiting
+eng:refuck --> eng:fuck
+eng:refuelable --> eng:refuel
+eng:refuellable --> eng:refuel
+eng:refuge --> fro:refuge --> lat:refugium
+eng:refugee --> fra:réfugié
+eng:refugium --> lat:refugium
+eng:refujew --> eng:Jew --> fro:juiu
+eng:refulgent --> lat:refulgentem
+eng:refulgently --> eng:refulgent --> lat:refulgentem
+eng:refundable --> eng:refund
+eng:refundee --> eng:refund
+eng:refunder --> eng:refund
+eng:refundment --> eng:refund
+eng:refunnel --> eng:funnel --> ang:funel
+eng:refurbishment --> eng:refurbish
+eng:refurl --> eng:furl
+eng:refusable --> eng:refuse --> fra:refuser
+eng:refuse --> fra:refuser
+eng:re-fuse --> eng:fuse
+eng:refusest --> eng:refuse --> fra:refuser
+eng:refusion --> eng:fusion
+eng:refut --> fro:refuite
+eng:refutable --> lat:refutabilis
+eng:refutatively --> eng:refutative
+eng:refute --> lat:refuto
+eng:refuter --> eng:refute --> lat:refuto
+eng:regain --> eng:gain --> enm:gain
+eng:regainable --> eng:regain --> eng:gain --> enm:gain
+eng:regainer --> eng:regain --> eng:gain --> enm:gain
+eng:regal --> enm:regal --> fro:regal --> lat:regalis --> lat:rex
+eng:regale --> fra:régale --> lat:regale --> lat:regalis --> lat:rex
+eng:regaler --> eng:regale --> fra:régale --> lat:regale --> lat:regalis --> lat:rex
+eng:regalia --> lat:regalia
+eng:regality --> lat:regalitas
+eng:regalness --> eng:regal --> enm:regal --> fro:regal --> lat:regalis --> lat:rex
+eng:regard --> frm:regarder --> fro:regarder
+eng:regardant --> fra:regardant
+eng:regarder --> eng:regard --> frm:regarder --> fro:regarder
+eng:regardest --> eng:regard --> frm:regarder --> fro:regarder
+eng:regardful --> eng:regard --> frm:regarder --> fro:regarder
+eng:regardfully --> eng:regardful --> eng:regard --> frm:regarder --> fro:regarder
+eng:regardless --> eng:regard --> frm:regarder --> fro:regarder
+eng:regardlessness --> eng:regardless --> eng:regard --> frm:regarder --> fro:regarder
+eng:regavirumab
+eng:regear --> eng:gear --> non:gervi
+eng:regelation --> eng:gelation
+eng:regender --> eng:gender --> enm:gendren
+eng:regeneratable --> eng:regenerate --> lat:regeneratus
+eng:regenerate --> lat:regeneratus
+eng:regenerateness --> eng:regenerate --> lat:regeneratus
+eng:regeneratively --> eng:regenerative
+eng:regenesis --> eng:genesis --> lat:genesis --> grc:γένεσις
+eng:regent --> fro:regent
+eng:regentess --> eng:regent --> fro:regent
+eng:regentrify --> eng:gentrify
+eng:regerminate --> eng:germinate
+eng:regermination --> lat:regerminatio
+eng:reget --> eng:get --> enm:geten --> non:geta
+eng:Reggio Calabria --> ita:Reggio Calabria
+eng:regible --> lat:regibilis
+eng:regicide --> lat:regis
+eng:regifter --> eng:regift
+eng:regild --> eng:gild
+eng:regime --> fra:régime --> lat:regimen --> lat:rego
+eng:regimen --> lat:regimen --> lat:rego
+eng:regimentally --> eng:regimental
+eng:regimina
+eng:Regina --> lat:regina
+eng:Reginan --> eng:Regina --> lat:regina
+eng:regiolect --> eng:dialect --> grc:διάλεκτος --> grc:διαλέγομαι
+eng:region --> xno:regiun --> lat:''[[regio]], regionem'', from ''[[regere]]''
+eng:regionalism --> eng:regional
+eng:regionalization --> eng:regionalize
+eng:regionally --> eng:regional
+eng:regionalness --> eng:regional
+eng:regionless --> eng:region --> xno:regiun --> lat:''[[regio]], regionem'', from ''[[regere]]''
+eng:register --> lat:registrum --> lat:regesta --> lat:regero
+eng:registerability --> eng:register --> lat:registrum --> lat:regesta --> lat:regero
+eng:registerable --> eng:register --> lat:registrum --> lat:regesta --> lat:regero
+eng:registership --> eng:register --> lat:registrum --> lat:regesta --> lat:regero
+eng:registrar --> lat:registrarius
+eng:registrarship --> eng:registrar --> lat:registrarius
+eng:registrative --> eng:registration
+eng:registree --> eng:register --> lat:registrum --> lat:regesta --> lat:regero
+eng:reglaze --> eng:glaze --> ang:glær
+eng:reglement --> fra:réglement --> fra:régler
+eng:reglementary --> fra:réglementaire --> fra:réglement --> fra:régler
+eng:reglet --> fra:réglet
+eng:regloss --> eng:gloss --> isl:glossi
+eng:regma --> grc:ῥῆγμα
+eng:regnum --> lat:regnum --> lat:rex
+eng:rego --> eng:registration
+eng:regorge --> fra:regorger
+eng:regrade --> eng:grade --> fra:grade --> lat:gradus --> lat:gradi
+eng:regraft --> eng:graft --> enm:graffe --> fro:greffe --> lat:graphium --> grc:γραφείον
+eng:regrant --> eng:grant --> enm:granten
+eng:regrater --> eng:regrate
+eng:regratery --> eng:regrate
+eng:regraze --> eng:graze
+eng:regrease --> eng:grease --> xno:grece --> fro:graisse --> lat:crassus --> lat:grossus --> goh:groz
+eng:regreen --> eng:green --> enm:grene --> ang:grene
+eng:regreet --> eng:greet --> ang:gretan
+eng:regressand --> eng:regress
+eng:regression --> eng:regress
+eng:regressional --> eng:regression --> eng:regress
+eng:regressiveness --> eng:regressive
+eng:regret --> enm:regretten --> fro:regreter
+eng:regretful --> eng:regret --> enm:regretten --> fro:regreter
+eng:regretfully --> eng:regretful --> eng:regret --> enm:regretten --> fro:regreter
+eng:regretfulness --> eng:regretful --> eng:regret --> enm:regretten --> fro:regreter
+eng:regretless --> eng:regret --> enm:regretten --> fro:regreter
+eng:regrettable --> eng:regret --> enm:regretten --> fro:regreter
+eng:regrettably --> eng:regrettable --> eng:regret --> enm:regretten --> fro:regreter
+eng:regretter --> eng:regret --> enm:regretten --> fro:regreter
+eng:regrip --> eng:grip --> ang:grippan
+eng:regroove --> eng:groove --> enm:groof
+eng:regroover --> eng:regroove --> eng:groove --> enm:groof
+eng:regroup --> eng:group --> fra:groupe --> ita:gruppo
+eng:regrout --> eng:grout
+eng:regular --> xno:reguler
+eng:regularity --> fro:regularite
+eng:regularizable --> eng:regularize
+eng:regularly --> eng:regular --> xno:reguler
+eng:regularness --> eng:regular --> xno:reguler
+eng:regulatable --> eng:regulate --> lat:regulatus
+eng:regulate --> lat:regulatus
+eng:regulus --> lat:regulus
+eng:Regulus --> lat:regulus
+eng:regurgitate --> lat:regurgitatus
+eng:rehabber --> eng:rehab
+eng:rehabilitationism --> eng:rehabilitation
+eng:rehabilitationist --> eng:rehabilitation
+eng:rehabilitator --> eng:rehabilitate
+eng:rehabilitee --> eng:rehabilitate
+eng:reharmonize --> eng:harmonize --> eng:harmony
+eng:rehat --> eng:hat
+eng:rehaul --> eng:haul --> enm:haulen
+eng:reheal --> eng:heal --> enm:helen --> ang:hælan
+eng:rehear --> eng:hear --> ang:hyran
+eng:rehearsal --> eng:rehearse --> enm:rehersen --> xno:reherser
+eng:rehearse --> enm:rehersen --> xno:reherser
+eng:reheat --> eng:heat --> ang:hætan
+eng:reheel --> eng:heel --> enm:hele
+eng:rehew --> eng:hew --> enm:hewen --> ang:heawan
+eng:rehi --> eng:hi
+eng:rehide --> eng:hide --> ang:hyd
+eng:rehinge --> eng:hinge --> enm:henge
+eng:rehire --> eng:hire
+eng:rehome --> eng:home --> enm:home
+eng:rehone --> eng:hone
+eng:rehoop --> eng:hoop --> enm:hoop
+eng:rehospitalization --> eng:hospitalization
+eng:rehost --> eng:host --> fro:hoste
+eng:rehumanize --> eng:humanize --> eng:human --> frm:humain --> lat:humanus --> lat:homo --> lat:hemo
+eng:rehydrator --> eng:rehydrate
+eng:rehydrogenation --> eng:hydrogenation
+eng:rehyphenate --> eng:hyphenate
+eng:rehypnotize --> eng:hypnotize
+eng:rehypothecate --> eng:hypothecate --> lat:hypothecatus
+eng:rehypothecation --> eng:rehypothecate --> eng:hypothecate --> lat:hypothecatus
+eng:rei --> por:real
+eng:Reich --> deu:Reich --> goh:rihhi
+eng:Reichenbachian --> eng:Reichenbach
+eng:Reichskanzler --> deu:Reichskanzler
+eng:Reichstag --> deu:''[[imperial]] [[parliament]]''
+eng:reidentification --> eng:identification
+eng:reifiable --> eng:reify
+eng:reifier --> eng:reify
+eng:reign --> enm:regnen
+eng:reigner --> eng:reign --> enm:regnen
+eng:reignition --> eng:ignition
+eng:reillume --> eng:illume
+eng:reilluminate --> eng:illuminate --> enm:illuminaten
+eng:reillumination --> eng:illumination
+eng:reillumine --> eng:illumine
+eng:reillustration --> eng:illustration
+eng:reimagine --> eng:imagine --> fro:imaginer --> lat:imaginor --> lat:imaginem
+eng:reimaginer --> eng:reimagine --> eng:imagine --> fro:imaginer --> lat:imaginor --> lat:imaginem
+eng:reimbursal --> eng:reimburse
+eng:reimbursement --> eng:reimburse
+eng:reimburser --> eng:reimburse
+eng:reimmerse --> eng:immerse --> lat:immersus
+eng:reimmersion --> eng:immersion
+eng:reimmunize --> eng:immunize
+eng:reimplant --> eng:implant --> lat:implanto
+eng:reimplantable --> eng:reimplant --> eng:implant --> lat:implanto
+eng:reimplementation --> eng:implementation
+eng:reimport --> eng:import --> ita:importare
+eng:reimpregnate --> eng:impregnate
+eng:reimpress --> eng:impress --> enm:impressen --> lat:impressus
+eng:reimpression --> eng:impression --> fro:impression --> lat:impressio --> lat:imprimo
+eng:reimprint --> eng:imprint --> fro:empreinte
+eng:reimprison --> eng:imprison
+eng:rein --> xno:reines
+eng:reinaugurate --> eng:inaugurate --> fra:inaugurer --> lat:augurare
+eng:reinauguration --> eng:inauguration
+eng:reincarcerate --> eng:incarcerate --> lat:incarceratus
+eng:reincarceration --> eng:incarceration
+eng:reincarnatable --> eng:reincarnate
+eng:reincarnation --> eng:reincarnate
+eng:reincarnationism --> eng:reincarnation --> eng:reincarnate
+eng:reincarnationist --> eng:reincarnation --> eng:reincarnate
+eng:reincite --> eng:incite --> lat:incitare
+eng:reincrease --> eng:increase
+eng:reincur --> eng:incur
+eng:reindent --> eng:indent
+eng:reindex --> eng:index --> lat:index --> lat:indico
+eng:reindict --> eng:indict --> xno:enditer --> fro:enditer --> lat:indicto
+eng:reinduce --> eng:induce --> enm:enducen --> lat:inducere
+eng:reindustrialise --> eng:industrialise --> eng:industrial --> eng:industry --> fra:industrie --> lat:industria --> lat:industrius
+eng:reindustrialize --> eng:industrialize --> eng:industrial --> eng:industry --> fra:industrie --> lat:industria --> lat:industrius
+eng:reinfarction --> eng:infarction
+eng:reinfect --> eng:infect --> lat:infectus
+eng:reinfiltrate --> eng:infiltrate
+eng:reinflame --> eng:inflame
+eng:reinflate --> eng:inflate --> lat:inflatus
+eng:reinforce --> eng:inforce
+eng:reinform --> eng:inform --> enm:informen
+eng:reingratiate --> eng:ingratiate
+eng:Reinhardtian --> eng:Reinhardt
+eng:Reinholdian --> eng:Reinhold
+eng:reinitialization --> eng:initialization --> eng:initialize
+eng:reinitiation --> eng:initiation
+eng:reinjection --> eng:injection
+eng:reinjure --> eng:injure --> eng:injury --> xno:injurie --> lat:iniuria
+eng:reinjury --> eng:injury --> xno:injurie --> lat:iniuria
+eng:reinless --> eng:rein --> xno:reines
+eng:reinnervate --> eng:innervate
+eng:reinnervation --> eng:reinnervate --> eng:innervate
+eng:reinoculation --> eng:inoculation
+eng:reinput --> eng:input --> enm:inputten
+eng:reins --> fra:reins
+eng:reinspection --> eng:inspection --> lat:inspectio
+eng:reinspire --> eng:inspire --> fro:enspirer --> lat:inspirare
+eng:reinspirit --> eng:inspirit
+eng:reinstall --> eng:install --> enm:installen --> lat:installo
+eng:reinstalment --> eng:instalment
+eng:reinstate --> eng:instate --> eng:state --> lat:status --> lat:stare
+eng:reinstigate --> eng:instigate
+eng:reinstil --> eng:instil
+eng:reinstill --> eng:instill --> lat:instillo
+eng:reinstitutionalization --> eng:reinstitutionalize
+eng:reinstruct --> eng:instruct --> lat:instruo
+eng:reinstruction --> eng:instruction
+eng:reinstrument --> eng:instrument --> lat:instrumentum --> lat:instruo
+eng:reinstrumentation --> eng:instrumentation
+eng:reinsulate --> eng:insulate --> lat:insulatus
+eng:reinsurance --> eng:insurance
+eng:reintensify --> eng:intensify
+eng:reinteraction --> eng:interaction --> eng:action --> enm:accion --> fro:action --> lat:actio --> lat:actum --> lat:ago
+eng:reinterest --> eng:interest
+eng:reintermediation --> eng:intermediation --> eng:intermediate --> lat:intermediatus
+eng:reinterment --> eng:reinter
+eng:reinterpret --> eng:interpret --> enm:interpreten --> fro:enterpreter --> lat:interpretor
+eng:reinterpretable --> eng:reinterpret --> eng:interpret --> enm:interpreten --> fro:enterpreter --> lat:interpretor
+eng:reinterrogate
+eng:reinterview --> eng:interview --> xno:entreveue
+eng:reintroducer --> eng:reintroduce
+eng:reinvade --> eng:invade --> lat:invado --> lat:vado --> lat:vadum
+eng:reinvasion --> eng:invasion --> frm:invasion --> lat:invasionem
+eng:reinvent --> eng:invent --> enm:inventen --> fra:inventer --> lat:inventus
+eng:reinvention --> eng:reinvent --> eng:invent --> enm:inventen --> fra:inventer --> lat:inventus
+eng:reinventive --> eng:inventive
+eng:reinventor --> eng:reinvent --> eng:invent --> enm:inventen --> fra:inventer --> lat:inventus
+eng:reinvest --> eng:invest --> eng:investigate
+eng:reinvestigation --> eng:reinvestigate
+eng:reinvigoratingly --> eng:reinvigorating
+eng:reinvolve --> eng:involve --> lat:involvere
+eng:reirrigate --> eng:irrigate --> lat:irrigare
+eng:reis --> ara:رئيس
+eng:reisolate --> eng:isolate
+eng:reisolation --> eng:isolation --> eng:isolate
+eng:reissuable --> eng:reissue --> eng:issue --> fro:issue
+eng:reissue --> eng:issue --> fro:issue
+eng:reissuer --> eng:reissue --> eng:issue --> fro:issue
+eng:reiterate --> eng:iterate --> lat:itero --> lat:iterum
+eng:reiteratedly --> eng:reiterated
+eng:reiteration --> eng:iteration --> lat:iteratio --> lat:itero --> lat:iterum
+eng:reiterator --> eng:reiterate --> eng:iterate --> lat:itero --> lat:iterum
+eng:rejail --> eng:jail --> enm:gaiole
+eng:rejectable --> eng:reject
+eng:rejectamenta --> lat:reicio --> lat:iacio
+eng:rejectaneous --> lat:rejectaneus
+eng:rejectee --> eng:reject
+eng:rejectest --> eng:reject
+eng:rejectingly --> eng:rejecting
+eng:rejectionism --> eng:rejection
+eng:rejective --> eng:reject
+eng:rejectment --> eng:reject
+eng:rejig --> eng:jig
+eng:rejoice --> fro:resjoir
+eng:rejoiceful --> eng:rejoice --> fro:resjoir
+eng:rejoicer --> eng:rejoice --> fro:resjoir
+eng:rejoicest --> eng:rejoice --> fro:resjoir
+eng:rejoiceth --> eng:rejoice --> fro:resjoir
+eng:rejoicingly --> eng:rejoicing
+eng:rejoinder --> frm:rejoindre
+eng:rejoiner --> eng:rejoin
+eng:rejolt --> eng:jolt
+eng:rejustify --> eng:justify --> lat:justificare --> lat:justus
+eng:rejuvenatingly --> eng:rejuvenating
+eng:rejuvenile --> eng:juvenile --> lat:iuvenilis --> lat:iuvenis
+eng:rekeyboard --> eng:keyboard --> eng:board --> enm:bord
+eng:rekidnap --> eng:kidnap
+eng:reknit --> eng:knit --> enm:knitten --> ang:cnyttan
+eng:relace --> eng:lace --> fro:las
+eng:relade --> eng:lade --> ang:hladan
+eng:relaminarization --> eng:laminarization
+eng:relaminarize --> eng:laminarize
+eng:reland --> eng:land --> enm:land
+eng:relaparotomy --> eng:laparatomy
+eng:relapse --> lat:relapsus
+eng:relapser --> eng:relapse --> lat:relapsus
+eng:relatable --> eng:relate --> lat:relatus
+eng:relate --> lat:relatus
+eng:relatedness --> eng:related
+eng:relatest --> eng:relate --> lat:relatus
+eng:relateth --> eng:relate --> lat:relatus
+eng:relation --> xno:relacioun --> fro:relacion --> lat:relationem
+eng:relationalism --> eng:relational
+eng:relationality --> eng:relational
+eng:relationalness --> eng:relational
+eng:relationism --> eng:relation --> xno:relacioun --> fro:relacion --> lat:relationem
+eng:relationless --> eng:relation --> xno:relacioun --> fro:relacion --> lat:relationem
+eng:relationlike --> eng:relation --> xno:relacioun --> fro:relacion --> lat:relationem
+eng:relationship --> eng:relation --> xno:relacioun --> fro:relacion --> lat:relationem
+eng:relationshipless --> eng:relationship --> eng:relation --> xno:relacioun --> fro:relacion --> lat:relationem
+eng:relationshiply --> eng:relationship --> eng:relation --> xno:relacioun --> fro:relacion --> lat:relationem
+eng:relative --> lat:relativus --> lat:refero
+eng:relatively --> eng:relative --> lat:relativus --> lat:refero
+eng:relativeness --> eng:relative --> lat:relativus --> lat:refero
+eng:relativism --> eng:relative --> lat:relativus --> lat:refero
+eng:relatum --> lat:relatum
+eng:relax --> fro:relaxer --> lat:relaxare
+eng:relaxable --> eng:relax --> fro:relaxer --> lat:relaxare
+eng:relaxin --> eng:relax --> fro:relaxer --> lat:relaxare
+eng:relaxingly --> eng:relaxing
+eng:relaxorlike --> eng:relaxor
+eng:relay --> eng:lay --> enm:laie
+eng:re-lay --> eng:lay --> enm:laie
+eng:relead --> eng:lead --> enm:leed --> ang:lead
+eng:relearner --> eng:relearn
+eng:releasable --> eng:release --> fro:relaisser
+eng:release --> fro:relaisser
+eng:releasest --> eng:release --> fro:relaisser
+eng:releaseth --> eng:release --> fro:relaisser
+eng:relegalize --> eng:legalize --> eng:legal --> lat:legalis --> lat:lex
+eng:relentless --> eng:relent
+eng:relentlessly --> eng:relentless --> eng:relent
+eng:relentlessness --> eng:relentless --> eng:relent
+eng:relevant --> fro:relevant --> lat:relevans
+eng:relevantly --> eng:relevant --> fro:relevant --> lat:relevans
+eng:relevation --> lat:relevatio
+eng:relexification --> eng:relexify --> eng:lexicon
+eng:relexify --> eng:lexicon
+eng:reliabilism --> eng:reliable
+eng:reliabilist --> eng:reliable
+eng:reliability --> eng:reliable
+eng:relicense --> eng:license --> fro:licence --> lat:licentia --> lat:licens
+eng:reliclike --> eng:relic
+eng:relicly --> eng:relic
+eng:relict --> lat:relictus
+eng:relicted --> lat:relictus
+eng:relictual --> eng:relict --> lat:relictus
+eng:reliefful --> eng:relief
+eng:reliefless --> eng:relief
+eng:relieflike --> eng:relief
+eng:relier --> eng:rely --> fro:relier --> lat:religo --> lat:ligo
+eng:reliest --> eng:rely --> fro:relier --> lat:religo --> lat:ligo
+eng:relieth --> eng:rely --> fro:relier --> lat:religo --> lat:ligo
+eng:relievable --> eng:relieve --> fro:relever --> lat:relevo --> lat:levo --> lat:levis --> grc:λεῖος
+eng:relieve --> fro:relever --> lat:relevo --> lat:levo --> lat:levis --> grc:λεῖος
+eng:relievedly --> eng:relieved
+eng:relievement --> eng:relieve --> fro:relever --> lat:relevo --> lat:levo --> lat:levis --> grc:λεῖος
+eng:relievest --> eng:relieve --> fro:relever --> lat:relevo --> lat:levo --> lat:levis --> grc:λεῖος
+eng:relieveth --> eng:relieve --> fro:relever --> lat:relevo --> lat:levo --> lat:levis --> grc:λεῖος
+eng:relievingly --> eng:relieving
+eng:relievo --> ita:rilievo
+eng:religated --> eng:ligated
+eng:religation --> eng:ligation
+eng:relight --> eng:light --> ang:leoht
+eng:relightable --> eng:relight --> eng:light --> ang:leoht
+eng:relighter --> eng:relight --> eng:light --> ang:leoht
+eng:religionary --> eng:religion
+eng:religionism --> eng:religion
+eng:religionize --> eng:religion
+eng:religionless --> eng:religion
+eng:religionlike --> eng:religion
+eng:religious --> xno:relegius
+eng:religiously --> eng:religious --> xno:relegius
+eng:religiousness --> eng:religious --> xno:relegius
+eng:relink --> eng:link
+eng:relinquish --> enm:relinquisshen
+eng:relinquisher --> eng:relinquish --> enm:relinquisshen
+eng:relinquishment --> eng:relinquish --> enm:relinquisshen
+eng:reliquary --> frm:reliquaire --> lat:reliquiarium --> lat:reliquia
+eng:reliquefaction --> eng:liquefaction
+eng:reliquefication --> eng:liquefication
+eng:reliquefy --> eng:liquefy --> enm:liquefien --> xno:liquefier --> lat:liquefacere
+eng:reliquely --> eng:relique
+eng:reliquidate --> eng:liquidate
+eng:reliquification --> eng:liquification
+eng:reliquify --> eng:liquify --> eng:liquid --> enm:liquide --> fro:liquide --> lat:liquidus --> lat:liqueo
+eng:relishable --> eng:relish
+eng:relishingly --> eng:relishing
+eng:relist --> eng:list --> ang:lystan
+eng:relisten --> eng:listen --> enm:listnen
+eng:relitigate --> eng:litigate
+eng:relive --> eng:live --> enm:liven --> ang:libban
+eng:relo --> eng:relative --> lat:relativus --> lat:refero
+eng:reload --> eng:load --> enm:lode
+eng:reloan --> eng:loan --> enm:lone
+eng:relocalize --> eng:localize --> eng:local
+eng:relocatee --> eng:relocate
+eng:relocation --> eng:location --> lat:locatio --> lat:locare --> lat:locus --> lat:stlocus
+eng:relocator --> eng:relocate
+eng:relock --> eng:lock --> ang:locc
+eng:relodge --> eng:lodge --> enm:logge --> fra:loge
+eng:relook --> eng:look --> enm:loken
+eng:relove --> eng:love --> enm:love
+eng:relubricate --> eng:lubricate --> lat:lubricatus
+eng:relubrication --> eng:lubrication
+eng:reluctant --> lat:reluctans
+eng:rely --> fro:relier --> lat:religo --> lat:ligo
+eng:remagnetization --> eng:remagnetize --> eng:magnetize --> eng:magnet
+eng:remagnetize --> eng:magnetize --> eng:magnet
+eng:remail --> eng:mail --> enm:maille --> fro:maille --> lat:macula
+eng:remailer --> eng:remail --> eng:mail --> enm:maille --> fro:maille --> lat:macula
+eng:remain --> enm:remainen
+eng:remainder --> eng:remain --> enm:remainen
+eng:remake --> eng:make --> enm:make --> non:makr
+eng:remandment --> eng:remand
+eng:remanent --> lat:remanens
+eng:remanufacture --> eng:manufacture --> frm:manufacture
+eng:remappable --> eng:remap
+eng:remapper --> eng:remap
+eng:remark --> eng:mark --> ang:mearc
+eng:remarkable --> fra:remarquable
+eng:remarkableness --> eng:remarkable --> fra:remarquable
+eng:remarker --> eng:remark --> eng:mark --> ang:mearc
+eng:remarket --> eng:market
+eng:remarriage --> eng:marriage --> fro:mariage --> fro:marier --> lat:marito --> lat:maritus --> lat:mas
+eng:remast --> eng:mast --> ang:mæst
+eng:remasterer --> eng:remaster
+eng:remasticate --> eng:masticate
+eng:rematch --> eng:match --> enm:macche --> ang:mæcca --> ang:gemæcca
+eng:remate --> eng:mate
+eng:rematerialization --> eng:rematerialize --> eng:materialize
+eng:rematerialize --> eng:materialize
+eng:remedial --> lat:remedialis
+eng:remediation --> eng:remediate
+eng:remediator --> eng:remediate
+eng:remediless --> eng:remedy --> enm:remedie
+eng:remedilessness --> eng:remediless --> eng:remedy --> enm:remedie
+eng:remedy --> enm:remedie
+eng:remeet --> eng:meet --> enm:mete --> ang:gemæte
+eng:remember --> enm:remembren --> fro:remembrer --> lat:rememorari
+eng:rememberable --> eng:remember --> enm:remembren --> fro:remembrer --> lat:rememorari
+eng:remembrance --> fro:remembrance
+eng:remembrest --> eng:remembre
+eng:remembreth --> eng:remembre
+eng:rememoration --> fra:remémoration
+eng:remerchandise --> eng:merchandise --> xno:marchaundise --> xno:marchaunt
+eng:remercy --> frm:remercier
+eng:remerge --> eng:merge --> lat:mergere
+eng:remerged --> eng:remerge --> eng:merge --> lat:mergere
+eng:remex --> lat:rower
+eng:remigration --> eng:migration
+eng:remilitarization --> eng:remilitarize --> eng:militarize
+eng:remilitarize --> eng:militarize
+eng:remindful --> eng:remind
+eng:remineralization --> eng:mineralization
+eng:remineralize --> eng:mineralize
+eng:reminiscence --> lat:reminiscentiae --> lat:reminiscens
+eng:reminiscent --> lat:reminiscens
+eng:remint --> eng:mint --> enm:minten --> ang:myntan
+eng:remissful --> eng:remiss
+eng:remissness --> eng:remiss
+eng:remit --> lat:remittere
+eng:remittable --> eng:remit --> lat:remittere
+eng:remitter --> eng:remit --> lat:remittere
+eng:remix --> eng:mix --> enm:mixen --> ang:mixian
+eng:remixer --> eng:remix --> eng:mix --> enm:mixen --> ang:mixian
+eng:remixture --> eng:mixture
+eng:remobilization --> eng:remobilize --> eng:mobilize
+eng:remobilize --> eng:mobilize
+eng:remodel --> eng:model --> frm:modelle --> ita:modello --> lat:modellus
+eng:remodeler --> eng:remodel --> eng:model --> frm:modelle --> ita:modello --> lat:modellus
+eng:remodeller --> eng:remodel --> eng:model --> frm:modelle --> ita:modello --> lat:modellus
+eng:remodification --> eng:modification --> fra:modification --> lat:modificatio
+eng:remodify --> eng:modify --> enm:modifien --> fra:modifier --> lat:modificare
+eng:remonetization --> eng:remonetize
+eng:remonstrantly --> eng:remonstrant
+eng:remonstratingly --> eng:remonstrating
+eng:remonstration --> eng:remonstrate
+eng:remonstrator --> eng:remonstrate
+eng:remontoir --> fra:remontoir
+eng:remoralize --> eng:moralize
+eng:remorsed --> eng:remorse
+eng:remorsefulness --> eng:remorseful
+eng:remorseless --> eng:remorse
+eng:remort --> eng:mort
+eng:remortgager --> eng:remortgage
+eng:remotely --> eng:remote
+eng:remoting --> eng:remote
+eng:remotivate --> eng:motivate --> eng:motive
+eng:remould --> eng:mould
+eng:remound --> eng:mound
+eng:remount --> xno:remunter
+eng:removability --> eng:remove --> enm:remeven
+eng:removal --> eng:remove --> enm:remeven
+eng:removalist --> eng:removal --> eng:remove --> enm:remeven
+eng:remove --> enm:remeven
+eng:removedness --> eng:removed
+eng:remuda --> spa:remuda
+eng:remuddle --> eng:muddle
+eng:remultiply --> eng:multiply --> eng:multiple --> fra:multiple --> lat:multiplus --> lat:multiplex
+eng:remuneration --> lat:remuneratio --> lat:remunero --> lat:munero --> lat:munus
+eng:remurmur --> eng:murmur --> enm:murmur
+eng:Remus --> lat:Remus
+eng:remyelination --> eng:myelin
+eng:remystify --> eng:mystify --> fra:mystifier
+eng:ren --> egy:𓂋𓈖
+eng:renable --> fro:resnable --> lat:rationabilis
+eng:renaissance --> fra:renaissance --> fra:renaître --> lat:renasci
+eng:renal --> lat:renalis --> lat:renes
+eng:renalase --> eng:renal --> lat:renalis --> lat:renes
+eng:renamable --> eng:rename
+eng:renamer --> eng:rename
+eng:renascence --> eng:renascent
+eng:renationalization --> eng:nationalization --> eng:national --> lat:nationalis
+eng:renationalize --> eng:nationalize --> eng:national --> lat:nationalis
+eng:renavigate --> eng:navigate --> enm:navigate --> lat:navigo
+eng:renay --> fro:reneier
+eng:rencontre --> fra:rencontre
+eng:rend --> enm:renden --> ang:rendan
+eng:rendaku --> jpn:連濁
+eng:render --> fro:rendre
+eng:renderable --> eng:render --> fro:rendre
+eng:renderer --> eng:render --> fro:rendre
+eng:renderest --> eng:render --> fro:rendre
+eng:rendezvous --> fra:rendez-vous --> fra:rendez
+eng:rendrest --> eng:rendre
+eng:rendreth --> eng:rendre
+eng:rendrock --> eng:rend --> enm:renden --> ang:rendan
+eng:rendzina --> pol:rędzina
+eng:Renée --> fra:Renée
+eng:renegade --> spa:renegado --> lat:renegatus
+eng:renege --> lat:renego
+eng:renerve --> eng:nerve
+eng:renest --> eng:nest --> ang:nest
+eng:renew --> eng:new --> enm:newe --> ang:niwe
+eng:renewable --> eng:renew --> eng:new --> enm:newe --> ang:niwe
+eng:renewably --> eng:renewable --> eng:renew --> eng:new --> enm:newe --> ang:niwe
+eng:renewal --> eng:renew --> eng:new --> enm:newe --> ang:niwe
+eng:renewedly --> eng:renewed
+eng:renewedness --> eng:renewed
+eng:renice --> eng:nice --> enm:nice
+eng:reniform --> lat:''[[ren]]es'' "kidneys", and ''[[-form]]''
+eng:renminbi --> cmn:人民币
+eng:Rennellese --> eng:Rennell
+eng:rennet --> fra:reinette
+eng:renneted --> eng:rennet --> fra:reinette
+eng:renopathy
+eng:renoprotection --> eng:protection
+eng:renoprotective --> eng:protective
+eng:renormalizability --> eng:renormalizable
+eng:renormalize --> eng:normalize
+eng:renormalon --> eng:renormalize --> eng:normalize
+eng:renotropic
+eng:renounce --> lat:renuntiare
+eng:renouncement --> eng:renounce --> lat:renuntiare
+eng:renouncer --> eng:renounce --> lat:renuntiare
+eng:renourish --> eng:nourish
+eng:renoviction --> eng:eviction
+eng:renown --> fro:renon
+eng:renownedly --> eng:renowned
+eng:renowner --> eng:renown --> fro:renon
+eng:renownful --> eng:renown --> fro:renon
+eng:renownless --> eng:renown --> fro:renon
+eng:rent --> enm:renten
+eng:rentback --> eng:back --> enm:bak --> ang:bæc
+eng:rentee --> eng:rent --> enm:renten
+eng:renter --> eng:rent --> enm:renten
+eng:renterer --> eng:renter --> eng:rent --> enm:renten
+eng:renumberer --> eng:renumber
+eng:renunciatory --> eng:renunciate
+eng:renverst --> eng:renverse
+eng:renvoi --> fra:renvoi
+eng:renvoy --> fra:renvoi
+eng:reobserved --> eng:observed
+eng:reobtain --> eng:obtain --> xno:obtenir
+eng:reobtainable --> eng:reobtain --> eng:obtain --> xno:obtenir
+eng:reoccurrence --> eng:occurrence
+eng:reop --> eng:op
+eng:reopen --> eng:open --> ang:open
+eng:reopenable --> eng:reopen --> eng:open --> ang:open
+eng:reopener --> eng:reopen --> eng:open --> ang:open
+eng:reoperation --> eng:operation --> lat:operatio
+eng:reoppose --> eng:oppose --> enm:opposen --> fro:opposer
+eng:reorchestrate --> eng:orchestrate
+eng:reorchestration --> eng:orchestration
+eng:reordain --> eng:ordain
+eng:reorderable --> eng:reorder
+eng:reorderer --> eng:reorder
+eng:reordination --> eng:ordination
+eng:re-organise --> eng:organise
+eng:reorganizable --> eng:reorganize --> eng:organize --> lat:organizare --> lat:organum --> grc:ὄργανον
+eng:reorganizational --> eng:reorganization
+eng:reorganize --> eng:organize --> lat:organizare --> lat:organum --> grc:ὄργανον
+eng:re-organize --> eng:organize --> lat:organizare --> lat:organum --> grc:ὄργανον
+eng:reorientable --> eng:reorient
+eng:reorientate --> eng:orientate --> eng:orient --> enm:orient --> fro:orient --> lat:oriens
+eng:reorthogonalization --> eng:orthogonalization --> eng:orthogonal
+eng:reoxidize --> eng:oxidize
+eng:reoxygenate --> eng:oxygenate --> eng:oxygen --> fra:oxygène
+eng:reoxygenation --> eng:oxygenation
+eng:repace --> eng:pace --> lat:pace
+eng:repacify --> eng:pacify
+eng:repackager --> eng:repackage
+eng:repacker --> eng:repack
+eng:repacketize --> eng:packetize --> eng:packet
+eng:repaganize --> eng:paganize --> eng:pagan
+eng:repaginate --> eng:paginate
+eng:repagination --> eng:repaginate --> eng:paginate
+eng:repaid --> eng:paid
+eng:repair --> eng:pair --> fro:paire --> lat:paria
+eng:repairability --> eng:repair --> eng:pair --> fro:paire --> lat:paria
+eng:repairableness --> eng:repairable
+eng:repairment --> eng:repair --> eng:pair --> fro:paire --> lat:paria
+eng:repairwoman --> eng:repair --> eng:pair --> fro:paire --> lat:paria
+eng:repalletize --> eng:palletize --> eng:pallet --> enm:palet --> xno:palete
+eng:reparably --> eng:reparable
+eng:reparameterization --> eng:parameterization
+eng:reparation --> lat:reparationem --> lat:reparatio
+eng:reparent --> eng:parent --> xno:parent
+eng:repartee --> fra:repartie
+eng:repassage --> eng:passage --> fra:passager --> frm:passagier
+eng:repast --> fro:repast
+eng:repaste --> eng:paste
+eng:repaster --> eng:repast --> fro:repast
+eng:repatch --> eng:patch --> enm:pacche
+eng:repatriate --> lat:repatriare
+eng:repatriation --> lat:repatrio
+eng:repaver --> eng:repave
+eng:repayable --> eng:repay
+eng:repayer --> eng:repay
+eng:repaying --> eng:pay --> enm:payen --> fro:paier --> lat:pacare --> lat:paco --> lat:pax
+eng:repeal --> lat:repello
+eng:repealableness --> eng:repealable
+eng:repealer --> eng:repeal --> lat:repello
+eng:repealment --> eng:repeal --> lat:repello
+eng:repeat --> fro:repeter --> lat:repeto --> lat:peto
+eng:repeatable --> eng:repeat --> fro:repeter --> lat:repeto --> lat:peto
+eng:repeatedly --> eng:repeated
+eng:repechage --> fra:repêchage --> fra:repêcher --> fra:pêcher
+eng:repeddle --> eng:peddle
+eng:repel --> enm:repellen
+eng:repellantly --> eng:repellant
+eng:repellency --> eng:repellent --> lat:repellens
+eng:repellent --> lat:repellens
+eng:repellingly --> eng:repelling
+eng:repent --> fra:repentir
+eng:repenter --> eng:repent --> fra:repentir
+eng:repentingly --> eng:repenting
+eng:repentless --> eng:repent --> fra:repentir
+eng:repeople --> eng:people --> enm:peple
+eng:reperceive --> eng:perceive --> enm:perceiven --> fro:''[[percevoir]], [[perceveir]]'' --> lat:percipere
+eng:reperception --> eng:perception --> fra:perception --> lat:perceptio --> lat:percipio
+eng:repercussion --> lat:repercussio --> lat:repercutio
+eng:reperforate --> eng:perforate
+eng:reperforation --> eng:perforation
+eng:reperforator --> eng:perforator
+eng:reperform --> eng:perform --> enm:performen
+eng:reperformance --> eng:performance
+eng:reperfuse --> eng:perfuse
+eng:repertoire --> fra:répertoire --> lat:repertorium --> lat:reperire
+eng:repertorial --> eng:repertory
+eng:reperusal --> eng:perusal --> eng:peruse
+eng:reperuse --> eng:peruse
+eng:repetiteur --> fra:répétiteur
+eng:repetition --> lat:repetitionem
+eng:repetitioner --> eng:repetition --> lat:repetitionem
+eng:repetitiously --> eng:repetitious
+eng:repetitively --> eng:repetitive
+eng:rephase --> eng:phase --> lat:phase
+eng:rephasing --> eng:rephase --> eng:phase --> lat:phase
+eng:rephosphorylate --> eng:phosphorylate
+eng:rephosphorylation --> eng:rephosphorylate --> eng:phosphorylate
+eng:rephotography --> eng:photography
+eng:rephrase --> eng:phrase --> lat:phrasis --> grc:φράσις --> grc:φράζω
+eng:repicture --> eng:picture --> eng:pycture --> fra:picture --> lat:pictura --> lat:pictum
+eng:repigmentation --> eng:pigmentation
+eng:repin --> eng:pin --> enm:pinne --> ang:pinn
+eng:repiner --> eng:repine
+eng:repiningly --> eng:repining
+eng:repitch --> eng:pitch --> ang:pic --> lat:pix
+eng:repivot --> eng:pivot
+eng:replaceable --> eng:replace
+eng:replacee --> eng:replace
+eng:replacement --> eng:replace
+eng:replait --> eng:plait --> fro:pleit --> lat:plecto
+eng:replan --> eng:plan --> fra:plan
+eng:replanner --> eng:replan --> eng:plan --> fra:plan
+eng:replantable --> eng:replant
+eng:replantation --> eng:plantation --> lat:plantatio
+eng:replaster --> eng:plaster --> ang:plaster
+eng:replate --> eng:plate --> fro:plate --> lat:plata
+eng:replaying --> eng:play --> enm:playen
+eng:replenish --> enm:replenisshen
+eng:repleviable --> eng:replevy
+eng:replevisable --> fro:replevisable
+eng:replicable --> eng:replica
+eng:replicate --> lat:replicatus
+eng:replicational --> eng:replication
+eng:replot --> eng:plot --> enm:plot
+eng:replough --> eng:plough --> enm:plouh
+eng:replow --> eng:plow
+eng:replug --> eng:plug
+eng:replumb --> eng:plumb
+eng:repmobile --> eng:rep
+eng:repocket --> eng:pocket --> enm:pocket --> xno:poket
+eng:repoint --> eng:point --> enm:point --> fro:point --> lat:punctum
+eng:repointing --> eng:pointing
+eng:repopulate --> eng:populate --> lat:populus
+eng:repopulator --> eng:repopulate --> eng:populate --> lat:populus
+eng:report --> xno:reporter
+eng:reportage --> fra:reportage
+eng:reportedly --> eng:reported
+eng:reporterly --> eng:reporter
+eng:reportest --> eng:report --> xno:reporter
+eng:reporteth --> eng:report --> xno:reporter
+eng:reportingly --> eng:reporting
+eng:reposeful --> eng:repose
+eng:reposest --> eng:repose
+eng:reposit --> lat:repositus
+eng:repositionable --> eng:reposition
+eng:repositioner --> eng:reposition
+eng:repository --> lat:repositorium
+eng:repost --> eng:post --> frm:poste --> ita:posta
+eng:repour --> eng:pour --> enm:pouren
+eng:repoussé --> fra:repoussé
+eng:repræsented --> eng:præsent
+eng:repræsenting --> eng:præsent
+eng:reprecipitate --> eng:precipitate --> lat:praecipitatum
+eng:reprehend --> lat:reprehendere
+eng:reprehender --> eng:reprehend --> lat:reprehendere
+eng:reprehensible --> eng:reprehend --> lat:reprehendere
+eng:repreparation --> eng:preparation
+eng:reprepare --> eng:prepare --> frm:preparer
+eng:representamen --> lat:repraesentamen
+eng:representant --> fra:representant
+eng:representationary --> eng:representation
+eng:representationless --> eng:representation
+eng:representationlessness --> eng:representationless --> eng:representation
+eng:representative --> fro:representatif
+eng:representatively --> eng:representative --> fro:representatif
+eng:representment --> eng:represent
+eng:repressively --> eng:repressive
+eng:repressiveness --> eng:repressive
+eng:repressurize --> eng:pressurize --> eng:pressure
+eng:reprimand --> fra:réprimande --> fra:réprimer
+eng:reprimandable --> eng:reprimand --> fra:réprimande --> fra:réprimer
+eng:reprimander --> eng:reprimand --> fra:réprimande --> fra:réprimer
+eng:reprint --> eng:print --> fro:preinte
+eng:reprintable --> eng:reprint --> eng:print --> fro:preinte
+eng:reprinter --> eng:reprint --> eng:print --> fro:preinte
+eng:repristination --> eng:pristine --> frm:pristin
+eng:reprivatization --> eng:privatization
+eng:reprivatize --> eng:privatize
+eng:reproable --> eng:repro
+eng:reproach --> fro:reprochier
+eng:reproacher --> eng:reproach --> fro:reprochier
+eng:reproachest --> eng:reproach --> fro:reprochier
+eng:reproachfully --> eng:reproachful
+eng:reproachfulness --> eng:reproachful
+eng:reproachingly --> eng:reproaching
+eng:reproachless --> eng:reproach --> fro:reprochier
+eng:reprobate --> lat:reprobare
+eng:reprobateness --> eng:reprobate --> lat:reprobare
+eng:reprobater --> eng:reprobate --> lat:reprobare
+eng:reprobation --> fra:réprobation
+eng:reprobationer --> eng:reprobation --> fra:réprobation
+eng:reprobe --> eng:probe
+eng:reprobing --> eng:probing
+eng:reprocessor --> eng:reprocess
+eng:reproductively --> eng:reproductive
+eng:reprofessionalize --> eng:professionalize --> eng:professional
+eng:reprogrammer --> eng:reprogram
+eng:reprographics --> eng:graphics
+eng:reprography
+eng:reproject --> eng:project
+eng:repromote --> eng:promote --> lat:promotus
+eng:repropagate --> eng:propagate
+eng:reprovable --> eng:reprove --> xno:reprover
+eng:reprove --> xno:reprover
+eng:reproveable --> eng:reprove --> xno:reprover
+eng:reprovingly --> eng:reproving
+eng:reprune --> eng:prune --> fro:proignier
+eng:reptant --> lat:repto
+eng:reptilase --> eng:reptile --> enm:reptil --> fro:reptile --> lat:reptile
+eng:reptile --> enm:reptil --> fro:reptile --> lat:reptile
+eng:reptilelike --> eng:reptile --> enm:reptil --> fro:reptile --> lat:reptile
+eng:reptilianness --> eng:reptilian
+eng:reptiloid --> eng:reptile --> enm:reptil --> fro:reptile --> lat:reptile
+eng:republic --> fra:république --> lat:res publica
+eng:republican --> eng:republic --> fra:république --> lat:res publica
+eng:republicanize --> eng:republican --> eng:republic --> fra:république --> lat:res publica
+eng:republicize --> eng:publicize --> eng:public --> xno:publik
+eng:Republicrat --> eng:Democrat
+eng:repudiate --> lat:repudio
+eng:repugn --> lat:repugno --> lat:pugno --> lat:pugnus
+eng:repugnable --> eng:repugn --> lat:repugno --> lat:pugno --> lat:pugnus
+eng:repugnant --> fro:repugnant
+eng:repugnantly --> eng:repugnant --> fro:repugnant
+eng:repugnatorial --> lat:repugnatorius
+eng:repullulate --> lat:repullulare
+eng:repullulation --> eng:pullulation --> eng:pullulate
+eng:repulse --> lat:repellere
+eng:repulser --> eng:repulse --> lat:repellere
+eng:repulsively --> eng:repulsive
+eng:repulsory --> lat:repulsorius
+eng:repumping --> eng:pumping
+eng:repunctuate --> eng:punctuate --> lat:punctuare --> lat:punctus
+eng:repunctuation --> eng:punctuation --> lat:punctuatio
+eng:repunish --> eng:punish --> enm:punischen --> lat:punire
+eng:repurchaser --> eng:repurchase
+eng:repurify --> eng:purify
+eng:repurposable --> eng:repurpose --> eng:purpose --> enm:purpos --> fro:purposer
+eng:repurpose --> eng:purpose --> enm:purpos --> fro:purposer
+eng:reputable --> eng:repute --> fro:reputer --> lat:reputo
+eng:reputableness --> eng:reputable --> eng:repute --> fro:reputer --> lat:reputo
+eng:reputational --> eng:reputation
+eng:reputationally --> eng:reputational --> eng:reputation
+eng:reputationless --> eng:reputation
+eng:reputatively --> eng:reputative
+eng:repute --> fro:reputer --> lat:reputo
+eng:reputedly --> eng:reputed
+eng:reputeless --> eng:repute --> fro:reputer --> lat:reputo
+eng:requalify --> eng:qualify
+eng:requalifying --> eng:qualify
+eng:requeen --> eng:queen --> enm:queen
+eng:request --> fro:requeste
+eng:requestable --> eng:request --> fro:requeste
+eng:requester --> eng:request --> fro:requeste
+eng:requestor --> eng:request --> fro:requeste
+eng:requestress --> eng:requester --> eng:request --> fro:requeste
+eng:requicken --> eng:quicken --> eng:quick
+eng:requietory --> lat:requietorium
+eng:require --> fro:requerre --> fro:querre --> lat:quaerere
+eng:requirement --> eng:require --> fro:requerre --> fro:querre --> lat:quaerere
+eng:requirest --> eng:require --> fro:requerre --> fro:querre --> lat:quaerere
+eng:requisite --> lat:requisitus
+eng:requisiteness --> eng:requisite --> lat:requisitus
+eng:requisitionable --> eng:requisition
+eng:requisitionary --> eng:requisition
+eng:requisitioner --> eng:requisition
+eng:requisitionist --> eng:requisition
+eng:requitement --> eng:requite
+eng:requote --> eng:quote
+eng:reradiation --> eng:radiation --> lat:radiatio
+eng:rerandomize --> eng:randomize
+eng:rerape --> eng:rape --> enm:rape --> fro:raper
+eng:rerattle --> eng:rattle
+eng:rereader --> eng:reread
+eng:rerebrace --> fra:arrière-bras
+eng:rerecommended --> eng:recommended
+eng:rerecordable --> eng:recordable --> eng:record --> enm:recorden --> fro:record --> fro:recorder --> lat:recordari
+eng:rerefer --> eng:refer
+eng:rereferral --> eng:referral --> eng:refer
+eng:rerefief --> fra:arrière-fief
+eng:reregister --> eng:register --> lat:registrum --> lat:regesta --> lat:regero
+eng:reregulate --> eng:regulate --> lat:regulatus
+eng:reregulation --> eng:regulation
+eng:reremouse --> enm:reremous --> ang:hreremus
+eng:rerender --> eng:render --> fro:rendre
+eng:rerent --> eng:rent --> enm:renten
+eng:rereport --> eng:report --> xno:reporter
+eng:re-restitution --> eng:restitution
+eng:rereview --> eng:review --> frm:reveue
+eng:rerig --> eng:rig
+eng:rerisen --> eng:risen
+eng:reroast --> eng:roast --> enm:rosten --> fro:rostir
+eng:reroof --> eng:roof --> enm:rof --> ang:hrof
+eng:reroot --> eng:root --> enm:root
+eng:reroute --> eng:route --> fro:route
+eng:rerun --> eng:run --> enm:ronnen
+eng:rerunnable --> eng:rerun --> eng:run --> enm:ronnen
+eng:resacralize --> eng:sacralize
+eng:resaddle --> eng:saddle --> ang:sadol
+eng:resaid --> eng:said
+eng:resample --> eng:sample
+eng:resampler --> eng:resample --> eng:sample
+eng:resand --> eng:sand --> ang:sand
+eng:resanitize --> eng:sanitize
+eng:resave --> eng:save
+eng:resaw --> eng:saw --> enm:sawe --> ang:sagu
+eng:resaying --> eng:say --> eng:saie --> eng:saga --> non:saga
+eng:rescale --> eng:scale --> enm:scale --> ang:scealu
+eng:rescan --> eng:scan --> enm:scannen
+eng:rescat --> spa:rescate
+eng:rescatter --> eng:scatter
+eng:rescattered --> eng:scattered
+eng:reschedulable --> eng:reschedule
+eng:rescheduler --> eng:reschedule
+eng:rescindment --> eng:rescind
+eng:rescissory --> lat:rescissorius
+eng:rescope --> eng:scope
+eng:rescore --> eng:score
+eng:rescreen --> eng:screen --> enm:screne --> xno:escren
+eng:rescriptively --> eng:rescriptive
+eng:rescuable --> eng:rescue --> ang:rescopuen
+eng:rescue --> ang:rescopuen
+eng:rescueless --> eng:rescue --> ang:rescopuen
+eng:rescueman --> eng:man --> enm:man --> ang:mann
+eng:resculpt --> eng:sculpt --> lat:sculpere
+eng:resculpture --> eng:sculpture
+eng:re-search --> eng:search --> enm:serchen --> xno:sercher
+eng:researchful --> eng:research
+eng:reseason --> eng:season --> enm:sesoun --> fro:seison --> lat:sationem
+eng:resect --> lat:resectus
+eng:resectional --> eng:resection
+eng:resecure --> eng:secure --> lat:securus
+eng:reseda --> fra:réséda --> lat:reseda
+eng:reseed --> eng:seed --> enm:seed --> ang:sed
+eng:reseek --> eng:seek --> enm:seken --> ang:secan
+eng:resegment --> eng:segment --> lat:segmentum --> lat:secare
+eng:resegregate --> eng:segregate
+eng:resegregation --> eng:segregation
+eng:resegregrate --> eng:segregate
+eng:reseize --> eng:seize
+eng:reseizure --> eng:seizure --> eng:seize
+eng:resel --> eng:element --> enm:element --> fro:element
+eng:reseller --> eng:resell
+eng:resemblable --> eng:resemble
+eng:resemblant --> fro:resemblant
+eng:resemblest --> eng:resemble
+eng:resemblingly --> eng:resembling
+eng:resensitization --> eng:sensitization --> eng:sensitize --> eng:sensitive --> frm:sensitif --> lat:sensitivus
+eng:resensitized --> eng:sensitized
+eng:resent --> fro:resentir --> fro:sentir --> lat:sentio
+eng:resentable --> eng:resent --> fro:resentir --> fro:sentir --> lat:sentio
+eng:resentence --> eng:sentence --> fra:sentence --> lat:sententia --> eng:sentiens
+eng:resenter --> eng:resent --> fro:resentir --> fro:sentir --> lat:sentio
+eng:resentful --> eng:resent --> fro:resentir --> fro:sentir --> lat:sentio
+eng:resentment --> fra:ressentiment --> fra:ressentir --> fra:sentir --> lat:sentire
+eng:resequestration --> eng:sequestration
+eng:reservable --> eng:reserve
+eng:reservation --> frm:reservation
+eng:reservatory --> lat:reservatorium
+eng:reservee --> eng:reserve
+eng:reservoir --> fra:réservoir --> fra:réserver
+eng:reset --> eng:set --> enm:set
+eng:resettability --> eng:reset --> eng:set --> enm:set
+eng:resettable --> eng:reset --> eng:set --> enm:set
+eng:resetter --> eng:reset --> eng:set --> enm:set
+eng:resettler --> eng:resettle
+eng:reshapable --> eng:reshape
+eng:reshaper --> eng:reshape
+eng:reshare --> eng:share --> enm:schare
+eng:reshave --> eng:shave --> ang:sceafa
+eng:resheath --> eng:sheath --> ang:sceaþ
+eng:reshelve --> eng:shelve
+eng:reshift --> eng:shift --> ang:sciftan
+eng:reshingle --> eng:shingle --> enm:scincle --> lat:scindula
+eng:reshipper --> eng:reship
+eng:reshuffler --> eng:reshuffle
+eng:resiance --> lat:reseantia
+eng:reside --> fro:resider --> lat:residere
+eng:residence --> lat:residentia --> lat:residens --> lat:resideo --> lat:sedeo
+eng:residentiaryship --> eng:residentiary
+eng:resider --> eng:reside --> fro:resider --> lat:residere
+eng:residueless --> eng:residue
+eng:residuous --> lat:residuus
+eng:resift --> eng:sift
+eng:resight --> eng:sight --> ang:sihþ
+eng:resign --> xno:reisgner
+eng:resignal --> eng:signal --> fro:segnal --> lat:signalis --> lat:signum
+eng:resignedness --> eng:resigned
+eng:resignee --> eng:resign --> xno:reisgner
+eng:resigner --> eng:resign --> xno:reisgner
+eng:resignify --> eng:signify
+eng:resignment --> eng:resign --> xno:reisgner
+eng:resilence --> eng:silence --> fro:silence
+eng:resilience --> lat:resilio
+eng:resiliently --> eng:resilient
+eng:resimulation --> eng:simulation
+eng:resin --> fro:résine --> lat:resina
+eng:resinic --> eng:resin --> fro:résine --> lat:resina
+eng:resiniferous --> eng:resin --> fro:résine --> lat:resina
+eng:resinification --> eng:resin --> fro:résine --> lat:resina
+eng:resinify --> eng:resin --> fro:résine --> lat:resina
+eng:resinite --> eng:resin --> fro:résine --> lat:resina
+eng:resinitic --> eng:resinite --> eng:resin --> fro:résine --> lat:resina
+eng:resinless --> eng:resin --> fro:résine --> lat:resina
+eng:resinlike --> eng:resin --> fro:résine --> lat:resina
+eng:resinoid --> eng:resin --> fro:résine --> lat:resina
+eng:resinously --> eng:resinous
+eng:resinousness --> eng:resinous
+eng:resist --> xno:resistre
+eng:resistance --> fra:résistance
+eng:resistant --> fra:résistant
+eng:resistantly --> eng:resistant --> fra:résistant
+eng:resistful --> eng:resist --> xno:resistre
+eng:resistin --> eng:resist --> xno:resistre
+eng:resistingly --> eng:resisting
+eng:resistive --> eng:resist --> xno:resistre
+eng:resistlessly --> eng:resistless
+eng:resistlessness --> eng:resistless
+eng:resistome --> eng:resist --> xno:resistre
+eng:resituate --> eng:situate --> lat:situatus
+eng:resize --> eng:size --> enm:sise --> fro:cise
+eng:resizer --> eng:resize --> eng:size --> enm:sise --> fro:cise
+eng:reskill --> eng:skill --> enm:skilen
+eng:reskin --> eng:skin --> enm:skinn --> non:skinn
+eng:reslizumab
+eng:resmelt --> eng:smelt --> ang:smelt
+eng:resocialization --> eng:socialization --> eng:socialize --> eng:social --> frm:social --> lat:socialis --> lat:socius --> lat:sequor
+eng:resocialize --> eng:socialize --> eng:social --> frm:social --> lat:socialis --> lat:socius --> lat:sequor
+eng:resod --> eng:sod
+eng:resolder --> eng:solder --> enm:solderen --> fro:solder --> lat:solido
+eng:resole --> eng:sole --> enm:sole
+eng:resolubilized --> eng:solubilized
+eng:resoluble --> lat:resolubilis --> lat:resolvere
+eng:resolute --> lat:resolutus
+eng:resolutely --> eng:resolute --> lat:resolutus
+eng:resolutioner --> eng:resolution
+eng:resolvable --> eng:resolve
+eng:resolvableness --> eng:resolvable --> eng:resolve
+eng:resolvedly --> eng:resolved
+eng:resolvedness --> eng:resolved
+eng:resonance --> fro:resonance --> fro:ance
+eng:resonant --> lat:resonare
+eng:resonate --> lat:resonatio --> lat:resonare
+eng:resorb --> lat:resorbere
+eng:resorcin --> eng:orcin
+eng:resorcinolphthalein --> eng:phthalein
+eng:resort --> eng:sort --> fro:sorte
+eng:resorter --> eng:resort --> eng:sort --> fro:sorte
+eng:resortlike --> eng:resort --> eng:sort --> fro:sorte
+eng:resound --> eng:sound --> ang:sund
+eng:resounding --> eng:sounding
+eng:resource --> fro:resource --> fro:resourdre --> lat:resurgere
+eng:resourcefulness --> eng:resourceful
+eng:resourcelessness --> eng:resourceless
+eng:respacing --> eng:spacing
+eng:respawn --> eng:spawn
+eng:respeak --> eng:speak --> enm:speken --> ang:specan
+eng:respecification --> eng:specification --> lat:specificationem
+eng:respecify --> eng:specify
+eng:respect --> lat:respectus
+eng:respectability --> eng:respect --> lat:respectus
+eng:respectabilize --> eng:respectable --> eng:respect --> lat:respectus
+eng:respectable --> eng:respect --> lat:respectus
+eng:respectably --> eng:respectable --> eng:respect --> lat:respectus
+eng:respectful --> eng:respect --> lat:respectus
+eng:respectfully --> eng:respectful --> eng:respect --> lat:respectus
+eng:respectfulness --> eng:respectful --> eng:respect --> lat:respectus
+eng:respectiveness --> eng:respective
+eng:respectlessness --> eng:respectless
+eng:respectworthy --> eng:respect --> lat:respectus
+eng:respeller --> eng:respell
+eng:respend --> eng:spend --> enm:spenden
+eng:respersion --> lat:respersio
+eng:respider --> eng:spider --> enm:spithre --> ang:spider
+eng:respirableness --> eng:respirable
+eng:respiration --> enm:respiracioun --> lat:respiratio
+eng:respirational --> eng:respiration --> enm:respiracioun --> lat:respiratio
+eng:respiratorily --> eng:respiratory --> eng:respire --> fro:respirer --> lat:respiro
+eng:respiratory --> eng:respire --> fro:respirer --> lat:respiro
+eng:respire --> fro:respirer --> lat:respiro
+eng:respiteless --> eng:respite
+eng:resplend --> lat:resplendere
+eng:resplit --> eng:split
+eng:respond --> fro:respondre --> lat:respondeo --> lat:spondeo
+eng:respondee --> eng:respond --> fro:respondre --> lat:respondeo --> lat:spondeo
+eng:responsible --> fra:responsable --> lat:responsus --> lat:respondere
+eng:responsibly --> eng:responsible --> fra:responsable --> lat:responsus --> lat:respondere
+eng:respot --> eng:spot
+eng:respray --> eng:spray
+eng:resprout --> eng:sprout
+eng:res publica --> lat:res publica
+eng:rest --> enm:rest --> ang:rest
+eng:restack --> eng:stack
+eng:restage --> eng:stage --> enm:stage --> fro:estage --> fro:ester --> lat:esto --> lat:sto
+eng:restagnant --> lat:restagnans
+eng:restain --> eng:stain --> enm:steinen
+eng:restamp --> eng:stamp --> enm:stampen
+eng:restaple --> eng:staple
+eng:restart --> eng:start --> enm:stert
+eng:restation --> eng:station --> enm:estacioun --> xno:estation --> lat:stationem
+eng:restauranter --> eng:restaurant
+eng:restauranteur --> eng:restaurant
+eng:restaurantgoer --> eng:restaurant
+eng:restaurateuring --> eng:restaurateur
+eng:restem --> eng:stem --> ang:stemn
+eng:resterilize --> eng:sterilize
+eng:restest --> eng:rest --> enm:rest --> ang:rest
+eng:restful --> eng:rest --> enm:rest --> ang:rest
+eng:RESTful --> eng:REST
+eng:restharrow --> eng:harrow --> fro:haro
+eng:resthouse --> eng:house --> enm:hous
+eng:restick --> eng:stick --> enm:stiken --> ang:stician
+eng:restily --> eng:resty
+eng:restiness --> eng:resty
+eng:restinguish --> lat:restinguere
+eng:restitch --> eng:stitch --> ang:stician
+eng:restless --> eng:rest --> enm:rest --> ang:rest
+eng:restlessly --> eng:restless --> eng:rest --> enm:rest --> ang:rest
+eng:restlessness --> eng:restless --> eng:rest --> enm:rest --> ang:rest
+eng:restocker --> eng:restock
+eng:restone --> eng:stone --> enm:stan --> ang:stan
+eng:restopper --> eng:stopper
+eng:restoral --> eng:restore --> fro:restorer --> lat:restaurare
+eng:Restorationer --> eng:Restoration
+eng:restoratively --> eng:restorative
+eng:restorativeness --> eng:restorative
+eng:restore --> fro:restorer --> lat:restaurare
+eng:restorement --> eng:restore --> fro:restorer --> lat:restaurare
+eng:restrain --> frm:restraindre --> lat:restringo --> lat:stringo
+eng:restrainable --> eng:restrain --> frm:restraindre --> lat:restringo --> lat:stringo
+eng:restrainingly --> eng:restraining
+eng:restrainment --> eng:restrain --> frm:restraindre --> lat:restringo --> lat:stringo
+eng:restrategize --> eng:strategize
+eng:restratification --> eng:stratification --> eng:stratum --> lat:stratum --> lat:stratus
+eng:restreak --> eng:streak
+eng:restretch --> eng:stretch --> enm:strecchen --> ang:streccan
+eng:restrict --> lat:restrictus
+eng:restriction --> xno:restriction
+eng:restrictionary --> eng:restriction --> xno:restriction
+eng:restrictionist --> eng:restriction --> xno:restriction
+eng:restrictionless --> eng:restriction --> xno:restriction
+eng:restrictiveness --> eng:restrictive
+eng:restringe --> lat:restringo --> lat:stringo
+eng:restripe --> eng:stripe
+eng:restrive --> eng:strive
+eng:restructurer --> eng:restructure
+eng:restump --> eng:stump --> enm:stumpe
+eng:restyler --> eng:restyle
+eng:resubject --> eng:subject --> eng:subget --> eng:suget --> lat:subiectus --> lat:subicio
+eng:resubjection --> eng:subjection
+eng:resublime --> eng:sublime --> frm:sublime --> lat:sublimis
+eng:resubmittal --> eng:submittal
+eng:resultantly --> eng:resultant
+eng:resultate --> lat:resultatus
+eng:resultful --> eng:result
+eng:resultingly --> eng:resulting
+eng:resultive --> eng:result
+eng:resultless --> eng:result
+eng:resultlessly --> eng:resultless --> eng:result
+eng:resultlessness --> eng:resultless --> eng:result
+eng:resumable --> eng:resume --> fra:résumé --> fra:résumer --> lat:resumere
+eng:resume --> fra:résumé --> fra:résumer --> lat:resumere
+eng:résumé --> fra:résumé --> fra:résumer --> lat:resumere
+eng:resummation --> eng:summation
+eng:resumptively --> eng:resumptive
+eng:resurface --> eng:surface
+eng:resurgent --> eng:surgent --> lat:surgens
+eng:resurrectee --> eng:resurrect
+eng:resurrection --> xno:resurrectiun
+eng:resurrectional --> eng:resurrection --> xno:resurrectiun
+eng:resurrector --> eng:resurrect
+eng:resuscitate --> lat:resuscitatus
+eng:resuspension --> eng:suspension
+eng:reswear --> eng:swear --> enm:swer
+eng:resyllabify --> eng:syllabify
+eng:resynchronisation --> eng:synchronisation
+eng:resynchronization --> eng:synchronization
+eng:resynchronize --> eng:synchronize
+eng:resynthesize --> eng:synthesize
+eng:retag --> eng:tag
+eng:retagger --> eng:retag --> eng:tag
+eng:retailment --> eng:retail
+eng:retailor --> eng:tailor --> fra:tailleur --> fra:tailler --> lat:taliare --> lat:talea
+eng:retailtainment --> eng:entertainment
+eng:retain --> fra:retenir
+eng:retainable --> eng:retain --> fra:retenir
+eng:retainal --> eng:retain --> fra:retenir
+eng:retaker --> eng:retake
+eng:retaliate --> lat:retaliatus
+eng:retaliatorily --> eng:retaliatory
+eng:retally --> eng:tally --> eng:tall --> enm:tall
+eng:retape --> eng:tape --> ang:tæppe
+eng:retardate --> eng:retard
+eng:retardational --> eng:retardation
+eng:retarded --> eng:retard
+eng:retardedness --> eng:retarded --> eng:retard
+eng:retarget --> eng:target
+eng:retargetable --> eng:retarget --> eng:target
+eng:rete --> lat:rete
+eng:reteam --> eng:team --> enm:teme --> ang:team
+eng:retear --> eng:tear --> enm:teren --> ang:teran
+eng:retection --> lat:retectionem
+eng:retee --> eng:tee --> enm:teen --> ang:teon
+eng:retelecast --> eng:telecast
+eng:retention --> enm:retencioun --> lat:retentio --> lat:retentus
+eng:retentiveness --> eng:retentive
+eng:rete testis --> eng:rete --> lat:rete
+eng:retexture --> eng:texture --> fra:texture --> lat:textura --> lat:textus --> lat:texere
+eng:rethaw --> eng:thaw --> enm:thowen
+eng:rethe --> enm:rethe --> ang:reþe
+eng:retheme --> eng:theme --> fro:tesme --> lat:thema --> grc:θέμα --> grc:τίθημι
+eng:retheness --> enm:rethnes --> ang:reþnes
+eng:rethicken --> eng:thicken
+eng:rethink --> eng:think --> enm:thinken
+eng:rethinker --> eng:rethink --> eng:think --> enm:thinken
+eng:rethread --> eng:thread --> enm:threed
+eng:retiarius --> lat:retiarius --> lat:rete
+eng:reticence --> lat:reticentia --> lat:reticere
+eng:reticent --> lat:reticens
+eng:reticket --> eng:ticket --> fro:estiquet
+eng:reticle --> lat:reticulum
+eng:reticularly --> eng:reticular
+eng:reticulate --> lat:reticulatus --> lat:reticulum
+eng:reticulation --> eng:reticule --> fra:réticule --> lat:reticulum
+eng:reticule --> fra:réticule --> lat:reticulum
+eng:reticulocytosis --> eng:reticulocyte
+eng:reticuloendothelial --> eng:endothelial
+eng:reticulotropic
+eng:reticulum --> lat:reticulum
+eng:retighten --> eng:tighten --> ang:tyhtan
+eng:retimber --> eng:timber --> enm:tymber --> ang:timber
+eng:retime --> eng:time --> enm:time
+eng:retina --> lat:retina
+eng:retinitis --> eng:retina --> lat:retina
+eng:retinoate --> eng:retinoic
+eng:retinotomy --> eng:retina --> lat:retina
+eng:retinue --> enm:retenue --> fro:retenue
+eng:retire --> frm:retirer
+eng:retired --> eng:retire --> frm:retirer
+eng:retiree --> eng:retire --> frm:retirer
+eng:retiringly --> eng:retiring
+eng:retitle --> eng:title --> lat:titulus
+eng:retooler --> eng:retool
+eng:retooling --> eng:retool
+eng:retopology --> eng:topology
+eng:retorque --> eng:torque --> lat:torqueo
+eng:retorter --> eng:retort
+eng:retoss --> eng:toss
+eng:retoucher --> eng:retouch
+eng:retract --> lat:retractum
+eng:retractable --> eng:retract --> lat:retractum
+eng:retractest --> eng:retract --> lat:retractum
+eng:retracteth --> eng:retract --> lat:retractum
+eng:retractive --> eng:retract --> lat:retractum
+eng:retractor --> eng:retract --> lat:retractum
+eng:retrainee --> eng:retrain
+eng:retrainer --> eng:retrain
+eng:retrait --> fra:retrait
+eng:retranscription --> eng:transcription
+eng:retransduction --> eng:transduction --> eng:transduce
+eng:retransfer --> eng:transfer --> lat:transfero
+eng:retransform --> eng:transform --> fro:transformer
+eng:retranslate --> eng:translate --> enm:translaten
+eng:retranslation --> eng:translation --> lat:translatio --> lat:transfero
+eng:retranslator --> eng:retranslate --> eng:translate --> enm:translaten
+eng:retranslocated --> eng:translocated
+eng:retransmission --> eng:transmission --> lat:transmissionem --> lat:transmittere
+eng:retransmitter --> eng:transmitter
+eng:retransplant --> eng:transplant --> eng:plant --> enm:planten --> ang:plantian --> lat:plantare
+eng:retransplantation --> eng:transplantation
+eng:retrap --> eng:trap --> enm:trappe --> ang:træppe
+eng:retraumatization --> eng:traumatization
+eng:retraumatize --> eng:traumatize
+eng:retravel --> eng:travel --> enm:travelen
+eng:retraversal --> eng:traversal
+eng:retraverse --> eng:traverse
+eng:retraxit --> lat:retraxit
+eng:retreatful --> eng:retreat
+eng:retreatlike --> eng:retreat
+eng:retreatment --> eng:treatment --> eng:treat --> xno:treter
+eng:retriable --> eng:retry
+eng:retribute --> lat:retributus
+eng:retriever --> eng:retrieve
+eng:retrigger --> eng:trigger
+eng:retrim --> eng:trim --> ang:trymman
+eng:retriment --> lat:retrimentum
+eng:retro --> fra:rétro --> lat:retro
+eng:retroact --> eng:act --> fro:acte --> lat:acta --> grc:ἀκτή
+eng:retroactively --> eng:retroactive
+eng:retroactiveness --> eng:retroactive
+eng:retroazimuthal --> eng:azimuthal
+eng:retrobulbar --> eng:bulbar
+eng:retrocausal --> eng:causal --> lat:causalis
+eng:retrocausality --> eng:causality
+eng:retrocaval --> eng:caval
+eng:retrocessively --> eng:retrocessive
+eng:retrochoir --> eng:choir
+eng:retrocognition --> eng:cognition --> enm:cognicion --> lat:cognitio
+eng:retrocognitive --> eng:cognitive --> lat:cognitus
+eng:retrocopulation --> eng:copulation --> eng:copulate
+eng:retrocyclin --> eng:cyclin
+eng:retrodict --> eng:predict
+eng:retrodismutation --> eng:dismutation
+eng:retrodisplace --> eng:displace --> eng:place --> enm:place --> ang:plæse
+eng:retroduction --> lat:retroducere
+eng:retroduplication --> eng:duplication
+eng:retrofashion --> eng:fashion --> enm:facioun
+eng:retrofit --> eng:refit
+eng:retrofitter --> eng:retrofit --> eng:refit
+eng:retroflex --> lat:retroflexus
+eng:retroflexed --> eng:retroflex --> lat:retroflexus
+eng:retrofuturism --> eng:futurism --> eng:future --> lat:futurus
+eng:retro-futurism --> eng:futurism --> eng:future --> lat:futurus
+eng:retrofuturistic --> eng:futuristic --> eng:future --> lat:futurus
+eng:retrogamer --> eng:gamer
+eng:retrogaming --> eng:gaming
+eng:retrogenesis --> eng:genesis --> lat:genesis --> grc:γένεσις
+eng:retrogradely --> eng:retrograde
+eng:retrogradingly --> eng:retrograding
+eng:retrogress --> lat:retrogressus
+eng:retrogressively --> eng:retrogressive
+eng:retroinhibition --> eng:inhibition
+eng:retrolental --> eng:lental
+eng:retromandibular --> eng:mandibular
+eng:retromoderate --> eng:moderate --> enm:moderat --> lat:moderatus
+eng:retromoderator --> eng:moderator --> lat:moderator --> lat:moderor --> lat:modus
+eng:retromolar --> eng:molar
+eng:retronasal --> eng:nasal --> lat:nasalis
+eng:retronym
+eng:retro-orbitally --> eng:retro-orbital
+eng:retropepsin --> eng:pepsin
+eng:retroperistalsis --> eng:peristalsis
+eng:retroperitoneal --> eng:peritoneal
+eng:retroperitoneum --> eng:peritoneum
+eng:retropharyngeally --> eng:retropharyngeal
+eng:retroplacental --> eng:placental
+eng:retropubic --> eng:pubic --> eng:pubis
+eng:retropulsion --> eng:pulsion
+eng:retroreflective --> eng:reflective --> eng:reflect
+eng:retroreflector --> eng:reflector --> eng:reflect
+eng:retroscape
+eng:retrosnub --> eng:snub
+eng:retrospect --> lat:retrospectum --> lat:retrospicio
+eng:retrosplenial --> eng:splenial
+eng:retrosternal --> eng:sternal --> eng:sternum
+eng:retrostyled --> eng:styled
+eng:retrosynthetically --> eng:retrosynthetic
+eng:retrotort --> eng:retort
+eng:retrotranscript --> eng:transcript --> lat:transcriptum
+eng:retrotranscription --> eng:transcription
+eng:retrotransposal --> eng:transposal --> eng:transpose
+eng:retrotransposing --> eng:transposing
+eng:retrovaccination --> eng:vaccination --> lat:vacca
+eng:retsina --> ell:ρετσίνα
+eng:rettery --> eng:ret
+eng:retube --> eng:tube --> frm:tube --> lat:tubus
+eng:retunable --> eng:retune
+eng:retund --> lat:retundere
+eng:returf --> eng:turf --> enm:turf
+eng:return --> enm:returnen
+eng:returner --> eng:return --> enm:returnen
+eng:returneth --> eng:return --> enm:returnen
+eng:returnless --> eng:return --> enm:returnen
+eng:retweet --> eng:tweet
+eng:retwist --> eng:twist
+eng:Reuben --> heb:ראובן
+eng:Reuel --> heb:רְעוּאֵל
+eng:reunion --> eng:union --> fro:union --> lat:unionem --> lat:unus --> lat:oinos
+eng:Reunionese --> eng:Réunion
+eng:reunitedly --> eng:reunited
+eng:reupdate --> eng:update --> eng:date --> fra:date
+eng:reupholstery --> eng:upholstery
+eng:reupload --> eng:upload --> eng:load --> enm:lode
+eng:reurge --> eng:urge --> lat:urgeo
+eng:reusable --> eng:reuse
+eng:reutilise --> eng:utilise --> fra:utiliser --> ita:utilizzare --> ita:utile --> lat:utilis --> lat:uti
+eng:revaccinate --> eng:vaccinate
+eng:revalorization --> eng:valorization
+eng:revaluable --> eng:revalue
+eng:revaluer --> eng:revalue
+eng:revamp --> eng:vamp
+eng:revamper --> eng:revamp --> eng:vamp
+eng:revanchism --> fra:revanchisme
+eng:revanchist --> eng:revanche
+eng:revarnish --> eng:varnish --> fra:vernis
+eng:revascularisation --> eng:vascularisation
+eng:revascularization --> eng:vascularisation
+eng:reveal --> fra:révéler
+eng:revealable --> eng:reveal --> fra:révéler
+eng:revealest --> eng:reveal --> fra:révéler
+eng:revegetate --> eng:vegetate --> lat:vegetatum
+eng:revegetation --> eng:vegetation --> frm:végétation
+eng:reveille --> fra:réveillez
+eng:revel --> enm:revelen --> fro:revel --> fro:reveler --> lat:rebello
+eng:revelational --> eng:revelation
+eng:revelationism --> eng:revelation
+eng:revelationist --> eng:revelation
+eng:reveller --> eng:revel --> enm:revelen --> fro:revel --> fro:reveler --> lat:rebello
+eng:revelous --> fro:reveleus
+eng:revendication --> fra:revendication
+eng:revengeable --> eng:revenge
+eng:revengefulness --> eng:revengeful
+eng:revengeless --> eng:revenge
+eng:revengingly --> eng:revenging
+eng:reverbed --> eng:reverb
+eng:reverberatingly --> eng:reverberating
+eng:reverencer --> eng:reverence
+eng:reverencest --> eng:reverence
+eng:reverenceth --> eng:reverence
+eng:reverendly --> eng:reverend
+eng:reverently --> eng:reverent
+eng:reverer --> eng:revere
+eng:reverest --> eng:revere
+eng:revereth --> eng:revere
+eng:reverie --> fro:reverie --> fro:resver
+eng:reverify --> eng:verify --> fro:verifier --> lat:verificare
+eng:reversal --> eng:reverse --> xno:revers
+eng:reverse --> xno:revers
+eng:reversedly --> eng:reversed
+eng:reverseless --> eng:reverse --> xno:revers
+eng:reverse pickpocket --> eng:pickpocket --> eng:pick --> enm:picken
+eng:reverse-pickpocket --> eng:pickpocket --> eng:pick --> enm:picken
+eng:reverser --> eng:reverse --> xno:revers
+eng:reversion --> fro:reversion --> lat:reversio --> lat:reverto --> lat:verto
+eng:revert --> fro:revertir
+eng:revertable --> eng:revert --> fro:revertir
+eng:revertee --> eng:revert --> fro:revertir
+eng:reverter --> eng:revert --> fro:revertir
+eng:revertive --> eng:revert --> fro:revertir
+eng:revest --> xno:revestier
+eng:revhead --> eng:rev
+eng:revibrate --> eng:vibrate --> lat:vibratus
+eng:revictimization --> eng:victimization
+eng:reviction --> lat:revivere
+eng:revie --> eng:vie --> fra:envier --> fra:envie --> lat:invidia --> lat:invidere
+eng:review --> frm:reveue
+eng:reviewee --> eng:review --> frm:reveue
+eng:reviewless --> eng:review --> frm:reveue
+eng:revile --> enm:revilen
+eng:reviler --> eng:revile --> enm:revilen
+eng:revirescence --> lat:revirescens
+eng:revisability --> eng:revisable --> eng:revise
+eng:revisable --> eng:revise
+eng:revision --> eng:revise
+eng:revisional --> eng:revision --> eng:revise
+eng:revisionary --> eng:revision --> eng:revise
+eng:revisionist --> eng:revision --> eng:revise
+eng:revisionistically --> eng:revisionistic
+eng:revisitation --> eng:visitation
+eng:revisor --> eng:revise
+eng:revisory --> eng:revise
+eng:revitalise --> eng:vital
+eng:revitalize --> eng:vital
+eng:revitalizer --> eng:revitalize --> eng:vital
+eng:revivable --> eng:revive --> frm:revivre
+eng:revival --> eng:revive --> frm:revivre
+eng:revive --> frm:revivre
+eng:revivement --> eng:revive --> frm:revivre
+eng:revivificate --> eng:vivificate
+eng:revivify --> fra:revivifier --> lat:revivificare
+eng:revivingly --> eng:reviving
+eng:revocableness --> eng:revocable
+eng:revocably --> eng:revocable
+eng:revocate --> lat:revocare
+eng:revocation --> lat:revocationem
+eng:revoice --> eng:voice --> enm:vois --> xno:voiz
+eng:revoke --> lat:revocare
+eng:revokement --> eng:revoke --> lat:revocare
+eng:revokingly --> eng:revoking
+eng:revolt --> fra:révolter --> ita:rivoltare
+eng:revolute --> lat:revolutus
+eng:revolution --> enm:reuolucion --> fro:revolution --> lat:revolutionem
+eng:revolutioner --> eng:revolution --> enm:reuolucion --> fro:revolution --> lat:revolutionem
+eng:revolutionism --> eng:revolution --> enm:reuolucion --> fro:revolution --> lat:revolutionem
+eng:revolutionizer --> eng:revolutionize
+eng:revolve --> enm:revolven --> fro:revolver --> lat:revolvere
+eng:revolvement --> eng:revolve --> enm:revolven --> fro:revolver --> lat:revolvere
+eng:revolver --> lat:revolvo
+eng:revolvingly --> eng:revolving
+eng:revote --> eng:vote --> lat:votum --> lat:voveo
+eng:revue --> fra:revue --> fra:revoir --> fra:voir --> fro:veoir --> lat:video
+eng:revulse --> lat:revulsus
+eng:revulsion --> fra:révulsion
+eng:rewake --> eng:wake --> ang:wacu
+eng:reward --> enm:reward
+eng:rewardable --> eng:reward --> enm:reward
+eng:rewardest --> eng:reward --> enm:reward
+eng:rewardeth --> eng:reward --> enm:reward
+eng:rewardful --> eng:reward --> enm:reward
+eng:rewardingly --> eng:rewarding
+eng:rewardless --> eng:reward --> enm:reward
+eng:rewarehouse --> eng:warehouse
+eng:rewatch --> eng:watch
+eng:rewatchable --> eng:rewatch --> eng:watch
+eng:rewax --> eng:wax --> ang:weaxan
+eng:reweave --> eng:weave --> ang:wefan
+eng:rewed --> eng:wed --> ang:weddian
+eng:reweight --> eng:weight --> ang:wiht
+eng:rewetten --> eng:wetten --> eng:wet --> enm:wett
+eng:rewicker --> eng:wicker --> enm:wiker
+eng:rewin --> eng:win --> enm:winn
+eng:rewind --> eng:wind --> ang:windan
+eng:rewindable --> eng:rewind --> eng:wind --> ang:windan
+eng:rewinded --> eng:rewind --> eng:wind --> ang:windan
+eng:rewinder --> eng:rewind --> eng:wind --> ang:windan
+eng:rewire --> eng:wire --> ang:wīr
+eng:rework --> eng:work --> ang:weorc
+eng:reworkable --> eng:rework --> eng:work --> ang:weorc
+eng:reworker --> eng:rework --> eng:work --> ang:weorc
+eng:rewrap --> eng:wrap --> enm:wrappen
+eng:rewrite --> eng:write --> enm:writen --> ang:writan
+eng:rewriter --> eng:rewrite --> eng:write --> enm:writen --> ang:writan
+eng:Reykjavik --> isl:Reykjavík
+eng:Reykjavík --> isl:Reykjavík
+eng:Reynard --> fra:Renard --> deu:Reinhard
+eng:Reynold --> xno:Reinald
+eng:Reynoldsian --> eng:Reynolds
+eng:rhabdo- --> grc:ῥάβδος
+eng:rhabdomyolysis --> eng:myo
+eng:rhabdomyoma --> eng:myoma
+eng:rhabdosphincter --> eng:sphincter --> lat:sphincter --> grc:σφιγκτήρ --> grc:σφίγγω
+eng:rhadamanthine --> eng:Rhadamanthus
+eng:rhaita --> ara:غيطه
+eng:rhapsode --> grc:ῥαψῳδός
+eng:rhapsodic --> eng:rhapsody --> lat:rhapsodia --> grc:ῥαψῳδία
+eng:rhapsody --> lat:rhapsodia --> grc:ῥαψῳδία
+eng:Rhea --> grc:Ῥέα
+eng:rhein --> eng:Rheum
+eng:rheinberry --> deu:Rheinbeere
+eng:Rheingoldian --> eng:Rheingold
+eng:rhenium --> lat:Rhenus
+eng:rheo- --> grc:ῥέω
+eng:rheogoniometer --> eng:goniometer
+eng:rheography
+eng:rheologic
+eng:rheological --> eng:rheology
+eng:rheologically --> eng:rheological --> eng:rheology
+eng:rheometer
+eng:rheometric
+eng:rheometry
+eng:rheopectic --> eng:pectic
+eng:rheopexy
+eng:rheophilic
+eng:rheophore
+eng:rheophyte
+eng:rheoplethysmograph --> eng:plethysmograph
+eng:rheostasis
+eng:rheostat
+eng:rheostatic
+eng:rheotactic
+eng:rheotaxis
+eng:rheotome
+eng:rheotropism
+eng:rhetor --> lat:rhetor --> grc:ῥήτωρ --> grc:εἴρω
+eng:rhetoric --> lat:rhetorica --> grc:ῥητορική
+eng:rhetorical --> lat:rhetoricus --> grc:ῥητορικός --> grc:ῥήτωρ --> grc:εἴρω
+eng:rhetoricalness --> eng:rhetorical --> lat:rhetoricus --> grc:ῥητορικός --> grc:ῥήτωρ --> grc:εἴρω
+eng:rhetoricate --> lat:rhetoricari
+eng:rheum --> xno:roume
+eng:rheumatically --> eng:rheumatic
+eng:rheumaticky --> eng:rheumatic
+eng:rheumatismoid --> eng:rheumatism
+eng:rheumic --> eng:rheum --> xno:roume
+eng:Rhine --> ang:Rin
+eng:rhinestoned --> eng:rhinestone
+eng:rhino- --> grc:ῥίς
+eng:rhinoceroslike --> eng:rhinoceros
+eng:rhinolith
+eng:rhinomanometry --> eng:manometry
+eng:rhinophore
+eng:rhinoplasty
+eng:rhinorrhea
+eng:rhinorrhœa
+eng:rhinoscleroma --> eng:scleroma
+eng:rhinoscope
+eng:rhinoscopy
+eng:rhinotillexomania --> grc:ῥίς
+eng:rhizo- --> grc:ῥίζα
+eng:rhizocarpous
+eng:rhizogen
+eng:rhizomatously --> eng:rhizomatous
+eng:rhizopodous --> eng:rhizopod
+eng:rhizosphere --> eng:sphere --> fro:sphere --> lat:sphera --> lat:sphaera --> grc:σφαῖρα
+eng:rhizostome
+eng:rhizotomist --> eng:rhizotomy
+eng:rhodanate --> eng:rhodanic
+eng:Rhode Islander --> eng:Rhode Island
+eng:Rhodes --> grc:Ῥόδος
+eng:rhodium --> grc:ῥόδον
+eng:rhodo- --> grc:ῥόδον
+eng:rhodochrosite --> grc:ῥοδόχρως
+eng:rhododendronlike --> eng:rhododendron
+eng:rhodopsin --> grc:ῥόδον
+eng:rhombically --> eng:rhombic
+eng:rhombicuboctahedron --> lat:rhombicuboctahaedron
+eng:rhomboidally --> eng:rhomboidal
+eng:rhombomere
+eng:rhombus --> lat:rhombus --> grc:ῥόμβος --> grc:ῥέμβω
+eng:rhonchisonant --> lat:rhonchus --> grc:ῥέγχος
+eng:rhonchus --> lat:rhonchus --> grc:ῥέγχος
+eng:rhoticity --> eng:rhotic
+eng:rhubarb --> enm:rubarbe
+eng:rhubarblike --> eng:rhubarb --> enm:rubarbe
+eng:rhubarby --> eng:rhubarb --> enm:rubarbe
+eng:rhymeless --> eng:rhyme
+eng:rhymelike --> eng:rhyme
+eng:rhymer --> enm:rymare --> ang:rimere
+eng:rhymery --> eng:rhyme
+eng:rhymic --> eng:rhyme
+eng:rhymingly --> eng:rhyming
+eng:rhythm --> lat:rhythmus --> grc:ῥυθμός --> grc:ῥέω
+eng:rhythmer --> eng:rhythm --> lat:rhythmus --> grc:ῥυθμός --> grc:ῥέω
+eng:rhythmically --> eng:rhythmical
+eng:rhythmicity --> eng:rhythmic
+eng:rhythming --> eng:rhythm --> lat:rhythmus --> grc:ῥυθμός --> grc:ῥέω
+eng:rhyton --> grc:ῥυτόν
+eng:ria --> glg:ría
+eng:riad --> ara:رياض‎
+eng:rial --> fas:﷼ --> ara:﷼ --> spa:real --> lat:regalis --> lat:rex
+eng:riant --> fra:riant
+eng:riantly --> eng:riant --> fra:riant
+eng:ribaldish --> eng:ribald
+eng:ribanded --> eng:riband
+eng:ribband --> eng:band --> enm:band --> ang:beand
+eng:ribbon --> fro:riban
+eng:ribbonfish --> eng:fish --> ang:fiscian
+eng:Ribbonism --> eng:ribbon --> fro:riban
+eng:ribbonless --> eng:ribbon --> fro:riban
+eng:ribbonlike --> eng:ribbon --> fro:riban
+eng:Ribbonman --> eng:ribbon --> fro:riban
+eng:ribbony --> eng:ribbon --> fro:riban
+eng:ribgrass --> eng:grass --> enm:gras
+eng:ribless --> eng:rib
+eng:riblet --> eng:rib
+eng:riboregulation --> eng:regulation
+eng:riboregulator --> eng:regulator
+eng:riboregulatory --> eng:regulatory
+eng:ribosomally --> eng:ribosomal
+eng:ribovirus --> eng:virus --> lat:virus
+eng:ribozymology --> eng:ribozyme
+eng:ribroast --> eng:rib
+eng:ribwort --> eng:rib
+eng:rice --> enm:rys --> fro:ris --> ita:riso --> lat:oryza
+eng:ricebird --> eng:bird --> enm:brid --> ang:bridd
+eng:riceburger --> eng:burger
+eng:ricefish --> eng:fish --> ang:fiscian
+eng:ricegrower --> eng:grower
+eng:riceless --> eng:rice --> enm:rys --> fro:ris --> ita:riso --> lat:oryza
+eng:ricelike --> eng:rice --> enm:rys --> fro:ris --> ita:riso --> lat:oryza
+eng:rich --> enm:riche --> ang:rice
+eng:Richard --> enm:Rycharde --> fro:Richard
+eng:Richardson --> eng:Richard --> enm:Rycharde --> fro:Richard
+eng:Richardsonian --> eng:Richardson --> eng:Richard --> enm:Rycharde --> fro:Richard
+eng:richdom --> enm:richedom --> ang:ricedom
+eng:riche --> enm:riche --> ang:rice
+eng:richen --> eng:rich --> enm:riche --> ang:rice
+eng:riches --> enm:riches
+eng:Riches --> eng:Rich
+eng:richish --> eng:rich --> enm:riche --> ang:rice
+eng:richly --> eng:rich --> enm:riche --> ang:rice
+eng:richness --> eng:rich --> enm:riche --> ang:rice
+eng:richweed --> eng:rich --> enm:riche --> ang:rice
+eng:ricinelaidic acid --> eng:elaidic
+eng:ricinelaidin --> eng:ricinelaidic
+eng:rick --> ang:hreac
+eng:Rickards --> eng:Rickard
+eng:ricker --> eng:rick --> ang:hreac
+eng:ricketiness --> eng:rickety
+eng:Ricketts --> eng:Rickett
+eng:rickettsial --> eng:rickettsia
+eng:rickettsiology --> eng:rickettsia
+eng:rickshaw --> jpn:力車
+eng:rickshawlike --> eng:rickshaw --> jpn:力車
+eng:Rickson --> eng:Rick
+eng:rickstand --> eng:rick --> ang:hreac
+eng:ricochet --> fra:ricochet
+eng:ricture --> lat:ringi
+eng:rictus --> lat:rictus
+eng:ridder --> eng:rid
+eng:riddle --> enm:redel
+eng:riddlelike --> eng:riddle --> enm:redel
+eng:riddlingly --> eng:riddling
+eng:ride --> enm:riden
+eng:rideable --> eng:ride --> enm:riden
+eng:ridealong --> eng:along
+eng:ridesharing --> eng:ride --> enm:riden
+eng:ridge --> enm:rigge
+eng:ridgebone --> eng:bone --> enm:bon --> ang:ban
+eng:ridgehead --> eng:head --> enm:hed
+eng:ridgelet --> eng:ridge --> enm:rigge
+eng:ridgelike --> eng:ridge --> enm:rigge
+eng:ridgeline --> eng:line --> ang:lin
+eng:ridgeplate --> eng:plate --> fro:plate --> lat:plata
+eng:ridgepole --> eng:pole --> enm:pole
+eng:ridgerope --> eng:ridge --> enm:rigge
+eng:ridgeside --> eng:ridge --> enm:rigge
+eng:ridgeway --> eng:ridge --> enm:rigge
+eng:ridgy --> eng:ridge --> enm:rigge
+eng:ridicule --> lat:ridiculus --> lat:rideo
+eng:ridiculer --> eng:ridicule --> lat:ridiculus --> lat:rideo
+eng:ridiculize --> eng:ridicule --> lat:ridiculus --> lat:rideo
+eng:ridiculosity --> eng:ridiculous
+eng:ridiculousness --> eng:ridiculous
+eng:ridonkulous --> eng:ridiculous
+eng:ridotto --> ita:ridotto
+eng:riebeckite --> eng:Riebeck
+eng:Rieti --> ita:Rieti --> lat:Reate
+eng:rifely --> eng:rife
+eng:riffly --> eng:riffle
+eng:riffwise --> eng:riff
+eng:riflebird --> eng:bird --> enm:brid --> ang:bridd
+eng:riflelike --> eng:rifle
+eng:rifleman --> eng:rifle
+eng:rifler --> eng:rifle
+eng:riflewoman --> eng:rifle
+eng:rift --> non:rypta
+eng:Riga --> lav:Rīga
+eng:rigadoon --> fra:rigaudon
+eng:rigation --> lat:rigatio
+eng:Rigellian --> eng:Rigel
+eng:rigger --> eng:rig
+eng:riggish --> eng:rig
+eng:right --> ang:rihtan --> ang:riht
+eng:rightable --> eng:right --> ang:rihtan --> ang:riht
+eng:rightard --> eng:right --> ang:rihtan --> ang:riht
+eng:righten --> eng:right --> ang:rihtan --> ang:riht
+eng:righteousness --> enm:rightwisnes
+eng:rightfulness --> eng:rightful
+eng:rightish --> eng:right --> ang:rihtan --> ang:riht
+eng:rightless --> eng:right --> ang:rihtan --> ang:riht
+eng:rightness --> eng:right --> ang:rihtan --> ang:riht
+eng:right stochastic matrix --> eng:matrix --> fro:matrice --> lat:matricem
+eng:right to petition --> eng:petition
+eng:rightward --> eng:right --> ang:rihtan --> ang:riht
+eng:rightways --> eng:right --> ang:rihtan --> ang:riht
+eng:rightwise --> eng:right --> ang:rihtan --> ang:riht
+eng:rightwisely --> eng:rightwise --> eng:right --> ang:rihtan --> ang:riht
+eng:rightwiseness --> eng:rightwise --> eng:right --> ang:rihtan --> ang:riht
+eng:rigid --> lat:rigidus --> lat:rigeo
+eng:rigidification --> eng:rigid --> lat:rigidus --> lat:rigeo
+eng:rigidly --> eng:rigid --> lat:rigidus --> lat:rigeo
+eng:rigmarole --> eng:ragman roll
+eng:rigorously --> eng:rigorous
+eng:rigorousness --> eng:rigorous
+eng:rigourously --> eng:rigourous
+eng:rigourousness --> eng:rigourous
+eng:Rigveda --> san:ऋग्वेद
+eng:rijsttafel --> nld:rijsttafel --> nld:rijst
+eng:rike --> enm:rike --> ang:rice
+eng:Riksdag --> swe:riksdag --> swe:dag --> non:dagr
+eng:Rilkean --> eng:Rilke
+eng:rim --> ang:rima
+eng:rimau dahan --> msa:harimau dahan
+eng:rime --> enm:rim
+eng:rimfire --> eng:fire --> enm:fier --> ang:fyr
+eng:Rimini --> ita:Rimini --> lat:Ariminum
+eng:rimland --> eng:land --> enm:land
+eng:rimless --> eng:rim --> ang:rima
+eng:rimose --> lat:rimosus
+eng:rimosely --> eng:rimose --> lat:rimosus
+eng:rimrock --> eng:rim --> ang:rima
+eng:rimshot --> eng:rim --> ang:rima
+eng:rind --> ang:rinde
+eng:rinderpest --> deu:Rinderpest
+eng:rindless --> eng:rind --> ang:rinde
+eng:rindy --> eng:rind --> ang:rinde
+eng:rine --> enm:rinen --> ang:hrinan
+eng:ring --> enm:ring --> ang:hring
+eng:ringback --> eng:back --> enm:bak --> ang:bæc
+eng:ringbearer --> eng:bearer --> eng:bear --> enm:bere --> ang:beor
+eng:ringbill --> eng:bill --> ang:bil
+eng:ringbird --> eng:bird --> enm:brid --> ang:bridd
+eng:ringbolt --> eng:bolt --> enm:bulten --> xno:buleter
+eng:ringcraft --> eng:ring --> enm:ring --> ang:hring
+eng:ringer --> eng:ring --> enm:ring --> ang:hring
+eng:ringette --> eng:ring --> enm:ring --> ang:hring
+eng:ringgit --> msa:ringgit
+eng:ringhead --> eng:head --> enm:hed
+eng:ringingly --> eng:ringing
+eng:ringleader --> eng:leader --> enm:leder
+eng:ringleading --> eng:leading --> ang:lædan
+eng:ringless --> eng:ring --> enm:ring --> ang:hring
+eng:ringman --> eng:ring --> enm:ring --> ang:hring
+eng:ringsail --> eng:ring --> enm:ring --> ang:hring
+eng:ringspot --> eng:ring --> enm:ring --> ang:hring
+eng:ringtail --> eng:ring --> enm:ring --> ang:hring
+eng:ringwall --> deu:Ringwall
+eng:ringwise --> eng:ring --> enm:ring --> ang:hring
+eng:ringworm --> eng:ring --> enm:ring --> ang:hring
+eng:ringxiety --> eng:anxiety --> lat:anxietatem --> lat:anxius --> lat:ango
+eng:rink --> enm:rink
+eng:rinker --> eng:rink --> enm:rink
+eng:rinking --> eng:rink --> enm:rink
+eng:rinkside --> eng:rink --> enm:rink
+eng:rinse --> enm:rinsen
+eng:rinser --> eng:rinse --> enm:rinsen
+eng:riotise --> eng:riot
+eng:riotless --> eng:riot
+eng:riotously --> eng:riotous
+eng:riotousness --> eng:riotous
+eng:rip --> enm:rippen
+eng:riparious --> lat:riparius --> lat:ripa
+eng:ripe --> ang:ripe
+eng:ripely --> eng:ripe --> ang:ripe
+eng:ripener --> eng:ripen
+eng:ripeness --> eng:ripe --> ang:ripe
+eng:riplock --> eng:lock --> ang:locc
+eng:ripost --> fra:riposte
+eng:rippable --> eng:rip --> enm:rippen
+eng:rippingly --> eng:ripping
+eng:ripple --> enm:rypelen
+eng:ripplet --> eng:ripple --> enm:rypelen
+eng:ripplingly --> eng:rippling
+eng:ripstop --> eng:rip --> enm:rippen
+eng:riq --> ara:رق
+eng:riq'a --> ara:رقعة
+eng:Risan --> hbs:Risan --> lat:Risinium --> grc:Ῥίζων
+eng:rise --> enm:risen --> ang:risan
+eng:riser --> eng:rise --> enm:risen --> ang:risan
+eng:risest --> eng:rise --> enm:risen --> ang:risan
+eng:riseth --> eng:rise --> enm:risen --> ang:risan
+eng:rishi --> san:ऋषि
+eng:risible --> fra:risible --> lat:risibilis --> lat:rideo
+eng:risibleness --> eng:risible --> fra:risible --> lat:risibilis --> lat:rideo
+eng:risker --> eng:risk
+eng:riskfree --> eng:risk
+eng:riskful --> eng:risk
+eng:risktaker --> eng:risk
+eng:risky --> eng:risk
+eng:Risorgimento --> ita:risorgimento
+eng:risorial --> lat:ridere
+eng:risottolike --> eng:risotto
+eng:risque --> fra:risqué
+eng:rissoid --> lat:Rissoa
+eng:ristretto --> ita:ristretto --> lat:restrictus
+eng:ritornello --> ita:ritornello
+eng:ritter --> deu:Ritter
+eng:ritualism --> eng:ritual
+eng:ritualist --> eng:ritual
+eng:rituximab
+eng:ritzily --> eng:ritzy
+eng:ritziness --> eng:ritzy
+eng:rivage --> xno:rivage
+eng:rival --> lat:rivalis --> lat:rivus
+eng:rivaless --> eng:rival --> lat:rivalis --> lat:rivus
+eng:rivalrous --> eng:rivalry
+eng:rivalrously --> eng:rivalrous --> eng:rivalry
+eng:rive --> enm:riven
+eng:riveling --> enm:riveling --> enm:rivelen
+eng:riven --> enm:riven
+eng:river --> xno:rivere --> fro:riviere
+eng:riverboard --> eng:board --> enm:bord
+eng:riverboarding --> eng:boarding
+eng:riveret --> eng:river --> xno:rivere --> fro:riviere
+eng:riverfront --> eng:front --> fro:front
+eng:rivergoing --> eng:going --> eng:go --> enm:gon --> ang:gan
+eng:riverhood --> eng:river --> xno:rivere --> fro:riviere
+eng:riverine --> eng:river --> xno:rivere --> fro:riviere
+eng:riverkeeper --> eng:keeper --> eng:keep --> enm:kepen --> ang:cepan
+eng:riverless --> eng:river --> xno:rivere --> fro:riviere
+eng:riverlike --> eng:river --> xno:rivere --> fro:riviere
+eng:riverling --> eng:river --> xno:rivere --> fro:riviere
+eng:riverside --> eng:river --> xno:rivere --> fro:riviere
+eng:riverwalk --> eng:river --> xno:rivere --> fro:riviere
+eng:rivery --> eng:river --> xno:rivere --> fro:riviere
+eng:rivethead --> eng:rivet
+eng:rivetless --> eng:rivet
+eng:rivetlike --> eng:rivet
+eng:Riviera --> ita:riviera --> fro:riviere
+eng:Rivne --> ukr:Рівне
+eng:rivulet --> fro:riveret
+eng:rix --> enm:rixen --> ang:rixian
+eng:rixation --> lat:rīxārī
+eng:rixatrix --> lat:rixor
+eng:rix-baron --> deu:Reichsbaron
+eng:Rixon --> eng:Rick
+eng:Riyadh --> ara:الرياض
+eng:Rkatsiteli --> kat:რქაწითელი
+eng:roachlike --> eng:roach
+eng:road --> ang:rad
+eng:roadability --> eng:roadable --> eng:road --> ang:rad
+eng:roadable --> eng:road --> ang:rad
+eng:roadbed --> eng:bed --> enm:bed --> ang:bedd
+eng:roadcraft --> eng:craft
+eng:roadcut --> eng:cut --> enm:cutten
+eng:roadgoing --> eng:going --> eng:go --> enm:gon --> ang:gan
+eng:roadish --> eng:road --> ang:rad
+eng:roadkilled --> eng:roadkill
+eng:roadless --> eng:road --> ang:rad
+eng:roadlessness --> eng:roadless --> eng:road --> ang:rad
+eng:roadlike --> eng:road --> ang:rad
+eng:roadmaker --> eng:maker --> eng:make --> enm:make --> non:makr
+eng:roadman --> eng:road --> ang:rad
+eng:roadmaster --> eng:master --> ang:mægester --> lat:magister
+eng:roadrunner --> eng:road --> ang:rad
+eng:roadside hawk --> eng:hawk --> enm:hauk --> ang:hafoc
+eng:roadwarrior --> eng:road --> ang:rad
+eng:roadwork --> eng:road --> ang:rad
+eng:roadworker --> eng:road --> ang:rad
+eng:roadworn --> eng:road --> ang:rad
+eng:roadworthy --> eng:road --> ang:rad
+eng:roam --> enm:romen
+eng:roamable --> eng:roam --> enm:romen
+eng:roanoke --> pim:rawrenock
+eng:roar --> ang:rarian
+eng:roarer --> eng:roar --> ang:rarian
+eng:roarest --> eng:roar --> ang:rarian
+eng:roaringly --> eng:roaring
+eng:roast --> enm:rosten --> fro:rostir
+eng:roastable --> eng:roast --> enm:rosten --> fro:rostir
+eng:roastee --> eng:roast --> enm:rosten --> fro:rostir
+eng:roaster --> eng:roast --> enm:rosten --> fro:rostir
+eng:roastery --> eng:roast --> enm:rosten --> fro:rostir
+eng:roastmaster --> eng:master --> ang:mægester --> lat:magister
+eng:rob --> enm:robben --> xno:rober
+eng:robatumumab
+eng:robbable --> eng:rob --> enm:robben --> xno:rober
+eng:robbery --> fro:roberie
+eng:robbeth --> eng:rob --> enm:robben --> xno:rober
+eng:robe --> enm:robe
+eng:robeless --> eng:robe --> enm:robe
+eng:robelike --> eng:robe --> enm:robe
+eng:robemaker --> eng:maker --> eng:make --> enm:make --> non:makr
+eng:robemaking --> eng:making --> eng:make --> enm:make --> non:makr
+eng:Roberson --> eng:Robert --> xno:Robert
+eng:Robert --> xno:Robert
+eng:Robertson --> eng:Robert --> xno:Robert
+eng:Robeson --> eng:Rob
+eng:Robespierrean --> eng:Robespierre
+eng:Robinson --> eng:Robin
+eng:robinsonade --> eng:Robinson --> eng:Robin
+eng:Robison --> eng:Robin
+eng:roboid --> eng:robot --> ces:robot --> ces:robota --> rus:работа
+eng:roborant --> lat:roborans
+eng:roborate --> lat:roborare
+eng:roboration --> lat:roboratio
+eng:roboroach --> eng:cockroach --> spa:cucaracha
+eng:robot --> ces:robot --> ces:robota --> rus:работа
+eng:robotically --> eng:robotic
+eng:roboticide --> eng:robot --> ces:robot --> ces:robota --> rus:работа
+eng:Robson --> eng:Rob
+eng:Robsten --> eng:Kristen
+eng:robust --> lat:robustus --> lat:robur
+eng:robusta --> lat:robusta
+eng:robustious --> eng:robust --> lat:robustus --> lat:robur
+eng:roc --> spa:rocho
+eng:rocambolesque --> fra:rocambolesque
+eng:roccellic acid --> fra:roccellique
+eng:roche moutonnée --> fra:roche moutonnée
+eng:rock --> dum:rocke
+eng:rockabilly --> eng:hillbilly --> eng:Billy
+eng:rockathon --> eng:rock --> dum:rocke
+eng:rockered --> eng:rocker
+eng:rocket --> fra:roquette
+eng:rocketborne --> eng:borne
+eng:rocketeer --> eng:rocket --> fra:roquette
+eng:rocketless --> eng:rocket --> fra:roquette
+eng:rocketlike --> eng:rocket --> fra:roquette
+eng:rocketship --> eng:rocket --> fra:roquette
+eng:Rocketshipper --> eng:rocket --> fra:roquette
+eng:rockfest --> eng:rock --> dum:rocke
+eng:rockfill --> eng:fill --> ang:fyllu
+eng:rockingly --> eng:rocking
+eng:rockish --> eng:rock --> dum:rocke
+eng:rockism --> eng:rock --> dum:rocke
+eng:rockist --> eng:rock --> dum:rocke
+eng:rockless --> eng:rock --> dum:rocke
+eng:rocklike --> eng:rock --> dum:rocke
+eng:rockling --> eng:rock --> dum:rocke
+eng:rockoon --> eng:balloon
+eng:rockpile --> eng:pile --> ang:pil --> lat:pilum
+eng:rockpool --> eng:pool --> enm:pool
+eng:rockrose --> eng:rock --> dum:rocke
+eng:rockscape --> eng:rock --> dum:rocke
+eng:rockspider --> eng:rock --> dum:rocke
+eng:rockstar --> eng:rock --> dum:rocke
+eng:rocksucker --> eng:rock --> dum:rocke
+eng:rockumentary --> eng:documentary
+eng:rockweed --> eng:rock --> dum:rocke
+eng:rockwood --> eng:rock --> dum:rocke
+eng:rockwork --> eng:rock --> dum:rocke
+eng:rocky --> eng:rock --> dum:rocke
+eng:rodbuster --> eng:buster
+eng:rodelero --> spa:rodelero
+eng:rodent --> lat:rodens
+eng:rodenticidal --> eng:rodenticide
+eng:rodentlike --> eng:rodent --> lat:rodens
+eng:rodentproof --> eng:rodent --> lat:rodens
+eng:rodenty --> eng:rodent --> lat:rodens
+eng:Rodgerson --> eng:Rodger
+eng:rodiasine --> eng:rodiei
+eng:Rodinia --> rus:родина
+eng:rodlet --> eng:rod
+eng:rodlike --> eng:rod
+eng:rodomontadist --> eng:rodomontade
+eng:rodshaped --> eng:rod
+eng:roe --> enm:ro --> ang:ra
+eng:roebuck --> eng:buck --> enm:buc --> ang:bucca
+eng:roed --> eng:roe --> enm:ro --> ang:ra
+eng:roedeer --> eng:deer --> enm:deere
+eng:roflcopter --> eng:helicopter --> fra:hélicoptère --> grc:ἕλικος
+eng:rogation --> lat:rogatio --> lat:rogo
+eng:roger --> sth:roger
+eng:Roger --> fro:Rogier
+eng:Rogernomics --> eng:Roger --> fro:Rogier
+eng:Rogerson --> eng:Roger --> fro:Rogier
+eng:roggenbrot --> deu:Roggenbrot
+eng:rogue --> frm:rogue --> fro:rogre --> non:hrokr
+eng:roguelike --> eng:rogue --> frm:rogue --> fro:rogre --> non:hrokr
+eng:rogueship --> eng:rogue --> frm:rogue --> fro:rogre --> non:hrokr
+eng:roguish --> eng:rogue --> frm:rogue --> fro:rogre --> non:hrokr
+eng:roguishly --> eng:roguish --> eng:rogue --> frm:rogue --> fro:rogre --> non:hrokr
+eng:roguishness --> eng:roguish --> eng:rogue --> frm:rogue --> fro:rogre --> non:hrokr
+eng:roguy --> eng:rogue --> frm:rogue --> fro:rogre --> non:hrokr
+eng:Rohmerian --> eng:Rohmer
+eng:Roi --> mah:Ruot
+eng:roided out --> eng:roid
+eng:roi fainéant --> fra:roi fainéant
+eng:Roi-Namur --> eng:Namur --> mah:Nim̧ur
+eng:roister --> fro:rustre --> lat:rusticus --> lat:rus
+eng:roisterer --> eng:roister --> fro:rustre --> lat:rusticus --> lat:rus
+eng:roisterly --> eng:roister --> fro:rustre --> lat:rusticus --> lat:rus
+eng:roisterous --> eng:roister --> fro:rustre --> lat:rusticus --> lat:rus
+eng:rokkaku --> jpn:六角
+eng:roky --> eng:roke
+eng:role --> fra:rôle
+eng:roleless --> eng:role --> fra:rôle
+eng:rolelessness --> eng:roleless --> eng:role --> fra:rôle
+eng:rôleplay --> eng:play --> enm:playen
+eng:Rolf --> non:Hrólfr
+eng:rollaboard --> eng:aboard
+eng:rollaway --> eng:away --> ang:onweg
+eng:rollbag --> eng:bag --> enm:bagge --> non:baggi
+eng:rolldown --> eng:down --> ang:dune
+eng:rollerball --> eng:ball --> enm:bal
+eng:rollicker --> eng:rollick
+eng:rollingstock --> eng:rolling
+eng:rollmop --> deu:Rollmops
+eng:rollneck --> eng:neck --> enm:nekke
+eng:rollunder --> eng:roll
+eng:rollway --> eng:roll
+eng:Rolodex --> eng:index --> lat:index --> lat:indico
+eng:Rom --> rom:Rom
+eng:romaji --> jpn:ローマ字 --> jpn:ローマ
+eng:Roman --> fro:Romain --> lat:Romanus --> lat:romanus --> lat:Roma
+eng:romance --> enm:romauns
+eng:romanceless --> eng:romance --> enm:romauns
+eng:romancelike --> eng:romance --> enm:romauns
+eng:romancer --> eng:romance --> enm:romauns
+eng:Romanche --> fra:romanche --> roh:rumantsch --> lat:romanice --> lat:romanicus --> lat:romanus --> lat:Roma
+eng:romancist --> eng:romance --> enm:romauns
+eng:romancy --> eng:romance --> enm:romauns
+eng:romanesque --> eng:Roman --> fro:Romain --> lat:Romanus --> lat:romanus --> lat:Roma
+eng:Romanesque --> eng:Roman --> fro:Romain --> lat:Romanus --> lat:romanus --> lat:Roma
+eng:Romani --> rom:romani
+eng:Romanianness --> eng:Romanian
+eng:Romanish --> eng:Roman --> fro:Romain --> lat:Romanus --> lat:romanus --> lat:Roma
+eng:Romanism --> eng:Roman --> fro:Romain --> lat:Romanus --> lat:romanus --> lat:Roma
+eng:Romanizer --> eng:Romanize
+eng:Romanness --> eng:Roman --> fro:Romain --> lat:Romanus --> lat:romanus --> lat:Roma
+eng:romano --> ita:romano --> lat:romanus --> lat:Roma
+eng:romantic --> eng:romaunt --> fro:romaunt
+eng:romanticizable --> eng:romanticize
+eng:romanticly --> eng:romantic --> eng:romaunt --> fro:romaunt
+eng:romanticness --> eng:ness
+eng:Romaphobia --> eng:Roma
+eng:romaunt --> fro:romaunt
+eng:Rombergism --> eng:Romberg
+eng:romeite --> eng:Romé
+eng:romesco --> cat:romesco
+eng:Romeward --> eng:Rome
+eng:Romish --> eng:Rome
+eng:Romist --> eng:Rome
+eng:RomneyCare --> eng:Romney
+eng:rompingly --> eng:romping
+eng:rompish --> eng:romp
+eng:rompler --> eng:ROM
+eng:rompu --> fra:rompu
+eng:romset --> eng:ROM
+eng:Romulus --> lat:Romulus
+eng:rondeau --> fra:rondeau --> fro:rondel
+eng:rondelet --> frm:rondelet --> frm:rondel
+eng:rondo --> ita:rondo --> fra:rondeau --> fro:rondel
+eng:Rongelap --> mah:Ron̄ļap
+eng:ronin --> jpn:浪人
+eng:rontalizumab
+eng:roo --> enm:roo
+eng:rood --> enm:rood --> ang:rod
+eng:roof --> enm:rof --> ang:hrof
+eng:roofer --> eng:roof --> enm:rof --> ang:hrof
+eng:rooflessness --> eng:roofless
+eng:rooflet --> eng:roof --> enm:rof --> ang:hrof
+eng:rooflike --> eng:roof --> enm:rof --> ang:hrof
+eng:roofscape --> eng:roof --> enm:rof --> ang:hrof
+eng:rooftop --> eng:roof --> enm:rof --> ang:hrof
+eng:rooftree --> eng:roof --> enm:rof --> ang:hrof
+eng:roofy --> eng:roof --> enm:rof --> ang:hrof
+eng:rooinek --> afr:rooinek --> afr:nek
+eng:rookielike --> eng:rookie
+eng:rooklike --> eng:rook
+eng:roolie --> enm:rouly
+eng:room --> enm:rome --> ang:rume
+eng:roomage --> eng:room --> enm:rome --> ang:rume
+eng:roomful --> eng:room --> enm:rome --> ang:rume
+eng:roomily --> eng:roomy
+eng:roomless --> eng:room --> enm:rome --> ang:rume
+eng:roomlike --> eng:room --> enm:rome --> ang:rume
+eng:roommateship --> eng:roommate
+eng:roomsome --> eng:room --> enm:rome --> ang:rume
+eng:roomth --> enm:roomth
+eng:roomthy --> eng:roomth --> enm:roomth
+eng:roomwise --> eng:room --> enm:rome --> ang:rume
+eng:Rooneyesque --> eng:Rooney
+eng:roop --> enm:rop --> ang:hrop
+eng:roopit --> sco:roupit
+eng:roopy --> eng:roop --> enm:rop --> ang:hrop
+eng:roost --> ang:hrost
+eng:rooster --> eng:roost --> ang:hrost
+eng:root --> enm:root
+eng:rootable --> eng:root --> enm:root
+eng:rootcap --> eng:cap --> enm:cappe --> ang:cæppe --> lat:cappa
+eng:rootedly --> eng:rooted
+eng:rootedness --> eng:rooted
+eng:rootery --> eng:root --> enm:root
+eng:roothold --> eng:hold --> enm:hold --> ang:hold
+eng:rootkit --> eng:kit
+eng:rootlessly --> eng:rootless
+eng:rootlet --> eng:root --> enm:root
+eng:rootlike --> eng:root --> enm:root
+eng:rootling --> eng:root --> enm:root
+eng:rootstock --> eng:root --> enm:root
+eng:rootsy --> eng:roots
+eng:rootwork --> eng:root --> enm:root
+eng:rootworm --> eng:root --> enm:root
+eng:rooty --> eng:root --> enm:root
+eng:rootzone --> eng:root --> enm:root
+eng:ropa vieja --> spa:ropa vieja
+eng:rope --> ang:rap
+eng:ropeable --> eng:rope --> ang:rap
+eng:ropeband --> eng:band --> enm:band --> ang:beand
+eng:ropedancer --> eng:dancer
+eng:ropeless --> eng:rope --> ang:rap
+eng:ropelike --> eng:rope --> ang:rap
+eng:ropeloft --> eng:loft --> enm:lofte --> ang:loft
+eng:ropemaker --> eng:maker --> eng:make --> enm:make --> non:makr
+eng:ropemaking --> eng:making --> eng:make --> enm:make --> non:makr
+eng:ropeman --> eng:rope --> ang:rap
+eng:ropemate --> eng:mate
+eng:roper --> eng:rope --> ang:rap
+eng:ropesman --> eng:rope --> ang:rap
+eng:ropeway --> eng:rope --> ang:rap
+eng:ropish --> eng:rope --> ang:rap
+eng:ropishness --> eng:ropish --> eng:rope --> ang:rap
+eng:ropy --> enm:ropy
+eng:roral --> lat:ros
+eng:roric --> lat:ros
+eng:rorid --> lat:roridus
+eng:roriferous --> lat:rorifer
+eng:rorifluent --> lat:ros
+eng:rorqual --> nor:røyrkval --> non:reyðarhvalr
+eng:Rortyan --> eng:Rorty
+eng:rory --> lat:ros
+eng:Rosa --> lat:rosa
+eng:roscid --> lat:roscidus --> lat:ros
+eng:rose --> eng:rise --> enm:risen --> ang:risan
+eng:rosé --> fra:rosé
+eng:roseate --> eng:rose --> eng:rise --> enm:risen --> ang:risan
+eng:rosedrop --> eng:drop --> ang:dropa
+eng:rosefinch --> eng:finch --> ang:finċ
+eng:rosefish --> eng:fish --> ang:fiscian
+eng:rosehead --> eng:head --> enm:hed
+eng:roseless --> eng:rose --> eng:rise --> enm:risen --> ang:risan
+eng:roselike --> eng:rose --> eng:rise --> enm:risen --> ang:risan
+eng:rosemarylike --> eng:rosemary
+eng:rosen --> eng:rose --> eng:rise --> enm:risen --> ang:risan
+eng:rosenbergite --> eng:Rosenberg
+eng:roseroot --> eng:root --> enm:root
+eng:rosetta --> ita:rosetta
+eng:rosette --> fra:rosette --> fra:rose --> lat:rosa
+eng:rosettelike --> eng:rosette --> fra:rosette --> fra:rose --> lat:rosa
+eng:rosetting --> eng:rosette --> fra:rosette --> fra:rose --> lat:rosa
+eng:rosewater --> eng:rose --> eng:rise --> enm:risen --> ang:risan
+eng:roseworm --> eng:rose --> eng:rise --> enm:risen --> ang:risan
+eng:rosewort --> eng:rose --> eng:rise --> enm:risen --> ang:risan
+eng:Rosh Hashanah --> heb:ראש השנה
+eng:rosily --> eng:rosy --> eng:rose --> eng:rise --> enm:risen --> ang:risan
+eng:rosiny --> eng:rosin
+eng:Rosser --> cym:Rhosier
+eng:rostellar --> eng:rostellum
+eng:rostrum --> lat:rostrum --> lat:rodo
+eng:rosy --> eng:rose --> eng:rise --> enm:risen --> ang:risan
+eng:rot --> enm:rotten
+eng:rota --> lat:rota
+eng:rotalite --> lat:rotalis
+eng:rotate --> lat:rotatus
+eng:rotation --> lat:rotationem
+eng:rotational --> eng:rotation --> lat:rotationem
+eng:rotelike --> eng:rote
+eng:rotework --> eng:rote
+eng:rotgut --> eng:gut --> enm:gut
+eng:rotogravure --> deu:Rotogravur
+eng:roton --> eng:rotation --> lat:rotationem
+eng:rotproof --> eng:rot --> enm:rotten
+eng:rottable --> eng:rot --> enm:rotten
+eng:rotten --> enm:roten --> non:rotinn
+eng:rottenly --> eng:rotten --> enm:roten --> non:rotinn
+eng:rotund --> lat:rotundus --> lat:rota
+eng:rouge --> fra:rouge --> lat:rubeus --> lat:rubeo
+eng:rough --> ang:ruh
+eng:roughage --> eng:rough --> ang:ruh
+eng:roughcast --> eng:cast --> enm:casten --> non:kasta
+eng:roughdrawn --> eng:drawn
+eng:roughdry --> eng:dry --> ang:drygan --> ang:dryge
+eng:roughhead --> eng:head --> enm:hed
+eng:roughhew --> eng:hew --> enm:hewen --> ang:heawan
+eng:roughhewer --> eng:roughhew --> eng:hew --> enm:hewen --> ang:heawan
+eng:roughish --> eng:rough --> ang:ruh
+eng:roughishly --> eng:roughish --> eng:rough --> ang:ruh
+eng:roughleg --> eng:leg --> enm:leg --> non:leggr
+eng:rough-legged buzzard --> eng:buzzard --> fra:busart
+eng:roughly --> eng:rough --> ang:ruh
+eng:roughneck --> eng:neck --> enm:nekke
+eng:roughness --> eng:rough --> ang:ruh
+eng:roughrider --> eng:rider
+eng:roughscuff --> eng:rough --> ang:ruh
+eng:roughtail --> eng:rough --> ang:ruh
+eng:roughwork --> eng:rough --> ang:ruh
+eng:roulade --> fra:roulade
+eng:roulettelike --> eng:roulette
+eng:roun --> ang:runian
+eng:rouncy --> xno:rouncie
+eng:round --> enm:roun --> ang:run
+eng:roundaboutly --> eng:roundabout
+eng:roundaboutness --> eng:roundabout
+eng:roundarm --> eng:arm --> enm:arm --> ang:earm
+eng:roundball --> eng:ball --> enm:bal
+eng:roundedness --> eng:rounded
+eng:roundel --> frm:rondelet --> frm:rondel
+eng:roundelay --> frm:rondelet --> frm:rondel
+eng:roundfish --> eng:fish --> ang:fiscian
+eng:roundhead --> eng:round --> enm:roun --> ang:run
+eng:roundheaded --> eng:headed --> eng:head --> enm:hed
+eng:roundheels --> eng:heels
+eng:roundishly --> eng:roundish
+eng:roundishness --> eng:roundish
+eng:roundlet --> enm:roundelet --> frm:rondelet --> frm:rondel
+eng:roundly --> eng:round --> enm:roun --> ang:run
+eng:roundness --> eng:round --> enm:roun --> ang:run
+eng:roundrect --> eng:rectangle
+eng:round trip --> eng:round --> enm:roun --> ang:run
+eng:rouse --> enm:rowsen
+eng:rousingly --> eng:rousing
+eng:Rousseauan --> eng:Rousseau
+eng:rout --> enm:routen
+eng:route --> fro:route
+eng:routed --> eng:rout --> enm:routen
+eng:routinary --> eng:routine --> fra:routine --> fra:route --> lat:rupta
+eng:routine --> fra:routine --> fra:route --> lat:rupta
+eng:routineness --> eng:routine --> fra:routine --> fra:route --> lat:rupta
+eng:routinist --> eng:routine --> fra:routine --> fra:route --> lat:rupta
+eng:routously --> eng:routous
+eng:rovelizumab
+eng:rover --> enm:roven
+eng:Rovian --> eng:Rove
+eng:Rovigo --> ita:Rovigo --> lat:Rodigium
+eng:rovingly --> eng:roving
+eng:rovingness --> eng:roving
+eng:row --> ang:raw
+eng:rowdily --> eng:rowdy
+eng:rowdiness --> eng:rowdy
+eng:rowdyish --> eng:rowdy
+eng:rowdyism --> eng:rowdy
+eng:rowed --> eng:row --> ang:raw
+eng:rowport --> eng:port --> ang:port --> lat:portus
+eng:royal --> fro:roial --> lat:regalis --> lat:rex
+eng:royalet --> eng:royal --> fro:roial --> lat:regalis --> lat:rex
+eng:royalist --> eng:royal --> fro:roial --> lat:regalis --> lat:rex
+eng:royalize --> eng:royal --> fro:roial --> lat:regalis --> lat:rex
+eng:royalme --> xno:roialme
+eng:royalty --> fro:roialté
+eng:roytelet --> fra:roitelet
+eng:RPGer --> eng:RPG
+eng:rub --> enm:rubben
+eng:rubberbanding --> eng:rubber band
+eng:rubberily --> eng:rubbery
+eng:rubberless --> eng:rubber
+eng:rubberwear --> eng:rubber
+eng:rubberwood --> eng:rubber
+eng:rubbingly --> eng:rubbing
+eng:rubbish --> xno:rubouses
+eng:rubbishy --> eng:rubbish --> xno:rubouses
+eng:rubblestone --> eng:rubble
+eng:rubblework --> eng:rubble
+eng:rubelet --> eng:ruby --> lat:rubeus --> lat:rubeo
+eng:rubelike --> eng:rube
+eng:rubellalike --> eng:rubella
+eng:Ruben --> heb:ראובן
+eng:rubianic acid --> eng:rubian
+eng:rubicund --> lat:rubicundus
+eng:rubicundity --> eng:rubicund --> lat:rubicundus
+eng:rubious --> lat:rubeus --> lat:rubeo
+eng:rubish --> eng:rube
+eng:rubrical --> eng:rubric
+eng:rubstone --> eng:rub --> enm:rubben
+eng:ruby --> lat:rubeus --> lat:rubeo
+eng:Rubyist --> eng:Ruby
+eng:rubylike --> eng:ruby --> lat:rubeus --> lat:rubeo
+eng:rubytail --> eng:ruby --> lat:rubeus --> lat:rubeo
+eng:rubythroat --> eng:ruby --> lat:rubeus --> lat:rubeo
+eng:rubywood --> eng:ruby --> lat:rubeus --> lat:rubeo
+eng:ruck --> enm:ruke
+eng:rudder --> ang:roþor
+eng:rudderhead --> eng:head --> enm:hed
+eng:rudderhole --> eng:hole
+eng:rudderlessly --> eng:rudderless
+eng:rudderlessness --> eng:rudderless
+eng:rudderpost --> eng:post --> frm:poste --> ita:posta
+eng:rudderstock --> eng:rudder --> ang:roþor
+eng:ruddily --> eng:ruddy --> ang:rudig
+eng:ruddy --> ang:rudig
+eng:rudeness --> eng:rude
+eng:rudery --> eng:rude
+eng:rudimentarily --> eng:rudimentary
+eng:rudimentariness --> eng:rudimentary
+eng:rudish --> eng:rude
+eng:Rudolph --> ang:Hroðwulf
+eng:Rudolphine --> eng:Rudolph --> ang:Hroðwulf
+eng:rudraksha --> san:रुद्राक्ष --> san:रुद्र
+eng:rue --> ang:hreow
+eng:ruefully --> eng:rueful
+eng:ruffer --> eng:ruff
+eng:ruffianage --> eng:ruffian
+eng:ruffianish --> eng:ruffian
+eng:ruffianism --> eng:ruffian
+eng:ruffianlike --> eng:ruffian
+eng:ruffianly --> eng:ruffian
+eng:ruffianous --> eng:ruffian
+eng:ruffleless --> eng:ruffle
+eng:rufflement --> eng:ruffle
+eng:rufflike --> eng:ruff
+eng:rufous --> lat:rufus
+eng:rufous-tailed hawk --> eng:hawk --> enm:hauk --> ang:hafoc
+eng:rufous-vented ground-cuckoo --> eng:cuckoo
+eng:Rufus --> lat:rufus
+eng:ruga --> lat:ruga
+eng:rugate --> lat:rugatus
+eng:rugelach --> heb:רוגלית
+eng:rugged --> enm:rugged
+eng:ruggedization --> eng:ruggedize
+eng:ruggedly --> eng:rugged --> enm:rugged
+eng:rugging --> eng:rug
+eng:ruglike --> eng:rug
+eng:rugmaker --> eng:maker --> eng:make --> enm:make --> non:makr
+eng:rugmaking --> eng:making --> eng:make --> enm:make --> non:makr
+eng:rugosity --> eng:rugose
+eng:ruin --> enm:ruine --> fro:ruine --> lat:ruina --> lat:ruo
+eng:ruinable --> eng:ruin --> enm:ruine --> fro:ruine --> lat:ruina --> lat:ruo
+eng:ruiniform --> eng:ruin --> enm:ruine --> fro:ruine --> lat:ruina --> lat:ruo
+eng:ruinism --> eng:ruin --> enm:ruine --> fro:ruine --> lat:ruina --> lat:ruo
+eng:ruinously --> eng:ruinous
+eng:ruinousness --> eng:ruinous
+eng:rulable --> eng:rule
+eng:rulebook --> eng:book --> enm:book --> ang:boc
+eng:rulebound --> eng:bound --> enm:bounde --> fro:bunne --> lat:bodina
+eng:rulebreaker --> eng:breaker --> eng:break --> enm:breken --> ang:brecan
+eng:ruleless --> eng:rule
+eng:rulemaking --> eng:making --> eng:make --> enm:make --> non:makr
+eng:rulemonger --> eng:rule
+eng:rulership --> eng:ruler
+eng:ruleset --> eng:rule
+eng:rulest --> eng:rule
+eng:ruleth --> eng:rule
+eng:rulingly --> eng:ruling
+eng:ruly --> enm:rewly
+eng:rumbalike --> eng:rumba
+eng:rumbler --> eng:rumble
+eng:rumbleth --> eng:rumble
+eng:rumblingly --> eng:rumbling
+eng:rumbly --> eng:rumble
+eng:rumbud --> eng:bud
+eng:rumbunctiousness --> eng:rumbunctious
+eng:rumbustiously --> eng:rumbustious
+eng:rumbustiousness --> eng:rumbustious
+eng:Rumelian --> eng:Rumelia
+eng:rumen --> lat:rumen
+eng:Rumi --> msa:Rumi
+eng:ruminant --> lat:rumino
+eng:ruminantly --> eng:ruminant --> lat:rumino
+eng:ruminatingly --> eng:ruminating
+eng:ruminatively --> eng:ruminative
+eng:rumly --> eng:rum
+eng:rummage --> fro:arrumage --> fro:arrumera
+eng:rumness --> eng:rum
+eng:rumoredly --> eng:rumored
+eng:rumorer --> eng:rumor
+eng:rumouredly --> eng:rumoured
+eng:rumourer --> eng:rumour
+eng:rump --> enm:rumpe --> non:rumpr --> gml:rump
+eng:Rumpelstiltskin --> deu:Rumpelstilzchen
+eng:Rumper --> eng:rump --> enm:rumpe --> non:rumpr --> gml:rump
+eng:rumpie --> eng:rump --> enm:rumpe --> non:rumpr --> gml:rump
+eng:rumpledness --> eng:rumpled
+eng:rumpless --> eng:rump --> enm:rumpe --> non:rumpr --> gml:rump
+eng:rumseller --> eng:rum
+eng:run --> enm:ronnen
+eng:runathon --> eng:run --> enm:ronnen
+eng:runaway --> eng:away --> ang:onweg
+eng:runback --> eng:back --> enm:bak --> ang:bæc
+eng:rundle --> eng:round --> enm:roun --> ang:run
+eng:rune --> non:rún
+eng:runelike --> eng:rune --> non:rún
+eng:runer --> eng:rune --> non:rún
+eng:rung --> ang:hrung
+eng:runghead --> eng:head --> enm:hed
+eng:Runglish --> eng:English
+eng:runically --> eng:runic
+eng:runiform --> eng:rune --> non:rún
+eng:runish --> enm:runisch
+eng:runless --> eng:run --> enm:ronnen
+eng:runlet --> eng:run --> enm:ronnen
+eng:runnable --> eng:run --> enm:ronnen
+eng:runnest --> eng:run --> enm:ronnen
+eng:runneth --> eng:run --> enm:ronnen
+eng:runniness --> eng:runny
+eng:runningly --> eng:running
+eng:runscorer --> eng:run --> enm:ronnen
+eng:run the gamut --> eng:gamut
+eng:runtling --> eng:runt
+eng:runwaylike --> eng:runway
+eng:Runyonese --> eng:Runyon
+eng:Runyonesque --> eng:Runyon
+eng:Rupavati --> san:रूप
+eng:rupee --> hin:रुपीया
+eng:rupes --> lat:rupes
+eng:rupial --> eng:rupia
+eng:ruplizumab
+eng:ruption --> lat:ruptio --> lat:rumpo
+eng:rupture --> fra:rupture
+eng:rupturewort --> eng:rupture --> fra:rupture
+eng:rural --> fro:rural --> lat:ruralis --> lat:rus
+eng:ruralism --> eng:rural --> fro:rural --> lat:ruralis --> lat:rus
+eng:ruralist --> eng:rural --> fro:rural --> lat:ruralis --> lat:rus
+eng:rurality --> eng:rural --> fro:rural --> lat:ruralis --> lat:rus
+eng:ruralize --> eng:rural --> fro:rural --> lat:ruralis --> lat:rus
+eng:ruralness --> eng:rural --> fro:rural --> lat:ruralis --> lat:rus
+eng:ruralpolitan --> eng:metropolitan --> lat:metropolitanus --> grc:μητροπολίτης
+eng:ruridecanal --> lat:rus
+eng:Rus --> rus:Русь --> orv:Русь
+eng:rush --> enm:rusch
+eng:Rushdian --> eng:Rushdie
+eng:rushee --> eng:rush --> enm:rusch
+eng:rushest --> eng:rush --> enm:rusch
+eng:rusheth --> eng:rush --> enm:rusch
+eng:rushiness --> eng:rushy --> eng:rush --> enm:rusch
+eng:rushingly --> eng:rushing
+eng:rushlight --> eng:light --> ang:leoht
+eng:rushlike --> eng:rush --> enm:rusch
+eng:rushy --> eng:rush --> enm:rusch
+eng:Ruskinian --> eng:Ruskin
+eng:russety --> eng:russet
+eng:Russia --> lat:Russi
+eng:Russianize --> eng:Russian
+eng:Russianness --> eng:Russian
+eng:Russophile
+eng:Russophilia
+eng:Russophobe
+eng:Russophone
+eng:rust --> ang:rust
+eng:rustbelt --> eng:belt
+eng:rustbucket --> eng:bucket --> enm:buket
+eng:rustful --> eng:rust --> ang:rust
+eng:rustic --> lat:rusticus --> lat:rus
+eng:rusticalness --> eng:rustical
+eng:rusticity --> eng:rustic --> lat:rusticus --> lat:rus
+eng:rusticle --> eng:icicle --> enm:isykle
+eng:rusticly --> eng:rustic --> lat:rusticus --> lat:rus
+eng:rustless --> eng:rust --> ang:rust
+eng:rustlessness --> eng:rustless --> eng:rust --> ang:rust
+eng:rustlike --> eng:rust --> ang:rust
+eng:rustlingly --> eng:rustling
+eng:rustly --> eng:rustle
+eng:rustproof --> eng:rust --> ang:rust
+eng:rusty --> eng:rust --> ang:rust
+eng:Rusyn --> rue:русин --> orv:Русь
+eng:rutaceous --> lat:rutaceous
+eng:rutate --> eng:rutic
+eng:ruth --> enm:ruthe
+eng:Rutherfordian --> eng:Rutherford
+eng:ruthful --> enm:reuthful
+eng:ruthfully --> eng:ruthful --> enm:reuthful
+eng:ruthless --> eng:ruth --> enm:ruthe
+eng:ruthlessly --> eng:ruthless --> eng:ruth --> enm:ruthe
+eng:rutilant --> lat:rutilans
+eng:rutted --> eng:rut
+eng:ruttier --> fra:routier
+eng:Rwanda --> kin:rwanda
+eng:Rwandanness --> eng:Rwandan
+eng:Rwandese --> eng:Rwanda --> kin:rwanda
+eng:Ryan --> gle:Ó Riain
+eng:rye --> ang:ryge
+eng:ryegrass --> eng:grass --> enm:gras
+eng:Ryukyu --> jpn:琉球
+eng:Ryukyuan --> eng:Ryukyu --> jpn:琉球
