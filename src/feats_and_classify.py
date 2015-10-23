@@ -28,8 +28,6 @@ class WordInContext:
             deptree.add_edge(head, idx_from_zero+1, deprel=self._deprels[idx_from_zero]) #edge from head to dependent with one edge labeling called deprel
         return deptree
 
-
-
     def a_simple_feats(self): #
         D = {}
         #D["a_form"] = self.word
@@ -38,7 +36,6 @@ class WordInContext:
         D["a_namedentity"] = self.a_namedentity
         D["a_formlength"] = len(self.word)
         return D
-
 
     def b_wordnet_feats(self): #
         D = {}
@@ -89,6 +86,29 @@ class WordInContext:
         # TODO D["g_char_bigram_prob"] = char_prob(self.word, 2)   # prob() uses freq()
         D["g_vowels_ratio"] = float(count_vowels(self.word)) / len(self.word)
         return D 
+    
+    def h_abstract_feats(self):
+        D={}
+        #brown cluster path feature
+        global brownclusters, embeddings
+        if self.word in brownclusters:
+            bc = brownclusters[self.word]
+            for i in xrange(1,len(bc)):
+                D["h_cluster_"+bc[0:i] ]=1
+        
+            #brown cluster height=general/depth=fringiness
+            D["h_cluster_height"]=len(bc)
+            D["h_cluster_depth"]=cluster_heights[bc]
+        
+        #word embedding
+        if self.word in embeddings.keys():
+            emb=embeddings[self.word]
+            for d in xrange(len(emb)):
+                D["h_embed_"+str(d)]=emb[d]
+
+        #TODO: (1) re-embedded embeddings, (2) fringiness of embedding 
+        return D
+
 
     def featurize(self):
         D = {}
@@ -99,6 +119,7 @@ class WordInContext:
         D.update(self.e_morphological_feats())
         D.update(self.f_prob_in_context_feats())
         D.update(self.g_char_complexity_feats())
+        D.update(self.h_abstract_feats())
         return D
 
 def prettyprintweights(linearmodel,vectorizer):
@@ -108,7 +129,7 @@ def prettyprintweights(linearmodel,vectorizer):
 
 def readSentences(infile):
     sent = defaultdict(list)
-    #0	In	in	IN	O	4	case	-
+    #0    In    in    IN    O    4    case    -
 
     for line in open(infile).readlines():
         line = line.strip()
@@ -133,7 +154,8 @@ def readSentences(infile):
 
 
 
-
+brownclusters, cluster_heights=read_brown_clusters('/coastal/brown_clusters/rcv1.64M-c10240-p1.paths')
+embeddings=read_embeddings('/coastal/mono_embeddings/glove.6B.300d.txt.gz')
 
 def main():
     scriptdir = os.path.dirname(os.path.realpath(__file__))
@@ -144,9 +166,13 @@ def main():
 
     labels = []
     featuredicts = []
-
+    
+    print "Collecting features..."
+    count=0
     for s in readSentences(args.train):
-        for l,i in zip(s["label"],s["idx"]):
+       print count, '\r',
+       count+=1
+       for l,i in zip(s["label"],s["idx"]):
             if l != "-":
                 w = WordInContext(s, i, s["form"][i],s["lemma"][i],s["pos"][i],s["ne"][i],l,s["head"],s["deprel"])
                 featuredicts.append(w.featurize())
