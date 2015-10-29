@@ -1,7 +1,7 @@
-import os, gzip 
+import os, gzip, arpa 
 
 def read_brown_clusters(src):
-    print '\tReading brown clusters...'
+    print('\tReading brown clusters...')
     d={}
     infile=open(src, 'r')
     c=[]; ch={}
@@ -11,7 +11,7 @@ def read_brown_clusters(src):
         if data[0] not in c:
             c.append(data[0])
     #calculation of heights
-    print '\tCalculating brown distances...'
+    print('\tCalculating brown distances...')
     c.sort(key=len, reverse=True)
     for x in c:
         if x[:-1] not in ch.keys():
@@ -21,36 +21,29 @@ def read_brown_clusters(src):
     return d, ch
 
 def read_embeddings(src):
-    print '\tReading embeddings...'
+    print('\tReading embeddings...')
     d={}
-    infile=gzip.open(src, 'r')
+    infile=gzip.open(src, 'rt')
     for line in infile.readlines():
         data=line.strip().split(' ')
         d[data[0]]=data[1:]
     return d
 
 def read_lm(src):
-    d = {}
-    for line in open(src):
-        line = line.strip()
-        if line.startswith("#") or line == "":
-            continue
-        item, count = line.split("\t")
-        d[item] = float(count)
-    return d
+    return arpa.loadf(src)[0]
 
 scriptdir = os.path.dirname(os.path.realpath(__file__))
-lm_words_swp = read_lm(scriptdir+"/../data/langmodels/words.swp.lm")
-lm_words_wp = read_lm(scriptdir+"/../data/langmodels/words.wp.lm")
-lm_chars_swp = read_lm(scriptdir+"/../data/langmodels/chars.swp.lm")
-lm_chars_wp = read_lm(scriptdir+"/../data/langmodels/chars.wp.lm")
+lm_words_swp = read_lm(scriptdir+"/../data/langmodels/simplewiki.arpa")
+lm_words_wp = read_lm(scriptdir+"/../data/langmodels/enwiki.arpa")
+lm_chars_swp = read_lm(scriptdir+"/../data/langmodels/simplewiki_chars.arpa")
+lm_chars_wp = read_lm(scriptdir+"/../data/langmodels/enwiki_chars.arpa")
 lm_reg = {"words": {"swp": lm_words_swp, "wp": lm_words_wp},
           "chars": {"swp": lm_chars_swp, "wp": lm_chars_wp}}
 #brown_clusters=read_brown_clusters("/coastal/brown_clusters/rcv1.64M-c10240-p1.paths")
 #embeddings=read_embeddings("/coastal/mono_embeddings/glove.6B.300d.txt.gz")
 
 def count_vowels(word):
-    vowels = "aeiouAEIOU" # make this nicer, we're linguists! But a vowel is a vowel buddy ;)
+    vowels = "aeiouAEIOU" # make this nicer, we're linguists! But a vowel is a vowel buddy ;) // was thinking of semivowels there :)
     return  sum(word.count(v) for v in vowels)
 
 def commas_before_after(sent, idx):
@@ -63,18 +56,21 @@ def verbs_before_after(sent, idx):
     after = sum(1 for w in sent["pos"][idx+1:] if w.startswith("V"))
     return before, after
 
-def freq(item, level="words", corpus="wp"):
+def prob(item, level="words", corpus="wp"):
     global lm_reg
-    d = {}
+    def charSeq(word):
+        return " ".join([c for c in word])
+    if level == "chars":
+        item = charSeq(item)
     f = 0.0
     try:
-        d = lm_reg[level][corpus]
+        lm = lm_reg[level][corpus]
+        try:
+            f = lm.p(item)
+        except KeyError:
+            print("Warning! No entry for item '%s' in language model for level '%s' and corpus '%s'" %(item, level, corpus))
     except KeyError:
         print("Error! Could not find language model for level '%s' and corpus '%s'" %(level, corpus))
-    try:
-        f = d[item]
-    except KeyError:
-        print("Warning! No entry for item '%s' in language model for level '%s' and corpus '%s'" %(item, level, corpus))
     return f
 
 def retrieve_etymology(word, lang="eng"):

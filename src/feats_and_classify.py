@@ -55,10 +55,12 @@ class WordInContext:
         
     def d_frequency_feats(self):
         D = {}
-        # TODO D["d_freq_in_swp"] = freq(self.word, "swp")
-        # TODO D["d_freq_in_wp"] = freq(self.word, "wp")
-        # TODO D["d_freq_ratio_swp/wp"] = freq(self.word, "swp") / freq(self.word, "wp")
-        # TODO D["d_freqrank_distance_swp/wp"] = rank(self.word, "swp") - rank(self.word, "wp")  
+        wProb = prob(self.word, corpus="wp")
+        wProbSimple = prob(self.word, corpus="swp")
+        D["d_freq_in_swp"] = wProbSimple
+        D["d_freq_in_wp"] = wProb
+        D["d_freq_ratio_swp/wp"] = wProbSimple / wProb
+        # TODO D["d_freqrank_distance_swp/wp"] = rank(self.word, corpus="swp") - rank(self.word, corpus="wp")  
         # TODO D["d_distributional_distance_swp/wp"] = dist(dist_vector(self.word, "swp"), dist_vector(self.word, "wp"))  # get distributional vector from background corpora, use some dist measure
         return D
 
@@ -82,8 +84,10 @@ class WordInContext:
     
     def g_char_complexity_feats(self):
         D = {}
-        # TODO D["g_char_unigram_prob"] = char_prob(self.word, 1)   # prob() uses freq()
-        # TODO D["g_char_bigram_prob"] = char_prob(self.word, 2)   # prob() uses freq()
+        trigramProb = prob(self.word, level="chars")
+        trigramProbSimple = prob(self.word, level="chars", corpus="swp")
+        D["g_char_trigram_prob"] = trigramProb
+        D["g_char_prob_ratio"] = trigramProbSimple / trigramProb
         D["g_vowels_ratio"] = float(count_vowels(self.word)) / len(self.word)
         return D 
     
@@ -93,7 +97,7 @@ class WordInContext:
         global brownclusters, embeddings
         if self.word in brownclusters:
             bc = brownclusters[self.word]
-            for i in xrange(1,len(bc)):
+            for i in range(1,len(bc)):
                 D["h_cluster_"+bc[0:i] ]=1
         
             #brown cluster height=general/depth=fringiness
@@ -103,7 +107,7 @@ class WordInContext:
         #word embedding
         if self.word in embeddings.keys():
             emb=embeddings[self.word]
-            for d in xrange(len(emb)):
+            for d in range(len(emb)):
                 D["h_embed_"+str(d)]=emb[d]
 
         #TODO: (1) re-embedded embeddings, (2) fringiness of embedding 
@@ -115,7 +119,7 @@ class WordInContext:
         D.update(self.a_simple_feats())
         D.update(self.b_wordnet_feats())
         D.update(self.c_positional_feats())
-        D.update(self.d_frequency_feats())
+        #D.update(self.d_frequency_feats())
         D.update(self.e_morphological_feats())
         D.update(self.f_prob_in_context_feats())
         D.update(self.g_char_complexity_feats())
@@ -167,17 +171,17 @@ def main():
     labels = []
     featuredicts = []
     
-    print "Collecting features..."
+    print("Collecting features...")
     count=0
     for s in readSentences(args.train):
-       print count, '\r',
+       print("\r"+str(count), end="")
        count+=1
        for l,i in zip(s["label"],s["idx"]):
             if l != "-":
                 w = WordInContext(s, i, s["form"][i],s["lemma"][i],s["pos"][i],s["ne"][i],l,s["head"],s["deprel"])
                 featuredicts.append(w.featurize())
                 labels.append(w.label)
-
+    print()
     vec = DictVectorizer()
     features = vec.fit_transform(featuredicts).toarray()
 
