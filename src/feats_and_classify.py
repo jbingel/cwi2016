@@ -1,5 +1,5 @@
 import argparse
-import os
+import os, sys
 from sklearn.linear_model.logistic import LogisticRegression
 from collections import Counter, defaultdict
 import networkx as nx
@@ -84,10 +84,14 @@ class WordInContext:
     
     def g_char_complexity_feats(self):
         D = {}
-        trigramProb = prob(self.word, level="chars")
-        trigramProbSimple = prob(self.word, level="chars", corpus="swp")
-        D["g_char_trigram_prob"] = trigramProb
-        D["g_char_prob_ratio"] = trigramProbSimple / trigramProb
+        unigramProb = prob(self.word, level="chars", order=1)
+        unigramProbSimple = prob(self.word, level="chars", corpus="swp", order=1)
+        bigramProb = prob(self.word, level="chars", order=2)
+        bigramProbSimple = prob(self.word, level="chars", corpus="swp", order=2)
+        D["g_char_unigram_prob"] = unigramProb
+        D["g_char_unigram_prob_ratio"] = unigramProbSimple / unigramProb
+        D["g_char_bigram_prob"] = bigramProb
+        D["g_char_bigram_prob_ratio"] = bigramProbSimple / bigramProb
         D["g_vowels_ratio"] = float(count_vowels(self.word)) / len(self.word)
         return D 
     
@@ -119,7 +123,7 @@ class WordInContext:
         D.update(self.a_simple_feats())
         D.update(self.b_wordnet_feats())
         D.update(self.c_positional_feats())
-        #D.update(self.d_frequency_feats())
+        D.update(self.d_frequency_feats())
         D.update(self.e_morphological_feats())
         D.update(self.f_prob_in_context_feats())
         D.update(self.g_char_complexity_feats())
@@ -195,7 +199,11 @@ def main():
     print("lowest coeff:",lowest, vec.feature_names_[coeffs.index(lowest)])
     #print(lowest, vec.feature_names_[coeffs.index(lowest)])
     print("highest coeff",highest, vec.feature_names_[coeffs.index(highest)])
-
+    print(len(coeffs))
+    print(coeffs)
+    for i in sorted(coeffs, reverse=True):
+        print(i, vec.feature_names_[coeffs.index(i)])
+    sys.exit(0)
 
 
 
