@@ -117,6 +117,18 @@ class WordInContext:
         #TODO: (1) re-embedded embeddings, (2) fringiness of embedding 
         return D
 
+    def i_dependency_feats(self):
+        wordindex = self.index + 1
+        headindex = dep_head_of(self.deptree,wordindex)
+        D = {}
+        D["i_dist_to_root"] = len(dep_pathtoroot(self.deptree,wordindex))
+        D["i_deprel"] = self.deptree[headindex][wordindex]["deprel"]
+        D["i_headdist"] = abs(headindex - wordindex)
+        D["i_head_degree"] = nx.degree(self.deptree,headindex)
+        D["i_child_degree"] = nx.degree(self.deptree,wordindex)
+
+        return D
+
 
     def featurize(self):
         D = {}
@@ -128,6 +140,7 @@ class WordInContext:
         D.update(self.f_prob_in_context_feats())
         D.update(self.g_char_complexity_feats())
         D.update(self.h_abstract_feats())
+        D.update(self.i_dependency_feats())
         return D
 
 def prettyprintweights(linearmodel,vectorizer):
@@ -189,20 +202,20 @@ def main():
     vec = DictVectorizer()
     features = vec.fit_transform(featuredicts).toarray()
 
+
     maxent = LogisticRegression()
     maxent.fit(features,labels)
-    #prettyprintweights(maxent,vec)
+
     coeffs = list(maxent.coef_[0])
-    lowest = min(coeffs)
-    highest = max(coeffs)
+    coeffcounter = Counter(vec.feature_names_)
+    for value,name in zip(coeffs,vec.feature_names_):
+        coeffcounter[name] = value
+
     print("--")
-    print("lowest coeff:",lowest, vec.feature_names_[coeffs.index(lowest)])
-    #print(lowest, vec.feature_names_[coeffs.index(lowest)])
-    print("highest coeff",highest, vec.feature_names_[coeffs.index(highest)])
-    print(len(coeffs))
-    print(coeffs)
-    for i in sorted(coeffs, reverse=True):
-        print(i, vec.feature_names_[coeffs.index(i)])
+    print("lowest coeff:",coeffcounter.most_common()[-1])
+    print("highest coeff",coeffcounter.most_common()[1])
+    for (key,value) in coeffcounter.most_common():
+        print(key,value)
     sys.exit(0)
 
 

@@ -1,4 +1,27 @@
-import os, gzip, lm 
+import os, gzip, lm
+import networkx as nx
+
+
+def dep_head_of(sent, n):
+    for u, v in sent.edges():
+         if v == n:
+             return u
+    return None
+    #return sent.predecessors(n)[0]
+
+# def dep_pathtoroot(sent, child):
+#     path = []
+#     newhead = dep_head_of(sent, child)
+#     while newhead:
+#         path.append(newhead)
+#         newhead = dep_head_of(sent, newhead)
+#     return path
+
+def dep_pathtoroot(sent,child):
+    #print(child, nx.predecessor(sent,child), nx.descendants(sent,child), sent[dep_head_of(sent,child)][child]["deprel"])
+    return nx.predecessor(sent,child)
+
+
 
 def read_brown_clusters(src):
     print('\tReading brown clusters...', end='')
