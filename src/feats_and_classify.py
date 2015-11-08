@@ -1,6 +1,7 @@
 import argparse
 import os, sys
 from sklearn.linear_model.logistic import LogisticRegression
+from sklearn import cross_validation
 from collections import Counter, defaultdict
 import networkx as nx
 from sklearn.feature_extraction import DictVectorizer
@@ -204,13 +205,14 @@ def main():
 
 
     maxent = LogisticRegression()
-    maxent.fit(features,labels)
-
+    maxent.fit(features,labels) # only needed for feature inspection, crossvalidation calls fit(), too
+    scores = cross_validation.cross_val_score(maxent, features, labels, cv=10)
     coeffs = list(maxent.coef_[0])
     coeffcounter = Counter(vec.feature_names_)
     for value,name in zip(coeffs,vec.feature_names_):
         coeffcounter[name] = value
-
+    print("--")
+    print("Accuracy: %0.2f (+/- %0.2f)" % (scores.mean(), scores.std() * 2))
     print("--")
     print("lowest coeff:",coeffcounter.most_common()[-1])
     print("highest coeff",coeffcounter.most_common()[1])
