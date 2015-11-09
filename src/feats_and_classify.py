@@ -96,38 +96,56 @@ class WordInContext:
         D["g_vowels_ratio"] = float(count_vowels(self.word)) / len(self.word)
         return D 
     
-    def h_abstract_feats(self):
+    def h_brownpath_feats(self):
         D={}
         #brown cluster path feature
-        global brownclusters, embeddings
+        global brownclusters
+        if self.word in brownclusters:
+            D["h_cluster"] = brownclusters[self.word]
+        return D
+        
+    def i_browncluster_feats(self):
+        D={}
+        #brown cluster path feature
+        global brownclusters, ave_brown_height, ave_brown_depth
         if self.word in brownclusters:
             bc = brownclusters[self.word]
             for i in range(1,len(bc)):
-                D["h_cluster_"+bc[0:i] ]=1
+                D["i_cluster_"+bc[0:i] ]=1
         
             #brown cluster height=general/depth=fringiness
-            D["h_cluster_height"]=len(bc)
-            D["h_cluster_depth"]=cluster_heights[bc]
+            D["i_cluster_height"]=len(bc)
+            D["i_cluster_depth"]=cluster_heights[bc]
+        else:
+            #taking average
+            #D["i_cluster_height"]=ave_brown_height
+            #D["i_cluster_depth"]=ave_brown_depth
+            #taking extremes
+            D["i_cluster_height"]=0
+            D["i_cluster_depth"]=max_brown_depth
+        return D
         
+    def j_embedding_feats(self):
+        D={}
         #word embedding
+        global embeddings
         if self.word in embeddings.keys():
             emb=embeddings[self.word]
             for d in range(len(emb)):
-                D["h_embed_"+str(d)]=emb[d]
+                D["j_embed_"+str(d)]=emb[d]
 
-        #TODO: (1) re-embedded embeddings, (2) fringiness of embedding 
+        #TODO: (1) fringiness of embedding 
         return D
 
-    def i_dependency_feats(self):
+    def k_dependency_feats(self):
         wordindex = self.index + 1
         headindex = dep_head_of(self.deptree,wordindex)
         D = {}
-        D["i_dist_to_root"] = len(dep_pathtoroot(self.deptree,wordindex))
-        D["i_deprel"] = self.deptree[headindex][wordindex]["deprel"]
-        D["i_headdist"] = abs(headindex - wordindex)
-        D["i_head_degree"] = nx.degree(self.deptree,headindex)
-        D["i_child_degree"] = nx.degree(self.deptree,wordindex)
-
+        D["k_dist_to_root"] = len(dep_pathtoroot(self.deptree,wordindex))
+        D["k_deprel"] = self.deptree[headindex][wordindex]["deprel"]
+        D["k_headdist"] = abs(headindex - wordindex) # maybe do 0 for root?
+        D["k_head_degree"] = nx.degree(self.deptree,headindex)
+        D["k_child_degree"] = nx.degree(self.deptree,wordindex)
         return D
 
 
@@ -140,8 +158,10 @@ class WordInContext:
         D.update(self.e_morphological_feats())
         D.update(self.f_prob_in_context_feats())
         D.update(self.g_char_complexity_feats())
-        D.update(self.h_abstract_feats())
-        D.update(self.i_dependency_feats())
+        D.update(self.h_brownpath_feats())
+        D.update(self.i_browncluster_feats())
+        D.update(self.j_embedding_feats())
+        D.update(self.k_dependency_feats())
         return D
 
 def prettyprintweights(linearmodel,vectorizer):
@@ -176,8 +196,10 @@ def readSentences(infile):
 
 
 
-brownclusters, cluster_heights=read_brown_clusters('/coastal/brown_clusters/rcv1.64M-c10240-p1.paths')
+#brownclusters, cluster_heights=read_brown_clusters('/coastal/brown_clusters/rcv1.64M-c10240-p1.paths', 10240)
+brownclusters, cluster_heights, ave_brown_depth, ave_brown_height, max_brown_depth=read_brown_clusters('/coastal/brown_clusters/rcv1.64M-c1000-p1.paths', 1000)
 embeddings=read_embeddings('/coastal/mono_embeddings/glove.6B.300d.txt.gz')
+#embeddings=read_embeddings('/coastal/mono_embeddings/glove.6B.50d.txt.gz')
 
 def main():
     scriptdir = os.path.dirname(os.path.realpath(__file__))

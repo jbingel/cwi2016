@@ -23,27 +23,35 @@ def dep_pathtoroot(sent,child):
 
 
 
-def read_brown_clusters(src):
+def read_brown_clusters(src, total_clusters):
     print('\tReading brown clusters...', end='')
     d={}
     infile=open(src, 'r')
     c=[]; ch={}
+    total_words=0.0; total_depths=0.0; max_depth=0
     for line in infile.readlines():
         data=line.strip().split('\t')
         d[data[1]]=data[0]
+        total_words+=1
+        total_depths=total_depths+len(data[0])
+        if len(data[0])>max_depth:
+            max_depth=len(data[0])
         if data[0] not in c:
             c.append(data[0])
     print('Done!')
     #calculation of heights
-    print('\tCalculating brown distances...', end='')
+    print('\tCalculating brown heights...', end='')
+    total_heights=0.0
     c.sort(key=len, reverse=True)
     for x in c:
         if x[:-1] not in ch.keys():
             ch[x]=1
         else:
             ch[x]=ch[x[:-1]]+1
+    for word in d.keys():
+        total_heights=total_heights+ch[d[word]]
     print('Done!')
-    return d, ch
+    return d, ch, total_depths/total_words, total_heights/total_words, max_depth
 
 def read_embeddings(src):
     print('\tReading embeddings...', end='')
