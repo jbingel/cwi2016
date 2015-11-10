@@ -2,12 +2,15 @@ import argparse
 import os, sys
 from sklearn.linear_model.logistic import LogisticRegression
 from sklearn import cross_validation
+from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
 from collections import Counter, defaultdict
 import networkx as nx
 from sklearn.feature_extraction import DictVectorizer
 from nltk.corpus import wordnet as wn
 from cwi_util import *
 import porter
+import numpy as np
+
 
 class WordInContext:
     def __init__(self,sentence,index,word,lemma,pos,namedentity,label,heads,deprels):
@@ -158,9 +161,9 @@ class WordInContext:
         D.update(self.e_morphological_feats())
         D.update(self.f_prob_in_context_feats())
         D.update(self.g_char_complexity_feats())
-        D.update(self.h_brownpath_feats())
-        D.update(self.i_browncluster_feats())
-        D.update(self.j_embedding_feats())
+        #D.update(self.h_brownpath_feats())
+        #D.update(self.i_browncluster_feats())
+        #D.update(self.j_embedding_feats())
         D.update(self.k_dependency_feats())
         return D
 
@@ -197,8 +200,8 @@ def readSentences(infile):
 
 
 #brownclusters, cluster_heights=read_brown_clusters('/coastal/brown_clusters/rcv1.64M-c10240-p1.paths', 10240)
-brownclusters, cluster_heights, ave_brown_depth, ave_brown_height, max_brown_depth=read_brown_clusters('/coastal/brown_clusters/rcv1.64M-c1000-p1.paths', 1000)
-embeddings=read_embeddings('/coastal/mono_embeddings/glove.6B.300d.txt.gz')
+#brownclusters, cluster_heights, ave_brown_depth, ave_brown_height, max_brown_depth=read_brown_clusters('/coastal/brown_clusters/rcv1.64M-c1000-p1.paths', 1000)
+#embeddings=read_embeddings('/coastal/mono_embeddings/glove.6B.300d.txt.gz')
 #embeddings=read_embeddings('/coastal/mono_embeddings/glove.6B.50d.txt.gz')
 
 def main():
@@ -224,22 +227,68 @@ def main():
     print()
     vec = DictVectorizer()
     features = vec.fit_transform(featuredicts).toarray()
-
+    labels = np.array(labels)
 
     maxent = LogisticRegression(penalty='l1')
     maxent.fit(features,labels) # only needed for feature inspection, crossvalidation calls fit(), too
-    scores = cross_validation.cross_val_score(maxent, features, labels, cv=10)
-    coeffs = list(maxent.coef_[0])
     coeffcounter = Counter(vec.feature_names_)
-    for value,name in zip(coeffs,vec.feature_names_):
-        coeffcounter[name] = value
+    negfeats = set(vec.feature_names_)
+    posfeats = set(vec.feature_names_)
+
+
+
+    scores = defaultdict(list)
+    TotalCoeffCounter = Counter()
+
+    for TrainIndices, TestIndices in cross_validation.KFold(n=features.shape[0], n_folds=10, shuffle=False, random_state=None):
+        TrainX_i = features[TrainIndices]
+        Trainy_i = labels[TrainIndices]
+
+        TestX_i = features[TestIndices]
+        Testy_i =  labels[TestIndices]
+
+        maxent.fit(TrainX_i,Trainy_i)
+        ypred_i = maxent.predict(TestX_i)
+        coeffs_i = list(maxent.coef_[0])
+        coeffcounter_i = Counter(vec.feature_names_)
+        for value,name in zip(coeffs_i,vec.feature_names_):
+            coeffcounter_i[name] = value
+
+        scores["Accuracy"].append(accuracy_score(ypred_i,Testy_i))
+        scores["F1"].append(f1_score(ypred_i,Testy_i))
+        scores["Precision"].append(precision_score(ypred_i,Testy_i))
+        scores["Recall"].append(recall_score(ypred_i,Testy_i))
+
+        posfeats = posfeats.intersection(set([key for (key,value) in coeffcounter.most_common()[:20]]))
+        negfeats = negfeats.intersection(set([key for (key,value) in coeffcounter.most_common()[-20:]]))
+
+
+    print("Pervasive positive: ", posfeats)
+    print("Pervasive negative: ",negfeats)
+
+    #scores = cross_validation.cross_val_score(maxent, features, labels, cv=10)
     print("--")
-    print("Accuracy: %0.2f (+/- %0.2f)" % (scores.mean(), scores.std() * 2))
+
+    for key in sorted(scores.keys()):
+        currentmetric = np.array(scores[key])
+        print("%s : %0.2f (+/- %0.2f)" % (key,currentmetric.mean(), currentmetric.std()))
     print("--")
+
+
+    maxent.fit(features,labels) # fit on everything
+
+    coeffs_total = list(maxent.coef_[0])
+    for value,name in zip(coeffs_total,vec.feature_names_):
+            TotalCoeffCounter[name] = value
+
+    for (key,value) in TotalCoeffCounter.most_common()[:20]:
+        print(key,value)
+    print("---")
+    for (key,value) in TotalCoeffCounter.most_common()[-20:]:
+        print(key,value)
     print("lowest coeff:",coeffcounter.most_common()[-1])
     print("highest coeff",coeffcounter.most_common()[0])
-    for (key,value) in coeffcounter.most_common():
-        print(key,value)
+
     sys.exit(0)
 
 
