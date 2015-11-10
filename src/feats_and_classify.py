@@ -67,7 +67,7 @@ class WordInContext:
 
     def e_morphological_feats(self):
         D = {}
-        etymology = retrieve_etymology(self.word)
+        etymology = retrieve_etymology(self.lemma)
         D["e_latin_root"] = has_ancestor_in_lang("lat", etymology)  # check wiktionary
         D["e_length_dist_lemma_form"] = len(self.word) - len(self.lemma)
         stem, steps = porter.stem(self.word)
@@ -132,7 +132,7 @@ class WordInContext:
         if self.word in embeddings.keys():
             emb=embeddings[self.word]
             for d in range(len(emb)):
-                D["j_embed_"+str(d)]=emb[d]
+                D["j_embed_"+str(d)]=float(emb[d])
 
         #TODO: (1) fringiness of embedding 
         return D
@@ -226,7 +226,7 @@ def main():
     features = vec.fit_transform(featuredicts).toarray()
 
 
-    maxent = LogisticRegression()
+    maxent = LogisticRegression(penalty='l1')
     maxent.fit(features,labels) # only needed for feature inspection, crossvalidation calls fit(), too
     scores = cross_validation.cross_val_score(maxent, features, labels, cv=10)
     coeffs = list(maxent.coef_[0])
@@ -237,7 +237,7 @@ def main():
     print("Accuracy: %0.2f (+/- %0.2f)" % (scores.mean(), scores.std() * 2))
     print("--")
     print("lowest coeff:",coeffcounter.most_common()[-1])
-    print("highest coeff",coeffcounter.most_common()[1])
+    print("highest coeff",coeffcounter.most_common()[0])
     for (key,value) in coeffcounter.most_common():
         print(key,value)
     sys.exit(0)
