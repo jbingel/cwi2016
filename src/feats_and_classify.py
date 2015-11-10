@@ -200,8 +200,8 @@ def readSentences(infile):
 
 
 #brownclusters, cluster_heights=read_brown_clusters('/coastal/brown_clusters/rcv1.64M-c10240-p1.paths', 10240)
-#brownclusters, cluster_heights, ave_brown_depth, ave_brown_height, max_brown_depth=read_brown_clusters('/coastal/brown_clusters/rcv1.64M-c1000-p1.paths', 1000)
-#embeddings=read_embeddings('/coastal/mono_embeddings/glove.6B.300d.txt.gz')
+brownclusters, cluster_heights, ave_brown_depth, ave_brown_height, max_brown_depth=read_brown_clusters('/coastal/brown_clusters/rcv1.64M-c1000-p1.paths', 1000)
+embeddings=read_embeddings('/coastal/mono_embeddings/glove.6B.300d.txt.gz')
 #embeddings=read_embeddings('/coastal/mono_embeddings/glove.6B.50d.txt.gz')
 
 def main():
