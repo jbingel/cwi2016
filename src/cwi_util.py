@@ -1,6 +1,7 @@
 import os, gzip, lm
 import networkx as nx
-
+from networkx.algorithms.traversal.depth_first_search import dfs_edges
+import pickle
 
 def dep_head_of(sent, n):
     for u, v in sent.edges():
@@ -106,20 +107,23 @@ def prob(item, level="words", corpus="wp", order=1):
         print("Error! Could not find language model for level '%s' and corpus '%s'" %(level, corpus))
     return p
 
+etym_file = scriptdir+"/../data/etymwn.pickle" 
+with open(etym_file, 'rb') as pickle_file:
+    G = pickle.load(pickle_file)
+print(G.order())
+
 def retrieve_etymology(word, lang="eng"):
-    etym_file = scriptdir+"/../data/etymwn/etymologies.%s.txt" %word[0].lower()
-    if not os.path.isfile(etym_file):
-        print("Warning: Could not find etymology for word '%s' in language '%s'" %(word, lang))
-        return []
-    etymologies = open(etym_file)
-    for line in etymologies:
-        if line.startswith(lang+":"+word+" --> "):
-            return [ancestor.split(":") for ancestor in line.split(" --> ")[1:]]
-    return []
+    global G
+    try:
+        etymology = [edge[1] for edge in dfs_edges(G, lang+':'+word)]
+    except KeyError:
+        #print("Warning! Could not retrieve etymology for word '%s' in language '%s'" %(word, lang))
+        etymology = []
+    return etymology
 
 def has_ancestor_in_lang(lang, etymology):
     for ancestor in etymology:
-        if ancestor[0] == lang:
+        if ancestor.split(':')[0] == lang:
             return True
     return False
     
