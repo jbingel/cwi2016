@@ -162,8 +162,8 @@ class WordInContext:
         D.update(self.f_prob_in_context_feats())
         D.update(self.g_char_complexity_feats())
         #D.update(self.h_brownpath_feats())
-        #D.update(self.i_browncluster_feats())
-        #D.update(self.j_embedding_feats())
+        D.update(self.i_browncluster_feats())
+        D.update(self.j_embedding_feats())
         D.update(self.k_dependency_feats())
         return D
 
