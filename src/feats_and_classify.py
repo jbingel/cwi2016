@@ -42,6 +42,16 @@ class WordInContext:
         D["a_formlength"] = len(self.word)
         return D
 
+    def a_simple_feats_lexicalized(self): #
+        D = {}
+        D["a_form"] = self.word
+        D["a_lemma"] = self.lemma
+        D["a_pos"] = self.pos
+        D["a_namedentity"] = self.a_namedentity
+        D["a_formlength"] = len(self.word)
+        return D
+
+
     def b_wordnet_feats(self): #
         D = {}
         D["b_nsynsets"] = len(wn.synsets(self.word))
@@ -180,44 +190,24 @@ class WordInContext:
 
         return D
 
+    def baselinefeatures(self):
+        D = {}
+        D.update(self.a_simple_feats_lexicalized())
+        return D
+
 def prettyprintweights(linearmodel,vectorizer):
    for name, value in zip(vectorizer.feature_names_, linearmodel.coef_[0]):
        print("\t".join([name,str(value)]))
 
 
-def readSentences(infile):
-    sent = defaultdict(list)
-    #0    In    in    IN    O    4    case    -
 
-    for line in open(infile).readlines():
-        line = line.strip()
-        if not line:
-            yield(sent)
-            sent = defaultdict(list)
-        elif line.startswith("#"):
-            pass
-        else:
-            idx,form,lemma,pos,ne,head,deprel,label = line.split("\t")
-            sent["idx"].append(int(idx))
-            sent["form"].append(form)
-            sent["lemma"].append(lemma)
-            sent["pos"].append(pos)
-            sent["ne"].append(ne)
-            sent["head"].append(head)
-            sent["deprel"].append(deprel)
-            sent["label"].append(label)
-
-    if sent["idx"]:
-        yield(sent)
-
-
-
-#brownclusters, cluster_heights=read_brown_clusters('/coastal/brown_clusters/rcv1.64M-c10240-p1.paths', 10240)
-brownclusters, cluster_heights, ave_brown_depth, ave_brown_height, max_brown_depth=read_brown_clusters('/coastal/brown_clusters/rcv1.64M-c1000-p1.paths', 1000)
-embeddings=read_embeddings('/coastal/mono_embeddings/glove.6B.300d.txt.gz')
-#embeddings=read_embeddings('/coastal/mono_embeddings/glove.6B.50d.txt.gz')
 
 def main():
+    #brownclusters, cluster_heights=read_brown_clusters('/coastal/brown_clusters/rcv1.64M-c10240-p1.paths', 10240)
+    brownclusters, cluster_heights, ave_brown_depth, ave_brown_height, max_brown_depth=read_brown_clusters('/coastal/brown_clusters/rcv1.64M-c1000-p1.paths', 1000)
+    embeddings=read_embeddings('/coastal/mono_embeddings/glove.6B.300d.txt.gz')
+    #embeddings=read_embeddings('/coastal/mono_embeddings/glove.6B.50d.txt.gz')
+
     scriptdir = os.path.dirname(os.path.realpath(__file__))
     defaultdata = scriptdir+"/../data/cwi_training/cwi_training.txt.lbl.conll"
     parser = argparse.ArgumentParser(description="Skeleton for features and classifier for CWI-2016")

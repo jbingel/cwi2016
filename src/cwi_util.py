@@ -2,6 +2,7 @@ import os, gzip, lm
 import networkx as nx
 from networkx.algorithms.traversal.depth_first_search import dfs_edges
 import pickle
+from collections import defaultdict
 
 def dep_head_of(sent, n):
     for u, v in sent.edges():
@@ -107,10 +108,12 @@ def prob(item, level="words", corpus="wp", order=1):
         print("Error! Could not find language model for level '%s' and corpus '%s'" %(level, corpus))
     return p
 
-etym_file = scriptdir+"/../data/etymwn.pickle" 
-with open(etym_file, 'rb') as pickle_file:
-    G = pickle.load(pickle_file)
-print(G.order())
+def loadEtym():
+    etym_file = scriptdir+"/../data/etymwn.pickle"
+    with open(etym_file, 'rb') as pickle_file:
+        G = pickle.load(pickle_file)
+    print(G.order())
+    return G
 
 def retrieve_etymology(word, lang="eng"):
     global G
@@ -127,3 +130,27 @@ def has_ancestor_in_lang(lang, etymology):
             return True
     return False
     
+def readSentences(infile):
+    sent = defaultdict(list)
+    #0    In    in    IN    O    4    case    -
+
+    for line in open(infile).readlines():
+        line = line.strip()
+        if not line:
+            yield(sent)
+            sent = defaultdict(list)
+        elif line.startswith("#"):
+            pass
+        else:
+            idx,form,lemma,pos,ne,head,deprel,label = line.split("\t")
+            sent["idx"].append(int(idx))
+            sent["form"].append(form)
+            sent["lemma"].append(lemma)
+            sent["pos"].append(pos)
+            sent["ne"].append(ne)
+            sent["head"].append(head)
+            sent["deprel"].append(deprel)
+            sent["label"].append(label)
+
+    if sent["idx"]:
+        yield(sent)
