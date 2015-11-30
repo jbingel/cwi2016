@@ -151,6 +151,16 @@ class WordInContext:
         D["k_child_degree"] = nx.degree(self.deptree,wordindex)
         return D
 
+    def l_context_feats(self):
+        wordindex = self.index + 1
+        headindex = dep_head_of(self.deptree,wordindex)
+        D = {}
+        D["l_brown_bag"] = "_"
+        D["l_context_embed"] = "_"
+
+        return D
+
+
 
     def featurize(self):
         D = {}
@@ -165,6 +175,8 @@ class WordInContext:
         D.update(self.i_browncluster_feats())
         D.update(self.j_embedding_feats())
         D.update(self.k_dependency_feats())
+        D.update(self.l_context_feats())
+
         return D
 
 def prettyprintweights(linearmodel,vectorizer):
