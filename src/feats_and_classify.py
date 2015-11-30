@@ -1,6 +1,7 @@
 import argparse
 import os, sys
 from sklearn.linear_model.logistic import LogisticRegression
+from sklearn.linear_model import Perceptron, SGDClassifier
 from sklearn import cross_validation
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
 from collections import Counter, defaultdict
@@ -242,6 +243,8 @@ def main():
     labels = np.array(labels)
 
     maxent = LogisticRegression(penalty='l1')
+    #maxent = SGDClassifier(penalty='l1')
+    #maxent = Perceptron(penalty='l1')
     maxent.fit(features,labels) # only needed for feature inspection, crossvalidation calls fit(), too
     coeffcounter = Counter(vec.feature_names_)
     negfeats = set(vec.feature_names_)
