@@ -14,11 +14,12 @@ import numpy as np
 
 
 class WordInContext:
-    def __init__(self,sentence,index,word,lemma,pos,namedentity,label,heads,deprels):
+    def __init__(self,sentence,index,word,lemma,pos,namedentity,positive_votes,heads,deprels):
         self.sentence = sentence #sentence is a list of forms
         self.word = word
         self.index = int(index)
-        self.label = int(label)
+        self.positive_votes = int(positive_votes)
+        self.label = int(self.positive_votes > 0)
         self.lemma = lemma
         self.pos = pos
         self.a_namedentity = namedentity
@@ -188,6 +189,18 @@ class WordInContext:
         D.update(self.k_dependency_feats())
         D.update(self.l_context_feats())
 
+        return D
+
+    def featurize_lightweight(self): ## smaller set of features used for dev
+        D = {}
+        D.update(self.a_simple_feats())
+        D.update(self.b_wordnet_feats())
+        D.update(self.c_positional_feats())
+        D.update(self.d_frequency_feats())
+        D.update(self.f_prob_in_context_feats())
+        D.update(self.g_char_complexity_feats())
+        D.update(self.k_dependency_feats())
+        D.update(self.l_context_feats())
         return D
 
     def baselinefeatures(self):
