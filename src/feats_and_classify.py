@@ -1,4 +1,3 @@
-import argparse
 import os, sys
 from sklearn.linear_model.logistic import LogisticRegression
 from sklearn.linear_model import Perceptron, SGDClassifier
@@ -11,7 +10,8 @@ from nltk.corpus import wordnet as wn
 from cwi_util import *
 import porter
 import numpy as np
-
+#from resources import *
+import argparse
 
 class WordInContext:
     def __init__(self,sentence,index,word,lemma,pos,namedentity,positive_votes,heads,deprels):
@@ -114,7 +114,7 @@ class WordInContext:
     def h_brownpath_feats(self):
         D={}
         #brown cluster path feature
-        global brownclusters
+        #global brownclusters
         if self.word in brownclusters:
             D["h_cluster"] = brownclusters[self.word]
         return D
@@ -122,7 +122,7 @@ class WordInContext:
     def i_browncluster_feats(self):
         D={}
         #brown cluster path feature
-        global brownclusters, ave_brown_height, ave_brown_depth
+        #global brownclusters, ave_brown_height, ave_brown_depth
         if self.word in brownclusters:
             bc = brownclusters[self.word]
             for i in range(1,len(bc)):
@@ -143,7 +143,6 @@ class WordInContext:
     def j_embedding_feats(self):
         D={}
         #word embedding
-        global embeddings
         if self.word in embeddings.keys():
             emb=embeddings[self.word]
             for d in range(len(emb)):
@@ -212,27 +211,13 @@ def prettyprintweights(linearmodel,vectorizer):
    for name, value in zip(vectorizer.feature_names_, linearmodel.coef_[0]):
        print("\t".join([name,str(value)]))
 
-
-
-
-def main():
-    #brownclusters, cluster_heights=read_brown_clusters('/coastal/brown_clusters/rcv1.64M-c10240-p1.paths', 10240)
-    brownclusters, cluster_heights, ave_brown_depth, ave_brown_height, max_brown_depth=read_brown_clusters('/coastal/brown_clusters/rcv1.64M-c1000-p1.paths', 1000)
-    embeddings=read_embeddings('/coastal/mono_embeddings/glove.6B.300d.txt.gz')
-    #embeddings=read_embeddings('/coastal/mono_embeddings/glove.6B.50d.txt.gz')
-
-    scriptdir = os.path.dirname(os.path.realpath(__file__))
-    defaultdata = scriptdir+"/../data/cwi_training/cwi_training.txt.lbl.conll"
-    parser = argparse.ArgumentParser(description="Skeleton for features and classifier for CWI-2016")
-    parser.add_argument('--train', help="parsed-and-label input format", default=defaultdata)
-    args = parser.parse_args()
-
+def collect_features(data):
     labels = []
     featuredicts = []
     
     print("Collecting features...")
     count=0
-    for s in readSentences(args.train):
+    for s in readSentences(data):
        print("\r"+str(count), end="")
        count+=1
        for l,i in zip(s["label"],s["idx"]):
@@ -244,7 +229,9 @@ def main():
     vec = DictVectorizer()
     features = vec.fit_transform(featuredicts).toarray()
     labels = np.array(labels)
+    return features, labels, vec
 
+def crossval(features, labels, vec):
     maxent = LogisticRegression(penalty='l1')
     #maxent = SGDClassifier(penalty='l1')
     #maxent = Perceptron(penalty='l1')
@@ -252,8 +239,6 @@ def main():
     coeffcounter = Counter(vec.feature_names_)
     negfeats = set(vec.feature_names_)
     posfeats = set(vec.feature_names_)
-
-
 
     scores = defaultdict(list)
     TotalCoeffCounter = Counter()
@@ -280,7 +265,6 @@ def main():
         posfeats = posfeats.intersection(set([key for (key,value) in coeffcounter.most_common()[:20]]))
         negfeats = negfeats.intersection(set([key for (key,value) in coeffcounter.most_common()[-20:]]))
 
-
     print("Pervasive positive: ", posfeats)
     print("Pervasive negative: ",negfeats)
 
@@ -291,7 +275,6 @@ def main():
         currentmetric = np.array(scores[key])
         print("%s : %0.2f (+/- %0.2f)" % (key,currentmetric.mean(), currentmetric.std()))
     print("--")
-
 
     maxent.fit(features,labels) # fit on everything
 
@@ -307,8 +290,17 @@ def main():
     print("lowest coeff:",coeffcounter.most_common()[-1])
     print("highest coeff",coeffcounter.most_common()[0])
 
-    sys.exit(0)
+def main():
+    scriptdir = os.path.dirname(os.path.realpath(__file__))
+    defaultdata = scriptdir+"/../data/cwi_training/cwi_training.txt.lbl.conll"
+    parser = argparse.ArgumentParser(description="Skeleton for features and classifier for CWI-2016")
+    parser.add_argument('--train', help="parsed-and-label input format", default=defaultdata)
+    args = parser.parse_args()
 
+    features, labels, vec = collect_features(args.train)
+    crossval(features, labels, vec)
+
+    sys.exit(0)
 
 
 if __name__ == "__main__":

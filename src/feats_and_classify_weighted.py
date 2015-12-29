@@ -14,6 +14,7 @@ import numpy as np
 import math
 from feats_and_classify import WordInContext
 
+
 def get_sample_weights(npa,mode):
     if mode == "uniform":
         return np.array([1]*len(npa))
@@ -69,8 +70,9 @@ def get_sample_weights(npa,mode):
 
 
 def main():
-    brownclusters, cluster_heights, ave_brown_depth, ave_brown_height, max_brown_depth=read_brown_clusters('/coastal/brown_clusters/rcv1.64M-c1000-p1.paths', 1000)
-    embeddings=read_embeddings('/coastal/mono_embeddings/glove.6B.300d.txt.gz')
+    #global brownclusters, cluster_heights, ave_brown_depth, ave_brown_height, max_brown_depth, embeddings
+    #brownclusters, cluster_heights, ave_brown_depth, ave_brown_height, max_brown_depth=read_brown_clusters('/coastal/brown_clusters/rcv1.64M-c1000-p1.paths', 1000)
+    #embeddings=read_embeddings('/coastal/mono_embeddings/glove.6B.300d.txt.gz')
 
     scriptdir = os.path.dirname(os.path.realpath(__file__))
     defaultdata = scriptdir+"/../data/cwi_training/cwi_training_allannotations.txt.lbl.conll"
