@@ -257,10 +257,16 @@ def crossval(features, labels, vec):
         for value,name in zip(coeffs_i,vec.feature_names_):
             coeffcounter_i[name] = value
 
-        scores["Accuracy"].append(accuracy_score(ypred_i,Testy_i))
-        scores["F1"].append(f1_score(ypred_i,Testy_i))
-        scores["Precision"].append(precision_score(ypred_i,Testy_i))
-        scores["Recall"].append(recall_score(ypred_i,Testy_i))
+        acc = accuracy_score(ypred_i, Testy_i)
+        pre = precision_score(ypred_i, Testy_i)
+        rec = recall_score(ypred_i, Testy_i)
+        # shared task uses f1 of *accuracy* and recall!
+        f1 = 2 * acc * rec / (acc + rec)
+
+        scores["Accuracy"].append(acc)
+        scores["F1"].append(f1)
+        scores["Precision"].append(pre)
+        scores["Recall"].append(rec)
 
         posfeats = posfeats.intersection(set([key for (key,value) in coeffcounter.most_common()[:20]]))
         negfeats = negfeats.intersection(set([key for (key,value) in coeffcounter.most_common()[-20:]]))

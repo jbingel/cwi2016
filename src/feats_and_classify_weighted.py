@@ -116,10 +116,16 @@ def main():
             learner.fit(TrainX_i,Trainy_i,sample_weight=sampleweights_i)
             ypred_i = learner.predict(TestX_i)
 
-            scores["Accuracy"].append(accuracy_score(ypred_i,Testy_i))
-            scores["F1"].append(f1_score(ypred_i,Testy_i))
-            scores["Precision"].append(precision_score(ypred_i,Testy_i))
-            scores["Recall"].append(recall_score(ypred_i,Testy_i))
+            acc = accuracy_score(ypred_i, Testy_i)
+            pre = precision_score(ypred_i, Testy_i)
+            rec = recall_score(ypred_i, Testy_i)
+            # shared task uses f1 of *accuracy* and recall!
+            f1 = 2 * acc * rec / (acc + rec)
+
+            scores["Accuracy"].append(acc)
+            scores["F1"].append(f1)
+            scores["Precision"].append(pre)
+            scores["Recall"].append(rec)
 
         print("--")
         print(learner)
