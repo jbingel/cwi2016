@@ -4,17 +4,18 @@ import pickle
 
 class NeuralNet:
 
-    def __init__(self, layers):
+    def __init__(self, conf):
 	renew_cg()
         self.model = Model()
-        self.layers = layers
-        self._init_layers(layers)
-        self.x = vecInput(layers[0])
+        self.layers = conf.layers
+        self._init_layers(conf.layers)
+        self.x = vecInput(conf.layers[0])
 	self.y = scalarInput(0) # this will hold the correct answer
 	#y = vecInput(NUM_LABELS) # this will hold the correct answer
-        self.output = self._forward_function(layers)
+        self.output = self._forward_function(conf.layers)
 	self.loss = binary_log_loss(self.output, self.y)
         self.trainer = SimpleSGDTrainer(self.model)
+        self.conf = conf
 
     def _init_layers(self, layers):
         for l in range(len(layers)-1):
@@ -35,7 +36,8 @@ class NeuralNet:
 	seen_instances = 0
 	total_loss = 0
 	for i in range(iterations):
-	    print "Iteration: "+str(i+1)
+            if self.conf.verbose: 
+	        print "Iteration: "+str(i+1)
 	    for f, l in zip(X_train, y_train):
 		self.x.set(f)
 		self.y.set(l) 
@@ -46,7 +48,8 @@ class NeuralNet:
 		#print "Ran bw"
 		self.trainer.update()
 		#print "Updated"
-	    print "average loss is:",total_loss / seen_instances
+            if self.conf.verbose: 
+	        print "average loss is:",total_loss / seen_instances
 
 
     def test(self, X_test, y_test, t=None):
@@ -64,6 +67,21 @@ class NeuralNet:
         else:
             t, results = optimize_threshold(res_and_gold)
         return t, results
+
+
+class NeuralNetConfig:
+    def __init__(self,layers=[1], iterations=1, X=[[1]], y=[1], verbose=False):
+        self.layers = [len(X[0])] + layers + [1]
+        self.iterations = iterations
+        self.X = X
+        self.y = y
+        self.verbose = verbose
+
+    def set_X(self,X):
+        self.X = X
+
+    def set_y(self,y):
+        self.y = y
 
 def oneHotLabels(labels):
     n = len(set(labels))
