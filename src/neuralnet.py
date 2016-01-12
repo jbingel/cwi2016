@@ -11,45 +11,54 @@ class NeuralNet:
         self._init_layers(conf.layers)
         self.x = vecInput(conf.layers[0])
 	self.y = scalarInput(0) # this will hold the correct answer
-	#y = vecInput(NUM_LABELS) # this will hold the correct answer
+	#y = vecInput(NUM_LABELS) # use for multiclass classification! also requires mapping all y to vec
         self.output = self._forward_function(conf.layers)
 	self.loss = binary_log_loss(self.output, self.y)
         self.trainer = SimpleSGDTrainer(self.model)
         self.conf = conf
 
     def _init_layers(self, layers):
-        for l in range(len(layers)-1):
-            self.model.add_parameters('W'+str(l+1), (layers[l+1], layers[l]))
-            self.model.add_parameters('b'+str(l+1), (layers[l+1]))
+        for l in range(1, len(layers)):
+            self.model.add_parameters('W'+str(l), (layers[l], layers[l-1]))
+            self.model.add_parameters('b'+str(l), (layers[l]))
 
     def _forward_function(self, layers):
-        output = self.x 
-        for l in range(1, len(layers)-1):
+        # Input layer
+        W = parameter(self.model['W1'])
+        b = parameter(self.model['b1'])
+        output = tanh(W * self.x) + b
+        
+        # Hidden layers
+        l = 1
+        for l in range(2, len(layers)-1):
             W = parameter(self.model['W'+str(l)])
             b = parameter(self.model['b'+str(l)])
             output = logistic(W * output + b)
+       
+        # Output layer 
 	W = parameter(self.model['W'+str(l+1)])
-	output = logistic(W * output)
+	b = parameter(self.model['b'+str(l+1)])
+	output = logistic(W * output + b) 
+        #use softmax for several output neurons! (multiclass) 	
+        #output = softmax(W * output + b) 
         return output
  
     def train(self, X_train, y_train, iterations):
-	seen_instances = 0
-	total_loss = 0
+        m = len(X_train)
 	for i in range(iterations):
             if self.conf.verbose: 
 	        print "Iteration: "+str(i+1)
+	    total_loss = 0
 	    for f, l in zip(X_train, y_train):
 		self.x.set(f)
 		self.y.set(l) 
-		seen_instances += 1
 		total_loss += self.loss.value()
-		#print "Computed loss"
+		self.loss.forward()
 		self.loss.backward()
-		#print "Ran bw"
 		self.trainer.update()
-		#print "Updated"
+            self.trainer.update_epoch()
             if self.conf.verbose: 
-	        print "average loss is:",total_loss / seen_instances
+	        print "average loss is:",total_loss/m
 
 
     def test(self, X_test, y_test, t=None):
@@ -58,9 +67,6 @@ class NeuralNet:
 	    self.x.set(feats)
 	    res = self.output.value()
 		
-	    #lbl = np.argmax(lbl)
-	    #pred = np.argmax(output.value())
-	    #sys.stderr.write(str(res)+'\t'+str(lbl)+'\n')
 	    res_and_gold.append((res, lbl))
         if t:
             results = pred_for_threshold(res_and_gold, t)
@@ -110,6 +116,7 @@ def pred_for_threshold(pred_and_gold, t):
     pos=0
     ppred=0
     for res,lbl in pred_and_gold:
+	#sys.stderr.write(str(res)+'\t'+str(lbl)+'\n')
 	pred = 0 if (res < t) else 1
 	if lbl == 1:
 	    pos += 1

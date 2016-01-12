@@ -117,8 +117,8 @@ class WordInContext:
         #global brownclusters
         if self.word in brownclusters:
             D["h_cluster"] = brownclusters[self.word]
-		else:
-			D["h_nocluster"]=1
+        else:
+            D["h_nocluster"]=1
         return D
         
     def i_browncluster_feats(self):
@@ -138,7 +138,7 @@ class WordInContext:
             #D["i_cluster_height"]=ave_brown_height
             #D["i_cluster_depth"]=ave_brown_depth
             #taking extremes
-			D["i_nocluster"]=0
+            D["i_nocluster"]=0
             D["i_cluster_height"]=0
             D["i_cluster_depth"]=max_brown_depth
         return D
@@ -150,8 +150,8 @@ class WordInContext:
             emb=embeddings[self.word]
             for d in range(len(emb)):
                 D["j_embed_"+str(d)]=float(emb[d])
-		else:
-			D["j_noembed"]=1
+            else:
+                D["j_noembed"]=1
 
         #TODO: (1) fringiness of embedding 
         return D

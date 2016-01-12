@@ -18,12 +18,13 @@ def load_pickled(data):
 def crossval(X,y,splits, conf, t=None):
     results = []
     ts = []
-    cs = [(i*len(X)/splits, (i+1)*len(X)/splits) for i in range(splits)]
+    m = len(X)
+    cs = [(i*m/splits, (i+1)*len(X)/splits) for i in range(splits)]
     for s,e in cs:
-	X_tr = [X[i] for i in range(len(X)) if i < s or i >= e]
-	X_te = [X[i] for i in range(len(X)) if i >= s and i < e]
-	y_tr = [y[i] for i in range(len(X)) if i < s or i >= e]
-	y_te = [y[i] for i in range(len(X)) if i >= s and i < e]
+	X_tr = [X[i] for i in range(m) if i < s or i >= e]
+	X_te = [X[i] for i in range(m) if i >= s and i < e]
+	y_tr = [y[i] for i in range(m) if i < s or i >= e]
+	y_te = [y[i] for i in range(m) if i >= s and i < e]
 
 	nn = NN(conf)
 	nn.train(X_tr, y_tr, conf.iterations)
