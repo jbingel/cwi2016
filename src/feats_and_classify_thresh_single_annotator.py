@@ -42,6 +42,7 @@ def pred_for_threshold(maxent,TestX_i,Testy_i, t):
     return ypred_i, (f1, rec, acc, pre)
 
 def getBestThreshold(features, labels_pooled,labels_current):
+    print("lenght of pooled and current",len(labels_pooled),len(labels_current))
     maxent = LogisticRegression(penalty='l1')
     scores = {"F1":[], "Recall":[], "Accuracy":[], "Precision":[]}
     thresholds=[]
