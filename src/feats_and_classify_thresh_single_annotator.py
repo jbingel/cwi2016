@@ -125,9 +125,9 @@ def main():
     parser.add_argument('--pooled_annotators', help="parsed-and-label input format", default=default_pool)
     args = parser.parse_args()
 
-	threshold_dict = {}
-	threshold_list = []
-	current_label_list = []
+    threshold_dict = {}
+    threshold_list = []
+    current_label_list = []
 
     features, labels_pooled, vec = feats_and_classify.collect_features(args.pooled_annotators)
 
@@ -135,15 +135,15 @@ def main():
         current_single_ann = scriptdir+"/../data/cwi_training/cwi_training_"+idx+".lbl.conll"
 
         _, labels_current, _ = feats_and_classify.collect_features(current_single_ann)
-    	current_label_list.append(labels_current)
+        current_label_list.append(labels_current)
 
         maxent, thresholds=getBestThreshold(features, labels_pooled,labels_current)
-		threshold_list.extend(thresholds)
+        threshold_list.extend(thresholds)
         print(thresholds)
         predictAcrossThresholds(features, labels_pooled,labels_current, maxent, thresholds, average=True, median=True)
 
-	for labels_current in current_label_list:
-		predictAcrossThresholds(features, labels_pooled,labels_current, maxent, threshold_list, average=True, median=True)
+    for labels_current in current_label_list:
+        predictAcrossThresholds(features, labels_pooled,labels_current, maxent, threshold_list, average=True, median=True)
 
     sys.exit(0)
 
