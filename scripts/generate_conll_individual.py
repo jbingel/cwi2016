@@ -23,9 +23,9 @@ def cutLine(cwiLine):
 def consumeSentCwi():
     global cwiBuffer
     decisions = {}
-    line = cwifile.readline()
     sent, word, idx, votes = cutLine(cwiBuffer)
     decisions[idx] = votes
+    line = cwifile.readline()
     lineCut = cutLine(line)
     
     while lineCut and lineCut[0] == sent:
@@ -52,13 +52,12 @@ while True:
     if sent == []:
         sys.exit(0)
     decisions = consumeSentCwi()
-    print(decisions)
     for a in range(annotators):
         i = 0
         while i < len(sent):
             try:
                 vote = decisions[i][a]
-            except KeyError:
+            except KeyError as e:
                 vote = '-'
             outfiles[a].write(sent[i]+"\t%s\n" %vote)
             i += 1
