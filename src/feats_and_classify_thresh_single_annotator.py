@@ -134,13 +134,13 @@ def main():
     current_label_list = []
 
     features, labels_pooled, vec = feats_and_classify.collect_features(args.pooled_annotators)
-    print("total len of f, labels, v",features, labels_pooled, vec )
+    print("total len of f, labels, v",len(features), len(labels_pooled), len(vec))
 
 
     for idx in "01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20".split(" "):
         current_single_ann = scriptdir+"/../data/cwi_training/cwi_training_"+idx+".lbl.conll"
         f_current, labels_current, v_current = feats_and_classify.collect_features(current_single_ann)
-        print(idx,"len of f, labels, v",f_current, labels_current, v_current )
+        print(idx,"len of f, labels, v",len(f_current), len(labels_current), len(v_current) )
 
     for idx in "01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20".split(" "):
         current_single_ann = scriptdir+"/../data/cwi_training/cwi_training_"+idx+".lbl.conll"
