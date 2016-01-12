@@ -48,7 +48,8 @@ def getBestThreshold(features, labels):
 
 	print('Finding best thresholds...')
 	fold=1
-	for TrainIndices, TestIndices in cross_validation.KFold(n=features.shape[0], n_folds=10, shuffle=False, random_state=None):
+	for TrainIndices, TestIndices in cross_validation.StratifiedKFold(labels, n_folds=10, shuffle=False, random_state=None):
+#	for TrainIndices, TestIndices in cross_validation.KFold(n=features.shape[0], n_folds=10, shuffle=False, random_state=None):
 		print('\r'+str(fold), end="")
 		fold+=1
 		TrainX_i = features[TrainIndices]
@@ -90,7 +91,8 @@ def predictAcrossThresholds(features, labels, maxent, thresholds, average=True, 
 def predictWithThreshold(features, labels, maxent, threshold):
 	scores = defaultdict(list)
 	fold=1
-	for TrainIndices, TestIndices in cross_validation.KFold(n=features.shape[0], n_folds=10, shuffle=False, random_state=None):
+	for TrainIndices, TestIndices in cross_validation.StratifiedKFold(labels, n_folds=10, shuffle=False, random_state=None):
+#	for TrainIndices, TestIndices in cross_validation.KFold(n=features.shape[0], n_folds=10, shuffle=False, random_state=None):
 		print('\r'+str(fold), end="")
 		fold+=1
 		TrainX_i = features[TrainIndices]
