@@ -48,7 +48,7 @@ def getBestThreshold(features, labels_pooled,labels_current):
 
     print('Finding best thresholds...')
     fold=1
-    for TrainIndices, TestIndices in cross_validation.StratifiedKFold(labels, n_folds=10, shuffle=False, random_state=None):
+    for TrainIndices, TestIndices in cross_validation.StratifiedKFold(labels_pooled, n_folds=10, shuffle=False, random_state=None):
 #    for TrainIndices, TestIndices in cross_validation.KFold(n=features.shape[0], n_folds=10, shuffle=False, random_state=None):
         print('\r'+str(fold), end="")
         fold+=1
@@ -91,7 +91,7 @@ def predictAcrossThresholds(features, labels_pooled,labels_current, maxent, thre
 def predictWithThreshold(features, labels_pooled,labels_current, maxent, threshold):
     scores = defaultdict(list)
     fold=1
-    for TrainIndices, TestIndices in cross_validation.StratifiedKFold(labels, n_folds=10, shuffle=False, random_state=None):
+    for TrainIndices, TestIndices in cross_validation.StratifiedKFold(labels_pooled, n_folds=10, shuffle=False, random_state=None):
 #    for TrainIndices, TestIndices in cross_validation.KFold(n=features.shape[0], n_folds=10, shuffle=False, random_state=None):
         print('\r'+str(fold), end="")
         fold+=1
@@ -125,16 +125,25 @@ def main():
     parser.add_argument('--pooled_annotators', help="parsed-and-label input format", default=default_pool)
     args = parser.parse_args()
 
+	threshold_dict = {}
+	threshold_list = []
+	current_label_list = []
+
     features, labels_pooled, vec = feats_and_classify.collect_features(args.pooled_annotators)
 
     for idx in "01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20".split(" "):
         current_single_ann = scriptdir+"/../data/cwi_training/cwi_training_"+idx+".lbl.conll"
 
         _, labels_current, _ = feats_and_classify.collect_features(current_single_ann)
-    
+    	current_label_list.append(labels_current)
+
         maxent, thresholds=getBestThreshold(features, labels_pooled,labels_current)
+		threshold_list.extend(thresholds)
         print(thresholds)
         predictAcrossThresholds(features, labels_pooled,labels_current, maxent, thresholds, average=True, median=True)
+
+	for labels_current in current_label_list:
+		predictAcrossThresholds(features, labels_pooled,labels_current, maxent, threshold_list, average=True, median=True)
 
     sys.exit(0)
 
