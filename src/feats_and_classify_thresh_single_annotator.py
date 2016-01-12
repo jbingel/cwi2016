@@ -78,17 +78,17 @@ def getBestThreshold(features, labels_pooled,labels_current):
     
     return maxent, np.array(thresholds)
 
-def predictAcrossThresholds(features, labels, maxent, thresholds, average=True, median=False):
+def predictAcrossThresholds(features, labels_pooled,labels_current, maxent, thresholds, average=True, median=False):
     if average:
         print('Using average of best threshold...')
         t=thresholds.mean()
-        predictWithThreshold(features, labels, maxent, t)
+        predictWithThreshold(features, labels_pooled,labels_current, maxent, t)
     if median:
         print('Using median of best threshold...')
         t=np.median(thresholds)
-        predictWithThreshold(features, labels, maxent, t)
+        predictWithThreshold(features, labels_pooled,labels_current, maxent, t)
 
-def predictWithThreshold(features, labels, maxent, threshold):
+def predictWithThreshold(features, labels_pooled,labels_current, maxent, threshold):
     scores = defaultdict(list)
     fold=1
     for TrainIndices, TestIndices in cross_validation.StratifiedKFold(labels, n_folds=10, shuffle=False, random_state=None):
@@ -96,10 +96,10 @@ def predictWithThreshold(features, labels, maxent, threshold):
         print('\r'+str(fold), end="")
         fold+=1
         TrainX_i = features[TrainIndices]
-        Trainy_i = labels[TrainIndices]
+        Trainy_i = labels_pooled[TrainIndices]
 
         TestX_i = features[TestIndices]
-        Testy_i =  labels[TestIndices]
+        Testy_i =  labels_current[TestIndices]
 
         ypred_i, score=pred_for_threshold(maxent,TestX_i,Testy_i, threshold)
 
@@ -120,7 +120,7 @@ def predictWithThreshold(features, labels, maxent, threshold):
 
 def main():
     scriptdir = os.path.dirname(os.path.realpath(__file__))
-    default_pool = scriptdir+"/../data/cwi_training/cwi_training_txt.lbl.conll"
+    default_pool = scriptdir+"/../data/cwi_training/cwi_training.txt.lbl.conll"
     parser = argparse.ArgumentParser(description="Skeleton for features and classifier for CWI-2016--optimisation of threshhold")
     parser.add_argument('--pooled_annotators', help="parsed-and-label input format", default=default_pool)
     args = parser.parse_args()
@@ -134,7 +134,7 @@ def main():
     
         maxent, thresholds=getBestThreshold(features, labels_pooled,labels_current)
         print(thresholds)
-        #predictAcrossThresholds(features, labels, maxent, thresholds, average=True, median=True)
+        predictAcrossThresholds(features, labels_pooled,labels_current, maxent, thresholds, average=True, median=True)
 
     sys.exit(0)
 
