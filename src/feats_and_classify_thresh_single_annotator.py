@@ -89,6 +89,7 @@ def predictAcrossThresholds(features, labels_pooled,labels_current, maxent, thre
         predictWithThreshold(features, labels_pooled,labels_current, maxent, t)
 
 def predictWithThreshold(features, labels_pooled,labels_current, maxent, threshold):
+    out_dict = {}
     scores = defaultdict(list)
     fold=1
     for TrainIndices, TestIndices in cross_validation.StratifiedKFold(labels_pooled, n_folds=10, shuffle=False, random_state=None):
@@ -114,8 +115,10 @@ def predictWithThreshold(features, labels_pooled,labels_current, maxent, thresho
 
     for key in sorted(scores.keys()):
         currentmetric = np.array(scores[key])
+        out_dict[key] = (currentmetric.mean(),currentmetric.std())
         print("%s : %0.2f (+/- %0.2f)" % (key,currentmetric.mean(), currentmetric.std()))
     print("--")
+    return out_dict
 
 
 def main():
@@ -142,8 +145,15 @@ def main():
         print(thresholds)
         predictAcrossThresholds(features, labels_pooled,labels_current, maxent, thresholds, average=True, median=True)
 
+
+    pooled_score_dict = defaultdict(list)
     for labels_current in current_label_list:
-        predictAcrossThresholds(features, labels_pooled,labels_current, maxent, threshold_list, average=True, median=True)
+        score_dict = predictAcrossThresholds(features, labels_pooled,labels_current, maxent, threshold_list, average=True, median=True)
+        for k in score_dict:
+            pooled_score_dict[k].append(score_dict[k][0])
+
+    for k in pooled_score_dict:
+        print(k,":",np.array(pooled_score_dict[k]).mean(),":",pooled_score_dict[k])
 
     sys.exit(0)
 
