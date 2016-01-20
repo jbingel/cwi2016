@@ -140,8 +140,9 @@ def main():
     maxent.fit(X_train,y_train)
     y_pred_proba = maxent.predict_proba(X_test)
     ypred_i=["1" if pair[1]>=args.threshold else "0" for pair in y_pred_proba]
-    print(" ".join(ypred_i),file=sys.stderr)
-
+    fout = open(args.annotator+".pred")
+    print(" ".join(ypred_i),file=fout)
+    fout.close()
     sys.exit(0)
 
 
