@@ -130,18 +130,20 @@ def main():
     parser = argparse.ArgumentParser(description="Skeleton for features and classifier for CWI-2016--optimisation of threshhold")
     parser.add_argument('--threshold',type=float,default=0.5)
     parser.add_argument('--annotator',type=str,default="03")
+    parser.add_argument('--penalty',type=str,choices=["l1","l2"],default="l1")
+
 
     args = parser.parse_args()
     current_single_ann = scriptdir+"/../data/cwi_training/cwi_training_"+args.annotator+".lbl.conll"
     testfile = scriptdir+"/../data/cwi_testing/cwi_testing.txt.conll"
     X_train, y_train, v_train = feats_and_classify.collect_features(current_single_ann)
     X_test, y_test, v_test = feats_and_classify.collect_features(current_single_ann)
-    maxent = LogisticRegression(penalty='l1')
+    maxent = LogisticRegression(penalty=args.penalty)
     maxent.fit(X_train,y_train)
     y_pred_proba = maxent.predict_proba(X_test)
     ypred_i=["1" if pair[1]>=args.threshold else "0" for pair in y_pred_proba]
     fout = open(args.annotator+".pred",mode="w")
-    print(" ".join(ypred_i),file=fout)
+    print("\n".join(ypred_i),file=fout)
     fout.close()
     sys.exit(0)
 
