@@ -136,6 +136,11 @@ def main():
     testfile = scriptdir+"/../data/cwi_testing/cwi_testing.txt.conll"
     X_train, y_train, v_train = feats_and_classify.collect_features(current_single_ann)
     X_test, y_test, v_test = feats_and_classify.collect_features(current_single_ann)
+    maxent = LogisticRegression(penalty='l1')
+    maxent.fit(X_train,y_train)
+    y_pred_proba = maxent.predict_proba(X_test)
+    ypred_i=[1 if pair[1]>=t else 0 for pair in ypred_probs]
+    print(ypred_i)
 
     sys.exit(0)
 
