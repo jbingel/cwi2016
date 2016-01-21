@@ -72,15 +72,18 @@ def readSentences(infile):
         elif line.startswith("#"):
             pass
         else:
-            idx,form,lemma,pos,ne,head,deprel,label = line.split("\t")
-            sent["idx"].append(int(idx))
-            sent["form"].append(form)
-            sent["lemma"].append(lemma)
-            sent["pos"].append(pos)
-            sent["ne"].append(ne)
-            sent["head"].append(head)
-            sent["deprel"].append(deprel)
-            sent["label"].append(label)
+            try:
+                idx,form,lemma,pos,ne,head,deprel,label = line.split("\t")
+                sent["idx"].append(int(idx))
+                sent["form"].append(form)
+                sent["lemma"].append(lemma)
+                sent["pos"].append(pos)
+                sent["ne"].append(ne)
+                sent["head"].append(head)
+                sent["deprel"].append(deprel)
+                sent["label"].append(label)
+            except:
+                print(len(line.split("\t")),line)
 
     if sent["idx"]:
         yield(sent)
