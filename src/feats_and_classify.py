@@ -216,6 +216,12 @@ def prettyprintweights(linearmodel,vectorizer):
    for name, value in zip(vectorizer.feature_names_, linearmodel.coef_[0]):
        print("\t".join([name,str(value)]))
 
+def collect_labels(cwi_file, annotatorIdx):
+    labels = []
+    for line in open(cwi_file):
+        labels.append(int(line.split('\t')[3+annotatorIdx]))
+    return np.array(labels)
+
 def collect_features(data):
     labels = []
     featuredicts = []
