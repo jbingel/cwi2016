@@ -19,7 +19,7 @@ class WordInContext:
         self.word = word
         self.index = int(index)
         self.positive_votes = int(positive_votes)
-        if positive_votes == "?"
+        if positive_votes == "?":
             self.label = "?"
         else:
             self.label = int(self.positive_votes > 0)
