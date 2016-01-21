@@ -1,0 +1,5 @@
+- figure that shows 'heat map' of annotator-by-annotator F1, to illustrate differences in annotators
+- another possibility could have been: 
+  - constructing a pseudo-annotator from targets that received more than x positive votes
+  - alternatively, the above but limited to the top n most reliable annotators
+  - ...
