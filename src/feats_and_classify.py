@@ -22,7 +22,7 @@ class WordInContext:
             self.positive_votes = -1
             self.label = "?"
         else:
-            self.positive_votes = positive_votes
+            self.positive_votes = int(positive_votes)
             self.label = int(self.positive_votes > 0)
         self.lemma = lemma
         self.pos = pos
