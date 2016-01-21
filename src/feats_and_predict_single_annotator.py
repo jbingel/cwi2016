@@ -135,7 +135,7 @@ def main():
 
     args = parser.parse_args()
     current_single_ann = scriptdir+"/../data/cwi_training/cwi_training_"+args.annotator+".lbl.conll"
-    testfile = scriptdir+"/../data/cwi_testing/cwi_testing.txt.conll"
+    testfile = scriptdir+"/../data/cwi_testing/cwi_testing.txt.lbl.conll"
     X_train, y_train, v_train = feats_and_classify.collect_features(current_single_ann)
     X_test, y_test, v_test = feats_and_classify.collect_features(testfile)
     maxent = LogisticRegression(penalty=args.penalty)
