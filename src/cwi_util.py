@@ -83,7 +83,7 @@ def readSentences(infile):
                 sent["deprel"].append(deprel)
                 sent["label"].append(label)
             except:
-                print(len(line.split("\t")),line)
+                print(len(line.split("\t")),line.split("\t"))
 
     if sent["idx"]:
         yield(sent)
