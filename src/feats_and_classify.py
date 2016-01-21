@@ -19,9 +19,10 @@ class WordInContext:
         self.word = word
         self.index = int(index)
         if positive_votes == "?":
-            self.label = "?"
             self.positive_votes = -1
+            self.label = "?"
         else:
+            self.positive_votes = positive_votes
             self.label = int(self.positive_votes > 0)
         self.lemma = lemma
         self.pos = pos
