@@ -139,7 +139,7 @@ def main():
     X__dict_train, y_train, v_train = feats_and_classify.collect_features(current_single_ann,vectorize=False)
     X_dict_test, y_test, v_test = feats_and_classify.collect_features(testfile,vectorize=False)
     featdicts = list([x for x in X__dict_train + X_dict_test])
-    vect = DictVectorizer
+    vect = DictVectorizer()
     X = vect.fit_transform(featdicts).toarray()
     X_train=X[:len(y_train)]
     X_test=X[len(y_train):]
