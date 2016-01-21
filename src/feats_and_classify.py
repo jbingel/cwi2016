@@ -18,9 +18,9 @@ class WordInContext:
         self.sentence = sentence #sentence is a list of forms
         self.word = word
         self.index = int(index)
-        self.positive_votes = int(positive_votes)
         if positive_votes == "?":
             self.label = "?"
+            self.positive_votes = -1
         else:
             self.label = int(self.positive_votes > 0)
         self.lemma = lemma
