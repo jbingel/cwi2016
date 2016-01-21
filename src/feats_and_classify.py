@@ -238,7 +238,7 @@ def collect_features(data):
        for l,i in zip(s["label"],s["idx"]):
             if l != "-":
                 w = WordInContext(s, i, s["form"][i],s["lemma"][i],s["pos"][i],s["ne"][i],l,s["head"],s["deprel"])
-                featuredicts.append(w.featurize())
+                featuredicts.append(w.featurize_lightweight())
                 labels.append(w.label)
     print()
     vec = DictVectorizer()
