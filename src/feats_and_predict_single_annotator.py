@@ -136,11 +136,14 @@ def main():
     args = parser.parse_args()
     current_single_ann = scriptdir+"/../data/cwi_training/cwi_training_"+args.annotator+".lbl.conll"
     testfile = scriptdir+"/../data/cwi_testing/cwi_testing.txt.lbl.conll"
-    X_train, y_train, v_train = feats_and_classify.collect_features(current_single_ann)
-    X_test, y_test, v_test = feats_and_classify.collect_features(testfile)
-    print(X_train[2])
-    print("-----")
-    print(X_test[2])
+    X__dict_train, y_train, v_train = feats_and_classify.collect_features(current_single_ann,vectorize=False)
+    X_dict_test, y_test, v_test = feats_and_classify.collect_features(testfile,vectorize=False)
+    featdicts = X__dict_train + X_dict_test
+    vect = DictVectorizer
+    X = vect.transform(featdicts)
+    X_train=X[:len(y_train)]
+    X_test=X[len(y_train):]
+
     maxent = LogisticRegression(penalty=args.penalty)
     maxent.fit(X_train,y_train)
     y_pred_proba = maxent.predict_proba(X_test)
