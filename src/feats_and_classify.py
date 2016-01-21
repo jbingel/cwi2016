@@ -211,6 +211,22 @@ class WordInContext:
         D.update(self.l_context_feats())
         return D
 
+    def featurize_debug(self): ## smaller set of features used for dev
+        D = {}
+        D.update(self.a_simple_feats())
+        #D.update(self.b_wordnet_feats())
+        #D.update(self.c_positional_feats())
+        #D.update(self.d_frequency_feats())
+        #D.update(self.e_morphological_feats())
+        #D.update(self.f_prob_in_context_feats())
+        #D.update(self.g_char_complexity_feats())
+        #D.update(self.h_brownpath_feats())
+        #D.update(self.i_browncluster_feats())
+        #D.update(self.j_embedding_feats())
+        #D.update(self.k_dependency_feats())
+        #D.update(self.l_context_feats())
+        return D
+
     def baselinefeatures(self):
         D = {}
         D.update(self.a_simple_feats_lexicalized())
@@ -238,7 +254,7 @@ def collect_features(data):
        for l,i in zip(s["label"],s["idx"]):
             if l != "-":
                 w = WordInContext(s, i, s["form"][i],s["lemma"][i],s["pos"][i],s["ne"][i],l,s["head"],s["deprel"])
-                featuredicts.append(w.featurize_lightweight())
+                featuredicts.append(w.featurize_debug())
                 labels.append(w.label)
     print()
     vec = DictVectorizer()
