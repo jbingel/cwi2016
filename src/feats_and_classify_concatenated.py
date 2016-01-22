@@ -11,6 +11,7 @@ import porter, pickle
 import numpy as np
 #from resources import *
 import argparse, feats_and_classify
+import numpy as np
     
 def optimize_threshold(maxent,TestX_i,Testy_i):
     best_t = 0
@@ -142,10 +143,10 @@ def main():
         f_current, labels_current, v_current = feats_and_classify.collect_features(current_single_ann,vectorize=False)
         all_feats.extend(f_current)
         all_labels.extend(labels_current)
-        print(all_labels)
-    feats = DictVectorizer().fit_transform(all_feats).toarray()
 
-    for TrainIndices, TestIndices in cross_validation.KFold(n=feats.shape[0], n_folds=10, shuffle=False, random_state=None):
+    feats = DictVectorizer().fit_transform(all_feats).toarray()
+    all_labels = np.asarray()
+    for TrainIndices, TestIndices in cross_validation.KFold(n=feats.shape[0], n_folds=10, shuffle=True, random_state=None):
         maxent = LogisticRegression(penalty='l2')
         TrainX_i = feats[TrainIndices]
         Trainy_i = all_labels[TrainIndices]
