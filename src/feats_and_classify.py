@@ -226,6 +226,14 @@ def collect_labels(cwi_file, annotatorIdx):
         labels.append(int(line.split('\t')[3+annotatorIdx]))
     return np.array(labels)
 
+def collect_labels_positive_threshold(cwi_file, threshold):
+    labels = []
+    for line in open(cwi_file):
+        pos_votes = sum([int(l) for l in line.split('\t')[3:]])
+        label_i = 1 if pos_votes >= threshold else 0
+        labels.append(label_i)
+    return np.array(labels)
+
 def collect_features(data,vectorize=True):
     labels = []
     featuredicts = []
