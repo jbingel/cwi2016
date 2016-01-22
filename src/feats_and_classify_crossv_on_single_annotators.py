@@ -147,6 +147,7 @@ def main():
         for instance_index,l in enumerate(labels_current):
             all_labels[instance_index].append(l)
 
+    print(all_labels)
     current_single_ann = scriptdir+"/../data/cwi_training/cwi_training_01.lbl.conll"
     feats, labels_current, v_current = feats_and_classify.collect_features(current_single_ann,vectorize=True,generateFeatures=True)
 
@@ -155,10 +156,10 @@ def main():
         maxent = LogisticRegression(penalty='l2')
 
         TrainX_i = feats[TrainIndices]
-        Trainy_i = all_labels[TrainIndices][0]
+        Trainy_i = [all_labels[x][0] for x in TrainIndices]
 
         TestX_i = feats[TestIndices]
-        Testy_i =  all_labels[TestIndices][0]
+        Testy_i =  [all_labels[x][0] for x in TestIndices]
 
         maxent.fit(TrainX_i,Trainy_i)
         ypred_i = maxent.predict(TestX_i)
