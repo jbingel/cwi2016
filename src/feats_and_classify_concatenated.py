@@ -129,8 +129,6 @@ def main():
     scriptdir = os.path.dirname(os.path.realpath(__file__))
     default_pool = scriptdir+"/../data/cwi_training/cwi_training.txt.lbl.conll"
     parser = argparse.ArgumentParser(description="Skeleton for features and classifier for CWI-2016--optimisation of threshhold")
-    parser.add_argument('--pooled_annotators', help="parsed-and-label input format", default=default_pool)
-    parser.add_argument('--threshold_matrix_file', help="location/name of the threshold matrix", default='annotator_threshold_matrix')
     args = parser.parse_args()
 
 
@@ -142,8 +140,9 @@ def main():
 #    for idx in "01".split(" "):
         current_single_ann = scriptdir+"/../data/cwi_training/cwi_training_"+idx+".lbl.conll"
         f_current, labels_current, v_current = feats_and_classify.collect_features(current_single_ann,vectorize=False)
-    all_feats.extend(f_current)
-    all_labels.extend(labels_current)
+        all_feats.extend(f_current)
+        all_labels.extend(labels_current)
+        print(all_labels)
     feats = DictVectorizer().fit_transform(all_feats).toarray()
 
     for TrainIndices, TestIndices in cross_validation.KFold(n=feats.shape[0], n_folds=10, shuffle=False, random_state=None):
