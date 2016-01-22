@@ -144,10 +144,10 @@ def main():
 #    for idx in "01".split(" "):
         current_single_ann = scriptdir+"/../data/cwi_training/cwi_training_"+idx+".lbl.conll"
         f_current, labels_current, v_current = feats_and_classify.collect_features(current_single_ann,vectorize=False,generateFeatures=False)
-        for idx,l in enumerate(labels_current):
-            all_labels[idx].append(l)
+        for instance_index,l in enumerate(labels_current):
+            all_labels[instance_index].append(l)
 
-    current_single_ann = scriptdir+"/../data/cwi_training/cwi_training_"+idx+".lbl.conll"
+    current_single_ann = scriptdir+"/../data/cwi_training/cwi_training_01.lbl.conll"
     feats, labels_current, v_current = feats_and_classify.collect_features(current_single_ann,vectorize=True,generateFeatures=True)
 
 
