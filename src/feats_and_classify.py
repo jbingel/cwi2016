@@ -42,7 +42,7 @@ class WordInContext:
         D = {}
         #D["a_form"] = self.word
         #D["a_lemma"] = self.lemma
-        #D["a_pos"] = self.pos
+        D["a_pos"] = self.pos
         D["a_namedentity"] = self.a_namedentity
         D["a_formlength"] = len(self.word)
         return D
