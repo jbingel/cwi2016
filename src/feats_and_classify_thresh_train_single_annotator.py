@@ -78,30 +78,31 @@ def getBestThreshold(X, y_current_tr, y_current_te, regularization='l2'):
     
     return maxent, np.array(thresholds)
 
-def cvAcrossThresholds(X, y_current_tr,y_current, maxent, thresholds, average=True, median=False):
+def cvAcrossThresholds(X, y_current_tr,y_current, thresholds, regularization='l2', average=True, median=False):
     if average:
         print('Using average of best threshold...')
         t=thresholds.mean()
-        score_dict_ave=cvWithThreshold(X, y_current_tr,y_current, maxent, t)
+        score_dict_ave=cvWithThreshold(X, y_current_tr,y_current, t, regularization)
     if median:
         print('Using median of best threshold...')
         t=np.median(thresholds)
-        score_dict_med=cvWithThreshold(X, y_current_tr,y_current, maxent, t)
+        score_dict_med=cvWithThreshold(X, y_current_tr,y_current, t, regularization)
     return score_dict_ave, score_dict_med
 
-def cvWithThreshold(X, y_current_tr, y_current_te , maxent, threshold):
+def cvWithThreshold(X, y_current_tr, y_current_te, threshold, regularization='l2'):
     out_dict = {}
     scores = defaultdict(list)
     fold=1
+    maxent = LogisticRegression(penalty=regularization)
     for TrainIndices, TestIndices in cross_validation.StratifiedKFold(y_current_tr, n_folds=10, shuffle=False, random_state=None):
         print('\r'+str(fold), end="")
         fold+=1
         TrainX_i = X[TrainIndices]
         Trainy_i = y_current_tr[TrainIndices]
-
         TestX_i = X[TestIndices]
         Testy_i =  y_current_te[TestIndices]
-
+     
+        maxent.fit(TrainX_i,Trainy_i)
         ypred_i, score=pred_for_threshold(maxent,TestX_i,Testy_i, threshold)
 
         scores["F1"].append(score[0])
@@ -132,7 +133,7 @@ def main():
     parser.add_argument('--regularization', help="regularizer, may be l1 or l2", default='l2')
     args = parser.parse_args()
 
-    
+    print(args.regularization) 
 
     # f1_matrix holds for every training annotator: the list of tuples of 
     # avg/med f1_row based on avg/med threshold
@@ -147,9 +148,8 @@ def main():
     X, _, v = feats_and_classify.collect_features(args.parsed_file)
 
     # train for every annotator...
-    #for trainidx in "05".split(" "):
+    #for trainidx in "08 11 14".split(" "):
     for trainidx in "01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20".split(" "):
-    #for trainidx in "05 08 15".split(" "):
         #current_single_ann = scriptdir+"/../data/cwi_training/cwi_training_"+trainidx+".lbl.conll"
         y_current_tr = feats_and_classify.collect_labels(args.all_annotations_file, int(trainidx)-1)
         print("Training on Annotator "+trainidx)
@@ -161,6 +161,7 @@ def main():
         # optimize t for every annotator (except training annotator), yields avg/med t 
         #for idx in "02 03 04".split(" "):
         for idx in "01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20".split(" "):
+        #for idx in "02".split(" "):
             if idx == trainidx:
                 continue
             print("  Testing on annotator "+idx)
@@ -182,19 +183,19 @@ def main():
         t_med_med =  np.median([t[1] for t in t_row]) 
         t_final.append((t_avg_avg, t_avg_med, t_med_avg, t_med_med))
  
-        maxent = LogisticRegression(penalty=args.regularization)
-        maxent.fit(X, y_current_tr) 
-        #for idx in "02 03 04".split(" "):
+        #maxent = LogisticRegression(penalty=args.regularization)
+        #maxent.fit(X, y_current_tr) 
         for idx in "01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20".split(" "):
+        #for idx in "02".split(" "):
             if idx == trainidx:
                 continue
 
             #y_current_te = feats_and_classify.collect_labels(current_single_ann)
             y_current_te = feats_and_classify.collect_labels(args.all_annotations_file, int(idx)-1)
-            f1_avg_avg = cvWithThreshold(X, y_current_tr, y_current_te, maxent, t_avg_avg)['F1'][0]
-            f1_avg_med = cvWithThreshold(X, y_current_tr, y_current_te, maxent, t_avg_med)['F1'][0]
-            f1_med_avg = cvWithThreshold(X, y_current_tr, y_current_te, maxent, t_med_avg)['F1'][0]
-            f1_med_med = cvWithThreshold(X, y_current_tr, y_current_te, maxent, t_med_med)['F1'][0]
+            f1_avg_avg = cvWithThreshold(X, y_current_tr, y_current_te, t_avg_avg, args.regularization)['F1'][0]
+            f1_avg_med = cvWithThreshold(X, y_current_tr, y_current_te, t_avg_med, args.regularization)['F1'][0]
+            f1_med_avg = cvWithThreshold(X, y_current_tr, y_current_te, t_med_avg, args.regularization)['F1'][0]
+            f1_med_med = cvWithThreshold(X, y_current_tr, y_current_te, t_med_med, args.regularization)['F1'][0]
 
             f1_row.append((f1_avg_avg, f1_avg_med, f1_med_avg, f1_med_med))
 
