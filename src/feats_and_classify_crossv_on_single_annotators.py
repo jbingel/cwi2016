@@ -12,6 +12,7 @@ import numpy as np
 #from resources import *
 import argparse, feats_and_classify
 import numpy as np
+import random
     
 def optimize_threshold(maxent,TestX_i,Testy_i):
     best_t = 0
@@ -130,6 +131,8 @@ def main():
     scriptdir = os.path.dirname(os.path.realpath(__file__))
     default_pool = scriptdir+"/../data/cwi_training/cwi_training.txt.lbl.conll"
     parser = argparse.ArgumentParser(description="Skeleton for features and classifier for CWI-2016--optimisation of threshhold")
+    parser.add_argument('--iterations',type=int,default=5)
+
     args = parser.parse_args()
 
 
@@ -151,31 +154,31 @@ def main():
     current_single_ann = scriptdir+"/../data/cwi_training/cwi_training_01.lbl.conll"
     feats, labels_current, v_current = feats_and_classify.collect_features(current_single_ann,vectorize=True,generateFeatures=True)
 
+    for it in range(args.iterations):
+        for TrainIndices, TestIndices in cross_validation.KFold(n=feats.shape[0], n_folds=10, shuffle=True, random_state=None):
+            maxent = LogisticRegression(penalty='l2')
 
-    for TrainIndices, TestIndices in cross_validation.KFold(n=feats.shape[0], n_folds=10, shuffle=True, random_state=None):
-        maxent = LogisticRegression(penalty='l2')
+            TrainX_i = feats[TrainIndices]
+            Trainy_i = [all_labels[x][random.randrange(0,20)] for x in TrainIndices]
 
-        TrainX_i = feats[TrainIndices]
-        Trainy_i = [all_labels[x][0] for x in TrainIndices]
+            TestX_i = feats[TestIndices]
+            Testy_i =  [all_labels[x][random.randrange(0,20)] for x in TestIndices]
 
-        TestX_i = feats[TestIndices]
-        Testy_i =  [all_labels[x][0] for x in TestIndices]
+            maxent.fit(TrainX_i,Trainy_i)
+            ypred_i = maxent.predict(TestX_i)
 
-        maxent.fit(TrainX_i,Trainy_i)
-        ypred_i = maxent.predict(TestX_i)
+            acc = accuracy_score(ypred_i, Testy_i)
+            pre = precision_score(ypred_i, Testy_i)
+            rec = recall_score(ypred_i, Testy_i)
+            # shared task uses f1 of *accuracy* and recall!
+            f1 = 2 * acc * rec / (acc + rec)
 
-        acc = accuracy_score(ypred_i, Testy_i)
-        pre = precision_score(ypred_i, Testy_i)
-        rec = recall_score(ypred_i, Testy_i)
-        # shared task uses f1 of *accuracy* and recall!
-        f1 = 2 * acc * rec / (acc + rec)
-
-        scores["Accuracy"].append(acc)
-        scores["F1"].append(f1)
-        scores["Precision"].append(pre)
-        scores["Recall"].append(rec)
-    #scores = cross_validation.cross_val_score(maxent, features, labels, cv=10)
-    print("--")
+            scores["Accuracy"].append(acc)
+            scores["F1"].append(f1)
+            scores["Precision"].append(pre)
+            scores["Recall"].append(rec)
+        #scores = cross_validation.cross_val_score(maxent, features, labels, cv=10)
+        print("--")
 
     for key in sorted(scores.keys()):
         currentmetric = np.array(scores[key])
