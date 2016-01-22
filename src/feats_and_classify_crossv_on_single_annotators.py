@@ -149,8 +149,6 @@ def main():
         f_current, labels_current, v_current = feats_and_classify.collect_features(current_single_ann,vectorize=False,generateFeatures=False)
         for instance_index,l in enumerate(labels_current):
             all_labels[instance_index].append(l)
-
-    print(all_labels)
     current_single_ann = scriptdir+"/../data/cwi_training/cwi_training_01.lbl.conll"
     feats, labels_current, v_current = feats_and_classify.collect_features(current_single_ann,vectorize=True,generateFeatures=True)
 
