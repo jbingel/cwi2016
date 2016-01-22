@@ -145,7 +145,7 @@ def main():
         all_labels.extend(labels_current)
 
     feats = DictVectorizer().fit_transform(all_feats).toarray()
-    all_labels = np.asarray()
+    all_labels = np.asarray(all_labels)
     for TrainIndices, TestIndices in cross_validation.KFold(n=feats.shape[0], n_folds=10, shuffle=True, random_state=None):
         maxent = LogisticRegression(penalty='l2')
         TrainX_i = feats[TrainIndices]
