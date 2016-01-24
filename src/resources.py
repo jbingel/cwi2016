@@ -1,7 +1,8 @@
 import lm, os, gzip, pickle
+import networkx as nx
 
 def read_brown_clusters(src, total_clusters):
-    print('\tReading brown clusters...', end='')
+    print('\tReading brown clusters...')
     d={}
     infile=open(src, 'r')
     c=[]; ch={}
@@ -17,7 +18,7 @@ def read_brown_clusters(src, total_clusters):
             c.append(data[0])
     print('Done!')
     #calculation of heights
-    print('\tCalculating brown heights...', end='')
+    print('\tCalculating brown heights...')
     total_heights=0.0
     c.sort(key=len, reverse=True)
     for x in c:
@@ -31,7 +32,7 @@ def read_brown_clusters(src, total_clusters):
     return d, ch, total_depths/total_words, total_heights/total_words, max_depth
 
 def read_embeddings(src):
-    print('\tReading embeddings...', end='')
+    print('\tReading embeddings...')
     d={}
     infile=gzip.open(src, 'rt')
     for line in infile.readlines():
@@ -49,7 +50,8 @@ def loadEtym():
         G = pickle.load(pickle_file)
     return G
 
-print('\tReading language models... ', end='')
+etymology=nx.DiGraph()
+print('\tReading language models... ')
 scriptdir = os.path.dirname(os.path.realpath(__file__))
 lm_words_swp = read_lm(scriptdir+"/../data/langmodels/simplewiki.arpa")
 lm_words_wp = read_lm(scriptdir+"/../data/langmodels/enwiki.arpa")
@@ -60,5 +62,4 @@ lm_reg = {"words": {"swp": lm_words_swp, "wp": lm_words_wp},
 
 brownclusters, cluster_heights, ave_brown_depth, ave_brown_height, max_brown_depth=read_brown_clusters('/coastal/brown_clusters/rcv1.64M-c1000-p1.paths', 1000)
 embeddings=read_embeddings('/coastal/mono_embeddings/glove.6B.300d.txt.gz') 
-etymology = loadEtym()
-etymology = loadEtym()
+#etymology = loadEtym()

@@ -1,7 +1,6 @@
 import os, gzip
 import networkx as nx
 from networkx.algorithms.traversal.depth_first_search import dfs_edges
-import pickle
 from collections import defaultdict
 from resources import *
 

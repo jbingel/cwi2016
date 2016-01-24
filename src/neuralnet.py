@@ -1,16 +1,17 @@
 from pycnn import *
 import numpy as np
 import pickle
+from sklearn.metrics import f1_score, recall_score, precision_score, accuracy_score
 
 class NeuralNet:
 
     def __init__(self, conf):
-	renew_cg()
+        renew_cg()
         self.model = Model()
         self.layers = conf.layers
         self._init_layers(conf.layers)
         self.x = vecInput(conf.layers[0])
-	self.y = scalarInput(0) # this will hold the correct answer
+        self.y = scalarInput(0) # this will hold the correct answer
 	#y = vecInput(NUM_LABELS) # use for multiclass classification! also requires mapping all y to vec
         self.output = self._forward_function(conf.layers)
 	self.loss = binary_log_loss(self.output, self.y)
@@ -66,10 +67,9 @@ class NeuralNet:
 	for feats, lbl in zip(X_test, y_test):
 	    self.x.set(feats)
 	    res = self.output.value()
-		
 	    res_and_gold.append((res, lbl))
         if t:
-            results = pred_for_threshold(res_and_gold, t)
+            results = eval_for_threshold(res_and_gold, t)
         else:
             t, results = optimize_threshold(res_and_gold)
         return t, results
@@ -104,20 +104,22 @@ def optimize_threshold(pred_and_gold):
     t_results = {}
     for thelp in range(1000):
 	t=thelp/1000.0
-	t_results[t] = pred_for_threshold(pred_and_gold, t)
+	t_results[t] = eval_for_threshold(pred_and_gold, t)
 	f1 = t_results[t][0]
 	if f1 > best_f1:
 	    best_t = t
 	    best_f1 = f1
     return best_t, t_results[best_t]       
 
-def pred_for_threshold(pred_and_gold, t):
-    tp, fp, tn, fn = 0, 0, 0, 0
-    pos=0
-    ppred=0
+def eval_for_threshold(pred_and_gold, t):
+    preds = []
+    lbls = []
     for res,lbl in pred_and_gold:
 	#sys.stderr.write(str(res)+'\t'+str(lbl)+'\n')
-	pred = 0 if (res < t) else 1
+	preds.append(0 if (res < t) else 1)
+        lbls.append(lbl)
+        
+        """
 	if lbl == 1:
 	    pos += 1
 	if pred == 1:
@@ -136,6 +138,13 @@ def pred_for_threshold(pred_and_gold, t):
 	p = tp/float(tp+fp) if (tp+fp > 0) else 0.0
 	acc = float(tp+tn)/(tp+fp+tn+fn)
 	f1 = 2*acc*r/(acc+r) if (acc+r > 0) else 0.0
-    return (f1, r, acc, p)   
+        """
+    r = recall_score(lbls, preds)
+    p = precision_score(lbls, preds)
+    a = accuracy_score(lbls, preds)
+    #TODO change for other tasks, this definition is only for Semeval 2016 task 11
+    f1 = 2*a*r/(a+r) if (a+r > 0) else 0.0
+    
+    return (f1, r, a, p)   
 
 

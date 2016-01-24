@@ -241,7 +241,6 @@ def collect_features(data,vectorize=True):
     print("Collecting features...")
     count=0
     for s in readSentences(data):
-       print("\r"+str(count), end="")
        count+=1
        for l,i in zip(s["label"],s["idx"]):
             if l != "-":
