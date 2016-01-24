@@ -226,6 +226,7 @@ def collect_labels(cwi_file, annotatorIdx):
         labels.append(int(line.split('\t')[3+annotatorIdx]))
     return np.array(labels)
 
+
 def collect_labels_positive_threshold(cwi_file, threshold):
     labels = []
     for line in open(cwi_file):
@@ -234,7 +235,8 @@ def collect_labels_positive_threshold(cwi_file, threshold):
         labels.append(label_i)
     return np.array(labels)
 
-def collect_features(data,vectorize=True):
+def collect_features(data,vectorize=True,generateFeatures=True):
+
     labels = []
     featuredicts = []
     
@@ -246,7 +248,8 @@ def collect_features(data,vectorize=True):
        for l,i in zip(s["label"],s["idx"]):
             if l != "-":
                 w = WordInContext(s, i, s["form"][i],s["lemma"][i],s["pos"][i],s["ne"][i],l,s["head"],s["deprel"])
-                featuredicts.append(w.featurize())
+                if generateFeatures:
+                    featuredicts.append(w.featurize())
                 labels.append(w.label)
     print()
     if vectorize:
