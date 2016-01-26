@@ -15,16 +15,14 @@ from neuralnet import NeuralNetConfig
 #sys.stdout = os.fdopen(sys.stdout.fileno(), 'w', 1)
  
 
-def getBestThresholds(X, y_current_tr, y_current_te, conf):
+def getBestThresholds(X, y_current_tr, y_current_te, conf, folds=10):
     assert len(X) == len(y_current_tr) == len(y_current_te), 'Number of features ({}), annotator1 labels ({}) and annotator2 labels ({}) is not equal!'.format(len(X), len(y_current_tr), len(y_current_te))
     #scores = {"F1":[], "Recall":[], "Accuracy":[], "Precision":[]}
     scores = []
     thresholds=[]
-
-
     print('Finding best thresholds...')
     fold=1
-    for TrainIndices, TestIndices in cross_validation.StratifiedKFold(y_current_tr, n_folds=10, shuffle=False, random_state=None):
+    for TrainIndices, TestIndices in cross_validation.StratifiedKFold(y_current_tr, n_folds=folds, shuffle=False, random_state=None):
         #print('\r'+str(fold), end="")
         fold+=1
         X_tr = X[TrainIndices]
@@ -40,29 +38,28 @@ def getBestThresholds(X, y_current_tr, y_current_te, conf):
         thresholds.append(best_t)
 
         scores.append(score)
-    
-    #scores = cross_validation.cross_val_score(maxent, features, labels, cv=10)
     print("\n--")
-    
     return np.array(thresholds), np.array(scores)
 
-def cvAcrossThresholds(conf, X, y_current_tr,y_current, thresholds, average=True, median=False):
+
+def cvAcrossThresholds(conf, X, y_current_tr,y_current, thresholds, average=True, median=False, folds=10):
     f1_ave = 0
     f1_med = 0
     if average:
         print('Using average of best threshold...')
         t=thresholds.mean()
-        f1_ave = cvWithThreshold(conf, X, y_current_tr,y_current, t)[0]
+        f1_ave = cvWithThreshold(conf, X, y_current_tr,y_current, t, folds)[0]
     if median:
         print('Using median of best threshold...')
         t=np.median(thresholds)
-        f1_med=cvWithThreshold(conf, X, y_current_tr,y_current, t)[0]
+        f1_med=cvWithThreshold(conf, X, y_current_tr,y_current, t, folds)[0]
     return f1_ave, f1_med
 
-def cvWithThreshold(conf, X, y_current_tr, y_current_te, threshold):
+
+def cvWithThreshold(conf, X, y_current_tr, y_current_te, threshold, folds=10):
     scores = []
     fold=1
-    for TrainIndices, TestIndices in cross_validation.StratifiedKFold(y_current_tr, n_folds=10, shuffle=False, random_state=None):
+    for TrainIndices, TestIndices in cross_validation.StratifiedKFold(y_current_tr, n_folds=folds, shuffle=False, random_state=None):
         #print('\r'+str(fold), end="")
         fold+=1
         X_tr = X[TrainIndices]
@@ -95,7 +92,7 @@ def get_args():
     parser.add_argument('--threshold_matrix_file', help="location/name of the threshold matrix", default='annotator_threshold_matrix')
     parser.add_argument('--regularization', help="regularizer, may be l1 or l2", default='l2')
 
-    parser.add_argument('--cv-splits', '-c', type=int, help='No of CV splits')
+    parser.add_argument('--cv-splits', '-c', type=int, dest='splits', default=10, help='No of CV splits')
     parser.add_argument('--iterations', '-i', type=int, default=50, help='No of iterations')
     parser.add_argument('--hidden-layers', '-l', dest='layers', required=True, type=int, nargs='+', help='List of layer sizes.')
     parser.add_argument('--verbose', '-v', dest='verbose', action='store_true',  help='Print avg. loss at every iteration.')
@@ -117,7 +114,7 @@ def main():
     X, _, v = feats_and_classify_py2.collect_features(args.parsed_file)
 
     # train for every annotator...
-    for vote_threshold in range(1,5):
+    for vote_threshold in range(1,2):
         y_current_tr = feats_and_classify_py2.collect_labels_positive_threshold(args.all_annotations_file, vote_threshold)
         print("Training, setting positive labels for examples with at least {} positive votes. ".format(vote_threshold))
         print("Training data has {} positive labels out of {}".format(sum(y_current_tr), len(y_current_tr)))
@@ -129,9 +126,9 @@ def main():
         conf = NeuralNetConfig(X=X, y=y_current_tr, layers=args.layers, iterations=args.iterations, verbose=args.verbose)
         print("Using neural network models with {} hidden layers of sizes {}".format(len(args.layers), args.layers))
         # optimize t for every annotator (except training annotator), yields avg/med t 
-        #for idx in "01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20".split(" "):
         # 02, 09, 17 are the annotators with the least/average/most positive votes
-        for idx in "02 09 17".split(" "):
+        #for idx in "02 03 09 12 17".split(" "):
+        for idx in "01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20".split(" "):
             print("  Testing on annotator "+idx)
             #current_single_ann = scriptdir+"/../data/cwi_training/cwi_training_"+idx+".lbl.conll"
 
@@ -139,7 +136,7 @@ def main():
             y_current_te = feats_and_classify_py2.collect_labels(args.all_annotations_file, int(idx)-1)
             current_label_list.append(y_current_te)
              
-            thresholds, scores = getBestThresholds(X, y_current_tr, y_current_te, conf)
+            thresholds, scores = getBestThresholds(X, y_current_tr, y_current_te, conf, args.splits)
             t_avg = np.average(thresholds)
             t_med = np.median(thresholds)
             t_row.append((t_avg, t_med))
@@ -154,10 +151,10 @@ def main():
         t_final.append((t_avg_avg, t_avg_med, t_med_avg, t_med_med))
 
         print("Computed optimal t's... Now running a new phase of CV experiments with these t's on test annotators.")
- 
-        #for idx in "01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20".split(" "):
+        print("Optimal t's are {}, {}, {}, {}".format(t_avg_avg, t_avg_med, t_med_avg, t_med_med)) 
         # 02, 09, 17 are the annotators with the least/average/most positive votes
-        for idx in "02 09 17".split(" "):
+        #for idx in "02 03 09 12 17".split(" "):
+        for idx in "01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20".split(" "):
             f1_avg_avg = 0
             f1_med_avg = 0
             f1_avg_med = 0
@@ -167,10 +164,10 @@ def main():
             pos = sum(y_current_te)
             print("Testing globally optimal t's for annotator {} ({} positives)".format(idx, pos))
             
-            #f1_avg_avg = cvWithThreshold(X, y_current_tr, y_current_te, t_avg_avg, args.regularization)['F1'][0]
-            f1_avg_med = cvWithThreshold(conf, X, y_current_tr, y_current_te, t_avg_med)[0]
-            #f1_med_avg = cvWithThreshold(X, y_current_tr, y_current_te, t_med_avg, args.regularization)['F1'][0]
-            #f1_med_med = cvWithThreshold(X, y_current_tr, y_current_te, t_med_med, args.regularization)['F1'][0]
+            f1_avg_avg = cvWithThreshold(conf, X, y_current_tr, y_current_te, t_avg_avg, args.splits)[0]
+            f1_avg_med = cvWithThreshold(conf, X, y_current_tr, y_current_te, t_avg_med, args.splits)[0]
+            f1_med_avg = cvWithThreshold(conf, X, y_current_tr, y_current_te, t_med_avg, args.splits)[0]
+            f1_med_med = cvWithThreshold(conf, X, y_current_tr, y_current_te, t_med_med, args.splits)[0]
             print("F1 for test annotator {}: {}".format(idx, f1_avg_med))
            
             f1_row.append((f1_avg_avg, f1_avg_med, f1_med_avg, f1_med_med))
