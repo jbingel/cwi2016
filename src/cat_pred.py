@@ -1,4 +1,4 @@
-import os, sys
+import os, sys, math
 from sklearn.linear_model.logistic import LogisticRegression
 from sklearn import cross_validation
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
@@ -10,7 +10,10 @@ from cwi_util import *
 import porter
 import numpy as np
 #from resources import *
-import argparse, feats_and_classify
+import argparse
+import feats_and_classify
+from operator import itemgetter
+import pickle
 
 
 
@@ -32,8 +35,35 @@ def	predictTestSet():
 	maxent.fit(TrainX,TrainY)
 	print('predicting...')
 	ypred_probs=maxent.predict_proba(TestX)
-	ypred=[1 if pair[1]>=thresholds_med else 0 for pair in ypred_probs]
-	outfile=open('cat_predictions.txt','w')
+	pickle.dump(ypred_probs, open('ypred_probs.p', 'wb'))
+		
+	
+	allprobs=sorted(ypred_probs, reverse=True, key=itemgetter(1))
+	pickle.dump(allprobs, open('allprobs.p','wb'))
+	index=int(math.floor(float(len(allprobs))/10.0))
+	threshold=allprobs[index][1]
+	ypred=[1 if pair[1]>=threshold else 0 for pair in ypred_probs]	
+		
+	print('resulting threshold for 10 percent '+str(threshold))
+	outfile=open('cat_predictions_top10percent.txt','w')
+	outfile.write('\n'.join([str(item) for item in ypred]))
+	outfile.close()
+
+	index=int(math.floor(float(len(allprobs))/6.67))
+	threshold=allprobs[index][1]
+	ypred=[1 if pair[1]>=threshold else 0 for pair in ypred_probs]	
+		
+	print('resulting threshold for 15 percent'+str(threshold))
+	outfile=open('cat_predictions_top15percent.txt','w')
+	outfile.write('\n'.join([str(item) for item in ypred]))
+	outfile.close()
+
+	index=int(math.floor(float(len(allprobs))/5.0))
+	threshold=allprobs[index][1]
+	ypred=[1 if pair[1]>=threshold else 0 for pair in ypred_probs]	
+		
+	print('resulting threshold for 20 percent'+str(threshold))
+	outfile=open('cat_predictions_top20percent.txt','w')
 	outfile.write('\n'.join([str(item) for item in ypred]))
 	outfile.close()
 	
