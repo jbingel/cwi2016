@@ -10,18 +10,18 @@ from cwi_util import *
 import porter
 import numpy as np
 #from resources import *
-import argparse, feats_and_classify
+import argparse, feats_and_classify_py2
 
 
 
 def	predictTestSet():
 	#generate training features and labels
 	trainfile='/home/natschluter/GroupAlgorithms/cwi2016/data/cwi_training/cwi_training_cat.lbl.conll'
-	trainfeatures, trainlabels, vec = feats_and_classify.collect_features(trainfile)
+	trainfeatures, trainlabels, vec = feats_and_classify_py2.collect_features(trainfile)
 	#generate training+test features
 	
 	bothfiles='/home/natschluter/GroupAlgorithms/cwi2016/data/train_and_test1.conll'
-	bothfeatures, bothlabels, bothvec = feats_and_classify.collect_features(bothfiles)
+	bothfeatures, bothlabels, bothvec = feats_and_classify_py2.collect_features(bothfiles)
 	thresholds_med=np.median(np.array([ 0.145,  0.85,   0.12,   0.657,  0.71,   0.824,  0.506,  0.461,  0.662,  0.888]))
 	
 	TrainX=bothfeatures[np.array(range(len(trainfeatures)))]
@@ -32,7 +32,8 @@ def	predictTestSet():
 	maxent.fit(TrainX,TrainY)
 	print('predicting...')
 	ypred_probs=maxent.predict_proba(TestX)
-	ypred=[1 if pair[1]>=thresholds_med else 0 for pair in ypred_probs]
+	#ypred=[1 if pair[1]>=thresholds_med else 0 for pair in ypred_probs]
+        ypred=ypred_probs
 	outfile=open('cat_predictions.txt','w')
 	outfile.write('\n'.join([str(item) for item in ypred]))
 	outfile.close()

@@ -29,6 +29,14 @@ def verbs_before_after(sent, idx):
     after = sum(1 for w in sent["pos"][idx+1:] if w.startswith("V"))
     return before, after
 
+# bigram markov chain
+def seq_prob(target, conditional_seq):
+    cond_prob = prob(conditional_seq[0])
+    for i in range(len(conditional_seq)-1):
+         cond_prob *= prob(" ".join(conditional_seq[i:i+2]), order=2)
+    return cond_prob * prob(target) 
+    
+
 def prob(item, level="words", corpus="wp", order=1):
     global lm_reg
     if level == "chars":

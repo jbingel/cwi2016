@@ -1,0 +1,4 @@
+*log
+src/*pyc
+*csv
+src/__pycache__/*

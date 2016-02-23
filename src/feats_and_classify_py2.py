@@ -96,10 +96,10 @@ class WordInContext:
 
     def f_prob_in_context_feats(self):
         D = {}
-        # TODO D["f_P(w|w-1)"]    = seq_prob(self.word, [self.sentence[self.index-1]]) # prob() uses freq()
-        # TODO D["f_P(w|w-2w-1)"] = seq_prob(self.word, [self.sentence[self.index-2:self.index]]) # prob() uses freq()
-        # TODO D["f_P(w|w+1)"]    = seq_prob(self.word, [self.sentence[self.index+1]]) # prob() uses freq()
-        # TODO D["f_P(w|w+1w+2)"] = seq_prob(self.word, [self.sentence[self.index+1:self.index+3]]) # prob() uses freq()
+        #D["f_P(w|w-1)"]    = seq_prob(self.word, [self.sentence[self.index-1]]) # prob() uses freq()
+        #D["f_P(w|w-2w-1)"] = seq_prob(self.word, [self.sentence[self.index-2:self.index]]) # prob() uses freq()
+        #D["f_P(w|w+1)"]    = seq_prob(self.word, [self.sentence[self.index+1]]) # prob() uses freq()
+        #D["f_P(w|w+1w+2)"] = seq_prob(self.word, [self.sentence[self.index+1:self.index+3]]) # prob() uses freq()
         return D
     
     def g_char_complexity_feats(self):

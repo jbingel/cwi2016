@@ -85,10 +85,12 @@ def cvWithThreshold(conf, X, y_current_tr, y_current_te, threshold, folds=10):
 def get_args():
     scriptdir = os.path.dirname(os.path.realpath(__file__))
     default_data_parsed = scriptdir+"/../data/cwi_training/cwi_training.txt.lbl.conll"
+    default_X_train = scriptdir+"/../X_train.pickle"
     default_data_allannotations = scriptdir+"/../data/cwi_training/cwi_training_allannotations.txt"
     parser = argparse.ArgumentParser(description="Skeleton for features and classifier for CWI-2016--optimisation of threshhold")
     parser.add_argument('--all_annotations_file', help="parsed-and-label input format", default=default_data_allannotations)
     parser.add_argument('--parsed_file', help="parsed-and-label input format", default=default_data_parsed)
+    parser.add_argument('--train_features', help="pickled X_train", default=default_X_train)
     parser.add_argument('--threshold_matrix_file', help="location/name of the threshold matrix", default='annotator_threshold_matrix')
     parser.add_argument('--regularization', help="regularizer, may be l1 or l2", default='l2')
 
@@ -111,7 +113,10 @@ def main():
     f1_final = [] # holds 4-tuples of avgs over (f1_avg_avg, f1_avg_med, f1_med_avg, f1_med_med) f.e. tr 
     t_final  = [] # holds 4-tuples of (t_avg_avg, t_avg_med, t_med_avg, t_med_med) f.e. tr
 
-    X, _, v = feats_and_classify_py2.collect_features(args.parsed_file)
+    #X, _, v = feats_and_classify_py2.collect_features(args.parsed_file)
+
+    with open(args.train_features, 'rb') as pf:
+        X = pickle.load(pf)
 
     # train for every annotator...
     for vote_threshold in range(1,2):

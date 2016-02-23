@@ -100,7 +100,7 @@ def get_args():
     parser.add_argument('--verbose', '-v', dest='verbose', action='store_true',  help='Print avg. loss at every iteration.')
     parser.add_argument('--predict', '-p', dest='predictfile', help="Prediction file")
     parser.add_argument('--output', '-o', help="Output file", required=True)
-    parser.add_argument('--threshold', '-t', type=float, help="Output threshold", required=True)
+    parser.add_argument('--threshold', '-t', type=float, help="Output threshold")
 
     return parser.parse_args()
 
@@ -132,7 +132,10 @@ def main():
     
     nn = NN(conf)
     nn.train(X_tr, y_tr)
-    preds = nn.predict_for_threshold(X_te, 0.2444)
+    if args.threshold:
+        preds = nn.predict_for_threshold(X_te, args.threshold)
+    else:
+        preds = nn.get_output(X_te) 
     with open(args.output, 'w') as outfile:
         for p in preds:
             #print(p)
