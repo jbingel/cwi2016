@@ -2,3 +2,4 @@
 src/*pyc
 *csv
 src/__pycache__/*
+X_test.pickle
