@@ -177,10 +177,27 @@ class WordInContext:
         D = {}
         D["l_brown_bag"] = "_"
         D["l_context_embed"] = "_"
-
         return D
 
-
+    def featurize_by_type(self, feat_types):
+        D = {}
+        type2func = {'simple': self.a_simple_feats,
+                     'wordnet': self.b_wordnet_feats,
+                     'positional': self.c_positional_feats,
+                     'frequency': self.d_frequency_feats,
+                     'morphological': self.e_morphological_feats,
+                     'prob_in_context': self.f_prob_in_context_feats,
+                     'char_complexity': self.g_char_complexity_feats,
+                     'brownpath': self.h_brownpath_feats,
+                     'browncluster': self.i_browncluster_feats,
+                     'embedding': self.j_embedding_feats,
+                     'dependency': self.k_dependency_feats,
+                     'context': self.l_context_feats}
+        if feat_types == []:
+            feat_types = type2func.keys()
+        for feat in feat_types:
+            D.update(type2func[feat]())
+        return D
 
     def featurize(self):
         D = {}
@@ -234,7 +251,7 @@ def collect_labels_positive_threshold(cwi_file, threshold):
         labels.append(label_i)
     return np.array(labels)
 
-def collect_features(data,vectorize=True):
+def collect_features(data,vectorize=True,feature_types=[]):
     labels = []
     featuredicts = []
     
@@ -245,7 +262,7 @@ def collect_features(data,vectorize=True):
        for l,i in zip(s["label"],s["idx"]):
             if l != "-":
                 w = WordInContext(s, i, s["form"][i],s["lemma"][i],s["pos"][i],s["ne"][i],l,s["head"],s["deprel"])
-                featuredicts.append(w.featurize())
+                featuredicts.append(w.featurize_by_type(feature_types))
                 labels.append(w.label)
     print()
     if vectorize:

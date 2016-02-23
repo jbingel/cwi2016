@@ -13,7 +13,7 @@ def binarize(ys, t):
 
 pred = load(sys.argv[1])
 pred = binarize(pred, float(sys.argv[2]))
-gold = load('../data/cwi_testing/gold.labels')
+gold = load('../data/cwi_testing/gold.ordered.labels')
 
 r = recall_score(gold, pred)
 a = accuracy_score(gold, pred)
