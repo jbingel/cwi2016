@@ -45,19 +45,22 @@ def crossval(X,y,splits, conf, t=None):
     return ts 
 
 def combine_data(train_path, test_path, out_path):
-    import shutil
     cutoff = 0
     with open(out_path, 'w') as outFile:
-        with open(train_path, 'r') as tr, open(test_path, 'r') as te:
-            cutoff = len(tr.readlines())
-            shutil.copyfileobj(tr, outFile)
-            shutil.copyfileobj(te, outFile)
+        with open(train_path, 'r') as tr:
+            lines = tr.readlines()
+            for l in lines:
+                if (len(l.strip()) > 1) and l.strip()[-1] in ['0', '1']:
+                    cutoff += 1
+                outFile.write(l)
+        with open(test_path, 'r') as te:
+            outFile.write(te.read())
     return cutoff
 
 def main():
     scriptdir = os.path.dirname(os.path.realpath(__file__))
-    data = scriptdir+'/../cwi_training/cwi_training.txt.lbl.conll'
-    testdata = scriptdir+'/../cwi_testing/cwi_testing.txt.lbl.conll'
+    data = scriptdir+'/../data/cwi_training/cwi_training.txt.lbl.conll'
+    testdata = scriptdir+'/../data/cwi_testing/cwi_testing.gold.txt.lbl.conll'
     pickled_data = scriptdir+'/../data.pickle'
     parser = argparse.ArgumentParser()
     parser.add_argument('--threshold', '-t', type=float, help='Threshold for predicting 0/1. If not specified, the optimal threshold will first be computed as the median of all CV splits. May take a while.')
@@ -67,16 +70,18 @@ def main():
     parser.add_argument('--data', '-d', default=data, help='Features and labels')
     parser.add_argument('--testdata', '-y', default=testdata,  help='Test data (not needed for crossval).')
     parser.add_argument('--verbose', '-v', dest='verbose', action='store_true', help='Print average loss at every training iteration.')
+    parser.add_argument('--output', '-o', help="Output file")
+    parser.add_argument('--features', '-f', dest='features', default=[], type=str, nargs='+', help='List of feature types')
 
     args = parser.parse_args()
     # X, y = load_pickled(args.data)
     combined_data = 'X_y_all.txt'
     cutoff = combine_data(args.data, args.testdata, combined_data)
-    X, y = feats_and_classify.collect_features(combined_data, True, ['simple'])
-    X_tr = X[cutoff:]
-    y_tr = y[cutoff:]
-    X_te = X[:cutoff]
-    y_te = y[:cutoff]
+    X, y, _ = feats_and_classify.collect_features(combined_data, True, args.features)
+    X_tr = X[:cutoff]
+    y_tr = y[:cutoff]
+    X_te = X[cutoff:]
+    y_te = y[cutoff:]
     conf = NeuralNetConfig(X=X, y=y, layers=args.layers, iterations=args.iterations, verbose=args.verbose)
 
     if args.splits:
@@ -98,11 +103,20 @@ def main():
             print '\n\n### Running with med. threshold... '
             crossval(X_tr,y_tr,args.splits, conf, t=med)
     else:
+        
         nn = NN(conf)
         nn.train(X_tr,y_tr,args.iterations)
         if args.testdata:
             # X_test, y_test = load_pickled(args.testdata)
-            nn.test(X_te,y_te,args.threshold)
+            pred = nn.get_output(X_te)
+            if args.output:
+                with open(args.output, 'w') as of:
+                    for p in pred:
+                        of.write('%f\n'%p)
+            t, res = nn.test(X_te,y_te,args.threshold)
+            resout = "G: %f, R: %f, A: %f, P: %f\n"%res
+            sys.stderr.write('%s %f\n'%(' '.join(args.features), t))
+            sys.stderr.write(resout)
 
 if __name__ == '__main__':
     main()
