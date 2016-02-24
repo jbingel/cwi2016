@@ -109,7 +109,7 @@ class NeuralNet:
     def test(self, X_test, y_test, t=None):
         if t:
             preds = self.predict_for_threshold(X_test, t)
-            results = self.evaluate(preds, y_test, t)
+            results = self.evaluate(preds, y_test)
         else:
             scores = self.get_output(X_test)
             t, results = self.optimize_threshold(scores, y_test)
