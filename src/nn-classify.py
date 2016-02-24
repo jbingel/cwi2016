@@ -57,7 +57,7 @@ def combine_data(train_path, test_path, out_path):
 def main():
     scriptdir = os.path.dirname(os.path.realpath(__file__))
     data = scriptdir+'/../cwi_training/cwi_training.txt.lbl.conll'
-    testdata = scriptdir+'/../cwi_testing/cwi_testing.txt.lbl.conll'
+    testdata = scriptdir+'/../cwi_testing/cwi_testing.gold.txt.lbl.conll'
     pickled_data = scriptdir+'/../data.pickle'
     parser = argparse.ArgumentParser()
     parser.add_argument('--threshold', '-t', type=float, help='Threshold for predicting 0/1. If not specified, the optimal threshold will first be computed as the median of all CV splits. May take a while.')
